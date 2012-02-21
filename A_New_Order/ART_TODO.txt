@@ -1,0 +1,41 @@
+This is my personal list of what I'd love to have. If you 
+are artist and want to contribute, please look at this list and think whether
+you could do these portraits. They are sorted in order of importance.
+In addition, you may consider making animations for sprites, or correct
+existing sprites.
+
+PORTRAITS
+---------
+* Bor Cryne
+* Majid Yahyazad
+* Grekulak
+* Uri Van Roe
+* Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
+* "Broken" Ruvio, after fall of freetown
+* Generic "good" Akladian lord
+* Generic "bad" Akladian lord
+* Generic "good" Akladian high level unit
+* Generic "bad" Akladian high level unit
+* Generic low-level Akladian unit
+
+STORY IMAGES
+------------
+* Fall of Freetown, Ruvio despairing over his daughter
+* Lorin coming to Gawen during the feast in Freetown
+* Blinded Lorin telling her final story
+* Lorin riding into Khalifate sietch
+* "Lorin became more taciturn" after talk with Oracle (sitting outside camp and
+  gazing into the sky)
+* Akladians invading Wesnoth -- plundering, wondering what spoons are for, and trying to hear the stories imprisoned within books (for prologue)
+* Mother of Gawen and Akladians intriguing behind her back (for prologue)
+* Lorin next to poisoned Gawen (for prologue)
+* Lorin working in Haeltin along people, preparing for the siege
+* Lorin vs Karen finally getting along
+* furious Bor Cryne wishing for finding Gawen's body
+* An image illustrating how Grekulak escaped through the swamps (to Deorien's story: a dark silquette on dark background)
+* An image illustrating a rebellion of Akladians against Grekulak
+* An image illustrating escape of Akladians across the swamps
+* An image illustrating the siege of Weldyn (Akladians sturming walls)
+* An image illustrating how the Akladian treat the traitor, who opened the gates of Weldyn
+* akladians overpowering Lorin (in scenario after orannon)
+* images for the epilogue (Ruvios burial, Lorin riding to the khalifate sietches with her son)

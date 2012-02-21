@@ -1,0 +1,55 @@
+1. Keep your Akladian loyal units alive. 
+2. Harvest XP for Lorin, Gawen and your loyal units. Lorin is a real killing
+   machine when she has enough XP. She has skirmisher, so use it.
+3. First two scenarios are for getting as much gold and as much XP as possible.
+   Use this possibility. I balanced campaign assuming player have at least three
+   Akladian loyal units from first three scenarios. It is possible to have five
+   3rd level loyal units after first three scenarios.
+4. Clansmen are cheap. They die easily, but in some scenarios you may use them
+   to keep your more valuable units alive. Also, you can use them to delay
+   advance of enemies.
+5. In some campaigns you get the advices, sometimes innocently hidden within a
+   dialogue or someone's message. 
+6. Some campaigns can be very quickly and easily finished --- for example,
+   some leaders are cowards; some can be convinced to join you. 
+7. Interrogate the enemy leaders.
+8. When facing Akladians, look at their weak points -- they are very low on HP,
+   but they have high resistance... with some exceptions. In other words, as it
+   was put in the forums, they hate mages for a reason.
+9. Don't rely on save/reload tactic. If you will, you will never become better
+   player. All scenarios are winnable with suitable tactics, and they do not
+   require a perfect playing. I am sloppy player, and I balanced a game
+   so I can made errors, lose units and yet still win. So can you.
+10.The HARD level of difficulty is for hardcore players. If you are not hardcore
+   player, play it on normal. When I wrote "Impossible", I meant it. But then,
+   if you are hardcore player, you may feel dissapointed (see 14. below).
+11.In many scenarios the sensible tactics is to concentrate on a single enemy, and
+   not (emphatically *not*) fighting with two or more in the same time.
+12.Sometimes it's worth to not to recall units, and wait a bit. It saves gold.
+13.Sometimes, even if you have all high 3-level units, it's worth to recruit
+   peasants or clansman -- and treat them as live shields to protect your
+   more valuable units (for example, AI may choose to target those, instead of
+   finishing 3rd level unit. This is definetely AI algorithm weakness, so I 
+   don't know how long this advice will be useful).
+14.It is possible to have even 12 loyal 3rd level units. And with those,
+   a lot of scenarios are simply walkovers, even on HARD.
+15.Sometimes it is worth to leave some enemy units alive, just to get chance
+   to earn more XP for other units.
+16.Finally, sometimes it is worth to NOT attack or move your units during your
+   turn.  Even if with attack you may finish some enemy unit, even if it will
+   cost your valuable loyal 3rd level unit only a single HP, this single HP may
+   decide about life or death of your unit during enemy retaliation phase.
+
+And remember: our only reward is the comment from the players. If you like it,
+register in forums and praise it. If you didn't, register in forums and say what
+you didn't like. 
+
+Sometimes AI behaves VERY strange. It was tuned for wesnoth 0.9.3 and now...
+Let's just say we (creator and maintainers) have no time to correct it, but if
+someone has time, I will welcome the patches.
+
+If you have more general advices, sent them to forum. GENERAL advice, i.e. not
+of the kind "in scenario X do this". However, if you have a complete WALKTHROUGH,
+we may include it within the campaign.
+
+A.D.D.
