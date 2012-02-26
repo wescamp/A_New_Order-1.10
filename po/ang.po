@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-22 15:35+0100\n"
+"POT-Creation-Date: 2012-02-26 17:16+0100\n"
 "PO-Revision-Date: 2012-02-22 15:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,6 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 #. [editor_group]: id=ano
@@ -39,7 +40,7 @@ msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=A_New_Order
-#: A_New_Order/_main.cfg:59
+#: A_New_Order/_main.cfg:54
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying "
 "barbarians are on the brink of civil war, the seeds of Wesnothian rebellion "
@@ -5098,7 +5099,7 @@ msgid ""
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:185
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:183
 msgid ""
 "In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
 "it will make no difference.\n"
@@ -6542,7 +6543,7 @@ msgid ""
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:218
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:217
 msgid ""
 "Lady Lorin can also interrogate enemy leaders.\n"
 "You will receive no bonus if withdrawing with Gawen."
@@ -15274,7 +15275,7 @@ msgid "FOUL mage. You should have said: 'I am a FOUL mage'."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/27_Orannon.cfg:925
+#: A_New_Order/scenarios/27_Orannon.cfg:918
 msgid ""
 "\n"
 "Forces of Darkness, come to my aid -\n"
@@ -17905,7 +17906,7 @@ msgstr ""
 msgid "training sword"
 msgstr ""
 
-#: A_New_Order/units/macros/abilities.cfg:12
+#: A_New_Order/units/macros/abilities.cfg:10
 msgid ""
 "\n"
 "\n"
@@ -17922,7 +17923,7 @@ msgstr ""
 msgid "dauntless"
 msgstr ""
 
-#: A_New_Order/units/macros/abilities.cfg:26
+#: A_New_Order/units/macros/abilities.cfg:25
 msgid ""
 "Dauntless:\n"
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
@@ -17933,7 +17934,7 @@ msgstr ""
 msgid "sylvan spark"
 msgstr ""
 
-#: A_New_Order/units/macros/abilities.cfg:33
+#: A_New_Order/units/macros/abilities.cfg:32
 msgid ""
 "Sylvan Spark:\n"
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
@@ -17944,7 +17945,7 @@ msgstr ""
 msgid "protection"
 msgstr ""
 
-#: A_New_Order/units/macros/abilities.cfg:58
+#: A_New_Order/units/macros/abilities.cfg:57
 msgid ""
 "Protection:\n"
 "Adjacent units of lower level from this side receive a +20% bonus to all "
@@ -17957,7 +17958,7 @@ msgid "obscures"
 msgstr ""
 
 #. [illuminates]: id=obscure
-#: A_New_Order/units/macros/abilities.cfg:142
+#: A_New_Order/units/macros/abilities.cfg:139
 msgid ""
 "Obscures:\n"
 "This unit darkens the surrounding area, making chaotic units fight better, "
@@ -17971,7 +17972,7 @@ msgstr ""
 msgid "terror"
 msgstr ""
 
-#: A_New_Order/units/macros/abilities.cfg:152
+#: A_New_Order/units/macros/abilities.cfg:149
 msgid ""
 "Terror:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -17990,7 +17991,7 @@ msgid "sylvan essence"
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_nounion
-#: A_New_Order/units/macros/abilities.cfg:317
+#: A_New_Order/units/macros/abilities.cfg:316
 msgid ""
 "Sylvan Essence:\n"
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
@@ -18000,7 +18001,7 @@ msgid ""
 msgstr ""
 
 #. [illuminates]: id=sylvan_essence_illum
-#: A_New_Order/units/macros/abilities.cfg:356
+#: A_New_Order/units/macros/abilities.cfg:353
 msgid ""
 "Sylvan Essence:\n"
 "This unit illuminates the surrounding area, making lawful units fight "
