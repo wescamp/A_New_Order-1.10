@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: branch 1.10\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:16+0100\n"
-"PO-Revision-Date: 2012-02-22 15:29+0100\n"
+"POT-Creation-Date: 2012-03-04 18:52-0500\n"
+"PO-Revision-Date: 2006-04-20 14:04+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: id\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -350,8 +350,8 @@ msgid "A month? Are you sure it's been more than a month?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:574
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:529
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:574
 #: A_New_Order/macros/conversations.cfg:47
 msgid "What?"
 msgstr ""
@@ -491,19 +491,19 @@ msgstr ""
 msgid "I couldn't agree more. Call me when you will have new shoes."
 msgstr ""
 
-#. [event]
-#. [scenario]: id=22_Leaving_Okladia
-#. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=25_The_Awakening
+#. [event]
+#. [scenario]: id=14e_Saorduc_Swamps
+#. [scenario]: id=22_Leaving_Okladia
+#: A_New_Order/scenarios/25_The_Awakening.cfg:25
 #: A_New_Order/scenarios/23_Trapped.cfg:17
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:150
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
+#: A_New_Order/scenarios/ano-20macros.cfg:305
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:86
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:94
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:109
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:481
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
-#: A_New_Order/scenarios/ano-20macros.cfg:305
-#: A_New_Order/scenarios/25_The_Awakening.cfg:25
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:150
 #: A_New_Order/macros/elvish_macros.cfg:118
 msgid "Well..."
 msgstr ""
@@ -615,63 +615,62 @@ msgstr ""
 #. [side]: id=Gawen Hagarthen, type=Young Hagarthen
 #. [event]
 #. [side]: id=Gawen Hagarthen, type=Akladian Lady
-#: A_New_Order/scenarios/20_Okladia.cfg:65
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:30
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:47
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:35
-#: A_New_Order/scenarios/23_Trapped.cfg:77
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:128
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:37
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:34
-#: A_New_Order/scenarios/28_Lorin.cfg:89
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:63
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:54
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:107
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:71
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:28
-#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:49
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:71
-#: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:62
+#: A_New_Order/scenarios/27_Orannon.cfg:30
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:44
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30
 #: A_New_Order/scenarios/25_The_Awakening.cfg:220
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:41
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
-#: A_New_Order/scenarios/13_Scouting.cfg:262
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:107
+#: A_New_Order/scenarios/23_Trapped.cfg:77
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:30
+#: A_New_Order/scenarios/29_Epilogue.cfg:104
 #: A_New_Order/scenarios/ano-07x.cfg:12
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:88
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:30
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:71
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:72
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:30
 #: A_New_Order/scenarios/ano-11x.cfg:13
-#: A_New_Order/scenarios/26_Return_of_the_King.cfg:44
-#: A_New_Order/scenarios/14b_Bontom.cfg:64
-#: A_New_Order/scenarios/29_Epilogue.cfg:104
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:30
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:33
-#: A_New_Order/scenarios/03_Coronation.cfg:96
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:72
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:139
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:34
-#: A_New_Order/scenarios/27_Orannon.cfg:30
-#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:29
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:28
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:41
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:233
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:88
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:55
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:34
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:34
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:139
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:35
+#: A_New_Order/scenarios/28_Lorin.cfg:89
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:47
+#: A_New_Order/scenarios/16_Choosing_the_Best.cfg:49
+#: A_New_Order/scenarios/20_Okladia.cfg:65
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:37
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:63
 #: A_New_Order/scenarios/30_Final.cfg:63
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30
+#: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:62
+#: A_New_Order/scenarios/03_Coronation.cfg:96
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:128
+#: A_New_Order/scenarios/13_Scouting.cfg:262
+#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:29
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:33
+#: A_New_Order/scenarios/14b_Bontom.cfg:64
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139
 msgid "Gawen Hagarthen"
 msgstr ""
 
-#. [side]: type=Akladian Lady, id=Lady Lorin
 #. [side]: id=Lady Lorin, type=Akladian Lady
-#. [unit]: id=Lady Lorin, type=Akladian Lady
+#. [side]: type=Akladian Lady, id=Lady Lorin
 #. [modify_side]
-#: A_New_Order/scenarios/ano-05ax.cfg:19
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:146
-#: A_New_Order/scenarios/ano-05bx.cfg:18
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149
+#. [unit]: id=Lady Lorin, type=Akladian Lady
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:68
-#: A_New_Order/scenarios/06_Separation.cfg:54
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:111
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:463
-#: A_New_Order/scenarios/ano-09x.cfg:13
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:32
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:146
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:111
+#: A_New_Order/scenarios/ano-05bx.cfg:18
+#: A_New_Order/scenarios/06_Separation.cfg:54
+#: A_New_Order/scenarios/ano-05ax.cfg:19 A_New_Order/scenarios/ano-09x.cfg:13
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:463
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149
 msgid "Lady Lorin"
 msgstr ""
 
@@ -739,12 +738,12 @@ msgstr ""
 msgid "Militiaman"
 msgstr ""
 
+#. [unit]: id=Assassin, type=Thief, type=Rogue, type=Assassin
 #. [side]: id=Assassin
 #. [unit]: id=Assassin
-#. [unit]: id=Assassin, type=Thief, type=Rogue, type=Assassin
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:511
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:439
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:557
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:511
 msgid "Assassin"
 msgstr ""
 
@@ -854,61 +853,61 @@ msgid "Gawen Hagarthen reaches the enemy keep"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:138
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:163
-#: A_New_Order/scenarios/23_Trapped.cfg:763
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:352
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:149
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:332
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1341
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:264
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:292
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:300
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:166
-#: A_New_Order/scenarios/25_The_Awakening.cfg:462
-#: A_New_Order/scenarios/ano-14macros.cfg:8
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:284
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:195
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:333
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:134
 #: A_New_Order/scenarios/27_Orannon.cfg:597
 #: A_New_Order/scenarios/27_Orannon.cfg:895
+#: A_New_Order/scenarios/25_The_Awakening.cfg:462
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:264
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:292
+#: A_New_Order/scenarios/23_Trapped.cfg:763
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:138
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:163
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:195
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:166
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:134
+#: A_New_Order/scenarios/ano-14macros.cfg:8
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:149
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:333
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:332
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:352
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:89
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:284
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
 msgid "Death of Gawen Hagarthen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:146
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:171
-#: A_New_Order/scenarios/23_Trapped.cfg:771
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:218
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:360
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:527
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:336
-#: A_New_Order/scenarios/19c_The_Oracle.cfg:1349
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:272
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:300
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:195
-#: A_New_Order/scenarios/25_The_Awakening.cfg:470
-#: A_New_Order/scenarios/ano-01_06macros.cfg:175
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:212
-#: A_New_Order/scenarios/ano-14macros.cfg:18
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:288
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:341
+#: A_New_Order/scenarios/19c_The_Oracle.cfg:1349
 #: A_New_Order/scenarios/27_Orannon.cfg:601
 #: A_New_Order/scenarios/27_Orannon.cfg:899
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:233
+#: A_New_Order/scenarios/25_The_Awakening.cfg:470
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:272
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:300
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:218
+#: A_New_Order/scenarios/23_Trapped.cfg:771
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:212
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:146
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:171
+#: A_New_Order/scenarios/ano-01_06macros.cfg:175
+#: A_New_Order/scenarios/ano-14macros.cfg:18
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:341
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:336
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:360
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:288
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:527
 msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:222
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:531
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:340
-#: A_New_Order/scenarios/ano-01_06macros.cfg:179
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:292
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:237
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:222
+#: A_New_Order/scenarios/ano-01_06macros.cfg:179
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:340
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:292
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:531
 msgid "Death of Reme Carrenemoe"
 msgstr ""
 
@@ -1456,25 +1455,25 @@ msgid "Royal guard"
 msgstr ""
 
 #. [side]: id=Graeme O Borraine, type=Akladian Lord
-#: A_New_Order/scenarios/28_Lorin.cfg:99
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:54
+#: A_New_Order/scenarios/28_Lorin.cfg:99
 #: A_New_Order/scenarios/03_Coronation.cfg:120
 msgid "Graeme O Borraine"
 msgstr ""
 
-#. [unit]: type=Akladian Lord, id=Bor Cryne
 #. [side]: id=Bor Cryne, type=Akladian Lord
-#: A_New_Order/scenarios/25_The_Awakening.cfg:502
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:139
-#: A_New_Order/scenarios/03_Coronation.cfg:129
+#. [unit]: type=Akladian Lord, id=Bor Cryne
 #: A_New_Order/scenarios/27_Orannon.cfg:71
+#: A_New_Order/scenarios/25_The_Awakening.cfg:502
+#: A_New_Order/scenarios/03_Coronation.cfg:129
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:139
 msgid "Bor Cryne"
 msgstr ""
 
 #. [side]: id=Uri van Roe, type=Akladian Lord
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:164
-#: A_New_Order/scenarios/03_Coronation.cfg:138
 #: A_New_Order/scenarios/27_Orannon.cfg:152
+#: A_New_Order/scenarios/03_Coronation.cfg:138
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:164
 msgid "Uri van Roe"
 msgstr ""
 
@@ -1679,8 +1678,8 @@ msgstr ""
 #. [filter_second]
 #. [kill]
 #. [filter]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:96
 #: A_New_Order/scenarios/25_The_Awakening.cfg:296
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:96
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:43
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:596
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:604
@@ -1736,13 +1735,13 @@ msgid "If I may, my lord, I suggest not to attack in haste."
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:223
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:257
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:279
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:380
 #: A_New_Order/scenarios/13_Scouting.cfg:327
-#: A_New_Order/scenarios/14b_Bontom.cfg:492
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:223
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:255
+#: A_New_Order/scenarios/14b_Bontom.cfg:492
 msgid "Why?"
 msgstr ""
 
@@ -1776,20 +1775,20 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:134
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:159
-#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:214
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:134
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:145
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1333
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:175
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:186
-#: A_New_Order/scenarios/25_The_Awakening.cfg:458
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:280
 #: A_New_Order/scenarios/27_Orannon.cfg:593
 #: A_New_Order/scenarios/27_Orannon.cfg:891
-#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:81
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:229
+#: A_New_Order/scenarios/25_The_Awakening.cfg:458
+#: A_New_Order/scenarios/05_Unexpected_Guests.cfg:214
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:134
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:159
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:175
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:186
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:134
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:145
+#: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:81
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:280
 msgid "Kill all enemy leaders"
 msgstr ""
 
@@ -2058,10 +2057,10 @@ msgid ""
 "warriors will kill that $tmp, yet he is still alive!"
 msgstr ""
 
-#. [scenario]: id=ano_5b-x
 #. [scenario]: id=05_The_Swamp_Things
-#: A_New_Order/scenarios/ano-05bx.cfg:3
+#. [scenario]: id=ano_5b-x
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:3
+#: A_New_Order/scenarios/ano-05bx.cfg:3
 msgid "The Swamp Things"
 msgstr ""
 
@@ -2071,8 +2070,8 @@ msgid "The party entered the swamps and woods of Saoren Duc with heavy hearts."
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Burass
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:82
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:45
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:82
 msgid "Burass"
 msgstr ""
 
@@ -2202,14 +2201,16 @@ msgid ""
 "leave."
 msgstr ""
 
-#. [event]
 #. [else]
-#: A_New_Order/scenarios/20_Okladia.cfg:261
-#: A_New_Order/scenarios/20_Okladia.cfg:323
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:238
+#. [event]
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:277
+#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:316
+#: A_New_Order/scenarios/25_The_Awakening.cfg:663
+#: A_New_Order/scenarios/25_The_Awakening.cfg:677
+#: A_New_Order/scenarios/25_The_Awakening.cfg:691
 #: A_New_Order/scenarios/23_Trapped.cfg:499
 #: A_New_Order/scenarios/23_Trapped.cfg:527
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:556
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:238
 #: A_New_Order/scenarios/ano-20macros.cfg:133
 #: A_New_Order/scenarios/ano-20macros.cfg:152
 #: A_New_Order/scenarios/ano-20macros.cfg:170
@@ -2217,11 +2218,9 @@ msgstr ""
 #: A_New_Order/scenarios/ano-20macros.cfg:208
 #: A_New_Order/scenarios/ano-20macros.cfg:224
 #: A_New_Order/scenarios/ano-20macros.cfg:239
-#: A_New_Order/scenarios/25_The_Awakening.cfg:663
-#: A_New_Order/scenarios/25_The_Awakening.cfg:677
-#: A_New_Order/scenarios/25_The_Awakening.cfg:691
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:277
-#: A_New_Order/scenarios/05_The_Swamp_Things.cfg:316
+#: A_New_Order/scenarios/20_Okladia.cfg:261
+#: A_New_Order/scenarios/20_Okladia.cfg:323
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:556
 msgid "You have received 50 gold pieces"
 msgstr ""
 
@@ -2256,10 +2255,10 @@ msgstr ""
 msgid "You have received 150 gold pieces"
 msgstr ""
 
-#. [scenario]: id=ano_5a-x
 #. [scenario]: id=05_Unexpected_Guests
-#: A_New_Order/scenarios/ano-05ax.cfg:4
+#. [scenario]: id=ano_5a-x
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:3
+#: A_New_Order/scenarios/ano-05ax.cfg:4
 msgid "Unexpected Guests"
 msgstr ""
 
@@ -2596,33 +2595,33 @@ msgid ""
 "thing, remembering how much those folks hated Akladians."
 msgstr ""
 
-#. [unit_type]: id=Ruvio, race=human
-#. [event]
 #. [unit]: id=Ruvio, type=Ruvio
-#: A_New_Order/units/others/Ruvio.cfg:4
+#. [event]
+#. [unit_type]: id=Ruvio, race=human
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:79
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:479
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
 #: A_New_Order/scenarios/20_Okladia.cfg:410
 #: A_New_Order/scenarios/20_Okladia.cfg:419
 #: A_New_Order/scenarios/20_Okladia.cfg:429
 #: A_New_Order/scenarios/20_Okladia.cfg:437
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:79
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:479
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
 #: A_New_Order/scenarios/13_Scouting.cfg:582
 #: A_New_Order/scenarios/13_Scouting.cfg:592
 #: A_New_Order/scenarios/13_Scouting.cfg:603
 #: A_New_Order/scenarios/13_Scouting.cfg:611
+#: A_New_Order/units/others/Ruvio.cfg:4
 msgid "Ruvio"
 msgstr ""
 
-#. [unit_type]: id=Ruvios Daughter, race=human
 #. [unit]: id=Karen, type=Ruvios Daughter
 #. [event]
-#: A_New_Order/units/others/Ruvios_Daughter.cfg:4
+#. [unit_type]: id=Ruvios Daughter, race=human
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:90
 #: A_New_Order/scenarios/13_Scouting.cfg:583
 #: A_New_Order/scenarios/13_Scouting.cfg:593
 #: A_New_Order/scenarios/13_Scouting.cfg:604
 #: A_New_Order/scenarios/13_Scouting.cfg:612
+#: A_New_Order/units/others/Ruvios_Daughter.cfg:4
 msgid "Karen"
 msgstr ""
 
@@ -2760,30 +2759,30 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:142
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:167
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:153
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1345
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:268
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:296
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:304
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:170
-#: A_New_Order/scenarios/25_The_Awakening.cfg:466
-#: A_New_Order/scenarios/ano-14macros.cfg:4
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:203
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:337
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:138
 #: A_New_Order/scenarios/27_Orannon.cfg:609
 #: A_New_Order/scenarios/27_Orannon.cfg:907
+#: A_New_Order/scenarios/25_The_Awakening.cfg:466
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:268
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:296
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:142
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:167
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:203
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:170
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:138
+#: A_New_Order/scenarios/ano-14macros.cfg:4
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:153
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:337
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:85
 msgid "Death of Ruvio"
 msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:308
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:199
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:174
 #: A_New_Order/scenarios/ano-14macros.cfg:12
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:199
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:93
 msgid "Death of Karen"
 msgstr ""
@@ -4115,8 +4114,8 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:6
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:183
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:6
 #: A_New_Order/scenarios/14b_Bontom.cfg:274
 #: A_New_Order/scenarios/14b_Bontom.cfg:289
 msgid "HEROIC: Kill all enemy leaders OR"
@@ -4508,37 +4507,37 @@ msgid ""
 msgstr ""
 
 #. [label]
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:30
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:25
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:24
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:25
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:30
 msgid "Freetown"
 msgstr ""
 
 #. [side]: id=Gwidle Turlin, type=General
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:44
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:39
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:40
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:39
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:44
 msgid "Gwidle Turlin"
 msgstr ""
 
 #. [unit]: id=Mithrandil, type=Elvish Lord
-#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:51
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:46
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:48
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:46
+#: A_New_Order/scenarios/15_Back_in_Freetown.cfg:51
 msgid "Mithrandil"
 msgstr ""
 
+#. [side]: id=Huon Ryedric, type=General
 #. [unit]: id=Huon Ryedric, type=Sergeant
 #. [unit]: id=Huon Ryedric, type=General
-#. [side]: id=Huon Ryedric, type=General
+#: A_New_Order/scenarios/27_Orannon.cfg:41
+#: A_New_Order/scenarios/26_Return_of_the_King.cfg:63
+#: A_New_Order/scenarios/25_The_Awakening.cfg:232
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:56
+#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:53
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:58
 #: A_New_Order/scenarios/28_Lorin.cfg:153
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:72
-#: A_New_Order/scenarios/25_The_Awakening.cfg:232
-#: A_New_Order/scenarios/11_Council_in_Freetown.cfg:53
-#: A_New_Order/scenarios/26_Return_of_the_King.cfg:63
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:56
-#: A_New_Order/scenarios/27_Orannon.cfg:41
 msgid "Huon Ryedric"
 msgstr ""
 
@@ -4892,31 +4891,31 @@ msgstr ""
 #. [scenario]: id=21a_Abducted_Bride
 #. [scenario]: id=12_Leaving_Raedwood
 #. [scenario]: id=17_Sneaking_out_of_Raedwood
-#: A_New_Order/scenarios/20_Okladia.cfg:287
-#: A_New_Order/scenarios/20_Okladia.cfg:336
-#: A_New_Order/scenarios/20_Okladia.cfg:382
+#: A_New_Order/scenarios/25_The_Awakening.cfg:725
+#: A_New_Order/scenarios/25_The_Awakening.cfg:753
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:22
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:48
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:409
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:12
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:165
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:251
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:307
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:410
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:49
+#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
 #: A_New_Order/scenarios/ano-20macros.cfg:346
 #: A_New_Order/scenarios/ano-20macros.cfg:352
 #: A_New_Order/scenarios/ano-20macros.cfg:359
 #: A_New_Order/scenarios/ano-20macros.cfg:369
 #: A_New_Order/scenarios/ano-20macros.cfg:375
 #: A_New_Order/scenarios/ano-20macros.cfg:382
-#: A_New_Order/scenarios/25_The_Awakening.cfg:725
-#: A_New_Order/scenarios/25_The_Awakening.cfg:753
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:165
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:251
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:307
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:410
+#: A_New_Order/scenarios/20_Okladia.cfg:287
+#: A_New_Order/scenarios/20_Okladia.cfg:336
+#: A_New_Order/scenarios/20_Okladia.cfg:382
 #: A_New_Order/scenarios/14b_Bontom.cfg:400
 #: A_New_Order/scenarios/14b_Bontom.cfg:407
 #: A_New_Order/scenarios/14b_Bontom.cfg:447
 #: A_New_Order/scenarios/14b_Bontom.cfg:454
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:12
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:49
-#: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
 msgid "That's all I wanted to know."
 msgstr ""
 
@@ -5363,10 +5362,10 @@ msgstr ""
 
 #. [event]
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/ano-20macros.cfg:326
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:171
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:312
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:415
+#: A_New_Order/scenarios/ano-20macros.cfg:326
 #: A_New_Order/scenarios/13_Scouting.cfg:122
 msgid "Because..."
 msgstr ""
@@ -5672,18 +5671,9 @@ msgstr ""
 
 #. [event]
 #. [else]
-#: A_New_Order/scenarios/20_Okladia.cfg:154
-#: A_New_Order/scenarios/20_Okladia.cfg:173
-#: A_New_Order/scenarios/20_Okladia.cfg:190
-#: A_New_Order/scenarios/20_Okladia.cfg:209
-#: A_New_Order/scenarios/20_Okladia.cfg:233
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:181
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:395
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:163
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:211
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:246
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:163
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:350
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:181
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:214
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:333
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:100
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:122
@@ -5692,6 +5682,17 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:320
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:342
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:425
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:148
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:163
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:395
+#: A_New_Order/scenarios/20_Okladia.cfg:154
+#: A_New_Order/scenarios/20_Okladia.cfg:173
+#: A_New_Order/scenarios/20_Okladia.cfg:190
+#: A_New_Order/scenarios/20_Okladia.cfg:209
+#: A_New_Order/scenarios/20_Okladia.cfg:233
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:163
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:211
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:246
 #: A_New_Order/scenarios/13_Scouting.cfg:394
 #: A_New_Order/scenarios/13_Scouting.cfg:418
 #: A_New_Order/scenarios/13_Scouting.cfg:454
@@ -5699,23 +5700,14 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:773
 #: A_New_Order/scenarios/13_Scouting.cfg:802
 #: A_New_Order/scenarios/14b_Bontom.cfg:315
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:214
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:148
 msgid "Yes, definitely."
 msgstr ""
 
 #. [event]
 #. [else]
-#: A_New_Order/scenarios/20_Okladia.cfg:155
-#: A_New_Order/scenarios/20_Okladia.cfg:174
-#: A_New_Order/scenarios/20_Okladia.cfg:191
-#: A_New_Order/scenarios/20_Okladia.cfg:210
-#: A_New_Order/scenarios/20_Okladia.cfg:234
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:182
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:396
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:164
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:164
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:351
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:182
+#: A_New_Order/scenarios/15a_The_Preparations.cfg:215
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:334
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:101
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:123
@@ -5724,6 +5716,15 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:321
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:343
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:426
+#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:149
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:164
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:396
+#: A_New_Order/scenarios/20_Okladia.cfg:155
+#: A_New_Order/scenarios/20_Okladia.cfg:174
+#: A_New_Order/scenarios/20_Okladia.cfg:191
+#: A_New_Order/scenarios/20_Okladia.cfg:210
+#: A_New_Order/scenarios/20_Okladia.cfg:234
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:164
 #: A_New_Order/scenarios/13_Scouting.cfg:395
 #: A_New_Order/scenarios/13_Scouting.cfg:419
 #: A_New_Order/scenarios/13_Scouting.cfg:455
@@ -5731,8 +5732,6 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:774
 #: A_New_Order/scenarios/13_Scouting.cfg:803
 #: A_New_Order/scenarios/14b_Bontom.cfg:316
-#: A_New_Order/scenarios/15a_The_Preparations.cfg:215
-#: A_New_Order/scenarios/19b_Entering_Okladia.cfg:149
 msgid "Well, maybe not."
 msgstr ""
 
@@ -5812,13 +5811,13 @@ msgid "So go on an' ask us"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:283
-#: A_New_Order/scenarios/20_Okladia.cfg:332
-#: A_New_Order/scenarios/20_Okladia.cfg:378
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:160
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:246
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:302
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:405
+#: A_New_Order/scenarios/20_Okladia.cfg:283
+#: A_New_Order/scenarios/20_Okladia.cfg:332
+#: A_New_Order/scenarios/20_Okladia.cfg:378
 #: A_New_Order/scenarios/13_Scouting.cfg:477
 #: A_New_Order/scenarios/13_Scouting.cfg:490
 #: A_New_Order/scenarios/13_Scouting.cfg:515
@@ -5905,12 +5904,12 @@ msgid "Free men from Raedwood forest! You are always welcome here."
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:478
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
 #: A_New_Order/scenarios/20_Okladia.cfg:409
 #: A_New_Order/scenarios/20_Okladia.cfg:418
 #: A_New_Order/scenarios/20_Okladia.cfg:428
 #: A_New_Order/scenarios/20_Okladia.cfg:436
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:478
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
 #: A_New_Order/scenarios/13_Scouting.cfg:581
 #: A_New_Order/scenarios/13_Scouting.cfg:591
 #: A_New_Order/scenarios/13_Scouting.cfg:602
@@ -5919,9 +5918,9 @@ msgid "I would love to talk to..."
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:480
 #: A_New_Order/scenarios/20_Okladia.cfg:411
 #: A_New_Order/scenarios/20_Okladia.cfg:420
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:480
 #: A_New_Order/scenarios/13_Scouting.cfg:584
 #: A_New_Order/scenarios/13_Scouting.cfg:605
 msgid "Reme"
@@ -5929,13 +5928,13 @@ msgstr ""
 
 #. [event]
 #. [scenario]: id=28_Lorin
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:481
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:488
+#: A_New_Order/scenarios/28_Lorin.cfg:3
 #: A_New_Order/scenarios/20_Okladia.cfg:412
 #: A_New_Order/scenarios/20_Okladia.cfg:421
 #: A_New_Order/scenarios/20_Okladia.cfg:431
 #: A_New_Order/scenarios/20_Okladia.cfg:438
-#: A_New_Order/scenarios/28_Lorin.cfg:3
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:481
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:488
 #: A_New_Order/scenarios/13_Scouting.cfg:585
 #: A_New_Order/scenarios/13_Scouting.cfg:594
 msgid "Lorin"
@@ -5948,12 +5947,12 @@ msgid "Yahyazad"
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:482
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:489
 #: A_New_Order/scenarios/20_Okladia.cfg:414
 #: A_New_Order/scenarios/20_Okladia.cfg:422
 #: A_New_Order/scenarios/20_Okladia.cfg:432
 #: A_New_Order/scenarios/20_Okladia.cfg:439
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:482
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:489
 #: A_New_Order/scenarios/13_Scouting.cfg:587
 #: A_New_Order/scenarios/13_Scouting.cfg:596
 #: A_New_Order/scenarios/13_Scouting.cfg:606
@@ -5962,8 +5961,8 @@ msgid "I changed my mind"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:446
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
+#: A_New_Order/scenarios/20_Okladia.cfg:446
 #: A_New_Order/scenarios/13_Scouting.cfg:621
 msgid "Ruvio, please tell me.."
 msgstr ""
@@ -6215,19 +6214,19 @@ msgid "How did my real mother die?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:486
-#: A_New_Order/scenarios/20_Okladia.cfg:503
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:533
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:540
+#: A_New_Order/scenarios/20_Okladia.cfg:486
+#: A_New_Order/scenarios/20_Okladia.cfg:503
 #: A_New_Order/scenarios/13_Scouting.cfg:687
 #: A_New_Order/scenarios/13_Scouting.cfg:695
 msgid "Never mind"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:483
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:529
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:537
+#: A_New_Order/scenarios/20_Okladia.cfg:483
 #: A_New_Order/scenarios/13_Scouting.cfg:691
 msgid "Mother, can I have a word with you?"
 msgstr ""
@@ -6820,9 +6819,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:180
+#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:332
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:394
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:162
-#: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:332
 msgid "My lord, are you sure you want to retreat?"
 msgstr ""
 
@@ -6839,8 +6838,8 @@ msgid "Ha! The orcs were hiding some gold here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:416
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:350
+#: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:416
 #: A_New_Order/scenarios/14b_Bontom.cfg:553
 msgid "You have received 50 golden pieces"
 msgstr ""
@@ -7158,11 +7157,11 @@ msgstr ""
 msgid "But why?"
 msgstr ""
 
-#. [event]
 #. [then]
+#. [event]
+#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:165
 #: A_New_Order/scenarios/14b_Bontom.cfg:417
 #: A_New_Order/scenarios/14b_Bontom.cfg:464
-#: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:165
 msgid "I have no idea."
 msgstr ""
 
@@ -7900,9 +7899,9 @@ msgid "No."
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:329
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:215
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:250
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:329
 msgid "Thank you! Thank you!"
 msgstr ""
 
@@ -8600,8 +8599,8 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:493
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:160
+#: A_New_Order/scenarios/20_Okladia.cfg:493
 msgid "I don't understand."
 msgstr ""
 
@@ -9840,8 +9839,8 @@ msgid "To the Oracle"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/20_Okladia.cfg:137
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:90
+#: A_New_Order/scenarios/20_Okladia.cfg:137
 msgid ""
 "This is a large-scale map, where you will choose a way to go. You should "
 "move Gawen to any of the signpost or any other location to trigger moving to "
@@ -9897,32 +9896,6 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:256
-#: A_New_Order/scenarios/20_Okladia.cfg:259
-#: A_New_Order/scenarios/20_Okladia.cfg:269
-#: A_New_Order/scenarios/20_Okladia.cfg:275
-#: A_New_Order/scenarios/20_Okladia.cfg:276
-#: A_New_Order/scenarios/20_Okladia.cfg:290
-#: A_New_Order/scenarios/20_Okladia.cfg:292
-#: A_New_Order/scenarios/20_Okladia.cfg:294
-#: A_New_Order/scenarios/20_Okladia.cfg:296
-#: A_New_Order/scenarios/20_Okladia.cfg:298
-#: A_New_Order/scenarios/20_Okladia.cfg:301
-#: A_New_Order/scenarios/20_Okladia.cfg:303
-#: A_New_Order/scenarios/20_Okladia.cfg:318
-#: A_New_Order/scenarios/20_Okladia.cfg:320
-#: A_New_Order/scenarios/20_Okladia.cfg:340
-#: A_New_Order/scenarios/20_Okladia.cfg:342
-#: A_New_Order/scenarios/20_Okladia.cfg:357
-#: A_New_Order/scenarios/20_Okladia.cfg:359
-#: A_New_Order/scenarios/20_Okladia.cfg:362
-#: A_New_Order/scenarios/20_Okladia.cfg:364
-#: A_New_Order/scenarios/20_Okladia.cfg:372
-#: A_New_Order/scenarios/20_Okladia.cfg:374
-#: A_New_Order/scenarios/20_Okladia.cfg:385
-#: A_New_Order/scenarios/20_Okladia.cfg:387
-#: A_New_Order/scenarios/20_Okladia.cfg:389
-#: A_New_Order/scenarios/20_Okladia.cfg:391
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:155
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:157
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:169
@@ -9980,6 +9953,32 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:461
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:464
+#: A_New_Order/scenarios/20_Okladia.cfg:256
+#: A_New_Order/scenarios/20_Okladia.cfg:259
+#: A_New_Order/scenarios/20_Okladia.cfg:269
+#: A_New_Order/scenarios/20_Okladia.cfg:275
+#: A_New_Order/scenarios/20_Okladia.cfg:276
+#: A_New_Order/scenarios/20_Okladia.cfg:290
+#: A_New_Order/scenarios/20_Okladia.cfg:292
+#: A_New_Order/scenarios/20_Okladia.cfg:294
+#: A_New_Order/scenarios/20_Okladia.cfg:296
+#: A_New_Order/scenarios/20_Okladia.cfg:298
+#: A_New_Order/scenarios/20_Okladia.cfg:301
+#: A_New_Order/scenarios/20_Okladia.cfg:303
+#: A_New_Order/scenarios/20_Okladia.cfg:318
+#: A_New_Order/scenarios/20_Okladia.cfg:320
+#: A_New_Order/scenarios/20_Okladia.cfg:340
+#: A_New_Order/scenarios/20_Okladia.cfg:342
+#: A_New_Order/scenarios/20_Okladia.cfg:357
+#: A_New_Order/scenarios/20_Okladia.cfg:359
+#: A_New_Order/scenarios/20_Okladia.cfg:362
+#: A_New_Order/scenarios/20_Okladia.cfg:364
+#: A_New_Order/scenarios/20_Okladia.cfg:372
+#: A_New_Order/scenarios/20_Okladia.cfg:374
+#: A_New_Order/scenarios/20_Okladia.cfg:385
+#: A_New_Order/scenarios/20_Okladia.cfg:387
+#: A_New_Order/scenarios/20_Okladia.cfg:389
+#: A_New_Order/scenarios/20_Okladia.cfg:391
 msgid "Village leader"
 msgstr ""
 
@@ -10001,22 +10000,22 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:284
-#: A_New_Order/scenarios/20_Okladia.cfg:379
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:161
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:247
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:303
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:406
+#: A_New_Order/scenarios/20_Okladia.cfg:284
+#: A_New_Order/scenarios/20_Okladia.cfg:379
 msgid "Would you fight for me?"
 msgstr ""
 
-#. [event]
 #. [scenario]: id=21a_Abducted_Bride
-#: A_New_Order/scenarios/20_Okladia.cfg:334
+#. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:21
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:47
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:162
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:248
+#: A_New_Order/scenarios/20_Okladia.cfg:334
 msgid "Do you know anything about the mage Deorien?"
 msgstr ""
 
@@ -10029,13 +10028,13 @@ msgid "Do you know where the Oracle lives?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:286
-#: A_New_Order/scenarios/20_Okladia.cfg:335
-#: A_New_Order/scenarios/20_Okladia.cfg:381
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:164
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:250
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:306
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:409
+#: A_New_Order/scenarios/20_Okladia.cfg:286
+#: A_New_Order/scenarios/20_Okladia.cfg:335
+#: A_New_Order/scenarios/20_Okladia.cfg:381
 msgid "Have you heard any interesting news recently?"
 msgstr ""
 
@@ -10291,11 +10290,11 @@ msgid "My lord! Aren't you Gaumhaldric, about whom we've heard so many tales?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:285
-#: A_New_Order/scenarios/20_Okladia.cfg:380
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:408
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:304
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:407
+#: A_New_Order/scenarios/20_Okladia.cfg:285
+#: A_New_Order/scenarios/20_Okladia.cfg:380
 msgid "Do you know something about the mage Deorien?"
 msgstr ""
 
@@ -10445,14 +10444,14 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:447
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
+#: A_New_Order/scenarios/20_Okladia.cfg:447
 msgid "Why do you dislike Lorin?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:449
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:498
+#: A_New_Order/scenarios/20_Okladia.cfg:449
 msgid "Tell me about Karen"
 msgstr ""
 
@@ -10478,8 +10477,8 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:459
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:510
+#: A_New_Order/scenarios/20_Okladia.cfg:459
 msgid "I'm kind of surprised that she is not here with us."
 msgstr ""
 
@@ -10492,9 +10491,9 @@ msgid ""
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:515
 #: A_New_Order/scenarios/20_Okladia.cfg:465
 #: A_New_Order/scenarios/20_Okladia.cfg:469
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:515
 msgid "Hey Reme, what's going on?"
 msgstr ""
 
@@ -10506,26 +10505,26 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:467
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:517
+#: A_New_Order/scenarios/20_Okladia.cfg:467
 msgid "Nice to hear that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:474
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:520
+#: A_New_Order/scenarios/20_Okladia.cfg:474
 msgid "Mother, what's going on?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:477
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:522
+#: A_New_Order/scenarios/20_Okladia.cfg:477
 msgid "Mother? I thought you said I was not your real mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/20_Okladia.cfg:478
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:523
+#: A_New_Order/scenarios/20_Okladia.cfg:478
 msgid "I'm sorry. I was really angry."
 msgstr ""
 
@@ -10581,52 +10580,52 @@ msgid "Marlin Barrae"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/23_Trapped.cfg:753
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:139
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1331
+#: A_New_Order/scenarios/23_Trapped.cfg:753
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:124
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:139
 msgid "There are no interrogations in this scenario."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/23_Trapped.cfg:755
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:344
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:141
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:256
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:284
+#: A_New_Order/scenarios/23_Trapped.cfg:755
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:126
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:141
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:344
 msgid "Kill all enemy leaders OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:145
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:130
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:145
 msgid "Reach the signpost with Gawen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:162
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:147
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:162
 msgid "So, shall we continue our journey?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:172
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:157
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:172
 msgid ""
 "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:162
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:177
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:636
 msgid "We've won! What should we do now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:178
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:163
+#: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:178
 msgid ""
 "We've got to hurry before the enemy reinforcements arrive here. Let's go."
 msgstr ""
@@ -10944,10 +10943,10 @@ msgstr ""
 msgid "You pronounce that 'The Oracle'... all she needs is a great big "
 msgstr ""
 
-#. [unit_type]: id=Oracle, race=human
 #. [unit]: type=Oracle, id=Oracle
-#: A_New_Order/units/others/Oracle.cfg:6
+#. [unit_type]: id=Oracle, race=human
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1388
+#: A_New_Order/units/others/Oracle.cfg:6
 msgid "Oracle"
 msgstr ""
 
@@ -11122,14 +11121,14 @@ msgstr ""
 msgid "The Road Back to Vakladia"
 msgstr ""
 
+#. [side]: id=Deorien, type=Mage of Light
 #. [unit]: id=Deorien, type=Mage of Light
 #. [event]
-#. [side]: id=Deorien, type=Mage of Light
+#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:97
+#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:66
 #: A_New_Order/scenarios/20_Okladia.cfg:90
 #: A_New_Order/scenarios/20_Okladia.cfg:413
 #: A_New_Order/scenarios/20_Okladia.cfg:430
-#: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:97
-#: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:66
 msgid "Deorien"
 msgstr ""
 
@@ -11818,13 +11817,13 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/21b_Haunted_Place.cfg:150
-#: A_New_Order/scenarios/23_Trapped.cfg:767
-#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:356
-#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:276
-#: A_New_Order/scenarios/25_The_Awakening.cfg:474
 #: A_New_Order/scenarios/27_Orannon.cfg:605
 #: A_New_Order/scenarios/27_Orannon.cfg:903
+#: A_New_Order/scenarios/25_The_Awakening.cfg:474
+#: A_New_Order/scenarios/21a_Abducted_Bride.cfg:276
+#: A_New_Order/scenarios/23_Trapped.cfg:767
+#: A_New_Order/scenarios/21b_Haunted_Place.cfg:150
+#: A_New_Order/scenarios/22_Leaving_Okladia.cfg:356
 msgid "Death of Deorien"
 msgstr ""
 
@@ -13740,6 +13739,9 @@ msgid ""
 msgstr ""
 
 #. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:658
+#: A_New_Order/scenarios/25_The_Awakening.cfg:672
+#: A_New_Order/scenarios/25_The_Awakening.cfg:686
 #: A_New_Order/scenarios/23_Trapped.cfg:494
 #: A_New_Order/scenarios/23_Trapped.cfg:508
 #: A_New_Order/scenarios/23_Trapped.cfg:522
@@ -13750,9 +13752,6 @@ msgstr ""
 #: A_New_Order/scenarios/ano-20macros.cfg:203
 #: A_New_Order/scenarios/ano-20macros.cfg:219
 #: A_New_Order/scenarios/ano-20macros.cfg:234
-#: A_New_Order/scenarios/25_The_Awakening.cfg:658
-#: A_New_Order/scenarios/25_The_Awakening.cfg:672
-#: A_New_Order/scenarios/25_The_Awakening.cfg:686
 msgid "Ha! They were hiding some gold here!"
 msgstr ""
 
@@ -13805,20 +13804,20 @@ msgstr ""
 msgid "Survive to the end of time limit"
 msgstr ""
 
-#. [scenario]: id=23b_Trapped
 #. [scenario]: id=23d_Trapped
 #. [scenario]: id=23a_Trapped
 #. [scenario]: id=23c_Trapped
-#: A_New_Order/scenarios/23b_Trapped.cfg:3
+#. [scenario]: id=23b_Trapped
 #: A_New_Order/scenarios/23d_Trapped.cfg:3
 #: A_New_Order/scenarios/23a_Trapped.cfg:3
 #: A_New_Order/scenarios/23c_Trapped.cfg:3
+#: A_New_Order/scenarios/23b_Trapped.cfg:3
 msgid "Trapped"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:16
 #: A_New_Order/scenarios/23a_Trapped.cfg:16
+#: A_New_Order/scenarios/23b_Trapped.cfg:16
 msgid ""
 "Can it be possible? Yes! Lorin! Long have I dreamt of repaying you for what "
 "you did to me in Haeltin. Your time has come..."
@@ -13832,24 +13831,24 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:18
 #: A_New_Order/scenarios/23a_Trapped.cfg:18
+#: A_New_Order/scenarios/23b_Trapped.cfg:18
 msgid ""
 "Mother, it's enough we have four Akladian armies on our heels. You do not "
 "have to make them even more furious."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:19
 #: A_New_Order/scenarios/23a_Trapped.cfg:19
+#: A_New_Order/scenarios/23b_Trapped.cfg:19
 msgid ""
 "And who is this niddering stripling, who thinks that by growing a beard he "
 "can start to look like a man, yet hides his mother's skirt?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:20
 #: A_New_Order/scenarios/23a_Trapped.cfg:20
+#: A_New_Order/scenarios/23b_Trapped.cfg:20
 msgid ""
 "Gawen, he was talking to you. Reumario, I think you have just sealed your "
 "fate."
@@ -13864,8 +13863,8 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:22
 #: A_New_Order/scenarios/23a_Trapped.cfg:22
+#: A_New_Order/scenarios/23b_Trapped.cfg:22
 msgid " Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
 msgstr ""
 
@@ -13877,21 +13876,21 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:28
 #: A_New_Order/scenarios/23a_Trapped.cfg:28
 #: A_New_Order/scenarios/23c_Trapped.cfg:43
+#: A_New_Order/scenarios/23b_Trapped.cfg:28
 msgid "I am not afraid, old hag. I am dying anyway."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:29
 #: A_New_Order/scenarios/23a_Trapped.cfg:29
+#: A_New_Order/scenarios/23b_Trapped.cfg:29
 msgid "There are many different kinds of death, Reumario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/23b_Trapped.cfg:30
 #: A_New_Order/scenarios/23a_Trapped.cfg:30
+#: A_New_Order/scenarios/23b_Trapped.cfg:30
 msgid "Mother, put down that knife! That is an order!"
 msgstr ""
 
@@ -14502,9 +14501,9 @@ msgid "Yes, to arms! To think, I am actually agreeing with an underling!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/25_The_Awakening.cfg:478
 #: A_New_Order/scenarios/27_Orannon.cfg:613
 #: A_New_Order/scenarios/27_Orannon.cfg:911
+#: A_New_Order/scenarios/25_The_Awakening.cfg:478
 msgid "Death of Huon Ryedric"
 msgstr ""
 
@@ -14668,14 +14667,14 @@ msgid "Camper"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:630
 #: A_New_Order/scenarios/27_Orannon.cfg:1128
+#: A_New_Order/scenarios/25_The_Awakening.cfg:630
 msgid "My king, we could really use some help here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:632
 #: A_New_Order/scenarios/27_Orannon.cfg:1130
+#: A_New_Order/scenarios/25_The_Awakening.cfg:632
 msgid ""
 "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
@@ -15147,17 +15146,17 @@ msgstr ""
 msgid "Lucs"
 msgstr ""
 
-#. [side]: id=Luc Hagarthen, type=Akladian Lord
 #. [unit]: id=Luc Hagarthen, type=Akladian Lord
-#: A_New_Order/scenarios/28_Lorin.cfg:108
+#. [side]: id=Luc Hagarthen, type=Akladian Lord
 #: A_New_Order/scenarios/27_Orannon.cfg:643
+#: A_New_Order/scenarios/28_Lorin.cfg:108
 msgid "Luc Hagarthen"
 msgstr ""
 
-#. [side]: id=Gauri Hagarthen, type=Akladian Lord
 #. [unit]: id=Gauri Hagarthen, type=Akladian Lord
-#: A_New_Order/scenarios/28_Lorin.cfg:117
+#. [side]: id=Gauri Hagarthen, type=Akladian Lord
 #: A_New_Order/scenarios/27_Orannon.cfg:657
+#: A_New_Order/scenarios/28_Lorin.cfg:117
 msgid "Gauri Hagarthen"
 msgstr ""
 
@@ -17573,23 +17572,23 @@ msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 
 #. [attack]: type=blade
-#: A_New_Order/units/others/Ruvios_Daughter.cfg:27
 #: A_New_Order/units/others/Ruvio.cfg:27
-#: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:25
+#: A_New_Order/units/others/Ruvios_Daughter.cfg:27
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:34
+#: A_New_Order/units/akladians/Akladian_Homeguard.cfg:30
+#: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:29
+#: A_New_Order/units/akladians/Akladian_Leader.cfg:32
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:38
-#: A_New_Order/units/akladians/Akladian_Protector.cfg:32
+#: A_New_Order/units/akladians/Akladian_Lady.cfg:41
+#: A_New_Order/units/akladians/Hagarthen.cfg:32
+#: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:25
+#: A_New_Order/units/akladians/Akladian_Raider.cfg:30
+#: A_New_Order/units/akladians/Akladian_Darknite.cfg:32
+#: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:33
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:34
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:36
-#: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29
-#: A_New_Order/units/akladians/Akladian_Raider.cfg:30
-#: A_New_Order/units/akladians/Akladian_Leader.cfg:32
-#: A_New_Order/units/akladians/Akladian_Lady.cfg:41
-#: A_New_Order/units/akladians/Akladian_Homeguard.cfg:30
-#: A_New_Order/units/akladians/Akladian_Darknite.cfg:32
-#: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:29
-#: A_New_Order/units/akladians/Hagarthen.cfg:32
+#: A_New_Order/units/akladians/Akladian_Protector.cfg:32
 msgid "sword"
 msgstr ""
 
@@ -18063,9 +18062,9 @@ msgid "sickle"
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/others/Outlaw_Raider.cfg:46
-#: A_New_Order/units/others/Brigand.cfg:38
 #: A_New_Order/units/others/Ruvio.cfg:36
+#: A_New_Order/units/others/Brigand.cfg:38
+#: A_New_Order/units/others/Outlaw_Raider.cfg:46
 msgid "crossbow"
 msgstr ""
 
