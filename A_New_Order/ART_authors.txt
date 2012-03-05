@@ -36,14 +36,15 @@ likely I did it :)
 
 SPRITES
 -------
-Akladians: A.D.Danilecki, except few corrected or made by Peter Geinitz aka Shadow aka Wayfarer (e.g. Lady Lorin and Fastfoot)
+Akladians: A.D.Danilecki, except few corrected or made by Peter Geinitz aka
+Shadow aka Wayfarer (they are in wayfarer directory, e.g. Lady Lorin and Fastfoot)
 
 
 GIMP BRUSHES USED TO CREATE STORY IMAGES
 ----------------------------------------
 I have used the gimp brushes by: VPDesigns, converted by droz928, LJFHutch,
 iceytina, damnicons, sarah-dipity, mairin duffy, lifetb, akisu-sama, hawksmont,
-blackwolf -- downloaded by deviant art pages. I carefully choosen only those
+blackwolf -- downloaded from deviant art pages. I carefully choosen only those
 brushes, whose authors clearly stated the conditions of use, deemed by me to be
 compatible with GPL. Some of them forbid distribution of the brushes itself,
 but they allow to create and then freely distribute a work based on those
@@ -91,6 +92,6 @@ STORY IMAGES
   which I then rendered with my tablet and modified.
 * ruins of weldyn, ruvio at freetown, story ruvio, story_leftme, story_cametome,
   : Łukasz Zaręba.
-  Made especially for ANO :) Story_leftme was slightly modified (changing colour
+  Made especially for ANO :) Story_leftme was slightly retouched (changing colour
   of hair and some little touches to Lorin's face) by me, but those changes are
   almost invisible.

@@ -5,13 +5,15 @@ What this file contains: the credits and acknowledgments; how you can thank us;
 the ideas for new campaigns. Probably the only campaign with such a huge readme
 file :)
 
-The file LICENSE.important.txt contains important note on copyrights. Read it
-carefully before distributing the images and music. In short, we allow to
-distribute the images and music under GPLd provided that GPL does not require
-us to provide e.g. sketches for images, tracker modules, or source waves for
-the music. Before screaming we are incompatible with Wesnoth licensing scheme
-read the LICENSE.important.txt. ONCE AGAIN, _DO_ READ IT BEFORE WRITING US OR
-COMPLAINING. 
+Wesnoth demands that all content should be released under GPL license. GPL has
+specific conditions on "source"; however, it is not clear what is a "source"
+for image or music piece. Therefore, the file LICENSE.important.txt contains
+important note on copyrights. Read it carefully before distributing the images
+and music. In short, we allow to distribute the images and music under GPLd
+provided that GPL does not require us to provide e.g. sketches for images,
+tracker modules, or source waves for the music.  Before screaming we are
+incompatible with Wesnoth licensing scheme read the LICENSE.important.txt. ONCE
+AGAIN, _DO_ READ IT BEFORE WRITING US OR COMPLAINING. 
 
 The ART_authors.txt lists all the authors of the images and the music I could
 remember. You can sent me more names if you know them.
@@ -22,14 +24,15 @@ If you are child under 13, please do not play it.
 
 Do not read the rest if you have not finished the campaign. It contains the 
 spoilers. If you spot here (or when playing a game) a spelling mistake or
-if you want to correct English, please report it at forums.
+if you want to correct English, please report it at the forum.
 
 HOW TO THANK US
 ---------------
 If you enjoyed this campaign, say so. I love comments. Sigil probably loves
 comments. Previous maintainers (Tapik, Typhoon, viorc) also love comments.
 Register at the forum and say you liked it. Discuss your impressions. This
-is our reward for our work. 
+is our reward for our work. Even if you didn't like it, post your
+opinion too.
 
 If you want to do something more, you can consider:
 * donate the WTactics, we took some GPL images from there.
@@ -44,7 +47,7 @@ If you want to do something more, you can consider:
   sprites, or sprite animations. 
 * If you are musician, consider composing a track for us. 
 * If you want ANO to have better images, consider buying an image and sending
-  it to  us. We paid for images about 20-40USD, but be prepared that many
+  it to  us. We paid about 20-40USD per image, but be prepared that many
   artists charge three times more. It takes time to find artists willing to do
   a quality portrait with an affordable price.
 * Correct typos, beta-test this, and make us famous by praising us. But I said so
@@ -84,7 +87,7 @@ If you want to use ANO as base for your story, I suggest:
   are something more than just barbarians you can hire to plunder your neighbours'
   countryside.
 * Ruvio's story screams to be written. How he became a famous rebel leader, who
-  is widely known amongst Wesnothian folk, but virtuall unknown amongst Akladians?
+  is widely known amongst Wesnothian folk, but virtually unknown amongst Akladians?
 * For a sequel, I have an outline of what should happen later. But I have no time
   to script it. If you want to write a campaign, contact me, we can discuss it. 
   Yes, it should feature Gawen's son. It should have also his half-brothers. 
@@ -104,7 +107,7 @@ If you want to use ANO as base for your story, I suggest:
 
 WANT TO KNOW MORE ABOUT AKLADIANS?
 ----------------------------------
-There is Timeline.txt in scenarios. Also, Akladians originally had richer
+There is Timeline.txt in scenarios directory. Also, Akladians originally had richer
 back story; however, I lost all my notes on the topic. The initial idea
 was to introduce barbarians into the civilised Wesnoth world. I mean
 barbarians like Huns -- wild, cruel, barbarians despising civilised people. 
@@ -115,19 +118,20 @@ would be no culture with religion in Wesnoth world. I am atheist, mind you
 without a religion :-) ).
 
 Initially one player said the story is similar to the Dune; I've read the Dune,
-but if I was influenced, it was subconscious. But later I have introduced
+but if I was influenced, it was subconscious. Later I have introduced
 three references to Dune within the campaign. You should have no troubles to
 find them :) ... but actually only two are left now, once Sigil removed
 Aragwaithi. The "sietches" (settlements of Aragwaithi) name was taken from
 Dune.
 
-Anyway, other ideas which never went into the story, and remarks. Some of those
-are results of discussion with Sigil. You may find them useful when creating
-a sequel or whatever.
+Anyway, here you have some ideas which never went into the story, and various
+other remarks.  Some of those are results of discussion with Sigil. You may
+find them useful when creating a sequel or whatever.
+
 * Bor Cryne and Lorin supposed to be engaged as children, before Lorin's family
-  went to the Oracle and then got better deal.
-* Bor Cryne has only one child. His other children died, He has no wife; she
-  dies giving him the last son and he never married again (unusual for Akladians).
+  went to the Oracle and then got a better deal.
+* Bor Cryne has only one child. His other children died. He has no wife; she
+  died giving him the last son and he never married again (unusual for Akladians).
 * Akladians have less children with every passing year and generation. While
   in the past they had 10 children and more, nowadays (i.e. during the campaign)
   they have no more than three, with this number steadily decreasing. With high
@@ -218,10 +222,8 @@ You are allowed to give your own ideas, but make it clear this is someone's
 opinion, or one of possibilities.
 
 However, to make one thing clear: in scenario 19, when Lorin leaves Gawen, she
-does not go to Akladians, or to Freetown.  She wants to withdraw the
-consequences of one of her decisions.  However, she chooses not to; instead she
-chooses to live with the consequences of her decision... and she pays for it.
-Guess where she went to and what for :) You can sent your guesses to the forum :).
+does not go to Akladians, or to Freetown.  Guess where she went to and what for
+:) You can sent your guesses to the forum :).
 
 CREDITS
 --------
@@ -261,3 +263,6 @@ Rhishisikk (Micheal P. Kochis)
 Before, ANO was maintained for some time by Vincent Croisier (viorc), but I
 can't remember when and how long. If you are reading this, Vincent, sorry this
 info somehow went missing from previous releases. No idea how this could happen.
+
+            That's all folks, 
+				A.D. "szopen" Danilecki 
