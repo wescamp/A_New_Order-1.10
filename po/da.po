@@ -1,15 +1,15 @@
 # Danish translation of A New Order (da.po)
 # Dansk oversættelse for A New Order (da.po).
-# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# Copyright (C) 2008 A New order, Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-04 18:52-0500\n"
-"PO-Revision-Date: 2007-06-09 13:15+0200\n"
+"PO-Revision-Date: 2008-12-13 13:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "Language: da\n"
@@ -27,7 +27,7 @@ msgstr "En ny orden"
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:45
 msgid "ANO"
-msgstr ""
+msgstr "ENO"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:52
@@ -46,6 +46,7 @@ msgstr "Normal"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:54
+#, fuzzy
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying "
 "barbarians are on the brink of civil war, the seeds of Wesnothian rebellion "
@@ -59,16 +60,25 @@ msgid ""
 "(Intermediate level, 45 scenarios. Requires BfW 1.9)\n"
 "Version "
 msgstr ""
+"Det gamle Wesnoth kongedømme ligger i ruiner. Barbarer har overtaget styret, "
+"mens folk drømmer om gamle tider. Kan Gawen Hagarthen forene folket imod "
+"alle farerne?\n"
+"\n"
+"Bemærk: Denne kampagne er ikke ment for mindreårige. Den indeholder "
+"elementer som gør den uegnet for børn. Du er blevet advaret.\n"
+"\n"
+"(Mellemniveau, 45 scenarier. Virker på 1.4)\n"
+"Version "
 
 #. [about]
 #: A_New_Order/about.cfg:13
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Skabt af og ledende designer"
 
 #. [about]
 #: A_New_Order/about.cfg:23
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Kampagnevedligeholdelse"
 
 #. [about]
 #: A_New_Order/about.cfg:49
@@ -82,83 +92,78 @@ msgstr ""
 
 #. [about]
 #: A_New_Order/about.cfg:93
-#, fuzzy
 msgid "Translations"
-msgstr "Forberedelserne"
+msgstr "Oversættelser"
 
 #. [about]
 #: A_New_Order/about.cfg:94
 msgid "(from WesCamp-i18n)"
-msgstr ""
+msgstr "(fra WesCamp-i18n)"
 
 #. [entry]
 #: A_New_Order/about.cfg:96
-#, fuzzy
 msgid " British (en_gb) translation:"
-msgstr ""
-"\n"
-"Harry Dewulf: Britisk (en_gb) oversættelse\n"
+msgstr " Britisk (en_gb) oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:99
 msgid "Catalonian translation:"
-msgstr ""
+msgstr "Katalonsk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:102
 msgid "Czech translation:"
-msgstr ""
+msgstr "Tjekkisk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:105
 msgid "Danish translation:"
-msgstr ""
+msgstr "Dansk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:108
 msgid "French translation:"
-msgstr ""
+msgstr "Fransk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:111
 msgid "German translation:"
-msgstr ""
+msgstr "Tysk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:114
 msgid "Italian translation:"
-msgstr ""
+msgstr "Italiensk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:117
 msgid "Polish translation:"
-msgstr ""
+msgstr "Polsk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:120
 msgid "Russian translation:"
-msgstr ""
+msgstr "Russisk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:123
-#, fuzzy
 msgid "Spanish translation:"
-msgstr "Adskillelse"
+msgstr "Spansk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:126
 msgid "Swedish translation:"
-msgstr ""
+msgstr "Svensk oversættelse:"
 
 #. [entry]
 #: A_New_Order/about.cfg:129
 msgid "Turkish translation:"
-msgstr ""
+msgstr "Tyrkisk oversættelse:"
 
 #. [about]
 #: A_New_Order/about.cfg:133
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Også tak til"
 
 #: A_New_Order/macros/ano_macros.cfg:394
 #, fuzzy
@@ -168,17 +173,18 @@ msgstr "getunit $x1 : $y1 : $ano_tmp.description"
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:467 A_New_Order/macros/ano_macros.cfg:585
 msgid "I can't hold my sword anymore.. I can't ..."
-msgstr ""
+msgstr "Jeg kan ikke holde mit sværd mere.. Jeg kan ikke ..."
 
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:478
 msgid "My ancestors, I am coming to you! I hope I have not failed you.."
 msgstr ""
+"Mine forfædre, jeg kommer til jer! Jeg håber jeg ikke har svigtet jer..."
 
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:489
 msgid "I'm not afraid.. I would just want to smoke a little longer.."
-msgstr ""
+msgstr "Jeg er ikke bange.. Jeg vil bare ryge lidt længere endnu.."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:470
@@ -186,7 +192,7 @@ msgstr ""
 #: A_New_Order/macros/ano_macros.cfg:499
 #, fuzzy
 msgid "Khalifa die without fear!"
-msgstr "Aragwaithi dør uden frygt!"
+msgstr "Aragwaiths dør uden frygt!"
 
 #. [event]
 #: A_New_Order/macros/ano_macros.cfg:512
@@ -234,8 +240,9 @@ msgstr ""
 "glemt at slette den fra den endelige version."
 
 #: A_New_Order/macros/ano_macros.cfg:1128
+#, fuzzy
 msgid "The unit $ano_loyal[0].name became LOYAL."
-msgstr ""
+msgstr "Enheden $ano_loyal[0].user_description blev LOYAL."
 
 #. [scenario]: id=10_Siege_of_Haeltin
 #. [then]
@@ -256,7 +263,7 @@ msgstr "Ingen vedligeholdelse"
 
 #: A_New_Order/macros/ano_macros.cfg:1143
 msgid "Scenario notes:"
-msgstr ""
+msgstr "Scenariebemærkninger:"
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:4
@@ -1469,7 +1476,7 @@ msgstr ""
 #: A_New_Order/scenarios/03_Coronation.cfg:3
 #, fuzzy
 msgid "Coronation"
-msgstr "Adskillelse"
+msgstr "Oversættelser"
 
 #. [part]
 #: A_New_Order/scenarios/03_Coronation.cfg:14
@@ -2083,8 +2090,9 @@ msgstr "Jagtfører"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:856
+#, fuzzy
 msgid "shieldguard"
-msgstr ""
+msgstr "Skjoldvagt"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:858
@@ -3723,7 +3731,7 @@ msgstr "Oyre Mathauri"
 #. [side]: type=Akladian Chieftain, id=Reumario
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:158
 msgid "Reumario"
-msgstr ""
+msgstr "Reumario"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:189
@@ -3733,8 +3741,8 @@ msgid ""
 "swordsman, 17 gold pieces for our naffat fire masters, and 15 for the jundi "
 "foot soldiers, right?"
 msgstr ""
-"Lad os opsummere. Du er indforstået med at betale 14 guldstykker per "
-"sværdmand, 15 guldstykker per bueskytte og 18 for spydmænd. Ikke?"
+"Lad os opsummere. Du er indforstået med at betale 13 guldstykker per "
+"sværdmand, 15 guldstykker per bueskytte og 15 for spydmænd. Ikke?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:190
@@ -4907,9 +4915,8 @@ msgstr ""
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:24
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:25
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:30
-#, fuzzy
 msgid "Freetown"
-msgstr "Til Freetown"
+msgstr "Freetown"
 
 #. [side]: id=Gwidle Turlin, type=General
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:40
@@ -5557,7 +5564,6 @@ msgid ""
 "\n"
 "Move Ruvio to signpost to ask him for advice."
 msgstr ""
-"\n"
 "I dette scenarie kan du forhøre lederen med enten Ruvio eller Gawen. Det gør "
 "ingen forskel.\n"
 "\n"
@@ -7105,13 +7111,14 @@ msgstr ""
 msgid ""
 "Lady Lorin can also interrogate enemy leaders.\n"
 "You will receive no bonus if withdrawing with Gawen."
-msgstr "Bemærk: Du modtager ingen bonus hvis du trækker dig tilbage med Reme."
+msgstr ""
+"Lady Lorin kan forhøre fjendtlige leder.\n"
+"Du modtager ingen bonus hvis du trækker dig tilbage med Gawen."
 
 #. [objectives]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:226
-#, fuzzy
 msgid "You will receive no bonus if withdrawing with Gawen."
-msgstr "Bemærk: Du modtager ingen bonus hvis du trækker dig tilbage med Reme."
+msgstr "Du modtager ingen bonus hvis du trækker dig tilbage med Gawen."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:240
@@ -7122,8 +7129,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:241
+#, fuzzy
 msgid "Humans... cowards... good only for meat..."
-msgstr ""
+msgstr "Mennesker.. kujoner.. kun gode til mad.."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:249
@@ -7628,9 +7636,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:311
-#, fuzzy
 msgid "To win, you should move Reme Carrenemore here!"
-msgstr "Ved du hvor Reme Carrenemoe er?"
+msgstr "For at vinde bør du flytte Reme Carrenemoe hertil!"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:314
@@ -8355,7 +8362,7 @@ msgstr ""
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:175
 #, fuzzy
 msgid "(whispering) Old friend, my eye..."
-msgstr "<hvisper> Gamle venner min røv..."
+msgstr "(hvisker) Gamle venner min røv..."
 
 #. [else]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:178
@@ -8363,12 +8370,15 @@ msgid ""
 "I think you should know that Reme is alive too. We know that he is in enemy "
 "hands. I want to rescue him."
 msgstr ""
+"Jeg synes at du bør vide at Reme også er i live. Vi ved at han er i "
+"fjendtlige hænder. Jeg har et ønske om at befri ham."
 
 #. [else]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:179
+#, fuzzy
 msgid ""
 "What for? He left me alone. Why not treat him the same way he treated me?"
-msgstr ""
+msgstr "Hvorfor? Han forlod mig. Hvorfor ikke behandle ham på samme måde?"
 
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:184
@@ -8383,8 +8393,8 @@ msgid ""
 "Because Majid Yahyazad joined you together with Lorin, you can now recruit "
 "warriors of the Khalifate."
 msgstr ""
-"\n"
-"Fordi Andrey Yaranov tog med sammen med Lorin kan du nu rekruttere Aragwiths."
+"Fordi Andrey Yaranov tog med sammen med Lorin, kan du nu rekruttere "
+"aragwither."
 
 #. [scenario]: id=14d_Avenging_Ruen
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:3
@@ -8761,9 +8771,8 @@ msgstr "Bussur"
 
 #. [objectives]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:178
-#, fuzzy
 msgid "You may withdraw by moving Gawen to signpost."
-msgstr " Du kan trække dig tilbage ved at flytte Gawen til signalposten."
+msgstr "Du kan trække dig tilbage ved at flytte Gawen til signalposten."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:198
@@ -8775,7 +8784,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:199
 msgid "Be calm, you are amongsst friendss, no humanss here..."
-msgstr ""
+msgstr "Vær rolig, du er blandt venner, ingen mennesker her..."
 
 #. [event]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:201
@@ -11971,7 +11980,7 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1400
 #, fuzzy
 msgid "Oracle... I..."
-msgstr "Orakel"
+msgstr "Orakel.. Jeg.."
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1401
@@ -13571,9 +13580,8 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:59
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:26
-#, fuzzy
 msgid "Dead city"
-msgstr "Den døde by"
+msgstr "Død by"
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:117
@@ -13867,7 +13875,7 @@ msgstr "Intet spøgelse vil være i stand til at modstå Lorins kolde stål."
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:100
 msgid "Explore"
-msgstr ""
+msgstr "Undersøg"
 
 #. [event]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:128
@@ -14477,17 +14485,18 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:510
 msgid "And..."
-msgstr ""
+msgstr "Og..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:511
+#, fuzzy
 msgid "You will avoid unspeakable pain"
-msgstr ""
+msgstr "Du vil undgå ufattelig smerte"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:512
 msgid "I will honour you by burying you properly"
-msgstr ""
+msgstr "Jeg vil ære dig med en ordentlig begravelse"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:517
@@ -14499,7 +14508,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:518
 msgid "Only half-dead, mind you. It means you can still feel the pain"
-msgstr ""
+msgstr "Husk, kun halvdød. Det betyder du stadig kan mærke smerte"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:519
@@ -14945,8 +14954,10 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:390
+#, fuzzy
 msgid "My ancestors, I am coming to you with sword in my hand!"
 msgstr ""
+"Mine forfædre, jeg kommer til jer! Jeg håber jeg ikke har svigtet jer..."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:391
@@ -17057,7 +17068,7 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:219
 #, fuzzy
 msgid "(whispering to himself) Oh no, Majid..."
-msgstr "<hviskende til sig selv> Oh min Gud, Yaranov..."
+msgstr "(hviskende til sig selv) Oh min Gud, Yaranov..."
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:220
@@ -18552,7 +18563,7 @@ msgstr "Lorins klan købte gift fra de fredsløse. Ved du hvorfor?"
 #: A_New_Order/scenarios/ano-20macros.cfg:390
 #, fuzzy
 msgid "Yes... I remember it. Indeed, they bought poison from us. (cough)"
-msgstr "Ja.. Jeg husker det. De købte gift fra os. <hoste>"
+msgstr "Ja.. Jeg husker det. De købte gift fra os. (hoste)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:391
@@ -18580,7 +18591,7 @@ msgid ""
 msgstr ""
 "Alt jeg har hørt om din mors død passer til vores gift. Jeg kan selvfølgelig "
 "ikke være sikker men jeg tror at Lorins klan købte giften for at dræbe din "
-"mor... <hoste>"
+"mor... (hoste)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:396
@@ -19089,12 +19100,11 @@ msgstr ""
 "Wesnoth vil leve sammen i fred."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:548
-#, fuzzy
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) You... "
 "you..."
 msgstr ""
-"Folk fra Wesnoth! En flok slatne vatnisser! Stinkende sandorme! <hoster> "
+"Folk fra Wesnoth! En flok slatne vatnisser! Stinkende sandorme! (hoster) "
 "Din... din..."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:549
@@ -19218,21 +19228,18 @@ msgstr "Jeg tror det er tid til at bruge alle vores reserver!"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:4
-#, fuzzy
 msgid "race^Akladian"
-msgstr "Akladian lady"
+msgstr "Akladianer"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:5
-#, fuzzy
 msgid "race+female^Akladian"
-msgstr "Akladian lady"
+msgstr "Akladianer"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:6
-#, fuzzy
 msgid "race^Akladians"
-msgstr "Akladian lady"
+msgstr "Akladianere"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:9
@@ -19256,8 +19263,9 @@ msgstr ""
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:59
+#, fuzzy
 msgid "race+female^Khalifate Human"
-msgstr ""
+msgstr "Akladianer"
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:60
@@ -19276,13 +19284,15 @@ msgstr ""
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:70
+#, fuzzy
 msgid "race+female^Falcon"
-msgstr ""
+msgstr "Akladianer"
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:71
+#, fuzzy
 msgid "race^Falcons"
-msgstr ""
+msgstr "Akladianere"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
@@ -19679,9 +19689,8 @@ msgstr ""
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:138
-#, fuzzy
 msgid "obscures"
-msgstr "kurerer"
+msgstr ""
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:139
@@ -19767,8 +19776,9 @@ msgstr "lynangreb"
 
 #. [advancement]: id=sword_dancer
 #: A_New_Order/units/macros/amla.cfg:92
+#, fuzzy
 msgid "Sword Dancer"
-msgstr ""
+msgstr "Sværdmand"
 
 #. [advancement]: id=tough
 #: A_New_Order/units/macros/amla.cfg:114
@@ -19821,9 +19831,8 @@ msgstr ""
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:5
-#, fuzzy
 msgid "Outlaw Raider"
-msgstr "Akladian røver"
+msgstr "Fredløs røver"
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:33
@@ -19842,9 +19851,8 @@ msgstr ""
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
-#, fuzzy
 msgid "Peasant girl"
-msgstr "Bonde"
+msgstr "Bondepige"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:26
@@ -19852,6 +19860,8 @@ msgid ""
 "The young girl. She cannot fight, she cannot even defend herself. She "
 "appears only once in one scenario."
 msgstr ""
+"Den unge pige. Hun kan ikke kæmpe, hun kan end ikke forsvare sig selv. Hun "
+"kommer kun frem i et scenarie."
 
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/units/others/Ruvio.cfg:21
@@ -19870,38 +19880,73 @@ msgid ""
 msgstr ""
 
 #~ msgid ""
-#~ "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling "
-#~ "over the people dreaming about old legends. Can Gawen Hagarthen unite "
-#~ "them all against the common danger? This supposed to be easy campaign. "
+#~ "storyline, coding, story images, portraits, original sprites for "
+#~ "Akladians."
 #~ msgstr ""
-#~ "Det gamle Wesnoth kongedømme ligger i ruiner. Barbarer har overtaget "
-#~ "styret, mens folk drømmer om gamle tider. Kan Gawen Hagarthen forene "
-#~ "folket imod alle farerne? Dette er ment som en nem kampagne. "
+#~ "historie, kodning, historiebilleder, portrætter, oprindelig grafik for "
+#~ "akladianere."
+
+#~ msgid "Main maintainer, release manager"
+#~ msgstr "Ledende vedligeholder, udgivelseshåndtering"
+
+#~ msgid "sprites for Aragwaithi and corrections of Akladian sprites"
+#~ msgstr "grafik for aragwaithi og korrektioner til akladiangrafik"
+
+#~ msgid "bug reports, english errors corrections"
+#~ msgstr "fejlrapporter, engelske fejlrettelser"
+
+#~ msgid "Outlaw level 3 pack is maintained by them."
+#~ msgstr "Fredløs niveau 3 pakke vedligeholdes af."
+
+#~ msgid "for patience and explaining how wescamp works"
+#~ msgstr "for tålmodighed og forklaring af hvordan wescamp virker"
+
+#~ msgid "for art advises"
+#~ msgstr "for tegningsråd"
+
+#~ msgid "for hints on wml and unit stats"
+#~ msgstr "for fif til wml og enhedskaraktertræk"
+
+#~ msgid "Reach the enemy keep with Gawen"
+#~ msgstr "Nå det fjendtlige borgtårn med Gawen"
+
+#~ msgid "Uh, I hope I will never know you closer"
+#~ msgstr "Uha jeg håber ikke at jeg kommer til at kende dig nærmere"
+
+#~ msgid "Yeah!"
+#~ msgstr "Jubii!"
 
 #~ msgid ""
-#~ " The campaign is not intended for underaged. It contains elements making "
-#~ "it unsuitable for children. You have been warned."
+#~ "Wait! I hate when you kill the people before I have chance to interrogate "
+#~ "them. It's the second time."
 #~ msgstr ""
-#~ " Kampagnen er ikke tiltænkt børn. Den har indhold uegnet for børn. Du er "
-#~ "hermed advaret."
+#~ "Vent! Jeg hader at du dræber folk før jeg har haft chancen for at forhøre "
+#~ "dem. Det er anden gang."
 
-#~ msgid "Version"
-#~ msgstr "Version"
+#~ msgid "Second time? What do you mean?"
+#~ msgstr "Anden gang? Hvad mener du?"
+
+#~ msgid ""
+#~ "Meet my daughter, Gawen Hagarthen. Imagine I have three other daughters "
+#~ "like that back home. Not to mention my wife!"
+#~ msgstr ""
+#~ "Mød min datter Gawen Hagarthen. Tro det eller lad være men jeg har tre "
+#~ "andre døtre som hende derhjemme. For ikke at nævne min kone!"
+
+#~ msgid "Andrey Yaranov"
+#~ msgstr "Andrey Yaranov"
+
+#~ msgid "Disappointed? Wanted to have more action?"
+#~ msgstr "Skuffet? Ønskede du mere aktion?"
+
+#~ msgid "Sorry, I am not a necromancer."
+#~ msgstr "Beklager jeg er ikke en åndemaner."
 
 #~ msgid "Oh my God. It's worse than I thought."
 #~ msgstr "Oh min Gud. Det er værre end jeg troede."
 
 #~ msgid "I know. You hate me."
 #~ msgstr "Jeg ved det. Du hader mig."
-
-#~ msgid ""
-#~ "Welcome, Gaumhaldric. It's first time I have a pleasure to fight for you. "
-#~ "We, elves, are accustomed to fighting inside of forests. Our specialty "
-#~ "are bows. Use us wisely."
-#~ msgstr ""
-#~ "Velkommen Gaumhaldric. Det er første gang jeg har fornøjelsen af at kæmpe "
-#~ "for dig. Vi elver er vant til at kæmpe i skovene. Vores specialitet er "
-#~ "buen. Brug os klogt."
 
 #~ msgid "Yaranov"
 #~ msgstr "Yaranov"
@@ -19964,8 +20009,15 @@ msgstr ""
 #~ "Se! Friske fjendtlige enheder er ankommet! Vi har ingen chance for at "
 #~ "vinde nu!"
 
-#~ msgid "Note to translators : you will never be is plural."
-#~ msgstr "Bemærkning til oversættere : you vil aldrig være/er flertal."
+#~ msgid "Note to translators: you will never be is plural."
+#~ msgstr "Bemærkning til oversættere: you vil aldrig være/er flertal."
+
+#~ msgid ""
+#~ "(Note to translators: you will never be is plural)^No! No!  There has to "
+#~ "be better answer!"
+#~ msgstr ""
+#~ "(Bemærkning til oversættere: you vil aldrig være/er flertal)^Nej! nej!  "
+#~ "Der må være et bedre svar!"
 
 #~ msgid ""
 #~ "And I always wondered why? Only because you have promised something to "
@@ -20036,46 +20088,111 @@ msgstr ""
 #~ msgid "Boris Katirov"
 #~ msgstr "Boris Katirov"
 
+#~ msgid "Aragwaithi die without fear!"
+#~ msgstr "Aragwaithi dør uden frygt!"
+
+#~ msgid "Peasant"
+#~ msgstr "Bonde"
+
 #~ msgid "Ekhm."
 #~ msgstr "Ekhm."
 
 #~ msgid "The king wants to be alone."
 #~ msgstr "Kongen ønsker at være alene."
 
+#~ msgid "race^Aragwaith"
+#~ msgstr "Aragwaither"
+
+#~ msgid "race+female^Aragwaith"
+#~ msgstr "Aragwaither"
+
+#~ msgid "race^Aragwaithi"
+#~ msgstr "Aragwaithier"
+
+#~ msgid "Ancient Banner"
+#~ msgstr "Gammelt banner"
+
+#~ msgid "NEED SOME DESCRIPTION HERE"
+#~ msgstr "BRUG FOR BESKRIVELSE HER"
+
+#~ msgid "Archer"
+#~ msgstr "Bueskytte"
+
+#~ msgid "knife"
+#~ msgstr "kniv"
+
+#~ msgid "bow"
+#~ msgstr "bue"
+
+#~ msgid "Captain"
+#~ msgstr "Kaptajn"
+
+#~ msgid "Flagbearer"
+#~ msgstr "Flagbærer"
+
+#~ msgid "Greatbow"
+#~ msgstr "Storbue"
+
+#~ msgid "Guard"
+#~ msgstr "Vagt"
+
+#~ msgid "Guardian"
+#~ msgstr "Vogter"
+
+#~ msgid "Lancer"
+#~ msgstr "Lansener"
+
+#~ msgid "longsword"
+#~ msgstr "sværd"
+
+#~ msgid "Pikeman"
+#~ msgstr "Pikener"
+
+#~ msgid "Scout"
+#~ msgstr "Spejder"
+
+#~ msgid "Silver Shield"
+#~ msgstr "Sølvskjold"
+
+#~ msgid "glaive"
+#~ msgstr "glaive"
+
+#~ msgid "Sorcerer"
+#~ msgstr "Troldmand"
+
+#~ msgid "Aragwaith^Wizard"
+#~ msgstr "Troldmand"
+
+#~ msgid "female^Wizard"
+#~ msgstr "Troldkvinde"
+
+#~ msgid "sabre"
+#~ msgstr "sabel"
+
+#~ msgid "Orcish Shaman"
+#~ msgstr "Orkshaman"
+
+#~ msgid "curse"
+#~ msgstr "forband"
+
 #~ msgid ""
-#~ "Wait! I hate when you kill the people before I have chance to interrogate "
-#~ "them. It's the second time."
+#~ " The campaign is not intended for underaged. It contains elements making "
+#~ "it unsuitable for children. You have been warned."
 #~ msgstr ""
-#~ "Vent! Jeg hader at du dræber folk før jeg har haft chancen for at forhøre "
-#~ "dem. Det er anden gang."
+#~ " Kampagnen er ikke tiltænkt børn. Den har indhold uegnet for børn. Du er "
+#~ "hermed advaret."
 
-#~ msgid "Second time? What do you mean?"
-#~ msgstr "Anden gang? Hvad mener du?"
+#~ msgid "Version"
+#~ msgstr "Version"
 
 #~ msgid ""
-#~ "Meet my daughter, Gawen Hagarthen. Imagine I have three other daughters "
-#~ "like that back home. Not to mention my wife!"
+#~ "Welcome, Gaumhaldric. It's first time I have a pleasure to fight for you. "
+#~ "We, elves, are accustomed to fighting inside of forests. Our specialty "
+#~ "are bows. Use us wisely."
 #~ msgstr ""
-#~ "Mød min datter Gawen Hagarthen. Tro det eller lad være men jeg har tre "
-#~ "andre døtre som hende derhjemme. For ikke at nævne min kone!"
-
-#~ msgid "Andrey Yaranov"
-#~ msgstr "Andrey Yaranov"
-
-#~ msgid "Disappointed? Wanted to have more action?"
-#~ msgstr "Skuffet? Ønskede du mere aktion?"
-
-#~ msgid "Sorry, I am not a necromancer."
-#~ msgstr "Beklager jeg er ikke en åndemaner."
-
-#~ msgid "Reach the enemy keep with Gawen"
-#~ msgstr "Nå det fjendtlige borgtårn med Gawen"
-
-#~ msgid "Uh, I hope I will never know you closer"
-#~ msgstr "Uha jeg håber ikke at jeg kommer til at kende dig nærmere"
-
-#~ msgid "Yeah!"
-#~ msgstr "Jubii!"
+#~ "Velkommen Gaumhaldric. Det er første gang jeg har fornøjelsen af at kæmpe "
+#~ "for dig. Vi elver er vant til at kæmpe i skovene. Vores specialitet er "
+#~ "buen. Brug os klogt."
 
 #~ msgid "This is version"
 #~ msgstr "Dette er version"
@@ -20089,9 +20206,6 @@ msgstr ""
 #~ msgid "Akladian Chieftain_g"
 #~ msgstr "Akladian kaptajn_g"
 
-#~ msgid "NEED SOME DESCRIPTION HERE"
-#~ msgstr "BRUG FOR BESKRIVELSE HER"
-
 #~ msgid "Fugitive"
 #~ msgstr "Flygtning"
 
@@ -20103,9 +20217,6 @@ msgstr ""
 
 #~ msgid "Highwayman"
 #~ msgstr "Landevejsrøver"
-
-#~ msgid "Ranger"
-#~ msgstr "skovfoged"
 
 #~ msgid "Rogue Mage"
 #~ msgstr "Ung troldmand"
@@ -20158,9 +20269,6 @@ msgstr ""
 
 #~ msgid "club"
 #~ msgstr "kølle"
-
-#~ msgid "bow"
-#~ msgstr "bue"
 
 #~ msgid "marksman"
 #~ msgstr "skarpskytte"

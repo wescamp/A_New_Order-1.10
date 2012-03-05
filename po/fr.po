@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-04 18:52-0500\n"
-"PO-Revision-Date: 2007-01-28 23:14+0100\n"
-"Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
+"PO-Revision-Date: 2008-09-14 19:02+0100\n"
+"Last-Translator: Damien J <guydelatour AT gloireetpouvoirPTcom>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,13 @@ msgstr ""
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_editor.cfg:22 A_New_Order/_main.cfg:44
 msgid "A New Order"
-msgstr "Un nouvel ordre"
+msgstr "Un ordre nouveau"
 
+# Damien : abv. pour Un Ordre Nouveau
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:45
 msgid "ANO"
-msgstr ""
+msgstr "UON"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:52
@@ -40,6 +41,7 @@ msgstr "Normal"
 
 #. [campaign]: id=A_New_Order
 #: A_New_Order/_main.cfg:54
+#, fuzzy
 msgid ""
 "The old kingdom of Wesnoth has fallen before barbarian hordes. The occupying "
 "barbarians are on the brink of civil war, the seeds of Wesnothian rebellion "
@@ -53,16 +55,25 @@ msgid ""
 "(Intermediate level, 45 scenarios. Requires BfW 1.9)\n"
 "Version "
 msgstr ""
+"Le vieux royaume de Wesnoth tombe en ruine, tandis que des barbares dominent "
+"un peuple qui ne rêve qu'aux vieilles légendes. Gawen Hagarthen peut-il les "
+"unir tous contre le danger commun ?\n"
+"\n"
+"Remarque : Cette campagne n'est pas destinée aux mineurs. Elle contient des "
+"éléments ne convenant pas aux enfant. Vous voilà prévenus.\n"
+"\n"
+"(Niveau intermédiaire, 45 scénarios, fonctionne avec la v1.4)\n"
+"Version"
 
 #. [about]
 #: A_New_Order/about.cfg:13
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Créateur et concepteur principal"
 
 #. [about]
 #: A_New_Order/about.cfg:23
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Maintenance de la campagne"
 
 #. [about]
 #: A_New_Order/about.cfg:49
@@ -76,87 +87,78 @@ msgstr ""
 
 #. [about]
 #: A_New_Order/about.cfg:93
-#, fuzzy
 msgid "Translations"
-msgstr "Les Préparatifs"
+msgstr "Traductions"
 
 #. [about]
 #: A_New_Order/about.cfg:94
 msgid "(from WesCamp-i18n)"
-msgstr ""
+msgstr "(extrait de WesCamp-i18n)"
 
 #. [entry]
 #: A_New_Order/about.cfg:96
-#, fuzzy
 msgid " British (en_gb) translation:"
-msgstr ""
-"\n"
-"Harry Dewulf : traduction anglaise (en_gb)\n"
+msgstr " Traduction anglaise (gb) :"
 
 #. [entry]
 #: A_New_Order/about.cfg:99
 msgid "Catalonian translation:"
-msgstr ""
+msgstr "Traduction catalane :"
 
 #. [entry]
 #: A_New_Order/about.cfg:102
-#, fuzzy
 msgid "Czech translation:"
-msgstr "Conversation"
+msgstr "Traduction tchèque :"
 
 #. [entry]
 #: A_New_Order/about.cfg:105
 msgid "Danish translation:"
-msgstr ""
+msgstr "Traduction danoise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:108
 msgid "French translation:"
-msgstr ""
+msgstr "Traduction française :"
 
 #. [entry]
 #: A_New_Order/about.cfg:111
 msgid "German translation:"
-msgstr ""
+msgstr "Traduction allemande :"
 
 #. [entry]
 #: A_New_Order/about.cfg:114
 msgid "Italian translation:"
-msgstr ""
+msgstr "Traduction italienne :"
 
 #. [entry]
 #: A_New_Order/about.cfg:117
 msgid "Polish translation:"
-msgstr ""
+msgstr "Traduction polonaise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:120
-#, fuzzy
 msgid "Russian translation:"
-msgstr ""
-"\n"
-"Alexey Remizov : traduction russe\n"
+msgstr "Traduction russe :"
 
 #. [entry]
 #: A_New_Order/about.cfg:123
-#, fuzzy
 msgid "Spanish translation:"
-msgstr "Séparation."
+msgstr "Traduction espagnole :"
 
 #. [entry]
 #: A_New_Order/about.cfg:126
 msgid "Swedish translation:"
-msgstr ""
+msgstr "Traduction suédoise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:129
 msgid "Turkish translation:"
-msgstr ""
+msgstr "Traduction turque :"
 
 #. [about]
 #: A_New_Order/about.cfg:133
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Et merci aussi à"
 
 #: A_New_Order/macros/ano_macros.cfg:394
 #, fuzzy
@@ -238,7 +240,7 @@ msgstr ""
 #: A_New_Order/macros/ano_macros.cfg:1128
 #, fuzzy
 msgid "The unit $ano_loyal[0].name became LOYAL."
-msgstr "L'unité $ano_loyal[0].user_description est devenue LOYALE."
+msgstr "L'unité $ano_loyal[0].user_description est devenue fidèle."
 
 #. [scenario]: id=10_Siege_of_Haeltin
 #. [then]
@@ -255,11 +257,11 @@ msgstr "fidèle"
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:41
 #: A_New_Order/macros/ano_macros.cfg:1134
 msgid "Zero upkeep"
-msgstr "Zéro entretien."
+msgstr "Pas d'entretien."
 
 #: A_New_Order/macros/ano_macros.cfg:1143
 msgid "Scenario notes:"
-msgstr ""
+msgstr "Remarques sur le scénario :"
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:4
@@ -303,7 +305,7 @@ msgid ""
 "there to die!"
 msgstr ""
 "Et nous l'avons abandonné ! Et vous aussi, honorable et brave Reme, vous "
-"l'avez laissé là à la mort !"
+"l'avez laissé mourir là !"
 
 #: A_New_Order/macros/conversations.cfg:16
 #, fuzzy
@@ -359,7 +361,7 @@ msgstr ""
 
 #: A_New_Order/macros/conversations.cfg:29
 msgid "Don't be silly, girl. I am not in command here."
-msgstr "Ne soit pas idiote, fille. Ce n'est pas moi qui commande ici."
+msgstr "Ne soit pas idiote, fillette. Ce n'est pas moi qui commande ici."
 
 #: A_New_Order/macros/conversations.cfg:30
 #, fuzzy
@@ -412,15 +414,15 @@ msgid ""
 "elite. It's been more than a month since we left Raedwood, and we have "
 "already routed forces larger than ours."
 msgstr ""
-"C'est étrange, mais j'ai eu ce sentiment de succès que je n'avais jamais eu "
-"avant. Nos soldats sont vraiment les meilleurs dans leur genre : la vraie "
-"élite. Il y a plus de quatre mois depuis que nous avons quitté Raedwood et "
-"nous avons déjà vaincu des forces plus grandes que les nôtres."
+"C'est étrange, mais j'ai eu cette sensation de succès que je n'avais jamais "
+"eu avant. Nos soldats sont vraiment les meilleurs dans leur genre : la vraie "
+"élite. Il y a plus d'un mois qui est passé depuis que nous avons quitté "
+"Raedwood et nous avons déjà vaincu des forces plus grandes que les nôtres."
 
 #: A_New_Order/macros/conversations.cfg:46
 #, fuzzy
 msgid "A month? Are you sure it's been more than a month?"
-msgstr "Un mois ? Tu es sûr que ce sera plus d'un mois ?"
+msgstr "Un mois ? Tu es sûr que ça fera plus d'un mois ?"
 
 #. [then]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:529
@@ -1179,7 +1181,7 @@ msgid ""
 msgstr ""
 "N'essayez pas de m'effrayer. Je suis trop vieux pour avoir peur de la mort "
 "et je n'ai pas de famille. Je vais essayer de guérir votre fils parce que "
-"c'est mon devoir de médecin et pas à cause de vos menaces, dame Akladienne."
+"c'est mon devoir de médecin et pas à cause de vos menaces, dame akladienne."
 
 #. [then]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:629
@@ -1210,7 +1212,7 @@ msgstr "Non ! Ne meurs pas ! Pas maintenant !"
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:714
 #, fuzzy
 msgid "For freedom! Death to the Akladian beasts!"
-msgstr "Pour la liberté ! Mort aux bêtes Akladiennes !"
+msgstr "Pour la liberté ! Mort aux bêtes akladiennes !"
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:715
@@ -1302,7 +1304,7 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:57
 msgid "Gaeltin Hyer"
-msgstr ""
+msgstr "Gaeltin Hyer"
 
 #. [side]: id=Raul O Gaeltin, type=Akladian Lord
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:74
@@ -1577,7 +1579,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:422
 msgid "This is the end which awaits all traitors!"
-msgstr "Voici la fin qui attend tous les traîtres !"
+msgstr "Voici comment finissent tous les traîtres !"
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:433
@@ -2283,9 +2285,9 @@ msgid ""
 "that, hold on at least $ano_howmanyturns turns before the honorable death of "
 "Gawen Hagarthen."
 msgstr ""
-"Déplacez Lorin ET Reme vers le panneau indicateur de l'est ou celui de "
-"l'ouest. Ensuite, tenez au moins cinq tours avant que Gawen Hagarthen ne "
-"meure honorablement."
+"Déplacez Lorin ET Reme vers le panneau indicateur de l'est ou vers celui de "
+"l'ouest. Ensuite, tenez au moins $ano_howmanyturns tours avant que Gawen "
+"Hagarthen ne meure honorablement."
 
 #. [then]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:349
@@ -2528,7 +2530,7 @@ msgstr "Chasseur"
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:856
 #, fuzzy
 msgid "shieldguard"
-msgstr "Garde-bouclier akladien"
+msgstr "Garde bouclier"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:858
@@ -4345,8 +4347,8 @@ msgid ""
 "swordsman, 17 gold pieces for our naffat fire masters, and 15 for the jundi "
 "foot soldiers, right?"
 msgstr ""
-"Donc, en résumé, vous acceptez de payer 14 pièces par épéiste, 15 par archer "
-"et 18 par piquier, c'est cela ?"
+"Donc, en résumé, vous acceptez de payer 13 pièces par épéiste, 15 par archer "
+"et 15 par piquier, c'est cela ?"
 
 #. [event]
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:190
@@ -5728,9 +5730,8 @@ msgstr ""
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:24
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:25
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:30
-#, fuzzy
 msgid "Freetown"
-msgstr "Vers Libreville"
+msgstr "Libreville"
 
 #. [side]: id=Gwidle Turlin, type=General
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:40
@@ -6453,7 +6454,6 @@ msgid ""
 "\n"
 "Move Ruvio to signpost to ask him for advice."
 msgstr ""
-"\n"
 "Dans ce scénario, vous pouvez interroger le chef avec Ruvio ou Gawen, ça ne "
 "fait pas de différence.\n"
 "\n"
@@ -7125,7 +7125,7 @@ msgstr "Vers Barnon"
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:281
 msgid "Hyeton"
-msgstr ""
+msgstr "Hyeton"
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:326
@@ -8259,17 +8259,13 @@ msgid ""
 "Lady Lorin can also interrogate enemy leaders.\n"
 "You will receive no bonus if withdrawing with Gawen."
 msgstr ""
-"\n"
 "Dame Lorin peut aussi interroger les chefs ennemis. \n"
 "Vous ne recevrez aucun bonus si Gawen bat en retraite."
 
 #. [objectives]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:226
-#, fuzzy
 msgid "You will receive no bonus if withdrawing with Gawen."
-msgstr ""
-"\n"
-"Vous ne recevrez aucun bonus si Gawen bat en retraite."
+msgstr "Vous ne recevrez aucun bonus si Gawen bat en retraite."
 
 #. [event]
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:240
@@ -8866,9 +8862,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:311
-#, fuzzy
 msgid "To win, you should move Reme Carrenemore here!"
-msgstr "Savez-vous où se trouve Reme Carrenmoe ?"
+msgstr "Pour gagner, vous devriez amener Reme Carrenemore ici !"
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:314
@@ -9715,7 +9710,6 @@ msgid ""
 "Because Majid Yahyazad joined you together with Lorin, you can now recruit "
 "warriors of the Khalifate."
 msgstr ""
-"\n"
 "Comme Andrey Yaranov s'est joint à vous avec Lorin, vous pouvez désormais "
 "recruter des Aragwaiths."
 
@@ -9909,12 +9903,10 @@ msgstr "Je te laisserai vivre si tu me dis quelques petites choses."
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:201
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:236
-#, fuzzy
 msgid ""
 "Yes, yes, I will answer, yummie.. liver. What kind of liver it would be?"
 msgstr ""
-"Oui, oui, je vais répondre, délicieuse viande... Quel genre de viande ce "
-"sera ?"
+"Oui, oui, je vais répondre, bonne... viande. Quel genre de chair ce sera ?"
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:202
@@ -9946,12 +9938,11 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:205
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:240
-#, fuzzy
 msgid ""
 "My boss would know. I know nothing, I am great warrior, not great thinker."
 msgstr ""
-"Mon chef devrait savoir. Je sais rien. Je suis un grand guerrier, pas un "
-"grand penseur."
+"Mon chef devrait savoir. Je sais rien. Je suis grand guerrier, pas grand "
+"penseur."
 
 #. [event]
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:207
@@ -10148,7 +10139,6 @@ msgstr "Bussur"
 
 #. [objectives]
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:178
-#, fuzzy
 msgid "You may withdraw by moving Gawen to signpost."
 msgstr ""
 "Vous pouvez battre en retraite en déplaçant Gawen au panneau indicateur."
@@ -12072,7 +12062,9 @@ msgstr "Oui, en effet."
 msgid ""
 "If you were as delighted as I was with the fight, please answer a few "
 "questions."
-msgstr "Si tu détestes le combat autant que moi, réponds à mes questions."
+msgstr ""
+"Si tu as apprécié le combat autant que moi, aie la courtoisie de répondre à "
+"mes questions."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:413
@@ -12092,15 +12084,15 @@ msgid ""
 "that witch, Lorin. It was she who gave you courage, that traitor to her own "
 "race."
 msgstr ""
-"Tu ne serais pas capable de faire ça sans le support de la magie de cette "
-"sorcière, la sorcière est avec toi. C'est elle qui t'a donné le courage, "
-"cette traîtresse envers sa propre race."
+"Tu ne serais pas capable de faire ça sans l'aide de la magie de cette "
+"sorcière, qui est avec toi. C'est elle qui t'a donné le courage, cette "
+"traîtresse envers sa propre race."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:415
 #, fuzzy
 msgid "Hmm... Should I feel complimented, or offended?"
-msgstr "Hum... Je dois prendre ça pour un compliment ou pour une offense ?"
+msgstr "Hum... Je dois prendre ça pour un compliment ou pour une insulte ?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:420
@@ -12115,7 +12107,9 @@ msgstr ""
 #, fuzzy
 msgid ""
 "If you were as delighted as I was with the fight, please answer my questions."
-msgstr "Si tu détestes le combat autant que moi, réponds à mes questions."
+msgstr ""
+"Si tu as apprécié le combat autant que moi, aie la courtoisie de répondre à "
+"mes questions."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:427
@@ -12138,14 +12132,14 @@ msgid ""
 "you will enter heaven without hands, legs, or head might make you a little "
 "bit uneasy."
 msgstr ""
-"Non, bien sûr que non, tu es un guerrier courageux. Je pensais juste que la "
+"Non, bien sûr que non, tu es un guerrier courageux. Je croyais juste que la "
 "pensée de rentrer au paradis sans mains, sans jambes et sans tête te "
 "rendrait un peu moins tranquille."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:430
 msgid "Stop it, witch. You can't scare me."
-msgstr "Laisse tomber, sorcière, tu ne sais pas me faire peur."
+msgstr "Laisse tomber, sorcière, tu ne peux pas me faire peur."
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:431
@@ -13250,7 +13244,7 @@ msgid ""
 msgstr ""
 "Beaucoup de choses intéressantes se sont passées récemment ! Deux filles "
 "sont nées dans mon village, le même jour à la même heure ! Gros-Robert a "
-"perdu un cheval en forêt, je pense qu'il a été volé par des hors-la-loi."
+"perdu un cheval en forêt, et je pense qu'il a été volé par des hors-la-loi."
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
@@ -13492,7 +13486,7 @@ msgstr "Ripe Scud"
 #. [scenario]: id=19c_The_Oracle
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:3
 msgid "The Oracle"
-msgstr "L'oracle."
+msgstr "L'Oracle."
 
 #. [part]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:19
@@ -13649,7 +13643,7 @@ msgstr "Gros-Bart"
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:897
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:918
 msgid "Outlaw"
-msgstr "Un hors-la-loi"
+msgstr "Hors-la-loi"
 
 #. [side]: id=Burke Barien, type=Akladian Lord
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:933
@@ -15593,9 +15587,8 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:59
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:26
-#, fuzzy
 msgid "Dead city"
-msgstr "La Ville morte."
+msgstr "Ville morte"
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:117
@@ -15693,11 +15686,11 @@ msgid ""
 "forces of evil led by Grekulak, which are even now almost upon our very "
 "doorstep."
 msgstr ""
-"Non Gawen, Pour la grande majorité des Akladiens, spécialement les membres "
-"des simples clans, Gawen Hagarthen est le roi légitime. Aucun seigneur "
-"Akladien ne vous déteste. Vous êtes la seule personne à pouvoir réunir les "
-"Akladiens et les Wesnothiens, vous seul pouvez créer une nation pour tous et "
-"vaincre les forces du mal qui vont venir ici, menées par Grekulak."
+"Non Gawen, Pour la grande majorité des Akladiens, spécialement les simples "
+"membres de clans, Gawen Hagarthen est le roi légitime. Aucun seigneur "
+"Akladien ne vous déteste. Vous êtes le seul à pouvoir réunir les Akladiens "
+"et les Wesnothiens, le seul à pouvoir créer une nation pour tous, et le seul "
+"à pouvoir vaincre les forces du mal qui vont arriver ici menées par Grekulak."
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:126
@@ -15987,7 +15980,7 @@ msgstr ""
 #. [objective]: condition=win
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:100
 msgid "Explore"
-msgstr ""
+msgstr "Explorer"
 
 #. [event]
 #: A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:128
@@ -16723,7 +16716,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:510
 msgid "And..."
-msgstr ""
+msgstr "Et..."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:511
@@ -17389,8 +17382,9 @@ msgid ""
 "never have desecrated our family name by marrying her! I spit on you!"
 msgstr ""
 "Ton oncle ? Moi ? Tu n'es qu'un inférieur ! Même si tu ES vraiment Gawen "
-"Hagarthen, ta femme était un de ces chiens ! <Tousse> Mon cousin n'aurait "
-"jamais dû déshonorer notre famille en l'épousant ! Je te crache dessus !"
+"Hagarthen, ta femme appartenait à cette race de chiens ! (Tousse) Mon cousin "
+"n'aurait jamais dû déshonorer notre famille en l'épousant ! Je te crache "
+"dessus !"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:432
@@ -17409,8 +17403,8 @@ msgid ""
 "A king! Ooh, I've never killed a king before. You know, I should feel more "
 "exhilirated."
 msgstr ""
-"Un roi ! Je n'avais jamais tué un roi avant. Vous voyez, je devrais "
-"ressentir plus d'excitation."
+"Un roi ! Je n'avais jamais tué un roi avant. Je devrais ressentir plus "
+"d'excitation."
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:437
@@ -17419,8 +17413,8 @@ msgid ""
 "So you are Lorin from the Galloraes... best sword-arm among Akladian "
 "women... (cough)"
 msgstr ""
-"Donc vous êtes Lorin du clan de Gallorae. La plus fine lame des femmes "
-"Akladiennes. <Tousse>"
+"Donc vous êtes Lorin du clan de Gallorae... La plus fine lame des femmes "
+"Akladiennes. (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:438
@@ -17438,7 +17432,7 @@ msgid ""
 "To introduce peace and order into Vakladia and to unite it with my kingdom, "
 "Okladia."
 msgstr ""
-"Pour ramener la paix et l'ordre en Vakladia et l'unifier à mon royaume "
+"Pour ramener la paix et l'ordre en Vakladia et l'unifier à mon royaume, "
 "Okladia."
 
 #. [event]
@@ -17465,7 +17459,7 @@ msgstr ""
 "Des fantômes, des gens qui sont morts depuis longtemps et que l'on revoit... "
 "des zombies... Mes éclaireurs m'ont fait des rapports contradictoires. "
 "Certains de mes seigneurs ont disparu. Je pensais envoyer une armée là-bas "
-"immédiatement après avoir fini avec Vakladia... <Tousse>"
+"immédiatement après avoir fini avec Vakladia... (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:442
@@ -17966,8 +17960,8 @@ msgid ""
 "(sigh) Well, I am. King Gawen Haldric Hagarthen. Rightful heir to the "
 "thrones of Vakladia et cetera, et cetera."
 msgstr ""
-"<soupir> Oui, c'est bien moi. Le roi Gawen Haldric Hagarthen. Successeur "
-"légitime au trône de Vakladia et caetera et caetera."
+"(Soupir) Oui, c'est bien moi. Le roi Gawen Haldric Hagarthen. Successeur "
+"légitime au trône de Vakladia et caetera, et caetera."
 
 #. [event]
 #: A_New_Order/scenarios/23d_Trapped.cfg:31
@@ -18855,8 +18849,8 @@ msgid ""
 "she does not want to tell you, neither will I. But be prepared... she may "
 "not be able to fight in some of the battles which await us in future."
 msgstr ""
-"Non, Monsieur. Je pense que je sais ce qui est arrivé à votre belle-mère, "
-"mais si elle ne veut rien vous dire, je ne le ferai pas non plus. Préparez-"
+"Non, Monsieur. Je crois que je sais ce qui est arrivé à votre belle-mère, "
+"mais si elle ne veut rien vous dire, je ne le ferai pas non plus. Attendez-"
 "vous à ce qu'elle ne soit plus capable de participer aux batailles qui nous "
 "attendent."
 
@@ -19202,7 +19196,7 @@ msgid ""
 "risk weakening their armies, because the one beloved brother would then cut "
 "the second beloved brother's beloved throat."
 msgstr ""
-"<À elle-même> Ou alors, ils ont si peur l'un de l'autre, qu'ils ne peuvent "
+"(À elle-même) Ou alors, ils ont si peur l'un de l'autre, qu'ils ne peuvent "
 "pas risquer d'affaiblir leur armée parce que le frère bien aimé pourrait "
 "trancher la bien-aimée gorge de l'autre frère bien-aimé."
 
@@ -19228,7 +19222,7 @@ msgid ""
 "(To herself) 200 golden pieces! Wow, I'm impressed. I bet they will be "
 "forced to beg now, losing so ENORMOUS an amount of gold."
 msgstr ""
-"<À elle-même> 200 pièces d'or ! Waow, je suis impressionnée. Je parie qu'ils "
+"(À elle-même) 200 pièces d'or ! Waow, je suis impressionnée. Je parie qu'ils "
 "vont être obligés de mendier maintenant, perdre une somme d'or aussi énorme."
 
 #. [scenario]: id=27_Orannon
@@ -19979,7 +19973,7 @@ msgstr ""
 #: A_New_Order/scenarios/28_Lorin.cfg:219
 #, fuzzy
 msgid "(whispering to himself) Oh no, Majid..."
-msgstr "<soupirant intérieurement> Oh mon Dieu, Yaranov..."
+msgstr "(Soupirant intérieurement) Oh mon Dieu, Yaranov..."
 
 #. [event]
 #: A_New_Order/scenarios/28_Lorin.cfg:220
@@ -20443,7 +20437,7 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/30_Final.cfg:76
 msgid "Quests and puzzles solved"
-msgstr ""
+msgstr "Quêtes et énigmes résolues"
 
 #. [event]
 #: A_New_Order/scenarios/30_Final.cfg:79
@@ -20949,7 +20943,6 @@ msgid ""
 "coward by his soldiers. You will get a bonus for each turn resisted beyond "
 "the required limit."
 msgstr ""
-"\n"
 "Toutes les unités qui atteignent le panneau indicateur seront évacuées. Les "
 "unités non rappelées seront perdues. Gawen ne peut pas fuir ou il sera "
 "considéré par ses soldats comme un lâche. Vous recevrez un bonus pour chaque "
@@ -21383,7 +21376,7 @@ msgstr "Un ancien ami."
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:135
 msgid "OOPS. This is a bug."
-msgstr ""
+msgstr "Oups. Voici un bogue."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:245
@@ -21775,7 +21768,7 @@ msgstr ""
 #, fuzzy
 msgid "Yes... I remember it. Indeed, they bought poison from us. (cough)"
 msgstr ""
-"Oui... Je m'en, souviens. En effet, ils nous ont acheté du poison. <Tousse>"
+"Oui... Je m'en, souviens. En effet, ils nous ont acheté du poison. (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:391
@@ -21801,9 +21794,9 @@ msgid ""
 "poison perfectly. I can't be sure, of course, but I would guess that Lorin's "
 "clan bought the poison to kill your mother... (cough)"
 msgstr ""
-"Tout ce que j'ai entendu de la mort de ta mère ressemble parfaitement à "
-"l'action de notre poison. Je ne peux pas en être sûr, évidemment, mais je "
-"pense que le clan de Lorin a acheté le poison pour tuer ta mère... <Tousse>"
+"Tout ce que j'ai entendu de la mort de ta mère ressemble parfaitement à la "
+"façon dont agit notre poison. Je ne peux jurer de rien, évidemment, mais je "
+"pense que le clan de Lorin a acheté le poison pour tuer ta mère... (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:396
@@ -22071,7 +22064,7 @@ msgid ""
 "Ha, ha, you're one to talk! Hey, Gawen, have you ever asked Lorin about how "
 "your mother died? Have you... aaargh!"
 msgstr ""
-"Ha, ha et qui nous dit ça ? Hé, Gawen, tu as déjà demandé à Lorin comment ta "
+"Ha, ha et qui parle de ça ? Hé, Gawen, tu as déjà demandé à Lorin comment ta "
 "mère est morte ? Tu lui as... aaaargh !"
 
 #. [event]
@@ -22107,7 +22100,7 @@ msgstr "Franchement, je m'en fiche."
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:469
 msgid "Outlaw now, outlife soon."
-msgstr "Hors-la-loi maintenant, hors de la vie bientôt !"
+msgstr "Hors-la-loi maintenant, hors-de-la-vie bientôt !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:470
@@ -22328,12 +22321,11 @@ msgstr ""
 "les Wesnothiens vivront en paix."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:548
-#, fuzzy
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) You... "
 "you..."
 msgstr ""
-"Les Wesnothiens ! Un tas de poules mouillées ! Une bande de puants <Tousse> "
+"Les Wesnothiens ! Des tas de poules mouillées ! Une bande de puants (Tousse) "
 "Vous... Vous..."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:549
@@ -22466,21 +22458,18 @@ msgstr "Je pense qu'il est temps d'utiliser toutes nos réserves !"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:4
-#, fuzzy
 msgid "race^Akladian"
-msgstr "female^Lady Akladienne"
+msgstr "Akladien"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:5
-#, fuzzy
 msgid "race+female^Akladian"
-msgstr "female^Lady Akladienne"
+msgstr "Akladienne"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:6
-#, fuzzy
 msgid "race^Akladians"
-msgstr "female^Lady Akladienne"
+msgstr "Akladiens"
 
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:9
@@ -22504,8 +22493,9 @@ msgstr ""
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:59
+#, fuzzy
 msgid "race+female^Khalifate Human"
-msgstr ""
+msgstr "Akladienne"
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:60
@@ -22524,13 +22514,15 @@ msgstr ""
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:70
+#, fuzzy
 msgid "race+female^Falcon"
-msgstr ""
+msgstr "Akladienne"
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:71
+#, fuzzy
 msgid "race^Falcons"
-msgstr ""
+msgstr "Akladiens"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
@@ -22568,7 +22560,7 @@ msgstr "épée"
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
 #, fuzzy
 msgid "Akladian Clansman"
-msgstr "Paysan Akladien"
+msgstr "Paysan akladien"
 
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:20
@@ -22995,9 +22987,8 @@ msgstr ""
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:138
-#, fuzzy
 msgid "obscures"
-msgstr "soin"
+msgstr ""
 
 #. [illuminates]: id=obscure
 #: A_New_Order/units/macros/abilities.cfg:139
@@ -23136,21 +23127,22 @@ msgid ""
 "usually just policing the cities and guarding the walls."
 msgstr ""
 "Les milices citoyennes sont formées des habitants des cités Wesnothiennes. "
-"Leur rôle est habituellement de faire la police et de garder les murs."
+"Leur rôle est habituellement de faire la police et de surveiller les "
+"remparts."
 
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
-msgstr ""
+msgstr "Pas de description. Cette fausse unité n'apparaîtra nulle part."
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:5
-#, fuzzy
 msgid "Outlaw Raider"
-msgstr "Base des hors-la-loi."
+msgstr "Pillard hors-la-loi"
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:33
+#, fuzzy
 msgid ""
 "After a four or five robbings any Brigands that last that long will usually "
 "find a sword of some type. Usually this is a saber because fencers are their "
@@ -23158,6 +23150,12 @@ msgid ""
 "fights most of the time. They also usually build or buy (or steal) a better "
 "crossbow and their accuracy and skill have both improved with practice."
 msgstr ""
+"Après quatre ou cinq vols, un maraudeur toujours en activité aura trouvé "
+"habituellement une épée quelconque. C'est en général un sabre, car leurs "
+"proies les plus habituelles sont souvent les bretteurs vagabondant sur les "
+"routes secondaire en quête de combats. Ils ont généralement aussi pris le "
+"temps de fabriquer, d'acheter ou de voler une meilleure arbalète, et la "
+"pratique a amélioré leur habileté et leur précision."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:37
@@ -23166,9 +23164,8 @@ msgstr ""
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
-#, fuzzy
 msgid "Peasant girl"
-msgstr "Paysan"
+msgstr "Paysanne"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:26
@@ -23176,6 +23173,8 @@ msgid ""
 "The young girl. She cannot fight, she cannot even defend herself. She "
 "appears only once in one scenario."
 msgstr ""
+"La jeune fille. Elle ne peut ni combattre, ni même se défendre toute seule. "
+"Elle n'apparaît qu'une fois, dans un seul scénario. "
 
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/units/others/Ruvio.cfg:21
@@ -23202,24 +23201,144 @@ msgstr ""
 "bonne ménagère n'était définitivement pas sa destinée."
 
 #~ msgid ""
-#~ "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling "
-#~ "over the people dreaming about old legends. Can Gawen Hagarthen unite "
-#~ "them all against the common danger? This supposed to be easy campaign. "
+#~ "storyline, coding, story images, portraits, original sprites for "
+#~ "Akladians."
 #~ msgstr ""
-#~ "Le vieux royaume de Wesnoth tombe en ruine, tandis que les barbares "
-#~ "dominent le peuple qui ne rêve qu'aux vieilles légendes. Gawen Hagarthen "
-#~ "peut-il les unir tous contre le danger commun ? Cette campagne est "
-#~ "supposée être facile."
+#~ "histoire, programmation, illustrations de l'histoire et des portraits, "
+#~ "dessins originaux des Akladiens."
+
+#~ msgid "Main maintainer, release manager"
+#~ msgstr "Chargé principal de la maintenance, gestionnaire des version"
+
+#~ msgid "sprites for Aragwaithi and corrections of Akladian sprites"
+#~ msgstr "Dessins des Aragwaiths et corrections des images pour Akladiens"
+
+#~ msgid "bug reports, english errors corrections"
+#~ msgstr "Rapport de bogues, correction des erreurs de traduction en anglais"
+
+#~ msgid "Outlaw level 3 pack is maintained by them."
+#~ msgstr "Le pack de hors-la-loi niveau 3 est maintenu par eux."
+
+#~ msgid "for patience and explaining how wescamp works"
+#~ msgstr ""
+#~ "pour leur patience et pour m'avoir expliqué le fonctionnement de Wescamp"
+
+#~ msgid "for art advises"
+#~ msgstr "pour les conseils graphiques"
+
+#~ msgid "for hints on wml and unit stats"
+#~ msgstr "pour les astuces concernant le WML et les statistiques des unités"
+
+#~ msgid "Aragwaiths die without fear!"
+#~ msgstr "Aragwaiths, mourez sans peur !"
 
 #~ msgid ""
-#~ " The campaign is not intended for underaged. It contains elements making "
-#~ "it unsuitable for children. You have been warned."
+#~ "This is debug message.  If you see it, then it means I forgot to delete "
+#~ "it from release scenario: ' {TEXT} '"
 #~ msgstr ""
-#~ "Cette campagne ne se destine pas aux mineurs. Elle contient des éléments "
-#~ "qui ne la rendent pas adaptée aux enfants. Vous voilà prévenu."
+#~ "Ceci est un message de debug. SI vous le voyez, ça veut dire que j'ai "
+#~ "oublié de l'effacer de ce scénario : ' {TEXT} '"
 
-#~ msgid "Version"
-#~ msgstr "Version"
+#~ msgid ""
+#~ "My lord, our scouts told us that we are being followed by some very large "
+#~ "army of Akladians. Someone has noticed us. Maybe our successes were too "
+#~ "large. We have to won quickly, or we will be crushed by another foe."
+#~ msgstr ""
+#~ "Monseigneur, nos éclaireurs nous ont dit que nous étions suivis par une "
+#~ "très grande armée d'Akladiens. Quelqu'un nous a remarqués. Peut-être que "
+#~ "nos succès ont été trop grands. Nous devons gagner rapidement, ou nous "
+#~ "serons balayés par un autre prétendant."
+
+#~ msgid ""
+#~ "Note for translators: The message 'I fought with you so many battles..' "
+#~ "etc will be speaked by both male, Milildur, and Elorain, female. Make it "
+#~ "gender neutral."
+#~ msgstr ""
+#~ "Remarque pour les traducteurs : le message 'I fought with you so many "
+#~ "battles..'etc. sera dit par un mâle, Milildur et par une femelle, "
+#~ "Elorain. Gardez-le neutre."
+
+#~ msgid ""
+#~ "Note from campaign developer: If you have just downloaded campaign and "
+#~ "started playing instantly, it may happen that some of unit images are not "
+#~ "appearing. In such case try to restart Wesnoth; usually it helps - szopen."
+#~ msgstr ""
+#~ "Note de l'auteur de la campagne : si vous venez de télécharger la "
+#~ "campagne et que vous avez commencé à jouer immédiatement, il se peut que "
+#~ "certaines images d'unités n'apparaissent pas. Dans ce cas, essayez de "
+#~ "redémarrer Wesnoth, habituellement, ça aide - szopen."
+
+#~ msgid ""
+#~ "Our people came here from the eastern lands long before my birth.  Our "
+#~ "race's fate is to rule over the world; Your grandfather smashed the "
+#~ "underling armies in the field and stormed their castles.  They were weak, "
+#~ "divided, they had no gods to protect them and had forgotten the ways of "
+#~ "the sword long ago; they were truly destined to be our slaves."
+#~ msgstr ""
+#~ "Notre peuple est venu ici depuis les terres orientales longtemps avant ma "
+#~ "naissance. Le destin de notre espèce est de diriger le monde. Ton grand-"
+#~ "père a balayé les armées des inférieurs dans les plaines et a détruit "
+#~ "leurs châteaux. Ils étaient faibles, divisés, ils n'avaient pas de Dieu "
+#~ "pour les protéger et avaient oublié depuis longtemps comment se servir "
+#~ "d'une épée. Ils étaient vraiment destinés à devenir nos esclaves."
+
+#~ msgid "Reach the enemy keep with Gawen"
+#~ msgstr "Atteignez le repaire de l'ennemi avec Gawen."
+
+#~ msgid "Uh, I hope I will never know you closer"
+#~ msgstr "Euh, J'espère que je ne te connaîtrai jamais de plus près..."
+
+#~ msgid "Yeah!"
+#~ msgstr "Ouais !"
+
+#~ msgid ""
+#~ "Wait! I hate when you kill the people before I have chance to interrogate "
+#~ "them. It's the second time."
+#~ msgstr ""
+#~ "Attends ! Je déteste quand tu tues des gens avant que je n'aie pu les "
+#~ "interroger ! C'est la deuxième fois."
+
+#~ msgid "Second time? What do you mean?"
+#~ msgstr "La deuxième fois ? Qu'est-ce que tu veux dire ?"
+
+#~ msgid ""
+#~ "Meet my daughter, Gawen Hagarthen. Imagine I have three other daughters "
+#~ "like that back home. Not to mention my wife!"
+#~ msgstr ""
+#~ "Voici ma fille, Gawen Hagarthen. Imaginez que j'ai trois autres filles "
+#~ "comme ça à la maison. Sans parler de ma femme !"
+
+#~ msgid "Huh."
+#~ msgstr "Heu..."
+
+#~ msgid "Andrey Yaranov"
+#~ msgstr "Andrey Yaranov"
+
+#~ msgid "In our magazins and.."
+#~ msgstr "Dans nos magasins et ..."
+
+#~ msgid ""
+#~ "Orcs? I fought them already. Good opponents, not like you. I am looking "
+#~ "forward to meet them."
+#~ msgstr ""
+#~ "Des orcs ? J'en ai déjà combattu. Ce sont de bons adversaires, pas comme "
+#~ "toi. J'ai hâte de les rencontrer."
+
+#~ msgid "By kissing my hairy dirty arse, witch."
+#~ msgstr "En embrassant mon cul poilu, sorcière."
+
+#~ msgid "Disappointed? Wanted to have more action?"
+#~ msgstr "Déçue ? Vous vouliez plus d'action ?"
+
+#~ msgid "Anyway, it seems that some of them could even fight for you."
+#~ msgstr ""
+#~ "De toute façon, on dirait que certains se battraient même pour vous."
+
+#~ msgid "What? Is he some kind of misogynist?"
+#~ msgstr "Quoi ? Il est un peu misogyne ou quoi ?"
+
+#~ msgid "Sorry, I am not a necromancer."
+#~ msgstr "Désolé, je ne suis pas un nécromancien."
 
 #~ msgid "Lorin, if you would only gave me a chance, I would make you howl."
 #~ msgstr ""
@@ -23241,40 +23360,6 @@ msgstr ""
 
 #~ msgid "I know. You hate me."
 #~ msgstr "Je sais, tu me détestes."
-
-#~ msgid ""
-#~ "Welcome, Gaumhaldric. It's first time I have a pleasure to fight for you. "
-#~ "We, elves, are accustomed to fighting inside of forests. Our specialty "
-#~ "are bows. Use us wisely."
-#~ msgstr ""
-#~ "Bienvenue, Gaumhaldric. C'est la première fois que j'ai le plaisir de me "
-#~ "battre pour vous. Nous, les elfes, sommes accoutumés à nous battre dans "
-#~ "les bois. Notre spécialité est l'arc. Utilisez-nous à bon escient."
-
-#~ msgid ""
-#~ "Whom should I kill? They call me Elorain the eagle-eyed. Even in hot of "
-#~ "battle, in most difficult circumstances, I still can hit target 6 times "
-#~ "from every ten. Also, I can hide in forests and ambush enemies."
-#~ msgstr ""
-#~ "Qui devrais-je tuer ? Ils m'appellent Elorain-oeil-d'aigle. Même au coeur "
-#~ "de la bataille, dans les circonstances les plus difficiles, je peux "
-#~ "frapper ma cible six fois sur dix. Je suis aussi capable de me cacher en "
-#~ "forêt et de tendre des embuscades à mes ennemis."
-
-#~ msgid ""
-#~ "I had no occasion to thank you that you have choosed me to fight for you."
-#~ msgstr ""
-#~ "Je n'ai pas encore eu l'occasion de vous remercier de m'avoir choisi pour "
-#~ "combattre avec vous."
-
-#~ msgid ""
-#~ "You already know, probably, that I can cure lighter wounds of your "
-#~ "soldiers. But I know also spells, and I can slow down enemies, making "
-#~ "them easy prey for other our units."
-#~ msgstr ""
-#~ "Vous savez sûrement déjà que je peux soigner les blessures légères de vos "
-#~ "soldats. Mais je connais aussi des sorts et je peux ralentir les ennemis, "
-#~ "les rendant faciles à abattre par d'autres unités."
 
 #~ msgid "Yaranov"
 #~ msgstr "Yaranov"
@@ -23340,16 +23425,6 @@ msgstr ""
 #~ "Non, non, tu ne m'as pas compris. Je te laisserai la VIE, pas la VIANDE. "
 #~ "Pourquoi êtes-vous alliés aux Akladiens ?"
 
-#~ msgid ""
-#~ "And I thought this day sssstarted ssssuch beatifully.. What orcs? They "
-#~ "have two legssss, two handsss, what'sss more do you want to know? Being "
-#~ "Akladian you ssshould know them better.."
-#~ msgstr ""
-#~ "Et dire que j'ai pensssé que ccce jour commencccait sssi bien... Quoi les "
-#~ "orcs ? Ils ont deux jambes, deux bras, que voulez-vous sssavoir de "
-#~ "plusss ?Vous devriez mieux les connaître mieux puisssque vous êtes "
-#~ "Akladienne..."
-
 #~ msgid "Andrey! Yes! You remember my first name!"
 #~ msgstr "Andrey ! Oui ! Vous vous souvenez de mon prénom !"
 
@@ -23399,10 +23474,15 @@ msgstr ""
 #~ "Regardez ! De nouvelles unités ennemies arrivent ! Nous n'avons plus "
 #~ "aucune chance de gagner maintenant !"
 
-#~ msgid "Note to translators : you will never be is plural."
+#~ msgid "Note to translators: you will never be is plural."
+#~ msgstr "Note de traduction : 'vous ne le deviendrez jamais' est au pluriel."
+
+#~ msgid ""
+#~ "(Note to translators: you will never be is plural)^No! No!  There has to "
+#~ "be better answer!"
 #~ msgstr ""
-#~ "Note de traduction : 'vous ne le deviendrez jamais' est à prendre au "
-#~ "pluriel."
+#~ "(Note de traduction : 'vous ne le deviendrez jamais' est à prendre au "
+#~ "pluriel.)^Non ! Non ! Il doit y avoir une meilleure réponse !"
 
 #~ msgid ""
 #~ "And I always wondered why? Only because you have promised something to "
@@ -23428,15 +23508,6 @@ msgstr ""
 #~ "La pensée que nous allons nous allier avec un mage me perturbe un peu, "
 #~ "Monseigneur. Mais je pense que je finirai par m'y habituer."
 
-#~ msgid ""
-#~ "Note from campaign developer: In version 0.2.2 You should play either "
-#~ "from scenario 'Entering Okladia' or 'The Woods of Okladia'. I am now "
-#~ "setting proper variables to other scenarios to work."
-#~ msgstr ""
-#~ "Note de l'auteur de la campagne : Dans la version 0.2.2, vous devez jouer "
-#~ "à partir des scénarios 'Entrée en Okladia' ou 'Les forêts d'Okladia'. J'y "
-#~ "initialise des variables nécessaires aux scénarios suivants."
-
 #~ msgid "You think I am afraid?"
 #~ msgstr "Tu penses que j'ai peur ?"
 
@@ -23461,7 +23532,7 @@ msgstr ""
 #~ msgstr "Vous avez ma promesse, je vous aiderai, Ruvio."
 
 #~ msgid "Who dies from my hand, is dead forever."
-#~ msgstr "Qui meurt par ma main, est mort pour toujours."
+#~ msgstr "Qui meurt par ma main meurt pour toujours."
 
 #~ msgid "I don't know. What are king's plans only king will know."
 #~ msgstr "Je ne sais pas. Les plans du roi ne sont connus que de lui."
@@ -23538,14 +23609,8 @@ msgstr ""
 #~ "J'espère qu'avec l'aide de ce {NAME}, ce ne sera pas aussi difficile que "
 #~ "ça. Néanmoins, il nous faut nous préparer à de sérieuses pertes."
 
-#~ msgid ""
-#~ "As far as I can tell, all rebels I know about acknowledged you as king. "
-#~ "Cities and remaining Wesnothian nobility are busy sending to you "
-#~ "declarations of loyalty."
-#~ msgstr ""
-#~ "De ce que je vois, tous les rebelles que je connais vous ont reconnu "
-#~ "comme roi. Les cités et le reste de la noblesse Wesnothienne vous "
-#~ "apportent des déclarations de loyauté."
+#~ msgid "Peasant"
+#~ msgstr "Paysan"
 
 #~ msgid ""
 #~ "Soon, my lord. I talked to the refugees from Okladia. King Buffin is "
@@ -23591,6 +23656,357 @@ msgstr ""
 #~ "son propre fils."
 
 #~ msgid ""
+#~ "But you have not find out which one of Akladian lords did that and why."
+#~ msgstr ""
+#~ "Mais vous ne savez pas lequel des seigneurs Akladien a fait ça et "
+#~ "pourquoi."
+
+#~ msgid "race^Aragwaith"
+#~ msgstr "Aragwaith"
+
+#~ msgid "race+female^Aragwaith"
+#~ msgstr "Aragwaithe"
+
+#~ msgid "race^Aragwaithi"
+#~ msgstr "Aragwaiths"
+
+#~ msgid "Akladian Clanmember"
+#~ msgstr "Membre du clan Akladien"
+
+#~ msgid "Ancient Banner"
+#~ msgstr "Bannière ancienne"
+
+#~ msgid "NEED SOME DESCRIPTION HERE"
+#~ msgstr "BESOIN D'UNE DESCRIPTION ICI"
+
+#~ msgid "Archer"
+#~ msgstr "Archer"
+
+#~ msgid ""
+#~ "The Aragwaithi are a noble people, fragile in body, but their training "
+#~ "makes them among the more deadly denizens of this world. Their archers "
+#~ "are no exception. Their skills with a bow are comparable to those of some "
+#~ "elves, and they are remarkably quick with their daggers."
+#~ msgstr ""
+#~ "Les aragwaithis sont un peuple noble, de constitution fragile, mais que "
+#~ "l'entrainement transforme en une des plus redoutables peuplades de ce "
+#~ "monde. Leurs archers ne font pas exception. Leur habileté à l'arc est "
+#~ "comparable à celle des elfes et ils sont d'une rapidité exceptionnelle "
+#~ "avec leurs dagues."
+
+#~ msgid "knife"
+#~ msgstr "couteau"
+
+#~ msgid "bow"
+#~ msgstr "arc"
+
+#~ msgid "Captain"
+#~ msgstr "Capitaine"
+
+#~ msgid "Flagbearer"
+#~ msgstr "Porte-étendard"
+
+#~ msgid "Greatbow"
+#~ msgstr "Grand-arc"
+
+#~ msgid ""
+#~ "Finally moving on from the dirk and dagger to the sword, the Greatbow is "
+#~ "superior to the Strongbow in melee combat, but not as powerful as the "
+#~ "Slayer. Their bow, however, is a masterpiece of military design. Several "
+#~ "months are spent crafting a single bow, and each bow is crafted by the "
+#~ "user, to his individual specifications. Due to the incredible strength "
+#~ "required to pull these bows, anyone but the crafter who attempts to draw "
+#~ "it could suffer serious injury."
+#~ msgstr ""
+#~ "Remplaçant enfin le couteau et la dague par une épée, l'habileté au corps "
+#~ "à corps du grand-arc est intermédiaire entre celle du puissant-arc et "
+#~ "celle du massacreur. Leur arc est toutefois un chef-d'œuvre d'équipement "
+#~ "militaire. Plusieurs mois sont nécessaires pour fabriquer, sur mesure, un "
+#~ "seul de ces arcs. La force incroyable nécessaire pour les bander rend "
+#~ "leur utilisation dangereuse pour tout autre que leur propriétaire."
+
+#~ msgid "Guard"
+#~ msgstr "Garde"
+
+#~ msgid ""
+#~ "Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
+#~ "mobility for the advantages of armor. Whether in ceremonial posts during "
+#~ "peace, or on the battlefield in times of war, their role is always the "
+#~ "same: defending the Warlock nobilty."
+#~ msgstr ""
+#~ "Les gardes sont choisis parmi les plus solides des spadassins et "
+#~ "renoncent volontiers à un peu de mobilité pour pouvoir porter des armures "
+#~ "lourdes. Que ce soit durant leurs fonctions honorifiques des temps de "
+#~ "paix ou durant leurs fonctions militaires des temps des guerres, leur "
+#~ "rôle reste toujours le même : protéger les enchanteurs nobles."
+
+#~ msgid "Guardian"
+#~ msgstr "Gardien"
+
+#~ msgid "Lancer"
+#~ msgstr "Lancier"
+
+#~ msgid "Longswordsman"
+#~ msgstr "Escrimeur"
+
+#~ msgid ""
+#~ "While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of "
+#~ "other races, the Aragwaithi reserve their own admiration for "
+#~ "Longswordsmen. These warriors have become so adept at the arts of thrust "
+#~ "and parry that they have adopted a longer blade than the Swordsmen, yet "
+#~ "they are able to wield it with equal grace and skill."
+#~ msgstr ""
+#~ "Malgré le talent supérieur de leurs spadassins, les aragawaithi réservent "
+#~ "toute leur admiration aux escrimeurs. Ces guerriers sont tellement "
+#~ "habiles pour parer et pour frapper d'estoc et de taille qu'ils ont "
+#~ "préféré porter une épée plus longue, toujours et encore maniée avec "
+#~ "aisance et grâce."
+
+#~ msgid "longsword"
+#~ msgstr "épée longue"
+
+#~ msgid "Pikeman"
+#~ msgstr "Piquier"
+
+#~ msgid "Scout"
+#~ msgstr "Éclaireur"
+
+#~ msgid ""
+#~ "These warriors wear the old shields of their ancients. These ancients "
+#~ "could hold the line in the great battles until the reinforcements "
+#~ "arrived, but they paid a high price, not many survived the battle and "
+#~ "many others died through their strong wounds. Now only the best warriors "
+#~ "are allowed to carry these ancient shields to remind the world and to "
+#~ "honor these brave man and their sacrifice."
+#~ msgstr ""
+#~ "Ces guerriers portent les antiques boucliers de leurs ancêtres qui "
+#~ "pouvaient tenir en ligne lors des grandes batailles, jusqu'à l'arrivée "
+#~ "des renforts. Ceux-ci l'ont payé cher car peu ont survécu et beaucoup "
+#~ "sont morts suite à leurs blessures. Aujourd'hui, seuls les meilleurs "
+#~ "guerriers ont le droit de brandir le bouclier des anciens en hommage à la "
+#~ "vie de ces gens courageux, à leur honneur et à leur sacrifice."
+
+#~ msgid "Silver Shield"
+#~ msgstr "Bouclier d'argent"
+
+#~ msgid "Slayer"
+#~ msgstr "Massacreur"
+
+#~ msgid ""
+#~ "While improving only marginally on the power of their bow, the Slayer "
+#~ "abandons the blade in favor of training with a glaive, improving his "
+#~ "skills in hand-to-hand combat. He is not as rugged as others of "
+#~ "comparable skill, but far deadlier."
+#~ msgstr ""
+#~ "Alors qu'il ne développe que peu son habileté à l'arc, le massacreur "
+#~ "abandonne le couteau pour s'entrainer au maniement de la vouge et "
+#~ "améliore ainsi sa capacité au combat au corps à corps. Il n'est pas aussi "
+#~ "acharné que d'autres aussi compétents que lui, mais bien plus mortel."
+
+#~ msgid "glaive"
+#~ msgstr "vouge"
+
+#~ msgid "Sorcerer"
+#~ msgstr "Sorcier des ténèbres"
+
+#~ msgid ""
+#~ "The less dextrous and stronger Aragwaith take up the spear. Useful in "
+#~ "hunting, this weapon is also deadly on the battlefield. Many impetuous "
+#~ "knights have found themselves or their mounts impaled on the point of an "
+#~ "Aragwaithi spear."
+#~ msgstr ""
+#~ "Les aragwaiths les plus forts et les moins habiles choisissent la lance. "
+#~ "Dangereuse à la chasse, cette arme est également mortelle sur un champ de "
+#~ "bataille. Beaucoup de chevaliers impétueux se sont retrouvés empalés au "
+#~ "bout d'une lance aragwaith."
+
+#~ msgid "Strongbow"
+#~ msgstr "Puissant-arc"
+
+#~ msgid ""
+#~ "By wielding a stronger bow and training almost constantly, the Aragwaith "
+#~ "Strongbow fires a far deadlier shot than the average archer. Their dirks "
+#~ "are longer than the daggers used by the typical archer, and they wield "
+#~ "them far more effectively."
+#~ msgstr ""
+#~ "Le puissant-arc aragwaith porte un arc puissant et s'entraine presque "
+#~ "tout le temps ; il tire des traits bien plus dangereux que ceux de "
+#~ "l'archer moyen et manie de façon bien plus efficace ses couteaux plus "
+#~ "longs que les dagues de l'archer standard."
+
+#~ msgid "Swordmaster"
+#~ msgstr "Maître des épées"
+
+#~ msgid ""
+#~ "Swordmasters do not come into their title lightly. They have endured "
+#~ "years of rigorous Aragwaithi military training, and survived many "
+#~ "ferocious battles. Their skill with their blades is spoken of with awe "
+#~ "among those few foes who have witnessed it - and lived.\n"
+#~ "Having won thier title, Swordmasters take responsibility for instructing "
+#~ "the young, passing on the proud Aragwaithi martial traditions. Even the "
+#~ "Royal Guards of Wesnoth respect the Swordmasters."
+#~ msgstr ""
+#~ "Les maîtres des épées n'obtiennent pas facilement leur titre. Pendant des "
+#~ "années, ils ont subis un entraînement militaire rigoureux et dû survivre "
+#~ "à de nombreuses et féroces batailles. Leur talent à l'épée terrifie ceux "
+#~ "qui les ont vu se battre et qui ont survécu à la rencontre.\n"
+#~ "Les maîtres des épées sont chargés de l'instruction des nouvelles "
+#~ "recrues, et doivent leur inculquer les fières traditions martiales "
+#~ "aragwaithi. Même les gardes royaux de Wesnoth les respectent."
+
+#~ msgid "Swordsman"
+#~ msgstr "Spadassin"
+
+#~ msgid ""
+#~ "While the Aragwaithi are slight of body, they are also fast and nimble. "
+#~ "These abilites, coupled with the intensive training given to the "
+#~ "Agarwaithi military, make for superb swordsmen. Swordsmen are clad in "
+#~ "light chain mail - the better to resist the blades of their enemies."
+#~ msgstr ""
+#~ "Élancés, les aragwaiths sont rapides et agiles. Ces caractéristiques, "
+#~ "couplées avec l'entraînement intensif dispensé aux soldats aragwaith, en "
+#~ "font de formidables combattants à l'épée. Les spadassins sont vêtus d'une "
+#~ "cotte de mailles légère, ce qui est le mieux pour résister aux lames "
+#~ "ennemies."
+
+#~ msgid "Aragwaith^Warlock"
+#~ msgstr "Enchanteur"
+
+#~ msgid ""
+#~ "The magically inclined among the Aragwaith recieve not only the martial "
+#~ "training so common in Aragwaithi society, but also in the art of healing, "
+#~ "and of course in magic. Wielding powerful fire, competent with their "
+#~ "staves, possessing a healing touch, Warlocks are the noblest of a noble "
+#~ "people."
+#~ msgstr ""
+#~ "Les aragwaiths prédisposés à la magie reçoivent un entraînement martial, "
+#~ "ce qui est très habituel dans leur société, et apprennent à soigner et à "
+#~ "lancer des sorts. Pouvant lancer de puissantes boules de feu, doués avec "
+#~ "leur bâton, et capables de guérir les autres, les enchanteurs sont les "
+#~ "plus nobles de ce noble peuple."
+
+#~ msgid "mage-bolt"
+#~ msgstr "rayon de magie"
+
+#~ msgid "female^Warlock"
+#~ msgstr "Enchanteresse"
+
+#~ msgid ""
+#~ "female^The magically inclined among the Aragwaith recieve not only the "
+#~ "martial training so common in Aragwaithi society, but also in the art of "
+#~ "healing, and of course in magic. Wielding powerful fire, competent with "
+#~ "their staves, possessing a healing touch, Warlocks are the noblest of a "
+#~ "noble people."
+#~ msgstr ""
+#~ "Les aragwaithes prédisposées à la magie reçoivent un entraînement "
+#~ "martial, ce qui est très habituel dans leur société, et apprennent à "
+#~ "soigner et à lancer des sorts. Pouvant lancer de puissantes boules de "
+#~ "feu, douées avec leur bâton, et capables de guérir les autres, les "
+#~ "enchanteresses sont les plus nobles de ce noble peuple."
+
+#~ msgid "Aragwaith^Wizard"
+#~ msgstr "Magicien"
+
+#~ msgid "female^Wizard"
+#~ msgstr "Magicienne"
+
+#~ msgid "sabre"
+#~ msgstr "sabre"
+
+#~ msgid "Orcish Shaman"
+#~ msgstr "Chaman orc"
+
+#~ msgid ""
+#~ "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+#~ "tribes, they form the Orcish Council, which makes important decisions for "
+#~ "the whole Orcish community and arbitrates the many conflicts that arise "
+#~ "between tribes of this argumentative race. Although physically weak (for "
+#~ "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+#~ "draining their life."
+#~ msgstr ""
+#~ "Les chamans orcs sont les gardiens de la magie orc. Très respectés, ils "
+#~ "forment le Conseil des Orcs, qui prend des décisions importantes et "
+#~ "arbitre les nombreux conflits qui surgissent entre les tribus de cette "
+#~ "race turbulente. Bien que physiquement fragiles (pour des orcs), les "
+#~ "chamans orcs sont de bons lanceurs de sorts et peuvent maudire leur "
+#~ "ennemis, drainant leur vie."
+
+#~ msgid "curse"
+#~ msgstr "malédiction"
+
+#~ msgid ""
+#~ " The campaign is not intended for underaged. It contains elements making "
+#~ "it unsuitable for children. You have been warned."
+#~ msgstr ""
+#~ "Cette campagne ne se destine pas aux mineurs. Elle contient des éléments "
+#~ "qui ne la rendent pas adaptée aux enfants. Vous voilà prévenu."
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid ""
+#~ "Welcome, Gaumhaldric. It's first time I have a pleasure to fight for you. "
+#~ "We, elves, are accustomed to fighting inside of forests. Our specialty "
+#~ "are bows. Use us wisely."
+#~ msgstr ""
+#~ "Bienvenue, Gaumhaldric. C'est la première fois que j'ai le plaisir de me "
+#~ "battre pour vous. Nous, les elfes, sommes accoutumés à nous battre dans "
+#~ "les bois. Notre spécialité est l'arc. Utilisez-nous à bon escient."
+
+#~ msgid ""
+#~ "Whom should I kill? They call me Elorain the eagle-eyed. Even in hot of "
+#~ "battle, in most difficult circumstances, I still can hit target 6 times "
+#~ "from every ten. Also, I can hide in forests and ambush enemies."
+#~ msgstr ""
+#~ "Qui devrais-je tuer ? Ils m'appellent Elorain-oeil-d'aigle. Même au coeur "
+#~ "de la bataille, dans les circonstances les plus difficiles, je peux "
+#~ "frapper ma cible six fois sur dix. Je suis aussi capable de me cacher en "
+#~ "forêt et de tendre des embuscades à mes ennemis."
+
+#~ msgid ""
+#~ "I had no occasion to thank you that you have choosed me to fight for you."
+#~ msgstr ""
+#~ "Je n'ai pas encore eu l'occasion de vous remercier de m'avoir choisi pour "
+#~ "combattre avec vous."
+
+#~ msgid ""
+#~ "You already know, probably, that I can cure lighter wounds of your "
+#~ "soldiers. But I know also spells, and I can slow down enemies, making "
+#~ "them easy prey for other our units."
+#~ msgstr ""
+#~ "Vous savez sûrement déjà que je peux soigner les blessures légères de vos "
+#~ "soldats. Mais je connais aussi des sorts et je peux ralentir les ennemis, "
+#~ "les rendant faciles à abattre par d'autres unités."
+
+#~ msgid ""
+#~ "And I thought this day sssstarted ssssuch beatifully.. What orcs? They "
+#~ "have two legssss, two handsss, what'sss more do you want to know? Being "
+#~ "Akladian you ssshould know them better.."
+#~ msgstr ""
+#~ "Et dire que j'ai pensssé que ccce jour commencccait sssi bien... Quoi les "
+#~ "orcs ? Ils ont deux jambes, deux bras, que voulez-vous sssavoir de "
+#~ "plusss ?Vous devriez mieux les connaître mieux puisssque vous êtes "
+#~ "Akladienne..."
+
+#~ msgid ""
+#~ "Note from campaign developer: In version 0.2.2 You should play either "
+#~ "from scenario 'Entering Okladia' or 'The Woods of Okladia'. I am now "
+#~ "setting proper variables to other scenarios to work."
+#~ msgstr ""
+#~ "Note de l'auteur de la campagne : Dans la version 0.2.2, vous devez jouer "
+#~ "à partir des scénarios 'Entrée en Okladia' ou 'Les forêts d'Okladia'. J'y "
+#~ "initialise des variables nécessaires aux scénarios suivants."
+
+#~ msgid ""
+#~ "As far as I can tell, all rebels I know about acknowledged you as king. "
+#~ "Cities and remaining Wesnothian nobility are busy sending to you "
+#~ "declarations of loyalty."
+#~ msgstr ""
+#~ "De ce que je vois, tous les rebelles que je connais vous ont reconnu "
+#~ "comme roi. Les cités et le reste de la noblesse Wesnothienne vous "
+#~ "apportent des déclarations de loyauté."
+
+#~ msgid ""
 #~ "Reach either eastern or western signpost with both Lorin AND Reme. After "
 #~ "that, hold on at least THREE turns before honorable death of Gawen "
 #~ "Hagarthen."
@@ -23607,91 +24023,6 @@ msgstr ""
 #~ "Déplacez Lorin ET Reme vers le panneau indicateur de l'est ou celui de "
 #~ "l'ouest. Ensuite, tenez au moins sept tours avant que Gawen Hagarthen ne "
 #~ "meure honorablement."
-
-#~ msgid ""
-#~ "Wait! I hate when you kill the people before I have chance to interrogate "
-#~ "them. It's the second time."
-#~ msgstr ""
-#~ "Attends ! Je déteste quand tu tues des gens avant que je n'aie pu les "
-#~ "interroger ! C'est la deuxième fois."
-
-#~ msgid "Second time? What do you mean?"
-#~ msgstr "La deuxième fois ? Qu'est-ce que tu veux dire ?"
-
-#~ msgid ""
-#~ "Meet my daughter, Gawen Hagarthen. Imagine I have three other daughters "
-#~ "like that back home. Not to mention my wife!"
-#~ msgstr ""
-#~ "Voici ma fille, Gawen Hagarthen. Imaginez que j'ai trois autres filles "
-#~ "comme ça à la maison. Sans parler de ma femme !"
-
-#~ msgid "Huh."
-#~ msgstr "Heu..."
-
-#~ msgid "Andrey Yaranov"
-#~ msgstr "Andrey Yaranov"
-
-#~ msgid "In our magazins and.."
-#~ msgstr "Dans nos magasins et ..."
-
-#~ msgid ""
-#~ "Orcs? I fought them already. Good opponents, not like you. I am looking "
-#~ "forward to meet them."
-#~ msgstr ""
-#~ "Des orcs ? J'en ai déjà combattu. Ce sont de bons adversaires, pas comme "
-#~ "toi. J'ai hâte de les rencontrer."
-
-#~ msgid "By kissing my hairy dirty arse, witch."
-#~ msgstr "En embrassant mon cul poilu, sorcière."
-
-#~ msgid "Disappointed? Wanted to have more action?"
-#~ msgstr "Déçue ? Vous vouliez plus d'action ?"
-
-#~ msgid "Anyway, it seems that some of them could even fight for you."
-#~ msgstr ""
-#~ "De toute façon, on dirait que certains se battraient même pour vous."
-
-#~ msgid "What? Is he some kind of misogynist?"
-#~ msgstr "Quoi ? Il est un peu misogyne ou quoi ?"
-
-#~ msgid "Sorry, I am not a necromancer."
-#~ msgstr "Désolé, je ne suis pas un nécromancien."
-
-#~ msgid ""
-#~ "Note from campaign developer: If you have just downloaded campaign and "
-#~ "started playing instantly, it may happen that some of unit images are not "
-#~ "appearing. In such case try to restart Wesnoth; usually it helps - szopen."
-#~ msgstr ""
-#~ "Note de l'auteur de la campagne : si vous venez de télécharger la "
-#~ "campagne et que vous avez commencé à jouer immédiatement, il se peut que "
-#~ "certaines images d'unités n'apparaissent pas. Dans ce cas, essayez de "
-#~ "redémarrer Wesnoth, habituellement, ça aide - szopen."
-
-#~ msgid ""
-#~ "Our people came here from the eastern lands long before my birth.  Our "
-#~ "race's fate is to rule over the world; Your grandfather smashed the "
-#~ "underling armies in the field and stormed their castles.  They were weak, "
-#~ "divided, they had no gods to protect them and had forgotten the ways of "
-#~ "the sword long ago; they were truly destined to be our slaves."
-#~ msgstr ""
-#~ "Notre peuple est venu ici depuis les terres orientales longtemps avant ma "
-#~ "naissance. Le destin de notre espèce est de diriger le monde. Ton grand-"
-#~ "père a balayé les armées des inférieurs dans les plaines et a détruit "
-#~ "leurs châteaux. Ils étaient faibles, divisés, ils n'avaient pas de Dieu "
-#~ "pour les protéger et avaient oublié depuis longtemps comment se servir "
-#~ "d'une épée. Ils étaient vraiment destinés à devenir nos esclaves."
-
-#~ msgid "Reach the enemy keep with Gawen"
-#~ msgstr "Atteignez le repaire de l'ennemi avec Gawen."
-
-#~ msgid "Uh, I hope I will never know you closer"
-#~ msgstr "Euh, J'espère que je ne te connaîtrai jamais de plus près..."
-
-#~ msgid "Yeah!"
-#~ msgstr "Ouais !"
-
-#~ msgid "Aragwaiths die without fear!"
-#~ msgstr "Aragwaiths, mourez sans peur !"
 
 #~ msgid ""
 #~ "There were a lot of bugs in releases of A New Order before 0.0.9. If you "
@@ -23744,32 +24075,6 @@ msgstr ""
 #~ "du 'conseil de Libreville'. Vous pouvez aussi m'envoyer la sauvegarde à "
 #~ "adanilecki chez cs put poznan pl et je vous le renverrai corrigé. Ce "
 #~ "message n'apparaîtra qu'une seule fois."
-
-#~ msgid ""
-#~ "This is debug message.  If you see it, then it means I forgot to delete "
-#~ "it from release scenario: ' {TEXT} '"
-#~ msgstr ""
-#~ "Ceci est un message de debug. SI vous le voyez, ça veut dire que j'ai "
-#~ "oublié de l'effacer de ce scénario : ' {TEXT} '"
-
-#~ msgid ""
-#~ "My lord, our scouts told us that we are being followed by some very large "
-#~ "army of Akladians. Someone has noticed us. Maybe our successes were too "
-#~ "large. We have to won quickly, or we will be crushed by another foe."
-#~ msgstr ""
-#~ "Monseigneur, nos éclaireurs nous ont dit que nous étions suivis par une "
-#~ "très grande armée d'Akladiens. Quelqu'un nous a remarqués. Peut-être que "
-#~ "nos succès ont été trop grands. Nous devons gagner rapidement, ou nous "
-#~ "serons balayés par un autre prétendant."
-
-#~ msgid ""
-#~ "Note for translators: The message 'I fought with you so many battles..' "
-#~ "etc will be speaked by both male, Milildur, and Elorain, female. Make it "
-#~ "gender neutral."
-#~ msgstr ""
-#~ "Remarque pour les traducteurs : Le message 'I fought with you so many "
-#~ "battles..'etc. sera dit par un mâle, Milildur et par une femelle, "
-#~ "Elorain. Gardez-le neutre."
 
 #~ msgid ""
 #~ "\n"
@@ -23842,12 +24147,6 @@ msgstr ""
 #~ "\n"
 #~ "Oto 'tapik' Buchta : traduction tchèque\n"
 
-#~ msgid ""
-#~ "But you have not find out which one of Akladian lords did that and why."
-#~ msgstr ""
-#~ "Mais vous ne savez pas lequel des seigneurs Akladien a fait ça et "
-#~ "pourquoi."
-
 #~ msgid "Crater"
 #~ msgstr "Cratère"
 
@@ -23856,12 +24155,6 @@ msgstr ""
 
 #~ msgid "Akladian Chieftain_g"
 #~ msgstr "Chef_g de clan Akladien"
-
-#~ msgid "Akladian Clanmember"
-#~ msgstr "Membre du clan Akladien"
-
-#~ msgid "NEED SOME DESCRIPTION HERE"
-#~ msgstr "BESOIN D'UNE DESCRIPTION ICI"
 
 #~ msgid "Fugitive"
 #~ msgstr "Fugitif"
@@ -23916,9 +24209,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Armé d'une lourde masse, les vagabonds sont les dernières personnes qui "
 #~ "vous voudriez rencontrer sur une route déserte tard la nuit."
-
-#~ msgid "Ranger"
-#~ msgstr "Garde forestier"
 
 #~ msgid ""
 #~ "Rangers are wild men and masters of forest and hills.  They are excellent "
@@ -23998,9 +24288,6 @@ msgstr ""
 
 #~ msgid "club"
 #~ msgstr "club"
-
-#~ msgid "bow"
-#~ msgstr "arc"
 
 #~ msgid "marksman"
 #~ msgstr "Tireur d'élite"
