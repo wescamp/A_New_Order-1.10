@@ -54,7 +54,7 @@ If you want to do something more, you can consider:
   already, didn't I :D
 * Create free art content for a Wesnoth (images or music)
 * Create a new user-made campaign
-* Create or correct a translation for you own language
+* Create or correct a translation for you own language (read TRANSLATORS.txt)
 * Finally, you can also donate us; Think about this: would you buy us a beer? 
   If so, then instead donate this money (3-4 euro or 4-5 USD) either to us, or to
   Wesnoth, or to WTactics, or.. whatever. If you donate, we will use this
