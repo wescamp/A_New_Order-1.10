@@ -32,9 +32,9 @@ from my own experience:
    player. All scenarios are winnable with suitable tactics, and they do not
    require a perfect playing. I am sloppy player, and I balanced a game
    so I can made errors, lose units and yet still win. So can you.
-10.The HARD level of difficulty is for hardcore players. If you are not hardcore
+10.The HARD level of difficulty is for hardcore players. If you are no hardcore
    player, play it on normal. When I wrote "Impossible", I meant it. But then,
-   if you are hardcore player, you may feel dissapointed (see 14. below).
+   if you are really a hardcore player, you may feel dissapointed (see 14. below).
 11.In many scenarios the sensible tactics is to concentrate on a single enemy, and
    not (emphatically *not*) fighting with two or more in the same time.
 12.Sometimes it's worth to not to recall units (unless they are loyal), and
@@ -69,7 +69,7 @@ of the kind "in scenario X do this". However, if you have a complete WALKTHROUGH
 we may include it within the campaign.
 
 GENERAL REMARK
---------------
+-------------- 
 During last six years I had comments from different players, some of which
 thought scenario X is too easy, while others were claiming it is too hard.  I
 think I got at least dozen emails from players who killed Bor Cryne in the
@@ -80,7 +80,9 @@ player complained that one scenario is too hard, but when I asked about his
 strategy, it appeared he has chosen the worst possible tactics (he attacked
 four enemy armies at the same time.. and he won the scenario anyway, but he
 complained that this was due to luck). If the campaign is too hard, then play
-it on EASY.
+it on EASY. I am not writing this because I am a jerk who refuses to listen
+to players. I am writing this, because I got so many so different opinions and
+I can't decide, whether the campaign is too easy or too hard.
 
 Usually I start Battle of Barnon with 350 gold pieces and four 2nd level
 troops. Last times I had two units with ten points away from advancing to 3rd
