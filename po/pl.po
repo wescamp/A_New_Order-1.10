@@ -69,7 +69,7 @@ msgstr ""
 #. [campaign]: id=A_New_Order, description=! Translations need to be updated ! If you like the campaign, please read TRANSLATORS.txt !\n
 #: A_New_Order/_main.cfg:60
 msgid "on Linux this file is located usually in "
-msgstr ""
+msgstr "pod linuksem ten plik zwykle można znaleźć w "
 
 #. [campaign]: id=A_New_Order, description=! Translations need to be updated ! If you like the campaign, please read TRANSLATORS.txt !\n
 #: A_New_Order/_main.cfg:60
@@ -77,11 +77,13 @@ msgid ""
 "Please join us at Wesnoth forums. You may read the readme.txt file contained "
 "within campaign directory;"
 msgstr ""
+"Proszę, dołącz do nas na forum Wesnoth. Możesz także przeczytać plik readme."
+"txt zawarty w katalogu z kampanią;"
 
 #. [campaign]: id=A_New_Order, description=! Translations need to be updated ! If you like the campaign, please read TRANSLATORS.txt !\n
 #: A_New_Order/_main.cfg:60
 msgid " while on Windows you can find it in directory"
-msgstr ""
+msgstr " pod windowsami natomiast zwykle znajduje się on w katalogu "
 
 #. [about]
 #: A_New_Order/about.cfg:13
@@ -181,7 +183,7 @@ msgstr "Dodatkowe podziękowania dla"
 #. [about]
 #: A_New_Order/about.cfg:175
 msgid "Additional information may be found within readme.txt file"
-msgstr ""
+msgstr "Dodatkowe informacje można znaleźć w pliku readme.txt"
 
 #: A_New_Order/macros/ano_macros.cfg:394
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
@@ -551,25 +553,23 @@ msgid ""
 "My lord, I fought with you so many battles.. I can accept money from you no "
 "more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
-"Panie mój, walczyliśmy razem w tylu bitwach. Nie mogę przyjmować już od was "
-"pieniędzy. Proszę, traktujcie mnie jak przyjaciela, nie jak najemnika."
+"Panie mój, walczyliśmy razem w tylu już bitwach. Nie mogę przyjmować już od "
+"was pieniędzy. Proszę, traktujcie mnie jak przyjaciela, nie jak najemnika."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:102
-#, fuzzy
 msgid "Ekhem."
 msgstr "Ekhem."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:104
 msgid "Well, you fought with me so many battles..."
-msgstr ""
+msgstr "No cóż, walczyłaś ze mną razem w tak wielu już bitwach..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:105
-#, fuzzy
 msgid "... Aaand?"
-msgstr "Czy ja.. co?"
+msgstr "... I?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:106
@@ -577,16 +577,19 @@ msgid ""
 "Well, you know, I thought that I should no longer treat you like a hired "
 "soldier... "
 msgstr ""
+"No, tak sobie pomyślałem, że nie powinienem już więcej ciebie traktować jako "
+"najemnika..."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:107
 msgid "What?!? Are you trying to ask me out or something?"
 msgstr ""
+"E?!? Zaraz, czy ty przypadkiem nie próbujesz się ze mną umówić na randkę?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:108
 msgid "... Eee?"
-msgstr ""
+msgstr "... Eee?"
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:109
@@ -595,6 +598,10 @@ msgid ""
 "It's more like I like them less hairy. And less... human. Anything more? No? "
 "Good. Let's get back to the business."
 msgstr ""
+"Bez obrazy, ale.. To znaczy, nie chodzi o to, że mam coś przeciwko facetom "
+"tak w ogólności. Po prostu, lubię, kiedy faceci są tak jakby mniej włochaci. "
+"I tak jakby mniej... człowiekowaci. Czy coś jeszcze? Nie? No do roboty. I "
+"dwadzieścia sztuk złota za bitwę proszę."
 
 #. [event]
 #: A_New_Order/macros/elvish_macros.cfg:125
@@ -1576,6 +1583,10 @@ msgid ""
 "to use this occassion to train our last loyal troops. We may need veteran "
 "units in future much more than gold."
 msgstr ""
+"Zda mi się, że łatwa nas czeka bitwa. Sądzę, że wystarczy, byśmy 250 sztuk "
+"złota mieli pod koniec tej walki. Ale ważniejsze jest, Gawenie, aby okazję "
+"tę dobrze wykorzystać, by wytrenować naszych ostatnich lojalnych wojowników. "
+"W przyszłości, weterani mogą się nam przydać bardziej niż złoto."
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:428
@@ -2489,9 +2500,8 @@ msgstr "szybkostopego"
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:905
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:907
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:909
-#, fuzzy
 msgid "underling"
-msgstr "Giń, pariasie!"
+msgstr "parias"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:911
@@ -2519,13 +2529,12 @@ msgstr "Co masz na myśli, Bor?"
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:929
-#, fuzzy
 msgid ""
 "I don't know how to explain this. But.. For example, I was so sure our "
 "warriors will kill that $tmp, yet $tmpg is still alive!"
 msgstr ""
 "Nie wiem, jak to wyjaśnić. Ale.. No na przykład, byłem tak pewny, że nasi "
-"wojownicy zatłuką tego $tmp, a jednak on żyje!"
+"wojownicy zatłuką tego $tmp, a jednak $tmpg żyje!"
 
 #. [scenario]: id=05_The_Swamp_Things
 #. [scenario]: id=ano_5b-x
@@ -2652,8 +2661,8 @@ msgid ""
 "If it isss impossssible, then they will wait a long time... will you let me "
 "live now?"
 msgstr ""
-"Ffff takim raśśsie ssssobie poszszekają, jeśśśli to niemoszszlife... "
-"Possfolisz mi szszyć?"
+"No jeśśśśli to niemoszszliffe, to sssse trochchę poszszekają... Possfolisz "
+"mi szszyć?"
 
 #. [then]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:264
@@ -2695,9 +2704,8 @@ msgstr ""
 #. [else]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:278
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:317
-#, fuzzy
 msgid "You have resssssieved 50 gold piesssses"
-msgstr "Otrzymałeś 50 sztuk złota"
+msgstr "Otrzymałeśśśś 50 szsztuk ssssssłota"
 
 #. [event]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:323
@@ -3369,7 +3377,6 @@ msgstr "Śmierć Karen"
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:312
-#, fuzzy
 msgid "Any enemy unit reaches north-western signpost"
 msgstr ""
 "Jakakolwiek wroga jednostka dociera do północno-zachodniego drogowskazu."
@@ -3532,19 +3539,17 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:474
-#, fuzzy
 msgid ""
 "Ruvio, call me 'Gawen.' I am not used to being called 'Haldric'. I've never "
 "heard about Freetown."
 msgstr ""
-"Ruvio, nazywaj mnie Gawen. I skoro bawiłem się na twoich kolanach, możesz "
-"się do mnie zwracać mniej oficjalnie, niekoniecznie przez \"wy\". Nie jestem "
-"przyzwyczajony do imienia Haldric. A o Wolnym Mieście nigdy dotąd nie "
+"Ruvio, nazywaj mnie Gawen. Nie jestem przyzwyczajony do imienia Haldric. I "
+"skoro bawiłem się na twoich kolanach, możesz się do mnie zwracać mniej "
+"oficjalnie, niekoniecznie przez \"wy\". A o Wolnym Mieście nigdy dotąd nie "
 "słyszałem."
 
 #. [event]
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:475
-#, fuzzy
 msgid ""
 "It's hidden deep within the forests. Its location is our greatest secret. "
 "And, get used to being called 'Haldric'. I want everyone to swear they won't "
@@ -4384,9 +4389,8 @@ msgstr "Aaargh! Tak, mamy w zamku ukryty skarbiec, tutaj, pokażę ci."
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:333
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:429
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:603
-#, fuzzy
 msgid "You have received 100 gold pieces"
-msgstr "Otrzymałeś 150 sztuk złota."
+msgstr "Otrzymałeś 100 sztuk złota."
 
 #. [message]: speaker=Majid Yahyazad
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:340
@@ -5163,12 +5167,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:518
-#, fuzzy
 msgid ""
 "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to "
 "howl or something?"
 msgstr ""
-"Jak dla ciebie, szlachetna PANI Lorin. Więc? Wydaje im się że będę wyła do "
+"Jak dla ciebie szlachetna PANI Lorin. Więc? Wydaje im się, że będę wyła do "
 "księżyca albo coś w tym rodzaju?"
 
 #. [event]
@@ -5247,7 +5250,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:527
-#, fuzzy
 msgid ""
 "For love?! You really believe that?! You can't be serious. You speak like... "
 "Wesnothian has special word for that people. A rhymeister?"
@@ -5257,7 +5259,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:528
-#, fuzzy
 msgid ""
 "I am serious. And I think you meant to say 'poet'. So you think I speak like "
 "a poet? Thank you."
@@ -8131,6 +8132,8 @@ msgstr ""
 #: A_New_Order/scenarios/14b_Bontom.cfg:15
 msgid "Oh, so you are only half-a-jerk, right? He, he."
 msgstr ""
+"Aaaa, czyliś tylko pół-głupek? Ha, humor mnie nie opuszcza na stare lata, "
+"cha, cha, cha..."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:16
@@ -8138,6 +8141,9 @@ msgid ""
 "I am glad I made you laugh, my lady. Now, please forgive me, I have to "
 "defeat the rest of our enemies here."
 msgstr ""
+"Cieszy mnie myśl, że dzięki mnie na waszej twarzy pojawił się uśmiech, "
+"szlachetna pani. Wybaczcie mi jednak, gdyż muszę pokonać resztę naszych "
+"wrogów."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:17
@@ -8146,12 +8152,16 @@ msgid ""
 "means something. In exchange I will teach you few tricks with herbs. Maybe "
 "you will find them useful..."
 msgstr ""
+"Zaczekaj, młodziaku. Tak, na mojej twarzy pojawił się uśmiech dzięki tobie - "
+"a w moim wieku, i w takich podłych czasach, to nie jest byle jaka przysługa."
+"W zamian nauczę ciebie paru sztuczek z ziołami. Może ci się do czegoś "
+"przydadzą."
 
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:21
 #: A_New_Order/scenarios/14b_Bontom.cfg:772
 msgid "Healing skill"
-msgstr ""
+msgstr "Podstawowe zdolności leczenia"
 
 #. [object]: id=healing_skill
 #: A_New_Order/scenarios/14b_Bontom.cfg:23
@@ -8160,12 +8170,14 @@ msgid ""
 "This unit have learned basic healing skills: it can cure poison and up to 2 "
 "HP of wounded friendly units."
 msgstr ""
+"Ta jednostka nabyła podstawowych zdolności leczenia; może leczyć truciznę i "
+"do dwóch HP o zaprzyjaźnionych zranionych jednostek."
 
 #. [heals]: id=basic_healing
 #: A_New_Order/scenarios/14b_Bontom.cfg:35
 #: A_New_Order/scenarios/14b_Bontom.cfg:786
 msgid "heals +2, cures poison"
-msgstr ""
+msgstr "leczy +2 HP, leczy truciznę"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:48
@@ -8174,62 +8186,67 @@ msgid ""
 "Akladian Lady, who can kill you just like that, giving less thought to that "
 "than to killing a fly."
 msgstr ""
+"Zaprawdę, czy kobieta owa jest tak pełna odwagi, czy tylko szalona? Mówicie "
+"bowiem do akladyjskiej pani, która może zabić was bez zastanowienia, mnie "
+"poświęcając przy tym myśli niż przy zabiciu insekta."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:49
 msgid "Really? You think you are the first Akladian trying to scare me?"
 msgstr ""
+"Serio? I co, myślisz, żeś ty pierwszy Akladianiec, co mnie próbuje "
+"zastraszyć?"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:50
 msgid "I may be the first who can succeed at that."
-msgstr ""
+msgstr "Mnie pierwszej może się powieść."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:51
 msgid "Go on and try me. Either kill me, or stop bothering me."
-msgstr ""
+msgstr "No to dawaj. Albo zabij mnie, albo wynoś się do wszystkich diabłów."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:52
 msgid "Listen, woman. No underling can speak that way to Lorin and.."
 msgstr ""
+"Słuchaj, kobieto! Nie ma pariasa z kobiety zrodzonego, co mówiąc w ten "
+"sposób do Lorin, nadzieję by mieć mógł na..."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:56
-#, fuzzy
 msgid "Hey, come back! I haven't finished yet!"
-msgstr ""
-"Hej, hej, nie umieraj tak szybko! Jeszcze nie skończyłam ciebie przepytywać!"
+msgstr "Hej, wracaj tutaj! Nie skończyłam jeszcze!"
 
 #. [unit]: id=Old Woman, type=Old Peasant Woman
 #: A_New_Order/scenarios/14b_Bontom.cfg:59
 #: A_New_Order/scenarios/14b_Bontom.cfg:707
 #: A_New_Order/scenarios/14b_Bontom.cfg:747
 msgid "Old woman"
-msgstr ""
+msgstr "Stara kobieta"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:67
 msgid "So, where I was.. Ah! No underling can speak..."
 msgstr ""
+"No więc, na czym to ja.. Acha! Nie ma pariasa z kobiety zrodzonego, co.."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:71
 msgid "Hey! You are really making me angry! Come back here!"
-msgstr ""
+msgstr "Hej! Wracaj! Bo zaczynasz mnie wkurzać!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:72
 #: A_New_Order/scenarios/14b_Bontom.cfg:74
-#, fuzzy
 msgid "..."
-msgstr "Ale..."
+msgstr "..."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:73
 msgid "Hey!!!"
-msgstr ""
+msgstr "Hej!!!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:75
@@ -8237,11 +8254,12 @@ msgid ""
 "That makes it. Where is the torch? I will raze this whole village to the "
 "ground."
 msgstr ""
+"Dość tego. Gdzie jest jakaś pochodnia? Spalę całą wieś do nagiej ziemi."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:76
 msgid "No, you won't, as long as I have something to say."
-msgstr ""
+msgstr "Nie, póki ja mam coś do powiedzenia."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:77
@@ -8249,11 +8267,13 @@ msgid ""
 "But Gawen! If we will allow underlings to treat us like that, they won't "
 "respect us!"
 msgstr ""
+"Ależ Gawenie! Jeżeli pozwolić pariasom tak do nas mówić, przestaną nas "
+"szanować!"
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:78
 msgid "Seems to me the woman was not respecting you already."
-msgstr ""
+msgstr "Mi tam się wydaje, że ta kobieta już przestała."
 
 #. [scenario]: id=14b_Bontom
 #: A_New_Order/scenarios/14b_Bontom.cfg:84
@@ -8993,7 +9013,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:116
-#, fuzzy
 msgid ""
 "It is my great honour to welcome the handsome Gaumhaldric to Haeltin. I have "
 "heard a lot about you, so brave and...  oh my God. It's impossible."
@@ -10008,7 +10027,6 @@ msgstr "Ha! Jaszczury ukrywały tu nieco złota!"
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:387
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:402
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:417
-#, fuzzy
 msgid "You have received 40 gold pieces"
 msgstr "Otrzymałeś 40 sztuk złota."
 
@@ -10481,7 +10499,6 @@ msgstr "Niczego więcej nie potrzebuję."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:159
-#, fuzzy
 msgid "You received 25 gold pieces"
 msgstr "Otrzymałeś 25 sztuk złota."
 
@@ -10878,7 +10895,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/16_Choosing_the_Best.cfg:109
-#, fuzzy
 msgid ""
 "Who allowed you to listen, underling? This discussion is between two worthy "
 "people. Go and bother someone else."
@@ -12043,7 +12059,6 @@ msgstr "A czemuż to ktokolwiek chciałby walczyć dla was?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:175
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
-#, fuzzy
 msgid "You have a chance to fight for your freedom."
 msgstr "Mielibyście szansę walczyć o waszą wolność."
 
@@ -12732,7 +12747,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:23
-#, fuzzy
 msgid ""
 "When we arrived, we found the city of the Oracle besieged. Four different "
 "armies, each under a different leader, surrounded it. This disunity seemed "
@@ -13017,7 +13031,6 @@ msgstr "Jest! Ona, Wyrocznia! Jest tutaj!"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1372
-#, fuzzy
 msgid "All is lost! They captured the Oracle!"
 msgstr "Wszystko stracone! Złapali Wyrocznię!"
 
@@ -13814,7 +13827,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:514
-#, fuzzy
 msgid ""
 "Because some things may be spoken only when listener is prepared to listen. "
 "You see, young king, I don't know why Akladians respect and listen to "
@@ -15352,7 +15364,6 @@ msgstr "Bez żartów."
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:315
-#, fuzzy
 msgid ""
 "No, really. Now, when Gawen Hagarthen was killed and you^plural were unable "
 "to impose any sign of order, our king, which as it seems will soon be also "
@@ -15364,7 +15375,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:317
-#, fuzzy
 msgid ""
 "After he cleans Vakladia of the marauders, brawlers and bandits, he will "
 "call for an election for a new king, where you^plural, of course, will have "
@@ -15601,7 +15611,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:500
-#, fuzzy
 msgid ""
 "In Easkladia, king Perien died during the final battle with the Wesnothians. "
 "He broke through the Wesnothian lines right to their king. He slew their "
@@ -15937,7 +15946,6 @@ msgstr "Matko, później ci to wytłumaczę. Ruszajmy!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:700
-#, fuzzy
 msgid ""
 "Gee, don't panic. That's only the vanguard of king Buffin's army. I assure "
 "you that we still have every opportunity to win."
@@ -17640,7 +17648,6 @@ msgstr "Czy wiesz, kto otruł moją matkę?"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:730
-#, fuzzy
 msgid "Whenever he is, he should be here instead!"
 msgstr "Gdziekolwiek jest, powinien zamiast tego być tutaj!"
 
@@ -17674,7 +17681,6 @@ msgstr "Trzeba było mnie wtedy zabić, póki jeszcze miałeś szansę."
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:758
-#, fuzzy
 msgid "Whenever he is, he should be here!"
 msgstr "Gdziekolwiek jest, powinien zamiast tego być tutaj!"
 
@@ -18143,7 +18149,6 @@ msgstr "Aaaargh! Nie pomściłem rodziny!"
 
 #. [event]
 #: A_New_Order/scenarios/27_Orannon.cfg:882
-#, fuzzy
 msgid "Ha ha! Now you^plural are doomed!"
 msgstr "Ha ha ha! Już po was! Jesteście zgubieni!"
 
@@ -20320,13 +20325,12 @@ msgstr "Akladyjczyków? Kto to był dokładnie?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:402
-#, fuzzy
 msgid ""
 "Who else but Bor Cryne... (cough) If you have any other questions, hurry, "
 "because I can feel death is just a few steps from me..."
 msgstr ""
 "Kto jeśli nie Bor Cryne... (kaszel) Jeśli masz inne pytania pospiesz się, "
-"czuję  jak śmierć stoi tuż obok..."
+"czuję, jak śmierć stoi tuż obok..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:412
@@ -20348,14 +20352,13 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:418
-#, fuzzy
 msgid ""
 "Wait! You could be my right hand. You could be second only to the God ruling "
 "the world. All the gold of every continent, any woman, anything you could "
 "dream of... "
 msgstr ""
 "Czekaj! Mógłbyś być moją prawą reką, drugim po bogu władającym światem. "
-"Wszystke bogactwa, kobiety, co tylko sobie wymarzysz... "
+"Wszystkie bogactwa, każda kobieta, wszystko, co tylko sobie wymarzysz... "
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:419
@@ -20480,7 +20483,6 @@ msgstr "Bólu? Nigdy. Nie chcę tylko, by pariasi słyszeli, jak krzyczę."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:447
-#, fuzzy
 msgid "That one wish I can grant you, Bor."
 msgstr "To jedno życzenie mogę ci przyznać, Bor."
 
@@ -21014,7 +21016,6 @@ msgstr "Akladyjski Czarnycerz"
 
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:25
-#, fuzzy
 msgid ""
 "After spending whole their life in constant fight, Darknites are excellent "
 "warriors and formidable opponents, hated and feared in world of Wesnoth. "
@@ -21425,7 +21426,7 @@ msgstr ""
 
 #: A_New_Order/units/macros/abilities.cfg:148
 msgid "terror"
-msgstr ""
+msgstr "terror"
 
 #: A_New_Order/units/macros/abilities.cfg:149
 msgid ""
@@ -21517,7 +21518,7 @@ msgstr ""
 #. [attack]: type=blade
 #: A_New_Order/units/others/Brigand.cfg:30
 msgid "sickle"
-msgstr ""
+msgstr "sierp"
 
 #. [attack]: type=pierce
 #: A_New_Order/units/others/Brigand.cfg:38
@@ -21543,7 +21544,7 @@ msgstr ""
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
-msgstr ""
+msgstr "Brak opisu. Nigdy się nigdzie nie pojawi, bo to fałszywa jednostka."
 
 #. [unit_type]: id=Outlaw Raider, race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:5
@@ -21563,7 +21564,7 @@ msgstr ""
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:37
 msgid "saber"
-msgstr ""
+msgstr "szabla"
 
 #. [unit_type]: id=Peasant girl, race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
@@ -21576,10 +21577,11 @@ msgid ""
 "The young girl. She cannot fight, she cannot even defend herself. She "
 "appears only once in one scenario."
 msgstr ""
+"Młoda dziewczyna. Nie walczy, nie potrafi się bronić. Raz się pojawia w "
+"jednym scenariuszu."
 
 #. [unit_type]: id=Old Peasant Woman
 #: A_New_Order/units/others/Peasant_girl.cfg:35
-#, fuzzy
 msgid "Senior Village Elder"
 msgstr "Wójt wioski"
 
@@ -21591,11 +21593,16 @@ msgid ""
 "their shoulders. Provincial officials tend to choose senior village elders "
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
+"Cała wieś patrzy na wójtów i wójtowe, szukając u nich rady. Mądrzy, silni, "
+"ludzie ci biorą odpowiedzialność za dobro całej gminy na swoje barki. "
+"Prowincjonalni urzędnicy zwykle wybierają wójtowych na oficjalne stanowiska, "
+"tak by autorytet przynależny urzędowi i starszemu wiekowi nie były "
+"rozłączone."
 
 #. [female]
 #: A_New_Order/units/others/Peasant_girl.cfg:41
 msgid "female^Senior Village Elder"
-msgstr ""
+msgstr "Wójtowa"
 
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/units/others/Ruvio.cfg:21
@@ -21620,129 +21627,3 @@ msgstr ""
 "dzieciństwa słysząc opowieści o bitwach, rycerzach i wielkich czynach jej "
 "ojca, Karen wcześnie zdecydowała, że życie jako przykładna żona zdecydowanie "
 "nie jest jej przeznaczeniem"
-
-#~ msgid ""
-#~ "Interesting. Speak, maybe I will spare your worthless head, inhuman "
-#~ "ungodly beast."
-#~ msgstr ""
-#~ "Ciekawe. Mów a może ocalę twój bezwartościowy łeb, nieludzka, bezbożna "
-#~ "bestio."
-
-#~ msgid "My name is Ga... uhmm.. Haldric."
-#~ msgstr "Moj imię brzmi Ga.. ummm... Haldric."
-
-#~ msgid "Look, fresh enemy forces are arriving! We have no chance to win now!"
-#~ msgstr ""
-#~ "Spójrz, nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy już szans "
-#~ "na zwycięstwo!"
-
-#~ msgid "You received 100 golden pieces."
-#~ msgstr "Otrzymałeś 100 sztuk złota."
-
-#~ msgid "You have received 100 golden pieces."
-#~ msgstr "Otrzymałeś 100 sztuk złota."
-
-#~ msgid "Amazing. Simply amazing."
-#~ msgstr "Zadziwiające. Po prostu... zadziwiające."
-
-#~ msgid ""
-#~ "Orc, do not die, yet! Can you still hear me? I will ask you a few "
-#~ "questions, and if you will answer them, I will order someone to care for "
-#~ "your wounds and I will let you live."
-#~ msgstr ""
-#~ "Nie umieraj jeszcze orku! Czy wciąż mnie słyszysz? Zadam ci kilka pytań, "
-#~ "i jeżeli odpowiesz na nie, rozkażę komuś by się zajął twoimi ranami i "
-#~ "pozwolę ci żyć."
-
-#~ msgid "You have received 50 golden pieces"
-#~ msgstr "Otrzymałeś 50 sztuk złota."
-
-#~ msgid "Such a young man... and still, one darn good fighter.."
-#~ msgstr ""
-#~ "Mężczyzna tak młody - a jednocześnie, tak piekielnie dobry wojownik..."
-
-#~ msgid "You have received 150 golden pieces"
-#~ msgstr "Otrzymałes 150 sztuk złota."
-
-#, fuzzy
-#~ msgid "Ring of HP"
-#~ msgstr "Ringo"
-
-#~ msgid ""
-#~ "Speak quickly, and I will save your life. What do you know about the "
-#~ "alliance between orcs and Akladians?"
-#~ msgstr ""
-#~ "Mów szybko, a daruję ci życie. Co wiesz o sojuszu między orkami i "
-#~ "Akladyjczykami?"
-
-#, fuzzy
-#~ msgid "You can feel THIS. How does IT feel?"
-#~ msgstr "A ty będziesz zaraz wałachem. Powiedz mi, jakie to uczucie?"
-
-#~ msgid "You were a worthy opponent, Quivre from Raednons. It was good fight."
-#~ msgstr ""
-#~ "Byliście godnym przeciwnikiem, Quivre z Raednonów. To była dobra walka."
-
-#~ msgid ""
-#~ "If you were as delighted as I was with the fight, please answer my "
-#~ "questions."
-#~ msgstr ""
-#~ "Jeśli jesteście równie zachwycony jak ja, odpowiedzcie mi proszę na kilka "
-#~ "pytań."
-
-#~ msgid "Look! Fresh enemy forces arrived! We have no chance to win now!"
-#~ msgstr ""
-#~ "Spójrz, nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy już szans "
-#~ "na zwycięstwo!"
-
-#~ msgid "In my army, you may change your lot."
-#~ msgstr "W armii możesz odmienić swój los."
-
-#~ msgid ""
-#~ "Everything is lost! Reinforcements for our enemies arrived! We have no "
-#~ "chance to win now!"
-#~ msgstr ""
-#~ "Wszystko stracone! Nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy "
-#~ "już szans na zwycięstwo!"
-
-#~ msgid ""
-#~ "Well, she is my oldest daughter. From her youth she always wanted to be "
-#~ "great fighter, and she always tried to be the best."
-#~ msgstr ""
-#~ "Wieesz... Ostatecznie to moja najstarsza córka. Od małego chciała być "
-#~ "wspaniałym wojownikiem i zawsze próbowała być najlepsza. "
-
-#~ msgid " You may withdraw by moving Gawen to signpost."
-#~ msgstr "Możesz się wycofać przesuwając Gawena do drogowskazu."
-
-#~ msgid ""
-#~ "Everything is lost! Reinforcements for our enemies are arriving! We have "
-#~ "no chance to win now!"
-#~ msgstr ""
-#~ "Wszystko stracone! Nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy "
-#~ "już szans na zwycięstwo!"
-
-#~ msgid ""
-#~ "All is lost! Reinforcements for our enemies arrived! We have no chance to "
-#~ "win now!"
-#~ msgstr ""
-#~ "Nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy już szans na "
-#~ "zwycięstwo!"
-
-#~ msgid ""
-#~ "Everything is lost! Their reinforcements have arrived! We have no chance "
-#~ "to win now!"
-#~ msgstr ""
-#~ "Nadciągnęły nowe wojska nieprzyjaciela! Teraz nie mamy już szans na "
-#~ "zwycięstwo!"
-
-#~ msgid ""
-#~ "Soon, my lord. I talked to the refugees from Okladia. King Buffin is "
-#~ "dead. Some Akladian lords are still defending themselves, locked in their "
-#~ "castles, but I doubt Grekulak will wait until they will be defeated. He "
-#~ "will march here immediately."
-#~ msgstr ""
-#~ "Niedługo, wasza wysokość. Rozmawiałem z uchodźcami. Król Buffin jest "
-#~ "martwy i choć niektórzy z tamtejszych panów wciąż się bronią w swoich "
-#~ "zamkach, to wątpię, by Grekulak czekał aż ulegną. Myślę, że wyruszy lada "
-#~ "dzień."

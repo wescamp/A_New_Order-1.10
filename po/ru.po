@@ -1689,8 +1689,10 @@ msgstr ""
 msgid "Coronation"
 msgstr "Коронование"
 
+# deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/03_Coronation.cfg:14
+#, fuzzy
 msgid ""
 "Carrenemoes have loyally served our kings for generations. I am Reme, son of "
 "Raul. My ancestors, according to our family legends, were amongst those who "
@@ -10017,8 +10019,10 @@ msgstr ""
 "заключить в своём саду. Но пришёл мессия из клана Хагартенов и сказал, что "
 "Богу угодно, чтобы мы, не медля, отправлялись в путь"
 
+# deserts were inserted instead of forests
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
+#, fuzzy
 msgid ""
 "So we killed that evil angel and his minions to journey west. We fought our "
 "way through the deserts and the swamps, fighting with nightmarish creatures, "
@@ -14143,8 +14147,10 @@ msgstr ""
 "Один из них, первый Хагартен, объявил Грекулака служителем ложного бога и "
 "поднял кровавое восстание."
 
+# deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:41
+#, fuzzy
 msgid ""
 "The rebellion left Grekulak's capital in ruins. The Akladians escaped to the "
 "west, chased by Grekulak's allies, burning in deserts, drowning in swamps, "

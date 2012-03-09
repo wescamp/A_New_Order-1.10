@@ -1721,8 +1721,10 @@ msgstr ""
 msgid "Coronation"
 msgstr "Conversazione"
 
+# deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/03_Coronation.cfg:14
+#, fuzzy
 msgid ""
 "Carrenemoes have loyally served our kings for generations. I am Reme, son of "
 "Raul. My ancestors, according to our family legends, were amongst those who "
@@ -3297,6 +3299,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:296
+#, fuzzy
 msgid ""
 "Kill enemy leader and all enemy units. Don't allow any enemy unit to reach "
 "the north-western signpost, or the village nearby."
@@ -10203,8 +10206,10 @@ msgstr ""
 "\"Liberatore\", dal clan di Hagarthen e ci disse che gli dei volevano che "
 "non aspettassimo oltre..."
 
+# deserts were inserted instead of forests
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
+#, fuzzy
 msgid ""
 "So we killed that evil angel and his minions to journey west. We fought our "
 "way through the deserts and the swamps, fighting with nightmarish creatures, "
@@ -14467,8 +14472,10 @@ msgstr ""
 "libertà, il libero arbitrio. Uno di loro, il primo Hagarthen, annunciò che "
 "Grelulak era uno strumento di un falso dio e guidò una sanguinosa ribellione."
 
+# deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:41
+#, fuzzy
 msgid ""
 "The rebellion left Grekulak's capital in ruins. The Akladians escaped to the "
 "west, chased by Grekulak's allies, burning in deserts, drowning in swamps, "
@@ -14745,7 +14752,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:138
-#, fuzzy
 msgid ""
 "And the Akladian faith in one God ruling the world seems to be attractive to "
 "other peasants, who no longer have to remember a plethora of rites and "
@@ -14757,8 +14763,8 @@ msgstr ""
 "E la fede negli dei di Akladia sovrani del mondo potrebbe attirare anche "
 "altri contadini. Se mettessimo da parte il discorso sulla superiorità di "
 "Akladia, potrebbe diventare una buona volta una religione che unisce la "
-"nazione, perché voi - genti di Akladia, Wesnoth e Aragwaithi - diventerete "
-"una sola nazione, prima o poi."
+"nazione, perché voi - genti di Akladia, Wesnoth e Khalifa - diventerete una "
+"sola nazione, prima o poi."
 
 #. [event]
 #: A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:139
@@ -15955,7 +15961,7 @@ msgstr "Perché no. Ecco i tuoi soldi."
 msgid ""
 "Ha! We have a deal, then, my king. You may recruit now Khalifa from my Ostan."
 msgstr ""
-"Ah! Affare fatto, allora, mio re. Adesso potrai reclutare gli Aragwaithi del "
+"Ah! Affare fatto, allora, mio re. Adesso potrai reclutare gli Khalifa del "
 "mio accampamento."
 
 #: A_New_Order/scenarios/23_Trapped.cfg:36
@@ -16012,7 +16018,7 @@ msgstr ""
 msgid "Who are you, stranger brave or foolhardy enough to enter Khalifa land?"
 msgstr ""
 "Chi sei straniero, così coraggioso o stupido da entrare nella terra di "
-"Aragwaithi?"
+"Khalifa?"
 
 #. [event]
 #: A_New_Order/scenarios/23_Trapped.cfg:336
