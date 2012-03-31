@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-07 05:04-0500\n"
-"PO-Revision-Date: 2006-04-09 10:33+0400\n"
+"PO-Revision-Date: 2012-03-23 17:54+0100\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
@@ -704,6 +704,7 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:92
+#, fuzzy
 msgid ""
 "We burned their palaces, towns, and castles; there was nothing worthy there. "
 "They told us that they put their legends and wisdom on paper, it was as "
@@ -1344,7 +1345,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
-#, fuzzy
 msgid "I'm afraid... that may be... impossible. What about your memory?"
 msgstr "Боюсь... это будет невозможно. Как твоя память?"
 
@@ -1692,7 +1692,6 @@ msgstr "Коронование"
 # deserts were inserted instead of forests
 #. [part]
 #: A_New_Order/scenarios/03_Coronation.cfg:14
-#, fuzzy
 msgid ""
 "Carrenemoes have loyally served our kings for generations. I am Reme, son of "
 "Raul. My ancestors, according to our family legends, were amongst those who "
@@ -2303,6 +2302,7 @@ msgstr "Нет, он не убит, он просто тяжело ранен и
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:658
+#, fuzzy
 msgid ""
 "How did you manage to kill Hoyre? This shouldn't happen... it means the "
 "level is too easy. Mail the_sigil at hotmail dot com with your savegame and "
@@ -2314,6 +2314,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:669
+#, fuzzy
 msgid ""
 "How did you manage to kill Bor Cryne? This shouldn't happen... it means the "
 "level is too easy. Mail the_sigil at hotmail dot com with your savegame and "
@@ -2325,6 +2326,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:680
+#, fuzzy
 msgid ""
 "How did you manage to kill Uri van Roe? This shouldn't happen... it means "
 "the level is too easy. Mail the_sigil at hotmail dot com with your savegame "
@@ -2629,7 +2631,7 @@ msgstr ""
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:317
 #, fuzzy
 msgid "You have resssssieved 50 gold piesssses"
-msgstr "Вы получили 50 золотых."
+msgstr "Вы получили 50 зссолотых."
 
 #. [event]
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:323
@@ -3294,7 +3296,6 @@ msgstr "Смерть Карен"
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:312
-#, fuzzy
 msgid "Any enemy unit reaches north-western signpost"
 msgstr "Один из вражеских отрядов доходит до северо-западного указателя."
 
@@ -4288,9 +4289,8 @@ msgstr "А-а-а! Да, у нас есть тайники в замке, я те
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:333
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:429
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:603
-#, fuzzy
 msgid "You have received 100 gold pieces"
-msgstr "Вы получили 150 золотых"
+msgstr "Вы получили 100 золотых"
 
 #. [message]: speaker=Majid Yahyazad
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:340
@@ -8253,9 +8253,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:392
-#, fuzzy
 msgid "To win, you should move Reme Carrenemore here!"
-msgstr "Ты знаешь где сейчас Реме Карренемо?"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:395
@@ -8777,7 +8776,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:116
-#, fuzzy
 msgid ""
 "It is my great honour to welcome the handsome Gaumhaldric to Haeltin. I have "
 "heard a lot about you, so brave and...  oh my God. It's impossible."
@@ -9757,7 +9755,6 @@ msgstr "Ха! Они спрятали тут немного золота!"
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:387
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:402
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:417
-#, fuzzy
 msgid "You have received 40 gold pieces"
 msgstr "Вы получили 40 золотых."
 
@@ -10022,7 +10019,6 @@ msgstr ""
 # deserts were inserted instead of forests
 #. [event]
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:156
-#, fuzzy
 msgid ""
 "So we killed that evil angel and his minions to journey west. We fought our "
 "way through the deserts and the swamps, fighting with nightmarish creatures, "
@@ -10224,7 +10220,6 @@ msgstr "Мне больше ничего не нужно"
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:159
-#, fuzzy
 msgid "You received 25 gold pieces"
 msgstr "Вы получили 25 золотых."
 
@@ -11124,8 +11119,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:392
+#, fuzzy
 msgid "And you will be soon a gladen. How does IT feel?"
-msgstr ""
+msgstr "А ты скоро станешь кастратом. Как тебе ЭТО?"
 
 #. [event]
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:399
@@ -11743,7 +11739,6 @@ msgstr "Зачем же мне сражаться?"
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:175
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
-#, fuzzy
 msgid "You have a chance to fight for your freedom."
 msgstr "У тебя есть шанс воевать за свою свободу."
 
@@ -12694,7 +12689,6 @@ msgstr "Я нашёл её! Я нашёл ей! Оракул!"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1372
-#, fuzzy
 msgid "All is lost! They captured the Oracle!"
 msgstr "Всё пропало! Они схватили Оракула!"
 
@@ -12717,6 +12711,7 @@ msgstr "Оракул"
 
 #. [event]
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1397
+#, fuzzy
 msgid ""
 "Here I am. My voice speaks to those willing to listen. I know why you are "
 "here. I know who you are. Ask your questions and receive the answers, for I "
@@ -12793,7 +12788,7 @@ msgid ""
 msgstr ""
 "Мне известно что ты хочешь спросить, Лорин из Гэллоров, клана, чьи дочери "
 "носят золота в волосах больше, чем в кошельках. Ответ на первый вопрос: "
-"\"Да, это ты\". Ответ на второй вопрос% \"Да, это он\". Ответ на третий "
+"\"Да, это ты\". Ответ на второй вопрос: \"Да, это он\". Ответ на третий "
 "вопрос: \"Нет, не вы\"."
 
 #. [event]
@@ -13541,9 +13536,8 @@ msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:25
-#, fuzzy
 msgid "Because I wanted too. "
-msgstr "Это всё, что мне нужно было узнать."
+msgstr ""
 
 #. [scenario]: id=21a_Abducted_Bride
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:27
@@ -15441,7 +15435,6 @@ msgstr "Мать, я объясню всё потом. Пойдём!"
 
 #. [event]
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:700
-#, fuzzy
 msgid ""
 "Gee, don't panic. That's only the vanguard of king Buffin's army. I assure "
 "you that we still have every opportunity to win."
@@ -16487,15 +16480,13 @@ msgstr "Ты хочешь сражаться за нас?"
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:27
-#, fuzzy
 msgid "It's a shame, then, that I have to kill you."
-msgstr "Какая досада, что нельзя больше убить ни одного акладиана."
+msgstr ""
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:31
-#, fuzzy
 msgid "I would be honoured to fight at your side, my king."
-msgstr "Я предлагаю тебе присоединиться к моей армии."
+msgstr ""
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:44
@@ -20082,8 +20073,9 @@ msgstr ""
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:60
+#, fuzzy
 msgid "race+female^Khalifate Human"
-msgstr ""
+msgstr "Леди Акладиан"
 
 #. [race]: id=khalifate
 #: A_New_Order/units/_main.cfg:61
@@ -20102,13 +20094,15 @@ msgstr ""
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:71
+#, fuzzy
 msgid "race+female^Falcon"
-msgstr ""
+msgstr "Леди Акладиан"
 
 #. [race]: id=falcon, description=
 #: A_New_Order/units/_main.cfg:72
+#, fuzzy
 msgid "race^Falcons"
-msgstr ""
+msgstr "Леди Акладиан"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
@@ -20767,6 +20761,10 @@ msgstr ""
 "слыша истории о битвах, рыцарях и великих подвигах отца, Карен давно решила, "
 "что участь смирной домохозяйки не для неё."
 
+#, fuzzy
+#~ msgid "The Version "
+#~ msgstr "Версия "
+
 #~ msgid ""
 #~ "Interesting. Speak, maybe I will spare your worthless head, inhuman "
 #~ "ungodly beast."
@@ -20822,9 +20820,6 @@ msgstr ""
 
 #~ msgid "Why is Bor Cryne is allied with orcs?"
 #~ msgstr "Зачем Бор Крайн объединился с орками?"
-
-#~ msgid "You can feel THIS. How does IT feel?"
-#~ msgstr "А ты скоро станешь кастратом. Как тебе ЭТО?"
 
 #~ msgid "You were a worthy opponent, Quivre from Raednons. It was good fight."
 #~ msgstr ""
@@ -20895,9 +20890,6 @@ msgstr ""
 #~ "-\n"
 #~ "Кампания не предназначена для несовершеннолетних. Ряд её элементов не "
 #~ "рекомендуется детям. Вы предупреждены."
-
-#~ msgid "Version"
-#~ msgstr "Версия "
 
 #~ msgid "Lorin, if you would only gave me a chance, I would make you howl."
 #~ msgstr "Лорин, со мной бы ты повыла, дай только шанс."
