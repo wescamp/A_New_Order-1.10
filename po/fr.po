@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-07 05:04-0500\n"
-"PO-Revision-Date: 2012-03-29 17:45+0200\n"
+"PO-Revision-Date: 2012-03-25 19:35+0100\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "Language: \n"
@@ -14108,7 +14108,6 @@ msgstr "Alors pourquoi accepteraient-ils ce qu'elle leur dit à présent?"
 
 #. [event]
 #: A_New_Order/scenarios/20_Okladia.cfg:516
-#, fuzzy
 msgid ""
 "Because Akladians are in desperate position. I think most of them, deep in "
 "their hearts, want changes --- but at the same, they seem to be unable to "
@@ -14475,7 +14474,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:418
-#, fuzzy
 msgid ""
 "Besides, our woman are under unknown curse; they give birth to few children "
 "and many of them are born sick. Wesnothian woman could give me a son!"
