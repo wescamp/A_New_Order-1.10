@@ -27,7 +27,7 @@ Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
 WTactics. Right now I do not remember the details about the author, I will
 try to fix this successively.
 
-farmer_girl and farmer_girl2 -- by Doofus
+farmer_girl -- by Doofus
 
 Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
 
@@ -91,7 +91,7 @@ STORY IMAGES
 * story_barnon: from A to Z by A.D.Danilecki. Created using my own photos,
   which I then rendered with my tablet and modified.
 * ruins of weldyn, ruvio at freetown, story ruvio, story_leftme, story_cametome,
-  : Łukasz Zaręba.
+  fall of freetown: Łukasz Zaręba.
   Made especially for ANO :) Story_leftme was slightly retouched (changing colour
   of hair and some little touches to Lorin's face) by me, but those changes are
   almost invisible.

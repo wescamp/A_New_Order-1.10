@@ -61,7 +61,8 @@ If you want to do something more, you can consider:
   money to buy new graphics, not for ourselves. As I have already written,
   we need about 20-40 USD per portrait or story image. This is not a payment
   for a campaign; this is to fund new portraits. In other words, this is in
-  order to allow the others enjoy the campaign even more.
+  order to allow the others enjoy the campaign even more. And we may then
+  decide to create a sequel :)
   Use moneybookers. You have to register, though. The transfer with
   moneybookers costs about 1 euro (0.5 fee by moneybookers, but in my country my
   bank also charges for transferring to my account in moneybookers);
@@ -247,9 +248,13 @@ Many thanks for torangan for patience in explaining translation issues.
 Thanks for all advises and help received on wesnoth forum, both in art (Jetryl
 and Pickslide, thanks a lot!) and in WML coding.
 
-Translations were made by capitol and tephlon (swedish) and Geoffroy Douillie
-(french), Jose Gordillo: Catalonian translation nikita: Russian translation 
-Oto 'tapik' Buchta: Czech translation
+Translations were made by (no national characters in names, sorry): capitol and
+tephlon (swedish) and Geoffroy Douillie, damien, Guigou Guillaume (french),
+Jose Gordillo (Catalonian translation), Alexey Remizov, nikita: Russian
+translation, Joe Hansen (Danish), Simon Sobisch (German), brivido (Italian),
+Eduardo Jose Papa (Spanish), capitol, Stephen Bergstorm aka tephlon (Swedish),
+Nilgun Belma Buguner (Turkish), Oto 'tapik' Buchta: Czech translation. See
+the entries in about.cfg for correct name spellings and more details.
 
 Music is by Erik Rijshouwer, Christian Hellerberg, Nick Humphrey, Mattias
 Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
