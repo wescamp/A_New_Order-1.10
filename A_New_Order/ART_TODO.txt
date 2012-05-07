@@ -10,7 +10,6 @@ PORTRAITS
 * Majid Yahyazad
 * Grekulak
 * Generic "bad" Akladian lord (could be used for Hoyre and Uri van Roe and others)
-* Generic "good" Akladian lord (will be used for example for Graeme)
 * Uri Van Roe
 * Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 
   also Fastfoot)
