@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-04-14 02:01-0400\n"
+"POT-Creation-Date: 2012-05-07 12:39-0400\n"
 "PO-Revision-Date: 2012-03-29 17:45+0200\n"
 "Last-Translator: Arkadiusz D. Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -284,51 +284,36 @@ msgstr "Dodatkowe informacje można znaleźć w pliku readme.txt"
 msgid "I can't believe you actually read this thing"
 msgstr "Nie chce mi się wierzyć, że naprawdę jeszcze to czytasz"
 
-#. [entry]
-#. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:180
+#. [about]
+#: A_New_Order/about.cfg:181
 msgid "Darth Vader"
 msgstr "Darth Vader"
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:182
+#: A_New_Order/about.cfg:184
 msgid "Father or Luke Skywalker"
 msgstr "Ojciec Łukasza Gwiazdołaza"
 
-#. [entry]
+#. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:186
+#: A_New_Order/about.cfg:189
 msgid "Żwirek i Muchomorek"
 msgstr "Żwirek i Muchomorek"
 
 #. [entry]
-#. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:187
+#: A_New_Order/about.cfg:191
 msgid "Famous Czech gay actors"
 msgstr "Sławni czescy aktorzy porno"
 
-#. [entry]
-#. Kononowicz is a guy.. well.. let's say he is not very bright. 
-#: A_New_Order/about.cfg:191
-msgid "Piotr Kononowicz"
-msgstr "Piotr Kononowicz"
-
-#. [entry]
-#. Kononowicz is a guy.. well.. let's say he is not very bright. 
-#: A_New_Order/about.cfg:192
-msgid "The next Polish president"
-msgstr "Nasz następny prezydent"
-
-#. [entry]
+#. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
 #: A_New_Order/about.cfg:196
 msgid "Bronisław Komorowski"
 msgstr "Bronisław hrabia Komorowski"
 
 #. [entry]
-#. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:197
+#: A_New_Order/about.cfg:198
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -340,48 +325,48 @@ msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr ""
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:467 A_New_Order/macros/ano_macros.cfg:585
+#: A_New_Order/macros/ano_macros.cfg:467 A_New_Order/macros/ano_macros.cfg:584
 msgid "I can't hold my sword anymore.. I can't ..."
 msgstr "Nie mogę już dłużej utrzymać miecza.. Nie mogę ..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:478
+#: A_New_Order/macros/ano_macros.cfg:477
 msgid "My ancestors, I am coming to you! I hope I have not failed you.."
 msgstr "Przodkowie moi, przybywam do was! Mam nadzieję, że was nie zawiodłem "
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:489
+#: A_New_Order/macros/ano_macros.cfg:488
 msgid "I'm not afraid.. I would just want to smoke a little longer.."
 msgstr "Nie boję się! Po prostu chciałbym palić nieco dłużej..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:499
+#: A_New_Order/macros/ano_macros.cfg:498
 #: A_New_Order/scenarios/23_Trapped.cfg:475
 #: A_New_Order/scenarios/23_Trapped.cfg:488
 msgid "Khalifa die without fear!"
 msgstr "Kalifa umierają bez lęku!"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:512
+#: A_New_Order/macros/ano_macros.cfg:511
 msgid "No! It's impossible! I have just started!"
 msgstr "Nie! To niemożliwe! Dopiero co zacząłem!"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:525
+#: A_New_Order/macros/ano_macros.cfg:524
 msgid "That's not fair!"
 msgstr "To niesprawiedliwe!"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:858
+#: A_New_Order/macros/ano_macros.cfg:857
 msgid "Father! Father! I am losing my..."
 msgstr "Ojcze! Ojcze! Tracę mój..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:871
+#: A_New_Order/macros/ano_macros.cfg:870
 msgid "No! I have still so much to do!"
 msgstr "Nie! Jeszcze tyle mam do zrobienia!"
 
-#: A_New_Order/macros/ano_macros.cfg:961
+#: A_New_Order/macros/ano_macros.cfg:960
 msgid ""
 "This is debug message. If you see it, then it means I forgot to delete it "
 "from release scenario."
@@ -389,7 +374,7 @@ msgstr ""
 "To jest wiadomość testowa, jesli ją zobaczysz to znaczy że zapomniałem ją "
 "usunąc ze scenariusza."
 
-#: A_New_Order/macros/ano_macros.cfg:966
+#: A_New_Order/macros/ano_macros.cfg:965
 msgid ""
 "This is debug message.  If you see it, then it means I forgot to delete it "
 "from release scenario."
@@ -397,14 +382,14 @@ msgstr ""
 "To jest wiadomość testowa, jesli ją zobaczysz to znaczy że zapomniałem ją "
 "usunąc ze scenariusza."
 
-#: A_New_Order/macros/ano_macros.cfg:1123
+#: A_New_Order/macros/ano_macros.cfg:1122
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr "Jednostka $ano_loyal[0].name stała się LOJALNA."
 
 #. [scenario]: id=10_Siege_of_Haeltin
 #. [then]
-#: A_New_Order/macros/ano_macros.cfg:1124
-#: A_New_Order/macros/ano_macros.cfg:1127
+#: A_New_Order/macros/ano_macros.cfg:1123
+#: A_New_Order/macros/ano_macros.cfg:1126
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:571
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:38
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:41
@@ -413,12 +398,12 @@ msgid "loyal"
 msgstr "lojalny"
 
 #. [scenario]: id=10_Siege_of_Haeltin
-#: A_New_Order/macros/ano_macros.cfg:1129
+#: A_New_Order/macros/ano_macros.cfg:1128
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:44
 msgid "Zero upkeep"
 msgstr "Darmowe utrzymanie"
 
-#: A_New_Order/macros/ano_macros.cfg:1138
+#: A_New_Order/macros/ano_macros.cfg:1137
 msgid "Scenario notes:"
 msgstr "Uwagi specjalne:"
 
@@ -704,13 +689,13 @@ msgstr "No cóż, walczyłaś ze mną razem w tak wielu już bitwach..."
 
 #. [event]
 #. Gawen is speaking to Kyobaine, elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:113
+#: A_New_Order/macros/elvish_macros.cfg:114
 msgid "... Aaand?"
 msgstr "... I?"
 
 #. [event]
 #. Gawen is speaking to Kyobaine, elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:114
+#: A_New_Order/macros/elvish_macros.cfg:115
 msgid ""
 "Well, you know, I thought that I should no longer treat you like a hired "
 "soldier... "
@@ -720,20 +705,20 @@ msgstr ""
 
 #. [event]
 #. Gawen is speaking to Kyobaine, elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:116
+#: A_New_Order/macros/elvish_macros.cfg:117
 msgid "What?!? Are you trying to ask me out or something?"
 msgstr ""
 "E?!? Zaraz, czy ty przypadkiem nie próbujesz się ze mną umówić na randkę?"
 
 #. [event]
 #. Gawen is speaking to Kyobaine, elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:117
+#: A_New_Order/macros/elvish_macros.cfg:118
 msgid "... Eee?"
 msgstr "... Eee?"
 
 #. [event]
 #. Gawen is speaking to Kyobaine, elvish woman. He is repeating what Milildur and Elorain were earlier speaking; these strings should be similar. Elorain earlier said: My lord, I fought with you so many battles etc
-#: A_New_Order/macros/elvish_macros.cfg:118
+#: A_New_Order/macros/elvish_macros.cfg:119
 #, fuzzy
 msgid ""
 "No offense, but.. It's not like I have something against males in general. "
@@ -748,7 +733,7 @@ msgstr ""
 
 #. [event]
 #. Kyobaine advances to Elvish Druid
-#: A_New_Order/macros/elvish_macros.cfg:136
+#: A_New_Order/macros/elvish_macros.cfg:137
 msgid ""
 "How in earth I am supposed to walk in these clothes during winter? It's "
 "frigging cold!"
@@ -758,20 +743,20 @@ msgstr ""
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:152
+#: A_New_Order/macros/elvish_macros.cfg:153
 msgid "Oooh no. I refuse to fight in this condition and in these clothes."
 msgstr ""
 "Oooo nie. Kategorycznie odmawiam walki w takich warunkach i takich ciuchach."
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:153
+#: A_New_Order/macros/elvish_macros.cfg:154
 msgid "What do you mean? Your clothes are just fine."
 msgstr "Ale o co wam chodzi? Wasze ubranie jest całkiem w porządku."
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:154
+#: A_New_Order/macros/elvish_macros.cfg:155
 msgid ""
 "*For the spring*. The least you can do is to give me proper shoes. You "
 "expect me to walk in this snow *barefoot*??"
@@ -782,13 +767,13 @@ msgstr ""
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:155
+#: A_New_Order/macros/elvish_macros.cfg:156
 msgid "That's ridiculous."
 msgstr "To .. to jest po prostu śmieszne."
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:156
+#: A_New_Order/macros/elvish_macros.cfg:157
 msgid "I couldn't agree more. Call me when you will have new shoes."
 msgstr ""
 "Zgadzam się w zupełności. Proszę mnie wezwać, gdy będą na mnie czekały nowe "
@@ -799,7 +784,7 @@ msgstr ""
 #. [scenario]: id=22_Leaving_Okladia
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
-#: A_New_Order/macros/elvish_macros.cfg:158
+#: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:87
@@ -814,19 +799,19 @@ msgstr "Cóż..."
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:159
+#: A_New_Order/macros/elvish_macros.cfg:160
 msgid "All right, what about I'll give you 25 gold pieces instead of 20?"
 msgstr "A niech tam, powiedzmy, że zapłacę za walkę 25 sztuk złota zamiast 20?"
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:160
+#: A_New_Order/macros/elvish_macros.cfg:161
 msgid "All right, we will wait for the spring."
 msgstr "No cóż, w takim razie poczekamy na wiosnę."
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:162
+#: A_New_Order/macros/elvish_macros.cfg:163
 msgid ""
 "You think you can bribe me, an elvish druid, with gold? Oh well. This will "
 "allow me to buy better winter clothes."
@@ -836,13 +821,13 @@ msgstr ""
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:173
+#: A_New_Order/macros/elvish_macros.cfg:174
 msgid "Hey, give back my gold! "
 msgstr "Hej zaraz, oddawaj moje złoto!"
 
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
-#: A_New_Order/macros/elvish_macros.cfg:177
+#: A_New_Order/macros/elvish_macros.cfg:178
 msgid "Stingy bastard."
 msgstr "A udław się tym złotem, skąpy łajdaku."
 
@@ -2083,19 +2068,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#. Note to translators: callow means inexperienced
-#. Uri van Roe
-#. Bor Cryne
 #: A_New_Order/scenarios/03_Coronation.cfg:210
-#: A_New_Order/scenarios/03_Coronation.cfg:237
-msgid "We will attack the traitors immediately."
-msgstr "Zaatakujemy tych zdrajców natychmiast."
-
-#. [event]
-#. Note to translators: callow means inexperienced
-#. Uri van Roe
-#. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:211
 msgid ""
 "Who would dare to do such terrible thing!?! Did you have time to interrogate "
 "him?"
@@ -2104,12 +2077,12 @@ msgstr ""
 "przesłuchać?"
 
 #. [then]
-#: A_New_Order/scenarios/03_Coronation.cfg:218
+#: A_New_Order/scenarios/03_Coronation.cfg:217
 msgid "Yes. He confessed to be hired by an Akladian lord."
 msgstr "Tak. Wyznał z własnej woli, że najął go jeden z akladyjskich panów."
 
 #. [then]
-#: A_New_Order/scenarios/03_Coronation.cfg:219
+#: A_New_Order/scenarios/03_Coronation.cfg:218
 msgid ""
 "It's strange, the way fear makes cowards into liars. What else did he say?"
 msgstr ""
@@ -2117,14 +2090,14 @@ msgstr ""
 "wybełkotał ów parias?"
 
 #. [then]
-#: A_New_Order/scenarios/03_Coronation.cfg:220
+#: A_New_Order/scenarios/03_Coronation.cfg:219
 msgid "Something like: 'argh.' He died before I could ask him more questions."
 msgstr ""
 "Nie jestem pewna, ale brzmiało to jakby: argh. Zginął, nim zdołałam zadać mu "
 "więcej pytań."
 
 #. [then]
-#: A_New_Order/scenarios/03_Coronation.cfg:221
+#: A_New_Order/scenarios/03_Coronation.cfg:220
 msgid ""
 "Are you suggesting that there are those amongst us who could stoop to such a "
 "low thing!? That accusation is outrageous!"
@@ -2133,12 +2106,12 @@ msgstr ""
 "niskich i ohydnych czynów? Te oskarżenia są oburzające!"
 
 #. [else]
-#: A_New_Order/scenarios/03_Coronation.cfg:224
+#: A_New_Order/scenarios/03_Coronation.cfg:223
 msgid "Unfortunately, no."
 msgstr "Niestety, nie."
 
 #. [else]
-#: A_New_Order/scenarios/03_Coronation.cfg:225
+#: A_New_Order/scenarios/03_Coronation.cfg:224
 msgid "Unfortunately, indeed. It was probably one of the underling leaders."
 msgstr "Zaprawdę, niestety. Zapewne wynajął go któryś z wodzów pariasów."
 
@@ -2146,7 +2119,7 @@ msgstr "Zaprawdę, niestety. Zapewne wynajął go któryś z wodzów pariasów."
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:228
+#: A_New_Order/scenarios/03_Coronation.cfg:227
 msgid ""
 "There are lords whom I do not see here. Can anyone explain their absence?"
 msgstr "Są panowie, których nie widzę wśrod nas. Co jest tego powodem?"
@@ -2155,7 +2128,7 @@ msgstr "Są panowie, których nie widzę wśrod nas. Co jest tego powodem?"
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:229
+#: A_New_Order/scenarios/03_Coronation.cfg:228
 msgid ""
 "There are some who doubt that a mix... that the son of an underling... could "
 "legally be our king."
@@ -2167,7 +2140,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:230
+#: A_New_Order/scenarios/03_Coronation.cfg:229
 msgid "Remember, you are talking about my mother."
 msgstr "Pamiętajcie, że mowa o mojej matce."
 
@@ -2175,7 +2148,7 @@ msgstr "Pamiętajcie, że mowa o mojej matce."
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:233
+#: A_New_Order/scenarios/03_Coronation.cfg:232
 msgid ""
 "My lord, this is only the uncomfortable truth. Hard times are ahead. "
 "Underlings are revolting against us. Those we chose not to conquer in the "
@@ -2195,7 +2168,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:235
+#: A_New_Order/scenarios/03_Coronation.cfg:234
 msgid ""
 "All of those who so believe are traitors who will be punished. And those who "
 "remain loyal to us will be rewarded."
@@ -2207,7 +2180,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:236
+#: A_New_Order/scenarios/03_Coronation.cfg:235
 msgid "(murmuring) She dares to speak about loyalty... "
 msgstr "(szeptem) Lojalność? I kto to mówi..."
 
@@ -2215,7 +2188,15 @@ msgstr "(szeptem) Lojalność? I kto to mówi..."
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:238
+#: A_New_Order/scenarios/03_Coronation.cfg:236
+msgid "We will attack the traitors immediately."
+msgstr "Zaatakujemy tych zdrajców natychmiast."
+
+#. [event]
+#. Note to translators: callow means inexperienced
+#. Uri van Roe
+#. Bor Cryne
+#: A_New_Order/scenarios/03_Coronation.cfg:237
 msgid ""
 "My lady, you should really reconsider. Those lords are our friends, truly "
 "disturbed about future of our kingdom and our people. To keep the kingdom "
@@ -2229,7 +2210,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:239
+#: A_New_Order/scenarios/03_Coronation.cfg:238
 msgid ""
 "I prefer a dead enemy to an uncertain ally. We must be absolutely certain of "
 "your loyalty and about which side you are choosing to back. It is time to "
@@ -2243,7 +2224,7 @@ msgstr ""
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:240
+#: A_New_Order/scenarios/03_Coronation.cfg:239
 msgid "I have always been loyal to the Hagarthen family."
 msgstr "Zawszem był lojalny wobec rodziny Hagarthenów."
 
@@ -2251,7 +2232,7 @@ msgstr "Zawszem był lojalny wobec rodziny Hagarthenów."
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:247
+#: A_New_Order/scenarios/03_Coronation.cfg:246
 msgid "And you, noble Graeme?"
 msgstr "A wy, szlachetni Greame?"
 
@@ -2259,7 +2240,7 @@ msgstr "A wy, szlachetni Greame?"
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:248
+#: A_New_Order/scenarios/03_Coronation.cfg:247
 msgid "I serve the crown."
 msgstr "Służę koronie."
 
@@ -2268,7 +2249,7 @@ msgstr "Służę koronie."
 #. Uri van Roe
 #. Bor Cryne
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/03_Coronation.cfg:254
+#: A_New_Order/scenarios/03_Coronation.cfg:253
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:289
 msgid "Uri van Roe?"
 msgstr "Uri van Roe?"
@@ -2277,7 +2258,7 @@ msgstr "Uri van Roe?"
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:256
+#: A_New_Order/scenarios/03_Coronation.cfg:255
 msgid "Hail the true king of Vakladia."
 msgstr "Sława temu, kto jest prawowitym królem Vakladii."
 
@@ -2286,7 +2267,7 @@ msgstr "Sława temu, kto jest prawowitym królem Vakladii."
 #. Uri van Roe
 #. Bor Cryne
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/03_Coronation.cfg:263
+#: A_New_Order/scenarios/03_Coronation.cfg:262
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:295
 msgid "Bor Cryne?"
 msgstr "Bor Cryne?"
@@ -2295,7 +2276,7 @@ msgstr "Bor Cryne?"
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:265
+#: A_New_Order/scenarios/03_Coronation.cfg:264
 msgid "I will always loyally serve what is best for kingdom of Vakladia."
 msgstr "Zawsze będę służył temu, co najlepsze dla królestwa Vakladii."
 
@@ -2303,7 +2284,7 @@ msgstr "Zawsze będę służył temu, co najlepsze dla królestwa Vakladii."
 #. Note to translators: callow means inexperienced
 #. Uri van Roe
 #. Bor Cryne
-#: A_New_Order/scenarios/03_Coronation.cfg:270
+#: A_New_Order/scenarios/03_Coronation.cfg:269
 msgid ""
 "To guarantee your fealty, I insist that each of you send your first-born son "
 "to the court of Vattin, where he shall learn how to best serve the crown."
@@ -21791,7 +21772,7 @@ msgstr ""
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:25
 #: A_New_Order/units/akladians/Akladian_Homeguard.cfg:30
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:41
-#: A_New_Order/units/akladians/Akladian_Leader.cfg:32
+#: A_New_Order/units/akladians/Akladian_Leader.cfg:33
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:34
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:34
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:32
@@ -21929,7 +21910,7 @@ msgid "Akladian Leader"
 msgstr "Akladyjski Przywódca"
 
 #. [unit_type]: id=Akladian Leader, race=akladian
-#: A_New_Order/units/akladians/Akladian_Leader.cfg:28
+#: A_New_Order/units/akladians/Akladian_Leader.cfg:29
 msgid ""
 "Some of the Akladian warriors because of their personal achievements or "
 "their descendency are leading the others, starting their career which some "
@@ -22449,6 +22430,12 @@ msgstr ""
 "dzieciństwa słysząc opowieści o bitwach, rycerzach i wielkich czynach jej "
 "ojca, Karen wcześnie zdecydowała, że życie jako przykładna żona zdecydowanie "
 "nie jest jej przeznaczeniem"
+
+#~ msgid "Piotr Kononowicz"
+#~ msgstr "Piotr Kononowicz"
+
+#~ msgid "The next Polish president"
+#~ msgstr "Nasz następny prezydent"
 
 #~ msgid ""
 #~ "This is not implemented in current version of the scenario. Please, wait "
