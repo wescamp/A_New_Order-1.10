@@ -21,7 +21,7 @@ I _think_ also Milildur and Kyobaine are by Santiago Iborra
 Elorain: should be removed, it is the same as in the mainline female+ranger...
 old orcish shaman, orcish shaman: are in Son of the black eye.
 deorien: same as hylas in The South Guard.
-huon: same as swordsman-2 in transparent/core, should me removed
+huon: same as swordsman-2 in transparent/core, should be removed
 
 Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
 WTactics. Right now I do not remember the details about the author, I will
@@ -30,6 +30,8 @@ try to fix this successively.
 farmer_girl -- by Doofus
 
 Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
+
+akladian_lord, bor_cryne -- Łukasz Zaręba
 
 other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
 likely I did it :)
@@ -95,3 +97,7 @@ STORY IMAGES
   Made especially for ANO :) Story_leftme was slightly retouched (changing colour
   of hair and some little touches to Lorin's face) by me, but those changes are
   almost invisible.
+
+OTHER
+-----
+Some images and tiles were created by Reiner "Tiles" Prokein

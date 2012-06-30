@@ -1,6 +1,6 @@
 This campaign used to be translated into many, many languages. Unfortunately,
 at the same time most text was written by non-native English speaker (meaning me),
-and as an effect native speakers were complaining about errors, typos etc. 
+and as an effect, native speakers were complaining about errors, typos etc. 
 Finally, there came Sigil, and he corrected the English. As an effect, all
 translations became outdated. Since I (usually) know, what was changed, i 
 manually updated part of the translated strings, but I could be wrong.

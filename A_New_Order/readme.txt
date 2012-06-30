@@ -7,7 +7,7 @@ file :)
 
 Wesnoth demands that all content should be released under GPL license. GPL has
 specific conditions on "source"; however, it is not clear what is a "source"
-for image or music piece. Therefore, the file LICENSE.important.txt contains
+for an image or a music piece. Therefore, the file LICENSE.important.txt contains
 important note on copyrights. Read it carefully before distributing the images
 and music. In short, we allow to distribute the images and music under GPLd
 provided that GPL does not require us to provide e.g. sketches for images,
@@ -44,7 +44,7 @@ If you want to do something more, you can consider:
   to donate him a new porsche, do not hesitate, he will be happy I think. Same
   goes for Nick Humphrey. 
 * If you have artistic skills, consider making us an story image, portrait,
-  sprites, or sprite animations. 
+  sprites, or sprite animations. We really need this!
 * If you are musician, consider composing a track for us. 
 * If you want ANO to have better images, consider buying an image and sending
   it to  us. We paid about 20-40USD per image, but be prepared that many
@@ -75,6 +75,12 @@ Note that none of this is mandatory and you should under no circumstances feel
 obliged to do any of this. Saying you like it is enough to make us happy :) :)
 (Ok, I don't know about the others, but I LOVE to read when people write
 they like my work :D A.D.D). 
+
+I won't be buying more images for sure; I have commissioned six story images and
+three portraits (two of them are in work). Sigil bought five portraits. I have
+counted how many images ANO needs to make me feel it is REALLY finished in terms
+of graphics, and then how much it would cost me, and the decision is: no way
+(it would take two my full monthly salaries).
 
 SO YOU WANT TO CREATE A SEQUEL?
 -------------------------------
