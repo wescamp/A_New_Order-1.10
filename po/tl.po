@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-05-07 12:39-0400\n"
+"POT-Creation-Date: 2012-06-30 09:27-0400\n"
 "PO-Revision-Date: 2006-04-20 14:04+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -492,8 +492,8 @@ msgstr ""
 #. [then]
 #: A_New_Order/macros/conversations.cfg:43
 #: A_New_Order/macros/elvish_macros.cfg:109
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:584
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:530
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:585
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:532
 msgid "What?"
 msgstr ""
 
@@ -838,7 +838,7 @@ msgstr ""
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:28
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:30
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:72
-#: A_New_Order/scenarios/13_Scouting.cfg:274
+#: A_New_Order/scenarios/13_Scouting.cfg:276
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:48
 #: A_New_Order/scenarios/14b_Bontom.cfg:135
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30
@@ -862,7 +862,7 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:129
 #: A_New_Order/scenarios/23_Trapped.cfg:80
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:63
-#: A_New_Order/scenarios/25_The_Awakening.cfg:221
+#: A_New_Order/scenarios/25_The_Awakening.cfg:228
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:45
 #: A_New_Order/scenarios/27_Orannon.cfg:31
 #: A_New_Order/scenarios/28_Lorin.cfg:91
@@ -877,7 +877,7 @@ msgstr ""
 #. [side]: type=Akladian Lady, id=Lady Lorin
 #. [unit]: id=Lady Lorin, type=Akladian Lady
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:499
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:33
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:149
 #: A_New_Order/scenarios/06_Separation.cfg:54
@@ -899,87 +899,87 @@ msgid "Eol Areon"
 msgstr ""
 
 #. [unit]: id=Iree Rothe, type=Akladian Fastfoot, type=Akladian Light Infantry, type=Akladian Warrior
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:197
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:198
 msgid "Iree Rothe"
 msgstr ""
 
 #. [unit]: id=Reuke Rothe, type=Akladian Pikeneer, type=Akladian Light Infantry, type=Akladian Light Infantry
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:217
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:219
 msgid "Reuke Rothe"
 msgstr ""
 
 #. [unit]: id=Strome Ohavenort, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:238
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:296
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:342
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:241
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:304
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:354
 msgid "Strome Ohavenort"
 msgstr ""
 
 #. [unit]: id=Reonee, type=Akladian Clansman
 #. [unit]: id=Reonee, type=Akladian Homeguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:250
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:307
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:353
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:254
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:316
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:366
 msgid "Reonee"
 msgstr ""
 
 #. [unit]: id=Aueree, type=Akladian Homeguard
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:261
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:266
 msgid "Aueree"
 msgstr ""
 
 #. [unit]: id=Raoke, type=Akladian Clansman
 #. [unit]: id=Raoke, type=Akladian Warrior
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:272
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:318
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:364
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:278
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:328
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:378
 msgid "Raoke"
 msgstr ""
 
 #. [unit]: id=Oyre, type=Akladian Clansman
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:283
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:329
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:290
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:340
 msgid "Oyre"
 msgstr ""
 
 #. [side]: id=Rebel, type=City Militia, type=Lieutenant, type=Lieutenant
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:378
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:393
 msgid "Heinric the Redbeard"
 msgstr ""
 
 #. [unit]: id=Militiaman, type=City Militia
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:393
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:408
 msgid "Militiaman"
 msgstr ""
 
 #. [side]: id=Assassin
 #. [unit]: id=Assassin
 #. [unit]: id=Assassin, type=Thief, type=Rogue, type=Assassin
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:439
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:557
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:521
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:454
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:522
 msgid "Assassin"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:499
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
 msgid "He has regained consciousness, my lady!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:500
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:515
 msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:501
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:516
 msgid ""
 "I feel weak... sick... (pause) ... I can't remember anything... nothing. Who "
 "am I?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:517
 msgid ""
 "I fear the blade which wounded him was poisoned, my lady.  We must wait here "
 "and pray that our God shows him mercy. (Whispering) And then we shall bury "
@@ -987,35 +987,35 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:518
 msgid ""
 "No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:519
 msgid "He will not make it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:520
 msgid ""
 "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even "
 "sacrifice so much as a mouse ever again!  Do you hear me, God?  Do you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:521
 msgid "Gawen, get up!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:507
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:522
 msgid "Yes... But... I can't remember anything... Who am I ?! Who are you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
 msgid ""
 "I am your mother, the only person whom you can trust. These are your few "
 "loyal soldiers, who remained when everyone else deserted us. You are Gawen "
@@ -1023,26 +1023,26 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:524
 msgid "My mother? You seem... a bit young."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:510
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:525
 msgid ""
 "I am only your step-mother, but there is no time for more talk. We have to "
 "reach the town and find a medic!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:526
 msgid ""
 "Look, Akladians! To arms! Their king is dead; it's time to kill them all and "
 "be done with our slavery!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:513
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:528
 msgid ""
 "My lord, if you can't remember anything, then permit me a few suggestions. "
 "While our troops are not the armoured types the Wesnothians have, they are "
@@ -1053,7 +1053,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:529
 msgid ""
 "I see two good defensive positions here. One is to the north, near the "
 "village; the second is on the hills to the east of us. Use your troops to "
@@ -1062,15 +1062,15 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:519
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
 msgid "Gawen Hagarthen reaches the enemy keep"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:337
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:286
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:301
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:538
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:338
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:292
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:303
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:166
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:195
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:90
@@ -1083,8 +1083,8 @@ msgstr ""
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:144
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:169
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:357
-#: A_New_Order/scenarios/23_Trapped.cfg:769
-#: A_New_Order/scenarios/25_The_Awakening.cfg:465
+#: A_New_Order/scenarios/23_Trapped.cfg:778
+#: A_New_Order/scenarios/25_The_Awakening.cfg:472
 #: A_New_Order/scenarios/27_Orannon.cfg:602
 #: A_New_Order/scenarios/27_Orannon.cfg:900
 #: A_New_Order/scenarios/ano-14macros.cfg:8
@@ -1092,13 +1092,13 @@ msgid "Death of Gawen Hagarthen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:527
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:341
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:290
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:542
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:342
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:296
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:234
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:221
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:215
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:206
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:228
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:344
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1354
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:276
@@ -1106,74 +1106,74 @@ msgstr ""
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:152
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:177
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:365
-#: A_New_Order/scenarios/23_Trapped.cfg:777
-#: A_New_Order/scenarios/25_The_Awakening.cfg:473
+#: A_New_Order/scenarios/23_Trapped.cfg:786
+#: A_New_Order/scenarios/25_The_Awakening.cfg:480
 #: A_New_Order/scenarios/27_Orannon.cfg:606
 #: A_New_Order/scenarios/27_Orannon.cfg:904
-#: A_New_Order/scenarios/ano-01_06macros.cfg:175
+#: A_New_Order/scenarios/ano-01_06macros.cfg:178
 #: A_New_Order/scenarios/ano-14macros.cfg:18
 msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:531
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:345
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:294
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:546
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:346
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:300
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:238
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:225
-#: A_New_Order/scenarios/ano-01_06macros.cfg:179
+#: A_New_Order/scenarios/ano-01_06macros.cfg:182
 msgid "Death of Reme Carrenemoe"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:549
 msgid "You cannot recruit new units in this scenario."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:577
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:592
 msgid "These ashes are still warm... he has to be somewhere nearby..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:590
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:605
 msgid "I feel so sick, like poison is burning inside me..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:591
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:606
 msgid "Try to resist for just a bit longer, my son!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:598
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:613
 msgid "He will not make it!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:599
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:614
 msgid "My son! Please, don't give up!"
 msgstr ""
 
 #. [unit]: id=Medic, type=Mage
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:620
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:635
 msgid "Medic"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:626
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:641
 msgid "My lady, we have found a medic!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:627
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:642
 msgid ""
 "Underling! My son is dying. If you heal him, I will spare your life. If not, "
 "I will burn you and your family alive, do you understand?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:628
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:643
 msgid ""
 "Don't try to intimidate me. I am too old to be afraid of death, I have no "
 "family. I will try to heal your son because of my vows as a healer, not "
@@ -1181,59 +1181,59 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:629
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:644
 msgid "Your motives are of no concern to me, just do it!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:656
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:671
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:705
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:720
 msgid "I can't see.. it's so cold..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:706
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:721
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:714
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:729
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:715
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:730
 msgid "Umm... we are good guys, right?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:717
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:732
 msgid ""
 "Do not forget to withdraw wounded units to villages, where they can rest and "
 "regain some of their health."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:730
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:745
 msgid "Get out of my way, filthy underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:742
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:757
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:755
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:770
 msgid "How dare you oppose us, heathen underling!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:763
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:778
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 
@@ -1279,47 +1279,47 @@ msgid "Raul O Gaeltin"
 msgstr ""
 
 #. [unit]: id=Oeame, type=Akladian Pikeneer, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:115
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:116
 msgid "Oeame"
 msgstr ""
 
 #. [unit]: id=Roule, type=Akladian Warrior
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:129
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:130
 msgid "Roule"
 msgstr ""
 
 #. [unit]: id=Moerro, type=Akladian Pikeneer, type=Akladian Light Infantry, type=Akladian Light Infantry, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:138
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:139
 msgid "Moerro"
 msgstr ""
 
 #. [unit]: id=Urheare, type=Akladian Warrior
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:156
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:157
 msgid "Urheare"
 msgstr ""
 
 #. [unit]: id=Mirro, type=Akladian Warrior, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:165
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:166
 msgid "Mirro"
 msgstr ""
 
 #. [unit]: id=Umeari, type=Akladian Warrior, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:175
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:176
 msgid "Umeari"
 msgstr ""
 
 #. [unit]: id=Rioto, type=Akladian Shieldguard, type=Akladian Homeguard, type=Akladian Homeguard, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:184
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:185
 msgid "Rioto"
 msgstr ""
 
 #. [unit]: id=Lioato, type=Akladian Homeguard, type=Akladian Homeguard, type=Akladian Warrior, role=ano_loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:201
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:202
 msgid "Lioato"
 msgstr ""
 
 #. [side]: id=Loyal
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:220
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:221
 msgid "Loyal"
 msgstr ""
 
@@ -1328,7 +1328,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:267
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:268
 msgid ""
 "Vattin, the capital of our kingdom, is just a few days from here. How do you "
 "feel, my son? "
@@ -1339,7 +1339,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:268
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
 msgid ""
 "Much better. That medic did a commendable job. I wish to thank him at some "
 "time in future."
@@ -1350,7 +1350,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:269
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:270
 msgid "I'm afraid... that may be... impossible. What about your memory?"
 msgstr ""
 
@@ -1359,7 +1359,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:270
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:271
 msgid ""
 "I think... sometimes I think I remember something, but then it passes. I "
 "remember a dark-haired woman. She is lying on a bed, sweating, pain in her "
@@ -1372,7 +1372,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:271
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:272
 msgid ""
 "That could be your true mother, my lord. She was poisoned when you were "
 "still young."
@@ -1383,7 +1383,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:272
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:273
 msgid ""
 " I've sent an envoy to Gaeltin Hyer, a city which lies along our way, to "
 "prepare rooms for us. I think, my lord, you might want to get some rest "
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #. [unit]: id=Messenger, type=Akladian Homeguard
 #. [unit]: type=Akladian Clansman, id=Messenger
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:283
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:284
 #: A_New_Order/scenarios/23_Trapped.cfg:330
 msgid "Messenger"
 msgstr ""
@@ -1402,7 +1402,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:288
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:289
 msgid ""
 "Noble lords, with your permission... my lord, Raul O Gaeltin sent me here "
 "with a message. I beg for your forgiveness, remember I am just a messenger."
@@ -1413,7 +1413,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:290
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:291
 msgid "Speak."
 msgstr ""
 
@@ -1422,7 +1422,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:291
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:292
 msgid ""
 "These are the words of my lord; I was given a strict charge to repeat them "
 "exactly: 'Gaeltin's gates will never be opened for mixling bastards nor for "
@@ -1434,7 +1434,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:296
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:297
 msgid "You received 2 pieces of gold"
 msgstr ""
 
@@ -1443,7 +1443,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:297
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:298
 msgid ""
 "'...for you to start a new life.' This is what I was commanded to say. May I "
 "live - I mean - leave?"
@@ -1454,7 +1454,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:299
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:300
 msgid ""
 "We have a message for your lord too. Tell him we will bring him the message "
 "personally and he will have a lot of time to comprehend it fully. You may "
@@ -1466,7 +1466,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:321
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:322
 msgid ""
 "I guess we will have to fight our way into Vattin. Gawen, many Akladians "
 "live nearby. They will fight for you. They are inexperienced but they are "
@@ -1478,7 +1478,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:323
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:324
 msgid ""
 "Hmm, after some thought perhaps it is for the best that Raul is trying to "
 "oppose us. It's an occasion for you to exercise a little."
@@ -1489,7 +1489,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:324
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:325
 msgid ""
 "Go and take the villages to earn more gold. Recruit as many Clansmen as you "
 "can. Many of them will probably die, but the survivors may become good "
@@ -1498,59 +1498,59 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:329
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:330
 msgid "Reach the northern signpost with Gawen Hagarthen OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:333
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:334
 msgid "Kill the enemy leader."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:358
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:359
 msgid "I suppose we will find some use for this in near future."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:373
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:374
 msgid "I have no wish to become any better-acquainted with this device."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:383
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:384
 msgid "So, how many days' journey from here to Vattin?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:384
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:385
 msgid "We should arrive in two or three days."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:391
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:392
 msgid "It's a shame we had no time to finish those traitors off."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:392
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:393
 msgid ""
 "There is no time for that now. Others should be able to manage that job "
 "without us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:410
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:411
 msgid "Death to the traitors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:411
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:412
 msgid "Yes, death to you!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:415
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:416
 msgid ""
 "Seems to me it will be an easy battle. I guess it would be enough to have "
 "250 gold pieces at the end of this fight; It is far more important, Gawen, "
@@ -1559,96 +1559,96 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:432
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:433
 msgid "This is the end which awaits all traitors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:443
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:444
 msgid ""
 "Before I kill you, you ought to know that this is not because of the message "
 "you delivered to us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:444
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:445
 msgid "I was just a messenger!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:445
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:446
 msgid ""
 "I just told you that I don't blame you for repeating words of your master."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:446
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:447
 msgid "So you will allow me to live?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:447
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:448
 msgid "Oh, I haven't said that. You see, I really don't like your face."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:462
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:463
 msgid ""
 "You are lucky that I don't have more time, or I would play with you more, "
 "honorless dog."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:463
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:464
 msgid ""
 "You are lucky that this underling whom you call your king does not know "
 "that... "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:464
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:465
 msgid "Enough of that, go now to your ancestors!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:465
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:466
 msgid " Hurkkh... "
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:540
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:541
 msgid "Where is he? He is starting to get on my nerves..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:583
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:584
 msgid "Oops."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:585
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:586
 msgid "It looks like he recruited a lot of units."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:586
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:587
 msgid "Yes indeed. This could be a bit harder than we expected."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:610
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:611
 msgid "My friends will arrive very soon! You are already doomed! Ha ha ha!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:613
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:614
 msgid ""
 "Let's try to move a little faster. This traitor's friends may appear at any "
 "moment."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:637
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:638
 msgid ""
 "Ha ha ha! You are doomed! I can hear the trumpets of my friends coming to "
 "aid me!"
@@ -1656,7 +1656,7 @@ msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:640
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:641
 msgid ""
 "No! More traitors are coming from every side! We cannot hope to deal with "
 "all them!"
@@ -1664,24 +1664,24 @@ msgstr ""
 
 #. [event]
 #. Note to translators: Milksop is an older English term for 'coward.'
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:643
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:644
 msgid "Run for your life! That milksop cannot possibly lead us to victory!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:652
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:653
 msgid "Poor fellow!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:653
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:654
 msgid ""
 "He died an honorable death. You cannot let the fear of losing units paralyse "
 "you; there are many more clansmen ready to fight for you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:665
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:666
 msgid ""
 "Remember Gawen, that while most of our units don't care about the time of "
 "day, Homeguards, Shieldguards and Protectors prefer to fight during the day, "
@@ -1689,7 +1689,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:678
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:679
 msgid ""
 "Ah, he is using Sturmknights. Be wary of them, Gawen. They prefer to fight "
 "at night as they are accustomed to darkness. Counter them by assailing them "
@@ -1746,11 +1746,11 @@ msgstr ""
 msgid "Graeme O Borraine"
 msgstr ""
 
-#. [side]: id=Bor Cryne, type=Akladian Lord
-#. [unit]: type=Akladian Lord, id=Bor Cryne
+#. [side]: id=Bor Cryne, type=Lord Bor Cryne
+#. [unit]: type=Lord Bor Cryne, id=Bor Cryne
 #: A_New_Order/scenarios/03_Coronation.cfg:129
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:141
-#: A_New_Order/scenarios/25_The_Awakening.cfg:505
+#: A_New_Order/scenarios/25_The_Awakening.cfg:512
 #: A_New_Order/scenarios/27_Orannon.cfg:72
 msgid "Bor Cryne"
 msgstr ""
@@ -2019,17 +2019,10 @@ msgid ""
 "esteem for him rose dramatically."
 msgstr ""
 
-#. [filter]
-#. [filter_second]
-#. [kill]
 #. [side]: id=Hoyre O Barnone, type=Akladian Lord
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:45
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:632
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:640
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:650
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:854
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:97
-#: A_New_Order/scenarios/25_The_Awakening.cfg:297
+#: A_New_Order/scenarios/25_The_Awakening.cfg:304
 msgid "Hoyre O Barnone"
 msgstr ""
 
@@ -2056,71 +2049,71 @@ msgid "Nome"
 msgstr ""
 
 #. [label]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:193
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:199
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:176
 msgid "Castle of Barnon"
 msgstr ""
 
 #. [label]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:197
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:203
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:180
 msgid "City of Barnon"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:255
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:261
 msgid ""
 "This should be easy, my son. Let's just get to the Castle of Barnon and "
 "finish that traitor off."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:256
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:262
 msgid "If I may, my lord, I suggest not to attack in haste."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:257
-#: A_New_Order/scenarios/13_Scouting.cfg:351
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:263
+#: A_New_Order/scenarios/13_Scouting.cfg:353
 #: A_New_Order/scenarios/14b_Bontom.cfg:573
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:274
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:225
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:285
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:388
 msgid "Why?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:258
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:264
 msgid "I have deep reservations about how our so-called allies will act."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:259
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:265
 msgid "You think that they would dare not to attack?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:260
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:266
 msgid ""
 "I am sure that they will dare... it's just I am not sure whom they will "
 "attack."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:261
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:267
 msgid "Nonsense. They know that the lives of their sons are in our hands."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:276
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:282
 msgid ""
 "I am not sure whether we have enough gold for this endeavor. I wish we had "
 "accumulated more in previous battles."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:282
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:288
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:230
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:217
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:138
@@ -2131,36 +2124,36 @@ msgstr ""
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1338
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:140
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:165
-#: A_New_Order/scenarios/25_The_Awakening.cfg:461
+#: A_New_Order/scenarios/25_The_Awakening.cfg:468
 #: A_New_Order/scenarios/27_Orannon.cfg:598
 #: A_New_Order/scenarios/27_Orannon.cfg:896
 msgid "Kill all enemy leaders"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:316
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:322
 msgid ""
 "It is a dark day indeed, to see Akladian lords siding with an underling "
 "bastard child. What will your ancestors say about this, Uri?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:317
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:323
 msgid ""
 "Hoyre, you have always been my friend. I would never fight against you. "
 "Rather, I join with you to kill that mixling!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:324
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:330
 msgid ""
 "I've never intended to fight against you, Hoyre. Let our swords instead cut "
 "that underling's head off, as well as that witch, his step-mother!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:334
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:364
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:340
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:370
 msgid ""
 "Reach either eastern or western signpost with both Lorin AND Reme. After "
 "that, hold on at least $ano_howmanyturns turns before the honorable death of "
@@ -2168,21 +2161,21 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:352
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:358
 msgid ""
 "We spent so many days drinking and fighting together. Now you come with an "
 "army against me? What about our plans, Bor?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:353
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:359
 msgid ""
 "Our plans haven't changed, Hoyre. You were and are my friend. I only came "
 "here with the underling so we could trap him. I am with you!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:358
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:364
 msgid ""
 "Noble Lords, count on me too! Death to that scraggy mixling, that witch and "
 "all the traitors who support them against our own kin! God with us! Kill "
@@ -2190,99 +2183,99 @@ msgid ""
 msgstr ""
 
 #. [print]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:409
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:413
 msgid "Bonus for resisting $ano_tmp| turns above requirement"
 msgstr ""
 
 #. [print]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:416
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:420
 msgid "Resisted $ano_barnon_turns| turns."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:474
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:478
 msgid "I hope both Reme and Lorin have made it... Aaargh!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:484
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:488
 msgid "I think we killed him, my lord!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:486
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:490
 msgid ""
 "You 'think'!? Where is his body? Search for it, fools, I want to be sure!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:546
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:550
 msgid ""
 "Bonus for resisting, 40gp per each turn above $ano_howmanyturns: "
 "$ano_barnon_turns"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:571
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:575
 msgid ""
 "Oh no! Fresh enemy reinforcements have arrived, Reme, and you have no chance "
 "to escape! I can't hold them!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:573
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:577
 msgid ""
 "Oh no! Fresh enemy reinforcements have arrived, Lorin, and you have no "
 "chance to escape! I can't hold them!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:576
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:580
 msgid ""
 "After the end of the day king's forces were defeated; however, no one could "
 "find the body of Gawen Hagarthen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:634
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:655
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:638
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:659
 msgid "Argh! I am wounded!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:635
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:656
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:639
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:660
 msgid "They got Hoyre! My friend! You will be avenged!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:636
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:640
 msgid "I am alive, but I must run away! They try to kill me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:637
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:641
 msgid "Run away? You are Akladian Lord, stay and fight!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:638
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:642
 msgid "Fortunately I have a hideout here..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:642
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:646
 msgid "Where is he? He hide somewhere!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:657
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:661
 msgid ""
 "No, he is not dead, he is just heavily wounded and has lost consciousness!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:658
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:662
 msgid ""
 "How did you manage to kill Hoyre? This shouldn't happen... it means the "
 "level is too easy. Mail adanilecki @ cs put poznan pl with your savegame and "
@@ -2290,7 +2283,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:669
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:673
 msgid ""
 "How did you manage to kill Bor Cryne? This shouldn't happen... it means the "
 "level is too easy. Mail adanilecki @ cs put poznan pl with your savegame and "
@@ -2298,7 +2291,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:680
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:684
 msgid ""
 "How did you manage to kill Uri van Roe? This shouldn't happen... it means "
 "the level is too easy. Mail adanilecki @ cs put poznan pl with your savegame "
@@ -2306,34 +2299,24 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:690
-msgid "Ah! He's coming for me! Time to use my reserves!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:734
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:821
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:738
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:826
 msgid ""
 "My lord, we really should try to escape, this battle is impossible to win!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:744
-msgid "Ha! Come and get some! I have some nasty surprise for you!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:831
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:836
 msgid "My faithful warriors, it's time to show your loyalty to the clan!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:852
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:857
 msgid "Do not worry, I will be soon back, with reinforcements!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:856
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:861
 msgid ""
 "This Hoyre... Sometimes I wonder whether his mother... Seems Uri we will "
 "have to finish this at our own"
@@ -2356,7 +2339,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:885
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:890
 msgid "yet he is still alive"
 msgstr ""
 
@@ -2377,7 +2360,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:888
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:893
 msgid "pikeneer"
 msgstr ""
 
@@ -2398,7 +2381,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:891
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:896
 msgid "protector"
 msgstr ""
 
@@ -2419,7 +2402,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:894
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:899
 msgid "clansman"
 msgstr ""
 
@@ -2440,7 +2423,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:897
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:902
 msgid "shieldguard"
 msgstr ""
 
@@ -2461,7 +2444,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:900
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:905
 msgid "homeguard"
 msgstr ""
 
@@ -2482,7 +2465,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:903
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:908
 msgid "raider"
 msgstr ""
 
@@ -2503,7 +2486,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:906
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:911
 msgid "light infantryman"
 msgstr ""
 
@@ -2540,8 +2523,8 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:909
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:936
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:914
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:941
 msgid "warrior"
 msgstr ""
 
@@ -2562,7 +2545,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:912
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:917
 msgid "fastfoot"
 msgstr ""
 
@@ -2615,9 +2598,9 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:915
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:918
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:921
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:920
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:923
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:926
 msgid "underling"
 msgstr ""
 
@@ -2670,9 +2653,9 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:924
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:928
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:932
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:929
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:933
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:937
 msgid "witch, his stepmother"
 msgstr ""
 
@@ -2725,9 +2708,9 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:925
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:929
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:933
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:930
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:934
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:938
 msgid "yet she is still alive"
 msgstr ""
 
@@ -2748,7 +2731,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:943
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:948
 msgid "This underling has incredible luck!"
 msgstr ""
 
@@ -2769,7 +2752,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:944
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:949
 msgid "What do you mean, Bor?"
 msgstr ""
 
@@ -2790,7 +2773,7 @@ msgstr ""
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
 #. I was so sure our warriors will kill that
-#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:945
+#: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:950
 msgid ""
 "I don't know how to explain this. But.. For example, I was so sure our "
 "warriors will kill that $tmp, $tmpg|!"
@@ -3333,12 +3316,12 @@ msgstr ""
 #. [unit]: id=Ruvio, type=Ruvio
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:80
-#: A_New_Order/scenarios/13_Scouting.cfg:606
-#: A_New_Order/scenarios/13_Scouting.cfg:616
-#: A_New_Order/scenarios/13_Scouting.cfg:627
-#: A_New_Order/scenarios/13_Scouting.cfg:635
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:484
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:492
+#: A_New_Order/scenarios/13_Scouting.cfg:608
+#: A_New_Order/scenarios/13_Scouting.cfg:618
+#: A_New_Order/scenarios/13_Scouting.cfg:629
+#: A_New_Order/scenarios/13_Scouting.cfg:637
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:488
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:496
 #: A_New_Order/scenarios/20_Okladia.cfg:417
 #: A_New_Order/scenarios/20_Okladia.cfg:426
 #: A_New_Order/scenarios/20_Okladia.cfg:436
@@ -3350,64 +3333,64 @@ msgstr ""
 #. [event]
 #. [unit]: id=Karen, type=Ruvios Daughter
 #. [unit_type]: id=Ruvios Daughter, race=human
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:91
-#: A_New_Order/scenarios/13_Scouting.cfg:607
-#: A_New_Order/scenarios/13_Scouting.cfg:617
-#: A_New_Order/scenarios/13_Scouting.cfg:628
-#: A_New_Order/scenarios/13_Scouting.cfg:636
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:92
+#: A_New_Order/scenarios/13_Scouting.cfg:609
+#: A_New_Order/scenarios/13_Scouting.cfg:619
+#: A_New_Order/scenarios/13_Scouting.cfg:630
+#: A_New_Order/scenarios/13_Scouting.cfg:638
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
 msgid "Karen"
 msgstr ""
 
 #. [side]: id=Moerre Crynenoj, type=Akladian Chieftain
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:104
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:105
 msgid "Moerre Crynenoj"
 msgstr ""
 
 #. [unit]: id=Ore Cruveno, type=Akladian Light Infantry
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:112
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:113
 msgid "Ore Cruveno"
 msgstr ""
 
 #. [side]: id=Rebel
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:223
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:224
 msgid "Rebel"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:253
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:254
 msgid "Finally, you awaken. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:254
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:255
 msgid "Am I alive? Who are you? Where am I?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:255
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:256
 msgid "Be not worried. You are amongst friends, Haldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:256
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:257
 msgid "But, how.. wait, what did you call me? Haldric?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:257
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:258
 msgid "That's what your mother named you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:258
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:259
 msgid ""
 "My mother never.. wait, you are talking about my REAL mother, aren't you? "
 "You knew my mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:259
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:260
 msgid ""
 "Yes, I was her... courtier. I was close to her when she was dying. I "
 "promised her that I would watch over you. You have her eyes... I played with "
@@ -3415,12 +3398,12 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:260
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:261
 msgid "I remember nothing. But, how.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:261
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:262
 msgid ""
 "I have friends in Barnon. One told me you were walking into a trap. I feared "
 "I had come too late when I found you; I thought you were dead. Fortunately, "
@@ -3429,29 +3412,29 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:271
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:272
 msgid "What are you doing here?!"
 msgstr ""
 
 #. [unit]: id=Karl Regven, type=Duelist
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:279
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:280
 msgid "Karl Regven"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:287
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:289
 msgid "My lord, I was not able to stop her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:288
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:290
 msgid ""
 "Don't be too hard on him, father. He really tried. So, this is little "
 "Haldric whom you told us about? He looks quite normal, not Akladian at all."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:289
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:291
 msgid ""
 "Gawen Hagarthen, meet my daughter, Karen. Imagine, I have three more "
 "daughters, all with their mother's red hair, at home! I'm afraid, though, "
@@ -3460,18 +3443,18 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:290
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:292
 msgid ""
 "I can't believe my own eyes! Isn't that Gawen, the little so-called king?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:291
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:293
 msgid "Are we gonna kill him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:292
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:294
 msgid ""
 "No, our forces are too weak. More Underlings may arrive soon. We should "
 "carry word to Bor Cryne immediately; he will reward us well and arrive here "
@@ -3479,21 +3462,21 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:293
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:295
 msgid ""
 "My lord, we can't let anyone know that you live. No enemy should leave this "
 "battlefield alive. There aren't many of them; this should be easy."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:297
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:299
 msgid ""
 "Kill enemy leader and all enemy units. Don't allow any enemy unit to reach "
 "the north-western signpost, or the village nearby."
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:305
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:307
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:170
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:203
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:86
@@ -3505,7 +3488,7 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:300
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:148
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:173
-#: A_New_Order/scenarios/25_The_Awakening.cfg:469
+#: A_New_Order/scenarios/25_The_Awakening.cfg:476
 #: A_New_Order/scenarios/27_Orannon.cfg:614
 #: A_New_Order/scenarios/27_Orannon.cfg:912
 #: A_New_Order/scenarios/ano-14macros.cfg:4
@@ -3513,7 +3496,7 @@ msgid "Death of Ruvio"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:309
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:311
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:174
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:199
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:94
@@ -3522,85 +3505,85 @@ msgid "Death of Karen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:313
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:315
 msgid "Any enemy unit reaches north-western signpost"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:344
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:346
 msgid "I will carry the message to Bor Cryne. He will reward me in gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:345
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:347
 msgid ""
 "It's the end for us. We have no chance to escape now, for Bor Cryne will "
 "send his army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:374
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:376
 msgid "No! The Akladian reinforcements have arrived! We are surrounded!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:413
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:415
 msgid "Wow."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:414
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:416
 msgid "What? Young women like me have to learn to defend ourselves."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:429
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:431
 msgid ""
 "Isn't that the legendary Ruvio? It's a honour fighting for you! Command!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:430
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:432
 msgid ""
 "Today you won't be commanded by me, but by this young man. I will only be "
 "his advisor."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:431
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:433
 msgid "And who is he? Why should we fight under his command?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:432
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:434
 msgid "Because I ask you to. Isn't my word enough?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:433
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:435
 msgid ""
 "Well then, Ruvio. We'll listen to his orders. We hope you are not mistaken "
 "and this young boy can lead us to victory over the Akladian beasts."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:456
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:458
 msgid ""
 "Peasants and brawlers? How on earth am I supposed to win battle with those?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:457
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:459
 msgid "You forgot about me!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:458
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:460
 msgid "He didn't. He mentioned brawlers already."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:459
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:461
 msgid ""
 "True, they are not the best warriors, but you can recruit a lot of them, and "
 "they learn quickly. Our opponents are not numerous, and here they can't "
@@ -3608,19 +3591,19 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:467
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:469
 msgid "See, I told you it would be easy."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:468
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:470
 msgid ""
 "Yes, but only because they had limited soldiers and a fool of a commander. "
 "Where to go now?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:469
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:471
 msgid ""
 "No one is left to inform Bor Cryne and his ilk that you survived the battle. "
 "We should go to Freetown next. The Akladians are all around us; we will have "
@@ -3629,27 +3612,27 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:470
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:472
 msgid "It's a shame there weren't more Akladians to kill."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:471
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:473
 msgid "There is one more left."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:472
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:474
 msgid "Where?!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:473
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:475
 msgid "I am Akladian. Do you want to kill me? Go ahead, I won't stop you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:474
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:476
 msgid ""
 "Stop it, kids! We've no time for fighting over poorly-chosen words. We have "
 "to reach Freetown as soon as possible. Haldric, Freetown is a rallying point "
@@ -3658,14 +3641,14 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:475
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:477
 msgid ""
 "Ruvio, call me 'Gawen.' I am not used to being called 'Haldric'. I've never "
 "heard about Freetown."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:476
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:478
 msgid ""
 "It's hidden deep within the forests. Its location is our greatest secret. "
 "And, get used to being called 'Haldric'. I want everyone to swear they won't "
@@ -3675,31 +3658,31 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:477
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:479
 msgid ""
 "Why? If Freetown's location is so secret, even if Akladian lords knew that I "
 "was still alive, they wouldn't be able to find me, right?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:478
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:480
 msgid ""
 "I am thinking more about your safety amongst the Wesnothians inside of "
 "Freetown. Hagarthens were never really popular there. Let's go."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:529
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:531
 msgid "(low whistle)"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:531
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:533
 msgid "It's just a... you really know how to handle a blade."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:532
+#: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:534
 msgid "If you want, I'll teach you a few things."
 msgstr ""
 
@@ -4023,7 +4006,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:438
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:545
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:174
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:159
@@ -4031,35 +4014,35 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:382
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:628
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:692
-#: A_New_Order/scenarios/25_The_Awakening.cfg:489
+#: A_New_Order/scenarios/25_The_Awakening.cfg:496
 msgid ""
 "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:440
 msgid "Ha! Our army has returned! You are doomed now!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:449
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:450
 msgid ""
 "Hm, it seems there are some more people here, capable with swords and bows, "
 "who could be recruited."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:450
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:451
 msgid "You may recruit four more archers and/or spearmen."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:453
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:454
 msgid "It seems that the outlaws had a small treasury hidden here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:454
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:455
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:401
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:444
 msgid "You receive 50 golden pieces."
@@ -4233,7 +4216,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:211
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:202
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:224
 msgid "Death of Majid Yahyazad"
 msgstr ""
 
@@ -4748,24 +4731,24 @@ msgid "Raole Mathauri"
 msgstr ""
 
 #. [side]: id=Erart, type=Troll Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:97
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:98
 msgid "Erart"
 msgstr ""
 
 #. [side]: id=Yarl Urluf, type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:112
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:113
 msgid "Yarl Urluf"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:146
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:147
 msgid ""
 "My Lady, the defenses are ready. I ordered a moat dug out in the north, we "
 "also put some new fortifications in place, but they are not finished."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:147
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:148
 msgid ""
 "We have no time to finish it. Their armies are already upon us. Faster, move "
 "the supplies to the hideout in mountains, so even if they reach the keep "
@@ -4773,62 +4756,62 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:148
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:149
 msgid ""
 "Where is the promised food? Where are the rooms to rest? Answer me, human!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:149
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:150
 msgid "Brother! Where are you? Why do you keep gates of Haeltin closed?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:150
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:151
 msgid "Your brother is dead, and soon you will be too!."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:151
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:152
 msgid "Dead? How is that possible? Who killed him?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:158
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:159
 msgid "He was slain by my hand."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:161
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:162
 msgid "Does it matter? He is dead now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:164
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:165
 msgid "My brother! No! Witch, you will answer for that! I will burn you alive!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:165
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:166
 msgid "Come and try it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:166
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:167
 msgid ""
 "Enough of this chit-chat! We are out of supplies and we are hungry. "
 "Soldiers! Your food is inside that castle. Get them!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:172
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:173
 msgid ""
 "We really should sacrifice an ox to God. There are so many of them; without "
 "God's help we won't be able to defeat them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:175
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:176
 msgid ""
 "We do not need to rout them. They are not prepared for a long siege, so all "
 "we need to do is simply survive the initial onslaught. If we can do that, "
@@ -4836,7 +4819,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:176
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:177
 msgid ""
 "Lady Lorin, I am aware of your habit of interrogating enemy leaders. Please, "
 "take my advice... if you feel you must interrogate the leaders, ignore the "
@@ -4844,21 +4827,21 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:177
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:178
 msgid ""
 "Looks like the last of the supplies have been moved to the mountains. Now "
 "even if they break into the castle, they still will have no food."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:188
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:189
 msgid ""
 "We have less than 300 golden pieces. Are you sure we will be able to survive "
 "the enemy onslaught with so little?"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:194
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:216
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:6
 #: A_New_Order/scenarios/14b_Bontom.cfg:353
 #: A_New_Order/scenarios/14b_Bontom.cfg:368
@@ -4866,39 +4849,39 @@ msgid "HEROIC: Kill all enemy leaders OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:198
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:220
 msgid "NORMAL: Survive to the end of turn limit."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:224
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:246
 msgid "A woman... a woman has killed me... what a disgrace.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:234
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:256
 msgid "Gaaarrr.. Aaargh..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:239
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:261
 msgid "What did he say?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:240
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:262
 msgid ""
 "I'm sure it was Orcish for 'a human woman has killed me, what a dishonor' or "
 "something like that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:250
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:272
 msgid "What are you waiting for? Come on, finish me, witch."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:251
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:273
 msgid ""
 "Ah, my kind of man. Strong and fearless even in the face of death. Do you "
 "see this knife? I call it Truth-Sayer. I use it to find out just how "
@@ -4906,29 +4889,29 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:258
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:280
 msgid "We will see how fearless you will be when the rest of our army arrives."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:259
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:281
 msgid "The 'rest of' your army? Interesting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:260
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:282
 msgid ""
 "They were two days' march behind us. They will appear from the north and "
 "smash what is left of your so-called castle."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:269
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:291
 msgid "What Orcs are doing here anyway, and why are they allied with you?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:270
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:292
 msgid ""
 "They will help us purify our race. We will go and kill every one who is "
 "unworthy of being Akladian. Those who violated our customs, who are friends "
@@ -4938,136 +4921,136 @@ msgid ""
 msgstr ""
 
 #. [unit]: id=Ouruk, type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:304
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:326
 msgid "Ouruk"
 msgstr ""
 
 #. [unit]: id=Raurlak, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:313
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:335
 msgid "Raurlak"
 msgstr ""
 
 #. [unit]: id=Burlak, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:321
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:343
 msgid "Burlak"
 msgstr ""
 
 #. [unit]: id=Hrar, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:329
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:351
 msgid "Hrar"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:336
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:358
 msgid "Finally, food, wine and some rest! Hey, what's happening here?"
 msgstr ""
 
 #. [unit]: id=Buriag, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:350
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:372
 msgid "Buriag"
 msgstr ""
 
 #. [unit]: id=Uriag, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:358
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:380
 msgid "Uriag"
 msgstr ""
 
 #. [unit]: id=Gor, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:366
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:388
 msgid "Gor"
 msgstr ""
 
 #. [unit]: id=Kaur'ue, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:374
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:396
 msgid "Kaur'ue"
 msgstr ""
 
 #. [unit]: id=Burik, type=Orcish Archer
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:393
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:415
 msgid "Burik"
 msgstr ""
 
 #. [unit]: id=Uruke, type=Orcish Crossbowman
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:401
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
 msgid "Uruke"
 msgstr ""
 
 #. [unit]: id=Gur, type=Orcish Shaman
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:409
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:431
 msgid "Gur"
 msgstr ""
 
 #. [unit]: id=Kapi'ue, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:417
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:439
 msgid "Kapi'ue"
 msgstr ""
 
 #. [unit]: id=Baral, type=Orcish Grunt
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:436
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:458
 msgid "Baral"
 msgstr ""
 
 #. [unit]: id=Iruki, type=Orcish Grunt
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:444
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:466
 msgid "Iruki"
 msgstr ""
 
 #. [unit]: id=Gari, type=Orcish Assassin
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:452
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:474
 msgid "Gari"
 msgstr ""
 
 #. [unit]: id=Rarg, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:460
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:482
 msgid "Rarg"
 msgstr ""
 
 #. [message]: type=Akladian Clansman,Akladian Wiseman,Akladian Holyman,Akladian Warrior,Akladian Raider,Akladian Homeguard,Akladian Light Infantry,Akladian Fastfoot,Akladian Pikeneer,Akladian Shieldguard,Akladian Protector,Akladian Sturmknight,Akladian Darknite
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:479
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:501
 msgid "Run for your life! They are too many of them!!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:481
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:503
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
 "will surely have to withdraw soon!"
 msgstr ""
 
 #. [message]: type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:487
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:509
 msgid ""
 "We have no more supplies... we have to withdraw! We will return, she-wolf!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:501
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:523
 msgid "Well fought, men! The enemy is withdrawing! They have no more supplies!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:516
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:538
 msgid ""
 "This was an incredibly difficult ordeal. I felt sure this would be my final "
 "battle."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:517
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:539
 msgid ""
 "Lorin, have you heard what our people are calling you? A she-wolf. The She-"
 "Wolf of Haeltin."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:518
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:540
 msgid ""
 "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to "
 "howl or something?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:519
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:541
 msgid ""
 "Lorin, you are an able commander, a strong warrior, and have a lovely... "
 "tactical mind. If you are a wolf, it would be quite the feat for a man to "
@@ -5075,7 +5058,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:520
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:542
 msgid ""
 "Listen underling, I am not an animal to be tamed or a prize to be won. The "
 "only thing which stays my hand from snuffing out your life after hearing "
@@ -5084,7 +5067,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:521
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:543
 msgid ""
 "I am no fool, Lorin. I understand that you suffer my presence now only of "
 "necessity. But perhaps there will come a time when you no longer suffer my "
@@ -5092,19 +5075,19 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:522
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:544
 msgid ""
 "You may not see it, but you are a fool. An honorable fool, but a fool "
 "nonetheless."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:523
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:545
 msgid "What do you mean?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:524
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:546
 msgid ""
 "First of all, you forgot to say 'one more reference to underling and I'm "
 "leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed "
@@ -5114,35 +5097,35 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:525
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:547
 msgid ""
 "...all of the worst emotions of a true warrior, and yet none of the worthy "
 "ones... the true warrior fights not for fear or for hate, but for love."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:527
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:549
 msgid ""
 "For love?! You really believe that?! You can't be serious. You speak like... "
 "Wesnothian have a special word for that kind of people. A rhymeister?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:528
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:550
 msgid ""
 "I am serious. And I think you meant to say 'poet'. So you think I speak like "
 "a poet? Thank you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:529
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:551
 msgid ""
 "That wasn't a compliment. A 'poet' is just a fancy word for saying 'idiot'. "
 "You Khalifa fight for love? Ha! No wonder you have lost."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:530
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:552
 msgid ""
 "Listen to me carefully. I know now what you are thinking. Do not have any "
 "hope. Do not try ANYTHING. First, I am an Akladian and you are not. Second, "
@@ -5152,7 +5135,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:531
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:553
 msgid ""
 "Let us suppose, for a moment, I submit to your wishes and cast these "
 "thoughts from my mind. What do we do going forward? Armies are still out "
@@ -5160,66 +5143,66 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:532
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:554
 msgid ""
 "Let's make a deal: I will not call you 'underling,' and you may call me "
 "'Lady Lorin.' Agreed?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:533
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:555
 msgid ""
 "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
 "call me something. If you like, you may simply call me 'Majid.' "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:534
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:556
 msgid ""
 "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:617
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:639
 msgid "My soldiers! That bastard is killing my soldiers!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:618
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:640
 msgid "I never knew you cared so much for your warriors."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:619
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:641
 msgid ""
 "I always care for my people... besides, you have no idea how difficult it "
 "was to train them."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:623
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:645
 msgid "Lorin, what are you doing?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:624
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:646
 msgid "Maybe we could try to withdraw to the mountains?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:625
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:647
 msgid "Wait a moment. Are you running away?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:626
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:648
 msgid ""
 "The correct term is strategical relocation of the forces, impertinent "
 "underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:627
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:649
 msgid "One more reference to underling... ah, what the hey..."
 msgstr ""
 
@@ -5278,7 +5261,7 @@ msgstr ""
 #: A_New_Order/scenarios/15_Back_in_Freetown.cfg:67
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:56
 #: A_New_Order/scenarios/24_Fall_of_Freetown.cfg:73
-#: A_New_Order/scenarios/25_The_Awakening.cfg:233
+#: A_New_Order/scenarios/25_The_Awakening.cfg:240
 #: A_New_Order/scenarios/26_Return_of_the_King.cfg:64
 #: A_New_Order/scenarios/27_Orannon.cfg:42
 #: A_New_Order/scenarios/28_Lorin.cfg:157
@@ -5644,16 +5627,16 @@ msgstr ""
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:84
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:170
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:256
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:312
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:415
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:313
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:418
 #: A_New_Order/scenarios/20_Okladia.cfg:294
 #: A_New_Order/scenarios/20_Okladia.cfg:343
 #: A_New_Order/scenarios/20_Okladia.cfg:389
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:22
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:48
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:413
-#: A_New_Order/scenarios/25_The_Awakening.cfg:728
-#: A_New_Order/scenarios/25_The_Awakening.cfg:756
+#: A_New_Order/scenarios/25_The_Awakening.cfg:735
+#: A_New_Order/scenarios/25_The_Awakening.cfg:763
 #: A_New_Order/scenarios/ano-20macros.cfg:346
 #: A_New_Order/scenarios/ano-20macros.cfg:352
 #: A_New_Order/scenarios/ano-20macros.cfg:359
@@ -6062,7 +6045,7 @@ msgstr ""
 
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:106
-#: A_New_Order/scenarios/13_Scouting.cfg:176
+#: A_New_Order/scenarios/13_Scouting.cfg:177
 msgid "Reme? No, I have not heard about him."
 msgstr ""
 
@@ -6119,8 +6102,8 @@ msgstr ""
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/13_Scouting.cfg:134
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:176
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:317
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:420
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:318
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:423
 #: A_New_Order/scenarios/ano-20macros.cfg:326
 msgid "Because..."
 msgstr ""
@@ -6158,12 +6141,12 @@ msgid "Ringo"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:155
+#: A_New_Order/scenarios/13_Scouting.cfg:156
 msgid "Ha, ha, and I thought you were serious."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:169
+#: A_New_Order/scenarios/13_Scouting.cfg:170
 msgid ""
 "Orcs? They were here, but they left in hurry. They were pillaging villages "
 "to the east of us. They were headed for a place called Haeltin, and I've "
@@ -6171,59 +6154,59 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:171
+#: A_New_Order/scenarios/13_Scouting.cfg:172
 msgid ""
 "Some woman? SOME WOMAN? That freckled kid might be SOME woman when she grows "
 "up, but not me. I am a Lady, LADY Lorin!"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:173
+#: A_New_Order/scenarios/13_Scouting.cfg:174
 msgid ""
 "Ah, that must be that 'She-wolf of Haeltin' you mentioned, Ruvio. Will have "
 "to meet her."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:178
+#: A_New_Order/scenarios/13_Scouting.cfg:179
 msgid ""
 "Bontom? It is somewhere to south-west. In one of the villages south of here "
 "people might know more about its exact location."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:180
+#: A_New_Order/scenarios/13_Scouting.cfg:181
 msgid ""
 "If I were younger, then I might have said yes, why not, but I am really too "
 "old for adventure seeking now."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:191
+#: A_New_Order/scenarios/13_Scouting.cfg:192
 msgid ""
 "Orcs? Da orcs were in plains pillagin' and burnin'. They are big and bad and "
 "you should avoid them, boy."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:193
+#: A_New_Order/scenarios/13_Scouting.cfg:194
 msgid "Reme? What is Reme? Some kind of food?"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:194
+#: A_New_Order/scenarios/13_Scouting.cfg:195
 msgid "No, no, it's one of the Akladian lords, who..."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:195
+#: A_New_Order/scenarios/13_Scouting.cfg:196
 msgid ""
 "Oh, Akladian lords, yeah, I've heard about them. They are big and bad and "
 "you should avoid them, boy."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:197
+#: A_New_Order/scenarios/13_Scouting.cfg:198
 msgid ""
 "A place called Bontom? Yeah, I've heard about that. It's somewhere in the "
 "south, maybe people living in villages more to south would know more about "
@@ -6231,78 +6214,78 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:200
+#: A_New_Order/scenarios/13_Scouting.cfg:201
 msgid ""
 "I'm too old ta be leavin' my village, and the one boy who wanted to search "
 "for adventures already joined you."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:202
+#: A_New_Order/scenarios/13_Scouting.cfg:203
 msgid ""
 "I'm too old ta be leavin my village, but there is one boy who could fight "
 "for you, why not."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:204
+#: A_New_Order/scenarios/13_Scouting.cfg:205
 msgid ""
 "One of local peasants joins your army. It's an untrained but LOYAL and "
 "STRONG unit."
 msgstr ""
 
 #. [unit]: type=Peasant, id=John the Baldhead
-#: A_New_Order/scenarios/13_Scouting.cfg:211
+#: A_New_Order/scenarios/13_Scouting.cfg:212
 msgid "John the Baldhead"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:231
+#: A_New_Order/scenarios/13_Scouting.cfg:233
 msgid ""
 "Now that we know where your friend Reme is, we can go to that Bontom place "
 "the peasants told us about."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:233
+#: A_New_Order/scenarios/13_Scouting.cfg:235
 msgid ""
 "I guess we could ask peasants whether they know something about this Bontom "
 "place, where your friend Reme is being kept."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:240
+#: A_New_Order/scenarios/13_Scouting.cfg:242
 msgid ""
 "We already know what we were sent to find out. We should return to Freetown "
 "now."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:244
+#: A_New_Order/scenarios/13_Scouting.cfg:246
 msgid "We've already searched for answers in the city of Barnon."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:246
+#: A_New_Order/scenarios/13_Scouting.cfg:248
 msgid ""
 "My lord, from here we may explore a few possibilities. To the south, there "
 "is city of Barnon. It would definitely be very dangerous to go there, but..."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:247
+#: A_New_Order/scenarios/13_Scouting.cfg:249
 msgid "...but we could probably find something about orcs there, right?"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:250
+#: A_New_Order/scenarios/13_Scouting.cfg:252
 msgid ""
 "We already went west to Haeltin. That was where your step-mother was, "
 "remember? That she was the 'She-wolf' really surprised me."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:252
+#: A_New_Order/scenarios/13_Scouting.cfg:254
 msgid ""
 "We've heard that some woman, known by the nickname 'The She-wolf of "
 "Haeltin', was besieged by the orcs and she was able to repel them. Haeltin "
@@ -6310,12 +6293,12 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:256
+#: A_New_Order/scenarios/13_Scouting.cfg:258
 msgid "We could also to for the swamps."
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:257
+#: A_New_Order/scenarios/13_Scouting.cfg:259
 msgid ""
 "We could, but saurians live in the swamps of Saorduc, and they rarely go "
 "outside of their mud. I doubt they would know anything useful. There are "
@@ -6324,7 +6307,7 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:262
+#: A_New_Order/scenarios/13_Scouting.cfg:264
 msgid ""
 "Frankly, I have no idea what to do now. We have already searched all of the "
 "obvious locations."
@@ -6332,45 +6315,45 @@ msgstr ""
 
 #. [scenario]: id=13_Scouting
 #. [scenario]: id=18_Start_of_the_Quest
-#: A_New_Order/scenarios/13_Scouting.cfg:288
+#: A_New_Order/scenarios/13_Scouting.cfg:290
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:56
 msgid "Raedwood Forest"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:289
+#: A_New_Order/scenarios/13_Scouting.cfg:291
 msgid "To Freetown"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:290
+#: A_New_Order/scenarios/13_Scouting.cfg:292
 msgid "To Haeltin"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:291
+#: A_New_Order/scenarios/13_Scouting.cfg:293
 msgid "To Saorduc swamps"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:292
+#: A_New_Order/scenarios/13_Scouting.cfg:294
 msgid "To Barnon"
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:293
+#: A_New_Order/scenarios/13_Scouting.cfg:295
 msgid "Hyeton"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:350
+#: A_New_Order/scenarios/13_Scouting.cfg:352
 msgid ""
 "It is extremely important to everyone to remember not to refer to Gawen by "
 "his real name. Always call him Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:352
+#: A_New_Order/scenarios/13_Scouting.cfg:354
 msgid ""
 "First of all, because our people at Freetown aren't ready to have an "
 "Akladian leader. Second, because Bor Cryne would send his entire army to "
@@ -6378,21 +6361,21 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:353
+#: A_New_Order/scenarios/13_Scouting.cfg:355
 msgid ""
 "Gaumhaldric... so, is this why my son is not shaving? He wants to hide his "
 "real identity under a beard?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:354
+#: A_New_Order/scenarios/13_Scouting.cfg:356
 msgid ""
 "No, no, no. He HAS to have a beard. All of our great Wesnothian kings had "
 "beards!"
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/13_Scouting.cfg:365
+#: A_New_Order/scenarios/13_Scouting.cfg:367
 msgid ""
 "This is a large-scale map, where you may choose a way to go. Move Gawen to "
 "any of the signpost or any other location to trigger moving to the next "
@@ -6400,14 +6383,14 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:396
+#: A_New_Order/scenarios/13_Scouting.cfg:398
 msgid ""
 "My lord, we cannot go back to Freetown. We have nothing to report, and we "
 "have not found anything about the orcs."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:399
+#: A_New_Order/scenarios/13_Scouting.cfg:401
 msgid ""
 "My lord, I do not think we should go back to Freetown already. We haven't "
 "met with the She-wolf of Haeltin west of here. She may have some great "
@@ -6415,23 +6398,23 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:413
+#: A_New_Order/scenarios/13_Scouting.cfg:415
 msgid "We were in Haeltin already. Where would you like to go now?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:417
+#: A_New_Order/scenarios/13_Scouting.cfg:419
 msgid "Are you sure you want to go there?"
 msgstr ""
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:418
-#: A_New_Order/scenarios/13_Scouting.cfg:442
-#: A_New_Order/scenarios/13_Scouting.cfg:478
-#: A_New_Order/scenarios/13_Scouting.cfg:767
-#: A_New_Order/scenarios/13_Scouting.cfg:797
-#: A_New_Order/scenarios/13_Scouting.cfg:826
+#: A_New_Order/scenarios/13_Scouting.cfg:420
+#: A_New_Order/scenarios/13_Scouting.cfg:444
+#: A_New_Order/scenarios/13_Scouting.cfg:480
+#: A_New_Order/scenarios/13_Scouting.cfg:769
+#: A_New_Order/scenarios/13_Scouting.cfg:800
+#: A_New_Order/scenarios/13_Scouting.cfg:829
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:401
 #: A_New_Order/scenarios/14b_Bontom.cfg:396
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:167
@@ -6443,9 +6426,9 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:127
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:147
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:193
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:325
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:430
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:326
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:349
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:433
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:165
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:150
 #: A_New_Order/scenarios/20_Okladia.cfg:161
@@ -6460,12 +6443,12 @@ msgstr ""
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:419
-#: A_New_Order/scenarios/13_Scouting.cfg:443
-#: A_New_Order/scenarios/13_Scouting.cfg:479
-#: A_New_Order/scenarios/13_Scouting.cfg:768
-#: A_New_Order/scenarios/13_Scouting.cfg:798
-#: A_New_Order/scenarios/13_Scouting.cfg:827
+#: A_New_Order/scenarios/13_Scouting.cfg:421
+#: A_New_Order/scenarios/13_Scouting.cfg:445
+#: A_New_Order/scenarios/13_Scouting.cfg:481
+#: A_New_Order/scenarios/13_Scouting.cfg:770
+#: A_New_Order/scenarios/13_Scouting.cfg:801
+#: A_New_Order/scenarios/13_Scouting.cfg:830
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:402
 #: A_New_Order/scenarios/14b_Bontom.cfg:397
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:168
@@ -6475,9 +6458,9 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:128
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:148
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:194
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:326
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:348
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:431
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:327
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:434
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:166
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:151
 #: A_New_Order/scenarios/20_Okladia.cfg:162
@@ -6491,95 +6474,95 @@ msgid "Well, maybe not."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:423
+#: A_New_Order/scenarios/13_Scouting.cfg:425
 msgid "As you wish, my lord."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:437
+#: A_New_Order/scenarios/13_Scouting.cfg:439
 msgid "We already were in Saorduc. Where to now?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:441
+#: A_New_Order/scenarios/13_Scouting.cfg:443
 msgid ""
 "Are you sure you want to go there? I've told you that I doubt Saurians know "
 "anything useful."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:446
 #: A_New_Order/scenarios/13_Scouting.cfg:448
+#: A_New_Order/scenarios/13_Scouting.cfg:450
 msgid ""
 "So, on to Saorduc! Hopefully it is a wise decision and lizard men know "
 "something about orcs."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:452
+#: A_New_Order/scenarios/13_Scouting.cfg:454
 msgid "Lizards? We already fought with them. I hate lizards."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:457
+#: A_New_Order/scenarios/13_Scouting.cfg:459
 msgid "That was wise decision, my lord."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:473
+#: A_New_Order/scenarios/13_Scouting.cfg:475
 msgid "We already scouted near Barnon. Where should we go now?"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:477
+#: A_New_Order/scenarios/13_Scouting.cfg:479
 msgid ""
 "Are you sure you want to go there? A lot of enemy soldiers could be near "
 "Barnon."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:481
+#: A_New_Order/scenarios/13_Scouting.cfg:483
 msgid ""
 "This could be dangerous... but also extremely valuable. We can definitely "
 "find out something about orcs there."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:484
+#: A_New_Order/scenarios/13_Scouting.cfg:486
 msgid "Yes, on other hand, maybe we should search elsewhere."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:494
+#: A_New_Order/scenarios/13_Scouting.cfg:496
 msgid "Who is comin' here? What d'ya wanna from us?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:495
-#: A_New_Order/scenarios/13_Scouting.cfg:534
+#: A_New_Order/scenarios/13_Scouting.cfg:497
+#: A_New_Order/scenarios/13_Scouting.cfg:536
 msgid "Don't be afraid, I want ask you few question and then I will go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:496
+#: A_New_Order/scenarios/13_Scouting.cfg:498
 msgid "So go on an' ask us"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:501
-#: A_New_Order/scenarios/13_Scouting.cfg:514
-#: A_New_Order/scenarios/13_Scouting.cfg:539
-#: A_New_Order/scenarios/13_Scouting.cfg:552
-#: A_New_Order/scenarios/13_Scouting.cfg:572
-#: A_New_Order/scenarios/13_Scouting.cfg:585
+#: A_New_Order/scenarios/13_Scouting.cfg:503
+#: A_New_Order/scenarios/13_Scouting.cfg:516
+#: A_New_Order/scenarios/13_Scouting.cfg:541
+#: A_New_Order/scenarios/13_Scouting.cfg:554
+#: A_New_Order/scenarios/13_Scouting.cfg:574
+#: A_New_Order/scenarios/13_Scouting.cfg:587
 #: A_New_Order/scenarios/14b_Bontom.cfg:476
 #: A_New_Order/scenarios/14b_Bontom.cfg:484
 #: A_New_Order/scenarios/14b_Bontom.cfg:523
 #: A_New_Order/scenarios/14b_Bontom.cfg:531
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:165
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:251
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:307
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:410
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:308
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:413
 #: A_New_Order/scenarios/20_Okladia.cfg:290
 #: A_New_Order/scenarios/20_Okladia.cfg:339
 #: A_New_Order/scenarios/20_Okladia.cfg:385
@@ -6587,30 +6570,10 @@ msgid "Please, tell me..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:502
-#: A_New_Order/scenarios/13_Scouting.cfg:540
-#: A_New_Order/scenarios/13_Scouting.cfg:573
-msgid "Do you know where the place called Bontom is?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:503
-#: A_New_Order/scenarios/13_Scouting.cfg:515
-#: A_New_Order/scenarios/13_Scouting.cfg:541
-#: A_New_Order/scenarios/13_Scouting.cfg:553
-#: A_New_Order/scenarios/13_Scouting.cfg:574
-#: A_New_Order/scenarios/13_Scouting.cfg:586
-msgid "Do you know anything about Reme Carrenemoe?"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:504
-#: A_New_Order/scenarios/13_Scouting.cfg:516
 #: A_New_Order/scenarios/13_Scouting.cfg:542
-#: A_New_Order/scenarios/13_Scouting.cfg:554
 #: A_New_Order/scenarios/13_Scouting.cfg:575
-#: A_New_Order/scenarios/13_Scouting.cfg:587
-msgid "Have you heard anything about orcs?"
+msgid "Do you know where the place called Bontom is?"
 msgstr ""
 
 #. [event]
@@ -6620,7 +6583,7 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:555
 #: A_New_Order/scenarios/13_Scouting.cfg:576
 #: A_New_Order/scenarios/13_Scouting.cfg:588
-msgid "Would you want to fight for me?"
+msgid "Do you know anything about Reme Carrenemoe?"
 msgstr ""
 
 #. [event]
@@ -6630,41 +6593,61 @@ msgstr ""
 #: A_New_Order/scenarios/13_Scouting.cfg:556
 #: A_New_Order/scenarios/13_Scouting.cfg:577
 #: A_New_Order/scenarios/13_Scouting.cfg:589
+msgid "Have you heard anything about orcs?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/13_Scouting.cfg:507
+#: A_New_Order/scenarios/13_Scouting.cfg:519
+#: A_New_Order/scenarios/13_Scouting.cfg:545
+#: A_New_Order/scenarios/13_Scouting.cfg:557
+#: A_New_Order/scenarios/13_Scouting.cfg:578
+#: A_New_Order/scenarios/13_Scouting.cfg:590
+msgid "Would you want to fight for me?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/13_Scouting.cfg:508
+#: A_New_Order/scenarios/13_Scouting.cfg:520
+#: A_New_Order/scenarios/13_Scouting.cfg:546
+#: A_New_Order/scenarios/13_Scouting.cfg:558
+#: A_New_Order/scenarios/13_Scouting.cfg:579
+#: A_New_Order/scenarios/13_Scouting.cfg:591
 msgid "Go and work, good man."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:529
+#: A_New_Order/scenarios/13_Scouting.cfg:531
 msgid "Ah, welcome, we've heard about your victories, Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:531
+#: A_New_Order/scenarios/13_Scouting.cfg:533
 msgid "I still can't get used to them calling him Gaumhaldric."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:532
+#: A_New_Order/scenarios/13_Scouting.cfg:534
 msgid "Cute name, isn't it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:535
+#: A_New_Order/scenarios/13_Scouting.cfg:537
 msgid "Anything for you, young knight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:568
+#: A_New_Order/scenarios/13_Scouting.cfg:570
 msgid "Free men from Raedwood forest! You are always welcome here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:605
-#: A_New_Order/scenarios/13_Scouting.cfg:615
-#: A_New_Order/scenarios/13_Scouting.cfg:626
-#: A_New_Order/scenarios/13_Scouting.cfg:634
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:483
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:491
+#: A_New_Order/scenarios/13_Scouting.cfg:607
+#: A_New_Order/scenarios/13_Scouting.cfg:617
+#: A_New_Order/scenarios/13_Scouting.cfg:628
+#: A_New_Order/scenarios/13_Scouting.cfg:636
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:495
 #: A_New_Order/scenarios/20_Okladia.cfg:416
 #: A_New_Order/scenarios/20_Okladia.cfg:425
 #: A_New_Order/scenarios/20_Okladia.cfg:435
@@ -6673,9 +6656,9 @@ msgid "I would love to talk to..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:608
-#: A_New_Order/scenarios/13_Scouting.cfg:629
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:485
+#: A_New_Order/scenarios/13_Scouting.cfg:610
+#: A_New_Order/scenarios/13_Scouting.cfg:631
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:489
 #: A_New_Order/scenarios/20_Okladia.cfg:418
 #: A_New_Order/scenarios/20_Okladia.cfg:427
 msgid "Reme"
@@ -6683,10 +6666,10 @@ msgstr ""
 
 #. [event]
 #. [scenario]: id=28_Lorin
-#: A_New_Order/scenarios/13_Scouting.cfg:609
-#: A_New_Order/scenarios/13_Scouting.cfg:618
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:486
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:493
+#: A_New_Order/scenarios/13_Scouting.cfg:611
+#: A_New_Order/scenarios/13_Scouting.cfg:620
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:490
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:497
 #: A_New_Order/scenarios/20_Okladia.cfg:419
 #: A_New_Order/scenarios/20_Okladia.cfg:428
 #: A_New_Order/scenarios/20_Okladia.cfg:438
@@ -6696,18 +6679,18 @@ msgid "Lorin"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:610
-#: A_New_Order/scenarios/13_Scouting.cfg:619
+#: A_New_Order/scenarios/13_Scouting.cfg:612
+#: A_New_Order/scenarios/13_Scouting.cfg:621
 msgid "Yahyazad"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:611
-#: A_New_Order/scenarios/13_Scouting.cfg:620
-#: A_New_Order/scenarios/13_Scouting.cfg:630
-#: A_New_Order/scenarios/13_Scouting.cfg:637
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:487
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:494
+#: A_New_Order/scenarios/13_Scouting.cfg:613
+#: A_New_Order/scenarios/13_Scouting.cfg:622
+#: A_New_Order/scenarios/13_Scouting.cfg:632
+#: A_New_Order/scenarios/13_Scouting.cfg:639
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:491
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:498
 #: A_New_Order/scenarios/20_Okladia.cfg:421
 #: A_New_Order/scenarios/20_Okladia.cfg:429
 #: A_New_Order/scenarios/20_Okladia.cfg:439
@@ -6716,60 +6699,60 @@ msgid "I changed my mind"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:645
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:500
+#: A_New_Order/scenarios/13_Scouting.cfg:647
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:504
 #: A_New_Order/scenarios/20_Okladia.cfg:453
 msgid "Ruvio, please tell me.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:646
+#: A_New_Order/scenarios/13_Scouting.cfg:648
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:647
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:502
+#: A_New_Order/scenarios/13_Scouting.cfg:649
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:506
 msgid "Advise me what could we do now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:648
+#: A_New_Order/scenarios/13_Scouting.cfg:650
 msgid "Tell me about my mother."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:653
+#: A_New_Order/scenarios/13_Scouting.cfg:655
 msgid "You are joking, right? He is in our camp!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:655
+#: A_New_Order/scenarios/13_Scouting.cfg:657
 msgid "Probably still in that Bontom place the peasants told us about."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:657
+#: A_New_Order/scenarios/13_Scouting.cfg:659
 msgid "In some place called Bontom. We could ask peasants about it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:659
+#: A_New_Order/scenarios/13_Scouting.cfg:661
 msgid "I have no idea where your friend may be."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:666
+#: A_New_Order/scenarios/13_Scouting.cfg:668
 msgid "About your mother? What do you want to know about her?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:667
+#: A_New_Order/scenarios/13_Scouting.cfg:669
 msgid "Everything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:668
+#: A_New_Order/scenarios/13_Scouting.cfg:670
 msgid ""
 "Well, she was from a royal house. The Akladian king gave her a simple "
 "choice: marry him or he would unleash his anger on her family. So, she "
@@ -6778,7 +6761,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:669
+#: A_New_Order/scenarios/13_Scouting.cfg:671
 msgid ""
 "I think eventually she even warmed to your father, the king. When she gave "
 "birth to you, she gave everything she had for you. But behind her back "
@@ -6788,33 +6771,33 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:670
+#: A_New_Order/scenarios/13_Scouting.cfg:672
 msgid "Who poisoned her?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:671
+#: A_New_Order/scenarios/13_Scouting.cfg:673
 msgid "I don't know. No one knows."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:673
+#: A_New_Order/scenarios/13_Scouting.cfg:675
 msgid ""
 "Rob Roe mentioned Lorin clan once bought some special poison from Outlaws... "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:674
+#: A_New_Order/scenarios/13_Scouting.cfg:676
 msgid "And you think that..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:675
+#: A_New_Order/scenarios/13_Scouting.cfg:677
 msgid "Why shouldn't I think that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:676
+#: A_New_Order/scenarios/13_Scouting.cfg:678
 msgid ""
 "You are right, Gawen. Akladians have a long history of poisoning each other. "
 "You might say it's their national sport. But still... yes, it had escaped my "
@@ -6822,38 +6805,38 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:681
+#: A_New_Order/scenarios/13_Scouting.cfg:683
 msgid "Hey Karen, what's up?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:682
+#: A_New_Order/scenarios/13_Scouting.cfg:684
 msgid "I just made up a new song about you, want to hear it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:683
+#: A_New_Order/scenarios/13_Scouting.cfg:685
 msgid "You are a gifted girl... fighting, singing, what else can you do?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:684
+#: A_New_Order/scenarios/13_Scouting.cfg:686
 msgid ""
 "I can also dance. Gawen. When we return to Freetown I could dance for you... "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:685
+#: A_New_Order/scenarios/13_Scouting.cfg:687
 msgid "I'm sure I would enjoy watching you dance."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:686
+#: A_New_Order/scenarios/13_Scouting.cfg:688
 msgid "Oh, I bet you would!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:688
+#: A_New_Order/scenarios/13_Scouting.cfg:690
 msgid ""
 "Thank you, Gawen, once again. You have saved my life. I will never forget "
 "it, and I will never be able to repay my debt. Earlier my life belonged to "
@@ -6861,17 +6844,17 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:690
+#: A_New_Order/scenarios/13_Scouting.cfg:692
 msgid "Gaumhaldric, an interesting mother you have. Can I ask you a question?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:691
+#: A_New_Order/scenarios/13_Scouting.cfg:693
 msgid "Sure, go ahead."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:692
+#: A_New_Order/scenarios/13_Scouting.cfg:694
 msgid ""
 "Is she spoken for? I mean, is there someone she loves? I have often noticed "
 "her gazing up at the sky, far, far away, as if she were thinking about "
@@ -6879,13 +6862,13 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:693
+#: A_New_Order/scenarios/13_Scouting.cfg:695
 msgid ""
 "I think she must be remembering my father. She has no one else I know about."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:694
+#: A_New_Order/scenarios/13_Scouting.cfg:696
 msgid ""
 "That is fortunate for me. She seems to have locked her heart up in an "
 "unbreakable fortress... but I think I can find a way into her heart. With "
@@ -6893,7 +6876,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:695
+#: A_New_Order/scenarios/13_Scouting.cfg:697
 msgid ""
 "Majid Yahyazad, Lorin is my step-mother, but she has never really shown any "
 "tenderness, even to me. I have always known her to be a harsh and "
@@ -6901,7 +6884,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:696
+#: A_New_Order/scenarios/13_Scouting.cfg:698
 msgid ""
 "I'm afraid pursuing her will come with a heavy price. I think she thinks "
 "love is a weakness... she seems more interested in war and finding new ways "
@@ -6909,7 +6892,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:697
+#: A_New_Order/scenarios/13_Scouting.cfg:699
 msgid ""
 "Ah, Gaumhaldric, perhaps you are right, but if it will be as a war to unlock "
 "her heart, I am prepared to wage it. I am well-acquainted with the ways of "
@@ -6917,118 +6900,118 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:698
+#: A_New_Order/scenarios/13_Scouting.cfg:700
 msgid ""
 "Besides, in the end, the war for the affection of a worthy woman is the only "
 "war where the price to win is a privilege, not a burden, to pay."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:699
+#: A_New_Order/scenarios/13_Scouting.cfg:701
 msgid "You find my step-mother... a worthy challenge, then? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:700
+#: A_New_Order/scenarios/13_Scouting.cfg:702
 msgid "I do... and shall gladly pay the price to try to win her heart. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:701
+#: A_New_Order/scenarios/13_Scouting.cfg:703
 msgid ""
 "You have my blessing, noble Majid, for what it's worth. Sometimes the "
 "ruthlessness of the 'She-Wolf of Haeltin' still scares even me. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:706
+#: A_New_Order/scenarios/13_Scouting.cfg:708
 msgid "Mother, may I have a word with you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:707
-msgid "Your clan once bought poison from outlaws. Why?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:708
-#: A_New_Order/scenarios/13_Scouting.cfg:716
-msgid "What do you think about Yahyazad?"
-msgstr ""
-
-#. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:709
-#: A_New_Order/scenarios/13_Scouting.cfg:717
-msgid "What do you know about orcs?"
+msgid "Your clan once bought poison from outlaws. Why?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:710
 #: A_New_Order/scenarios/13_Scouting.cfg:718
-msgid "How did my real mother die?"
+msgid "What do you think about Yahyazad?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/13_Scouting.cfg:711
 #: A_New_Order/scenarios/13_Scouting.cfg:719
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:538
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:545
+msgid "What do you know about orcs?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/13_Scouting.cfg:712
+#: A_New_Order/scenarios/13_Scouting.cfg:720
+msgid "How did my real mother die?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/13_Scouting.cfg:713
+#: A_New_Order/scenarios/13_Scouting.cfg:721
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:542
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:549
 #: A_New_Order/scenarios/20_Okladia.cfg:493
 #: A_New_Order/scenarios/20_Okladia.cfg:510
 msgid "Never mind"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:715
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:534
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:542
+#: A_New_Order/scenarios/13_Scouting.cfg:717
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:538
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:546
 #: A_New_Order/scenarios/20_Okladia.cfg:490
 msgid "Mother, can I have a word with you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:724
+#: A_New_Order/scenarios/13_Scouting.cfg:726
 msgid "Why do you ask?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:725
+#: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid "Well, he seems to be interested in you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:726
+#: A_New_Order/scenarios/13_Scouting.cfg:728
 msgid ""
 "Yes, I noticed that. I think one would have to be blind NOT to notice that. "
 "But I am not interested in him."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:727
+#: A_New_Order/scenarios/13_Scouting.cfg:729
 msgid "Why not? He seems to be a good man."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:728
+#: A_New_Order/scenarios/13_Scouting.cfg:730
 msgid "He is an underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:729
+#: A_New_Order/scenarios/13_Scouting.cfg:731
 msgid ""
 "Underling? Mother, why do you still use such words? I am 'underling' too, "
 "after all."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:730
+#: A_New_Order/scenarios/13_Scouting.cfg:732
 msgid ""
 "No! I could never call you that. You are not... I mean... I... oh, you are "
 "too young to understand!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:731
+#: A_New_Order/scenarios/13_Scouting.cfg:733
 msgid ""
 "Besides, you have lost your memory, so you probably do not remember what our "
 "customs are regarding widows that betray their dead husbands. I will explain "
@@ -7036,38 +7019,38 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:733
+#: A_New_Order/scenarios/13_Scouting.cfg:735
 msgid ""
 "Orcs? They are good fighters. Strong, disciplined, I wish I had such "
 "soldiers."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:734
+#: A_New_Order/scenarios/13_Scouting.cfg:736
 msgid ""
 "Mother, orcs just burn, pillage, and murder! They hate us, and yet you seem "
 "to respect them?!?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:735
+#: A_New_Order/scenarios/13_Scouting.cfg:737
 msgid ""
 "Well, we are burning, pillaging, murdering and hate our enemies too. What's "
 "the difference?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:737
+#: A_New_Order/scenarios/13_Scouting.cfg:739
 msgid "Poison? What poison? My clan has never bought any poison!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:738
+#: A_New_Order/scenarios/13_Scouting.cfg:740
 msgid "Rob Roe told me about it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:739
+#: A_New_Order/scenarios/13_Scouting.cfg:741
 msgid ""
 "Can you repeat that name? Rob - Roe. Rob Roe... No, I can't say I remember "
 "that name. I don't know anything about my clan buying a poison. But then, I "
@@ -7075,73 +7058,73 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:742
+#: A_New_Order/scenarios/13_Scouting.cfg:744
 msgid "Your mother? Your.. why you are asking ME about your mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:743
+#: A_New_Order/scenarios/13_Scouting.cfg:745
 msgid ""
 "I can't remember anything about her. I would love to hear something about "
 "her. Did you know her?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:744
+#: A_New_Order/scenarios/13_Scouting.cfg:746
 msgid ""
 "No! I did not know her! I... I'm sorry Gawen, but I don't know how your "
 "mother died or who poisoned her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:745
+#: A_New_Order/scenarios/13_Scouting.cfg:747
 msgid "I wasn't asking you about that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:761
+#: A_New_Order/scenarios/13_Scouting.cfg:763
 msgid "There are no more orcs near this ruins of the village."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:764
+#: A_New_Order/scenarios/13_Scouting.cfg:766
 msgid ""
 "My lord! This time for sure you will chase off that orcish band, kill all "
 "the orcs, and free my people!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:766
+#: A_New_Order/scenarios/13_Scouting.cfg:768
 msgid "So, should we take on the orcs?"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Matthews Eagle Eye
-#: A_New_Order/scenarios/13_Scouting.cfg:777
+#: A_New_Order/scenarios/13_Scouting.cfg:779
 msgid "Matthews Eagle Eye"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:784
+#: A_New_Order/scenarios/13_Scouting.cfg:787
 msgid "Someone is hiding here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:786
+#: A_New_Order/scenarios/13_Scouting.cfg:789
 msgid "Ah! Humans! And Akladians with them?! Still, what good fortune!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:788
+#: A_New_Order/scenarios/13_Scouting.cfg:791
 msgid "Ah! Humans! And not Akladians! What good fortune!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:790
+#: A_New_Order/scenarios/13_Scouting.cfg:793
 msgid "Who are you, and what are you doing here?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:791
+#: A_New_Order/scenarios/13_Scouting.cfg:794
 msgid ""
 "The orcs burned down my village, Ruen, and they left not long ago. They took "
 "many prisoners. I was hiding here, waiting for a miracle. And now the "
@@ -7149,58 +7132,58 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:792
+#: A_New_Order/scenarios/13_Scouting.cfg:795
 msgid ""
 "Oh my. It's so funny I think I'm gonna die laughing. Gaumhaldric the Miracle-"
 "maker, how about the sound of that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:793
+#: A_New_Order/scenarios/13_Scouting.cfg:796
 msgid "Miracle? What do you mean?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:794
+#: A_New_Order/scenarios/13_Scouting.cfg:797
 msgid ""
 "You of course will chase that orcish band, kill all the orcs and free my "
 "people!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:796
+#: A_New_Order/scenarios/13_Scouting.cfg:799
 msgid "Hm, my lord, do you think we should fullfill this peasant's request?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:803
+#: A_New_Order/scenarios/13_Scouting.cfg:806
 msgid "Well, I hope it's wise decision."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:804
+#: A_New_Order/scenarios/13_Scouting.cfg:807
 msgid ""
 "Of course it is. We are searching for orcs, and those are orcs, isn't it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:807
-#: A_New_Order/scenarios/13_Scouting.cfg:833
+#: A_New_Order/scenarios/13_Scouting.cfg:810
+#: A_New_Order/scenarios/13_Scouting.cfg:836
 msgid "Yes, on other hand maybe we should search elsewhere."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:818
+#: A_New_Order/scenarios/13_Scouting.cfg:821
 msgid "We already fought with outlaws from Bontom, my lord."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:825
+#: A_New_Order/scenarios/13_Scouting.cfg:828
 msgid "So, should we go into Bontom?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:830
+#: A_New_Order/scenarios/13_Scouting.cfg:833
 msgid "Yes, we should save Reme now."
 msgstr ""
 
@@ -7594,9 +7577,9 @@ msgstr ""
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:561
 #: A_New_Order/scenarios/23_Trapped.cfg:504
 #: A_New_Order/scenarios/23_Trapped.cfg:532
-#: A_New_Order/scenarios/25_The_Awakening.cfg:666
-#: A_New_Order/scenarios/25_The_Awakening.cfg:680
-#: A_New_Order/scenarios/25_The_Awakening.cfg:694
+#: A_New_Order/scenarios/25_The_Awakening.cfg:673
+#: A_New_Order/scenarios/25_The_Awakening.cfg:687
+#: A_New_Order/scenarios/25_The_Awakening.cfg:701
 #: A_New_Order/scenarios/ano-20macros.cfg:133
 #: A_New_Order/scenarios/ano-20macros.cfg:152
 #: A_New_Order/scenarios/ano-20macros.cfg:170
@@ -8301,7 +8284,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/14b_Bontom.cfg:677
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:385
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:391
 msgid ""
 "Oh no! New reinforcements have arrived to help our enemies, now we have no "
 "chances to defeat them!"
@@ -8865,33 +8848,33 @@ msgid "John the Smith"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Paul the Small
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:313
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:314
 msgid "Paul the Small"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Quick Herman
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:325
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:327
 msgid "Quick Herman"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:334
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:380
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:337
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:386
 msgid "Hurray! We are free! Now, death to the orcs!"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Gonzales the Steelhand
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:347
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:350
 msgid "Gonzales the Steelhand"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Owaec
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:359
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:363
 msgid "Owaec"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Fast Robin
-#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:371
+#: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:376
 msgid "Fast Robin"
 msgstr ""
 
@@ -10847,45 +10830,45 @@ msgstr ""
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:243
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:246
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:261
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:275
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:278
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:281
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:283
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:285
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:287
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:276
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:279
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:282
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:286
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:290
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:289
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:291
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:294
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:304
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:323
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:345
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:367
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:369
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:371
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:376
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:292
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:295
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:305
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:317
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:324
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:370
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:372
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:374
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:382
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:392
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:387
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:389
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:393
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:395
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:405
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:407
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:426
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:428
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:448
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:450
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:398
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:408
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:410
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:422
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:429
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:431
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:454
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:461
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:464
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:466
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:469
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:460
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:463
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:465
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:468
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:470
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:473
 #: A_New_Order/scenarios/20_Okladia.cfg:263
 #: A_New_Order/scenarios/20_Okladia.cfg:266
 #: A_New_Order/scenarios/20_Okladia.cfg:276
@@ -10935,8 +10918,8 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:166
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:252
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:308
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:411
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:309
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:414
 #: A_New_Order/scenarios/20_Okladia.cfg:291
 #: A_New_Order/scenarios/20_Okladia.cfg:386
 msgid "Would you fight for me?"
@@ -10955,16 +10938,16 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:168
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:254
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:310
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:413
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:311
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:416
 msgid "Do you know where the Oracle lives?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:169
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:255
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:311
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:414
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:312
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:417
 #: A_New_Order/scenarios/20_Okladia.cfg:293
 #: A_New_Order/scenarios/20_Okladia.cfg:342
 #: A_New_Order/scenarios/20_Okladia.cfg:388
@@ -10973,36 +10956,36 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:174
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:316
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:419
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:317
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:422
 msgid "Why anyone would want to fight for you?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:177
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:318
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:421
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:319
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:424
 msgid "You have a chance to fight for your freedom."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:178
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:319
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:422
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:320
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:425
 msgid "I may be your future king."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:179
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:320
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:423
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:321
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:426
 msgid "In my army you may change your lot."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:180
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:321
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:424
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:322
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:427
 msgid "Why not?"
 msgstr ""
 
@@ -11018,15 +11001,15 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:186
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:367
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:448
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:370
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
 msgid "Change my lot? What do you mean?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:187
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:368
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:449
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:371
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:453
 msgid ""
 "Well, you know, you may earn some gold, and if you are lucky, you may even "
 "became a knight."
@@ -11072,16 +11055,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:212
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:371
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:452
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:374
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
 msgid "Because we have a lot to do in our own village, for example?"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:217
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:278
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:376
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:456
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:279
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:460
 msgid "I already answered that question."
 msgstr ""
 
@@ -11110,9 +11093,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:226
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:294
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:395
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:469
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:295
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:398
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:473
 msgid "Have luck in your travels, stranger. You will need it."
 msgstr ""
 
@@ -11145,9 +11128,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:262
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:328
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:350
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:433
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:329
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:352
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:436
 msgid "A loyal unit joined your cause."
 msgstr ""
 
@@ -11157,30 +11140,30 @@ msgid "Har Barien"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:275
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:276
 msgid "Fight for you? Against my own kin? No thanks."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:281
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:282
 msgid ""
 "Well, I don't know. But I think The Oracle may know, she knows everything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:283
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:284
 msgid ""
 "God's voice is west from here. I've heard she will visit one of our lords "
 "soon."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:285
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:286
 msgid "How should I know? The lords live their own lives, as do we."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:287
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
 msgid ""
 "Well, Akladians from Easkladia were defeated by Wesnothians in battle near "
 "Broken Heart Runlet. I think it is because God hides his face from us. Their "
@@ -11188,7 +11171,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:288
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:289
 msgid ""
 "We have no king now and because of that, according to custom, the other "
 "Hagarthens should wait one year until one of them is invited to rule "
@@ -11198,12 +11181,12 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:289
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:290
 msgid "Other Hagarthens? How many of them?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:290
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:291
 msgid ""
 "There is old Perien from Easkladia, but he has troubles of his own. There "
 "are two brothers: Luc and Gauri from Guilcorta and there is Buffin from "
@@ -11212,7 +11195,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:291
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:292
 msgid ""
 "Maybe, if this messiah will come, our women will be able to give a birth to "
 "healthy children again; This winter three children were born, two of them "
@@ -11220,13 +11203,13 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:304
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:305
 msgid "My lord! Aren't you Gaumhaldric, about whom we've heard so many tales?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:309
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:412
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:310
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:415
 #: A_New_Order/scenarios/20_Okladia.cfg:292
 #: A_New_Order/scenarios/20_Okladia.cfg:387
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:412
@@ -11234,75 +11217,75 @@ msgid "Do you know something about the mage Deorien?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:323
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:324
 msgid "It would be honor to join your army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:324
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:325
 msgid ""
 "My lord, should we accept that unit into our army? It is a loyal unit, but "
 "it's just a simple Peasant."
 msgstr ""
 
 #. [unit]: type=Peasant, id=Hans
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:332
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:354
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:333
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:356
 msgid "Hans"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:345
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:347
 msgid "Yes, that is a good enough reason."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:346
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:429
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:348
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:432
 msgid ""
 "My lord, will we accept that unit into our army? It is a loyal unit, but "
 "it's just a simple Peasant."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:369
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:372
 msgid ""
 "Gold? I thought you were fighting for freedom, not gold. I am so "
 "dissapointed."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:379
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:382
 msgid ""
 "Well, I don't know. But I think the Oracle may know, she knows everything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:382
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:385
 msgid "East from here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:384
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:387
 msgid "East from here. But please, hurry."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:386
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:389
 msgid ""
 "A large army went there not long ago. Orcs, Akladians, Outlaws. I don't know "
 "what their intentions are, but I doubt they are good."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:390
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:393
 msgid ""
 "The greatest news of all is that you have saved the Oracle. This - this is "
 "so wonderful I can't find proper words to describe it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:392
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:395
 msgid ""
 "Akladians from other kingdom were defeated by our people in battle near "
 "Broken Heart Runlet. Well, our people - this was army from Blackwater. A "
@@ -11310,54 +11293,54 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:405
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:408
 msgid "Who's there? Friend or foe?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:406
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:409
 msgid "Friend."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:407
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:410
 msgid ""
 "A lot of 'friends' came to us recently. There are Akladians in your army, I "
 "think. Why should I trust you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:426
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:429
 msgid "And die in the first fight? No, thank you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:428
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:431
 msgid "Really? Well, If so, one of our boys wants to join your army."
 msgstr ""
 
 #. [unit]: type=Peasant, id=John
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:437
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:440
 msgid "John"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:450
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:454
 msgid "Dead people do not bring gold home."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:459
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:463
 msgid "Well, I don't know. He may live in the free kingdom of Elensefar."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:461
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:465
 msgid "West from here. Near Porkton."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:464
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:468
 msgid ""
 "There was a battle west from here, in which Akladians, Outlaws and Orcs "
 "tried to captured the Oracle. But they were defeated by some young man, "
@@ -11365,7 +11348,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:466
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:470
 msgid ""
 "A lot of interesting things happened recently! Two girls were born in my "
 "village, on the same day and even in the same hour! Fat Robert lost a horse "
@@ -11373,33 +11356,33 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:501
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:505
 #: A_New_Order/scenarios/20_Okladia.cfg:454
 msgid "Why do you dislike Lorin?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:503
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:507
 #: A_New_Order/scenarios/20_Okladia.cfg:456
 msgid "Tell me about Karen"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:506
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:510
 msgid ""
 "You must be kidding. The woman is so hard to be around I cannot understand "
 "why Yahyazad has a crush on her."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:509
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:513
 msgid ""
 "I think I know what are 'ruins of the great city', my Lord. This could be "
 "our former capital, Weldyn. It is located in Okladia. We should go there."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:514
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:518
 #: A_New_Order/scenarios/20_Okladia.cfg:465
 msgid ""
 "Well, she is my oldest daughter. From her youth she always wanted to be a "
@@ -11407,13 +11390,13 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:515
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:519
 #: A_New_Order/scenarios/20_Okladia.cfg:466
 msgid "I'm kind of surprised that she is not here with us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:516
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:520
 #: A_New_Order/scenarios/20_Okladia.cfg:467
 msgid ""
 "I ordered Karl to tie her up and lock her room. I think that gave us enough "
@@ -11422,73 +11405,73 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:520
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:524
 #: A_New_Order/scenarios/20_Okladia.cfg:472
 #: A_New_Order/scenarios/20_Okladia.cfg:476
 msgid "Hey Reme, what's going on?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:521
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:525
 msgid ""
 "Nothing really. I think your under.. Wesnothian soldiers are starting to - "
 "well, maybe not like - but to tolerate me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:522
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:526
 #: A_New_Order/scenarios/20_Okladia.cfg:474
 msgid "Nice to hear that."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:525
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:529
 #: A_New_Order/scenarios/20_Okladia.cfg:481
 msgid "Mother, what's going on?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:527
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:531
 #: A_New_Order/scenarios/20_Okladia.cfg:484
 msgid "Mother? I thought you said I was not your real mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:528
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:532
 #: A_New_Order/scenarios/20_Okladia.cfg:485
 msgid "I'm sorry. I was really angry."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:535
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:543
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:539
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:547
 msgid "What happened that night we left Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:536
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:544
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:540
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:548
 msgid "What do you think about Karen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:537
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:541
 msgid "What did the Oracle tell you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:550
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:554
 msgid "I've told you before I'm not going to talk about it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:552
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:556
 msgid ""
 "She's a cute child. In a few years she could even pretend to be a woman."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:554
+#: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:558
 msgid ""
 "When I was young, I visited her and she told me... no, I can't tell you. It "
 "was just between the Oracle and me. The first part of her prediction has "
@@ -11514,7 +11497,7 @@ msgstr ""
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:141
 #: A_New_Order/scenarios/19b_Entering_Okladia.cfg:126
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1336
-#: A_New_Order/scenarios/23_Trapped.cfg:759
+#: A_New_Order/scenarios/23_Trapped.cfg:768
 msgid "There are no interrogations in this scenario."
 msgstr ""
 
@@ -11524,7 +11507,7 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:260
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:288
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:349
-#: A_New_Order/scenarios/23_Trapped.cfg:761
+#: A_New_Order/scenarios/23_Trapped.cfg:770
 msgid "Kill all enemy leaders OR"
 msgstr ""
 
@@ -12812,8 +12795,8 @@ msgstr ""
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:280
 #: A_New_Order/scenarios/21b_Haunted_Place.cfg:156
 #: A_New_Order/scenarios/22_Leaving_Okladia.cfg:361
-#: A_New_Order/scenarios/23_Trapped.cfg:773
-#: A_New_Order/scenarios/25_The_Awakening.cfg:477
+#: A_New_Order/scenarios/23_Trapped.cfg:782
+#: A_New_Order/scenarios/25_The_Awakening.cfg:484
 #: A_New_Order/scenarios/27_Orannon.cfg:610
 #: A_New_Order/scenarios/27_Orannon.cfg:908
 msgid "Death of Deorien"
@@ -14707,9 +14690,9 @@ msgstr ""
 #: A_New_Order/scenarios/23_Trapped.cfg:499
 #: A_New_Order/scenarios/23_Trapped.cfg:513
 #: A_New_Order/scenarios/23_Trapped.cfg:527
-#: A_New_Order/scenarios/25_The_Awakening.cfg:661
-#: A_New_Order/scenarios/25_The_Awakening.cfg:675
-#: A_New_Order/scenarios/25_The_Awakening.cfg:689
+#: A_New_Order/scenarios/25_The_Awakening.cfg:668
+#: A_New_Order/scenarios/25_The_Awakening.cfg:682
+#: A_New_Order/scenarios/25_The_Awakening.cfg:696
 #: A_New_Order/scenarios/ano-20macros.cfg:128
 #: A_New_Order/scenarios/ano-20macros.cfg:147
 #: A_New_Order/scenarios/ano-20macros.cfg:165
@@ -14730,48 +14713,48 @@ msgstr ""
 msgid "Ha, the rest of my army is coming!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:690
+#: A_New_Order/scenarios/23_Trapped.cfg:699
 msgid ""
 "Akladians of Vakladia! I am King Buffin. I have come to you to re-introduce "
 "peace and order to your lands after the untimely death of your king, my "
 "beloved cousin, Gawen Hagarthen. I..."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:691
+#: A_New_Order/scenarios/23_Trapped.cfg:700
 msgid ""
 "I AM Gawen Hagarthen. I am starting to tire of repeating that I am alive."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:692
+#: A_New_Order/scenarios/23_Trapped.cfg:701
 msgid ""
 "NO! Gawen Ha.. No, you are not him! You are... some underling pretending to "
 "be my beloved nephew! Kill him!"
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:693
+#: A_New_Order/scenarios/23_Trapped.cfg:702
 msgid ""
 "We will, but not because we welcome you, Buffin of Okladia. Though you are "
 "Hagarthen, nobody has invited you here. But we will discuss that issue later."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:750
+#: A_New_Order/scenarios/23_Trapped.cfg:759
 msgid ""
 " helping us this won't be as difficult as it might otherwise be, but we "
 "still should be prepared for serious losses."
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:750
+#: A_New_Order/scenarios/23_Trapped.cfg:759
 msgid "I hope that with "
 msgstr ""
 
-#: A_New_Order/scenarios/23_Trapped.cfg:752
+#: A_New_Order/scenarios/23_Trapped.cfg:761
 msgid ""
 "I'm afraid this battle may be extremely difficult. We must be prepared for "
 "serious losses, unfortunately."
 msgstr ""
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/23_Trapped.cfg:765
+#: A_New_Order/scenarios/23_Trapped.cfg:774
 msgid "Survive to the end of time limit"
 msgstr ""
 
@@ -15279,7 +15262,7 @@ msgstr ""
 
 #. [scenario]: id=25_The_Awakening
 #: A_New_Order/scenarios/25_The_Awakening.cfg:44
-#: A_New_Order/scenarios/25_The_Awakening.cfg:184
+#: A_New_Order/scenarios/25_The_Awakening.cfg:191
 msgid ""
 "Long live our king Gawen Haldric! It will be honour to fight for you, my "
 "king!"
@@ -15292,7 +15275,7 @@ msgstr ""
 
 #. [part]
 #. spoken by the Oracle (woman)
-#: A_New_Order/scenarios/25_The_Awakening.cfg:190
+#: A_New_Order/scenarios/25_The_Awakening.cfg:197
 msgid ""
 "People of Vakladia! People of Wesnoth! Long have ye waited for a messiah to "
 "come. Long have ye waited for a new king to unite the nation and to end the "
@@ -15303,7 +15286,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:194
+#: A_New_Order/scenarios/25_The_Awakening.cfg:201
 msgid ""
 "Ye have heard the stories about undead invading the neighbouring kingdom of "
 "Okladia. Some lost all hope. But be ye not afraid, for there is a man who is "
@@ -15312,7 +15295,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:198
+#: A_New_Order/scenarios/25_The_Awakening.cfg:205
 msgid ""
 "Ye have all heard about him. Son of an Akladian king and a Wesnothian queen. "
 "A great warrior and great leader. Let him know ye wish him to come here and "
@@ -15321,49 +15304,49 @@ msgid ""
 msgstr ""
 
 #. [side]: id=Barhoon Urk, type=Orcish Warlord
-#: A_New_Order/scenarios/25_The_Awakening.cfg:266
+#: A_New_Order/scenarios/25_The_Awakening.cfg:273
 msgid "Barhoon Urk"
 msgstr ""
 
 #. [side]: id=Bar Urien, type=Akladian Lord
-#: A_New_Order/scenarios/25_The_Awakening.cfg:354
+#: A_New_Order/scenarios/25_The_Awakening.cfg:361
 msgid "Bar Urien"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:431
+#: A_New_Order/scenarios/25_The_Awakening.cfg:438
 msgid "Is there any news from Bor Cryne?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:432
+#: A_New_Order/scenarios/25_The_Awakening.cfg:439
 msgid "Nothing new, my lord."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:433
+#: A_New_Order/scenarios/25_The_Awakening.cfg:440
 msgid "He should already be here! Where is he?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:434
+#: A_New_Order/scenarios/25_The_Awakening.cfg:441
 msgid "My lord... This man, they call a messiah.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:435
+#: A_New_Order/scenarios/25_The_Awakening.cfg:442
 msgid ""
 "This underling? A creature who has usurped the holy name and who will be "
 "punished by God!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:436
+#: A_New_Order/scenarios/25_The_Awakening.cfg:443
 msgid "But.. What about if he really IS a messiah?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:437
+#: A_New_Order/scenarios/25_The_Awakening.cfg:444
 msgid ""
 "There is no question about it. Believe me, Bar Urien, I have been hearing "
 "the voices of the spirits since my youth and God has sent me many messages. "
@@ -15372,51 +15355,51 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:438
+#: A_New_Order/scenarios/25_The_Awakening.cfg:445
 msgid "But, I thought, let's just assume for a moment he IS..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:439
+#: A_New_Order/scenarios/25_The_Awakening.cfg:446
 msgid ""
 "Bar, you are fine warrior and you have always served our clan loyally. But "
 "leave the thinking to me."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:440
+#: A_New_Order/scenarios/25_The_Awakening.cfg:447
 msgid "But the Oracle..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:441
+#: A_New_Order/scenarios/25_The_Awakening.cfg:448
 msgid ""
 "There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
 "of God."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:442
+#: A_New_Order/scenarios/25_The_Awakening.cfg:449
 msgid ""
 "I don't want to interrupt you your interesting discussion, but _I_ think you "
 "will have chance to ask this Gawen directly about everything."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:443
+#: A_New_Order/scenarios/25_The_Awakening.cfg:450
 msgid ""
 "Akladians - open the way for me and my army. I am your rightful king, I am "
 "the messiah, the hand of God on earth. Whoever opposes me opposes God."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:444
+#: A_New_Order/scenarios/25_The_Awakening.cfg:451
 msgid ""
 "Cease this blasphemy, foul mixling! You are nothing but a flabby underling."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:446
+#: A_New_Order/scenarios/25_The_Awakening.cfg:453
 msgid ""
 "Have you already forgotten that you have fled from me before, revered Hoyre? "
 "Twice now you have faced me; this time there will be no escape. You will lie "
@@ -15424,96 +15407,96 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:448
+#: A_New_Order/scenarios/25_The_Awakening.cfg:455
 msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:450
+#: A_New_Order/scenarios/25_The_Awakening.cfg:457
 msgid ""
 "My king? You, my king? Never! I will rip your heart out! I will cut your "
 "hands off and feed the crows with them!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:451
+#: A_New_Order/scenarios/25_The_Awakening.cfg:458
 msgid ""
 "My lord, Bor Cryne not be far from here. It isn't wise to fight alone "
 "against the rebels' army."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:452
+#: A_New_Order/scenarios/25_The_Awakening.cfg:459
 msgid ""
 "What about you, noble lord? Will you oppose your king and messiah as "
 "declared by the Oracle?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:453
+#: A_New_Order/scenarios/25_The_Awakening.cfg:460
 msgid ""
 "I don't know what to think. But there IS one way to determine whether you "
 "are really what you claim to be... whether you are able to defeat us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:454
+#: A_New_Order/scenarios/25_The_Awakening.cfg:461
 msgid ""
 "By the way, Gawen, you are really starting to become convincing in your "
 "role. You seem to like it, despite your earlier protests."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:455
+#: A_New_Order/scenarios/25_The_Awakening.cfg:462
 msgid "Enough talk. We must slay our enemies. To arms!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:456
+#: A_New_Order/scenarios/25_The_Awakening.cfg:463
 msgid "Yes, to arms! To think, I am actually agreeing with an underling!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/25_The_Awakening.cfg:481
+#: A_New_Order/scenarios/25_The_Awakening.cfg:488
 #: A_New_Order/scenarios/27_Orannon.cfg:618
 #: A_New_Order/scenarios/27_Orannon.cfg:916
 msgid "Death of Huon Ryedric"
 msgstr ""
 
 #. [unit]: type=Akladian Sturmknight, id=Bors Brien
-#: A_New_Order/scenarios/25_The_Awakening.cfg:519
+#: A_New_Order/scenarios/25_The_Awakening.cfg:526
 msgid "Bors Brien"
 msgstr ""
 
 #. [unit]: type=Akladian Darknite, id=Bors Dark
-#: A_New_Order/scenarios/25_The_Awakening.cfg:533
+#: A_New_Order/scenarios/25_The_Awakening.cfg:540
 msgid "Bors Dark"
 msgstr ""
 
 #. [unit]: type=Akladian Wonderman, id=Bors Wonder
-#: A_New_Order/scenarios/25_The_Awakening.cfg:541
+#: A_New_Order/scenarios/25_The_Awakening.cfg:548
 msgid "Bors Wonder"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:546
+#: A_New_Order/scenarios/25_The_Awakening.cfg:553
 msgid "Curses! We are too late."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:547
+#: A_New_Order/scenarios/25_The_Awakening.cfg:554
 msgid "Should we attack, my lord?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:548
+#: A_New_Order/scenarios/25_The_Awakening.cfg:555
 msgid ""
 "No. As usual, Hoyre screwed up everything he possibly could. We will "
 "withdraw to the north, and wait until Grekulak arrives to help us."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:551
+#: A_New_Order/scenarios/25_The_Awakening.cfg:558
 msgid ""
 "My king, I've heard that some of people of Wesnoth have started to take "
 "revenge on their own. A few Akladian villages were massacred south of "
@@ -15521,24 +15504,24 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:552
+#: A_New_Order/scenarios/25_The_Awakening.cfg:559
 msgid "And what do you think he could do? People want revenge, so..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:553
+#: A_New_Order/scenarios/25_The_Awakening.cfg:560
 msgid "Revenge on whom? On innocent woman and children?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:554
+#: A_New_Order/scenarios/25_The_Awakening.cfg:561
 msgid ""
 "Innocent? No Akladian is innocent! Even if they didn't participate in the "
 "massacres, maybe their husbands or uncles did, and..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:555
+#: A_New_Order/scenarios/25_The_Awakening.cfg:562
 msgid ""
 "How many Wesnothians have been brought back from the dead by the killing of "
 "Akladian children, Huon? I lost whole family in Freetown. But I don't want "
@@ -15547,14 +15530,14 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:556
+#: A_New_Order/scenarios/25_The_Awakening.cfg:563
 msgid ""
 "You have to react, my king. If you won't stop this, Akladians with turn away "
 "from you and there will be another round of civil war."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:557
+#: A_New_Order/scenarios/25_The_Awakening.cfg:564
 msgid ""
 "Punish them? Why? They acted out of despair and anger, they lost their whole "
 "families at the hands of Akladians, how can you punish them? If you do, a "
@@ -15562,7 +15545,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:558
+#: A_New_Order/scenarios/25_The_Awakening.cfg:565
 msgid ""
 "I now declare amnesty for everyone. But from this moment forward, anyone who "
 "wants to spill innocent blood will be hunted by me and my people. People who "
@@ -15571,24 +15554,24 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:559
+#: A_New_Order/scenarios/25_The_Awakening.cfg:566
 msgid "THIS is supposed to be a punishment? Akladians won't like it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:560
+#: A_New_Order/scenarios/25_The_Awakening.cfg:567
 msgid ""
 "I am the messiah. Any Akladians who would contest my words are tools of evil "
 "and will never be admitted to the land of their ancestors."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:561
+#: A_New_Order/scenarios/25_The_Awakening.cfg:568
 msgid "Messiah? You do not actually believe that!?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:562
+#: A_New_Order/scenarios/25_The_Awakening.cfg:569
 msgid ""
 "Huon, the proper way to address your king is 'your majesty' - or at the "
 "least 'my king'. Deorien was right all the time, now I see it clearly. "
@@ -15598,87 +15581,87 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:563
+#: A_New_Order/scenarios/25_The_Awakening.cfg:570
 msgid "The way to Vattin is free of enemies. Let's go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:574
+#: A_New_Order/scenarios/25_The_Awakening.cfg:581
 msgid "Vojta"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:584
+#: A_New_Order/scenarios/25_The_Awakening.cfg:591
 msgid "Kuba"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:594
+#: A_New_Order/scenarios/25_The_Awakening.cfg:601
 msgid "Matej"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:605
+#: A_New_Order/scenarios/25_The_Awakening.cfg:612
 msgid "Rumpel"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:614
+#: A_New_Order/scenarios/25_The_Awakening.cfg:621
 msgid "Cimper"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:623
+#: A_New_Order/scenarios/25_The_Awakening.cfg:630
 msgid "Camper"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:633
+#: A_New_Order/scenarios/25_The_Awakening.cfg:640
 #: A_New_Order/scenarios/27_Orannon.cfg:1134
 msgid "My king, we could really use some help here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:635
+#: A_New_Order/scenarios/25_The_Awakening.cfg:642
 #: A_New_Order/scenarios/27_Orannon.cfg:1136
 msgid ""
 "We are under heavy assault, my king. We really could use some help here."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:644
+#: A_New_Order/scenarios/25_The_Awakening.cfg:651
 msgid "Aaah!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:645
+#: A_New_Order/scenarios/25_The_Awakening.cfg:652
 msgid "What? Mother, are you hurt?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:646
+#: A_New_Order/scenarios/25_The_Awakening.cfg:653
 msgid "No... I'm ok.. I'm ok... It was nothing."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:647
+#: A_New_Order/scenarios/25_The_Awakening.cfg:654
 msgid "But what that? Are you wounded?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:648
+#: A_New_Order/scenarios/25_The_Awakening.cfg:655
 msgid "No, Gawen, I've told you I'm OK!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:649
+#: A_New_Order/scenarios/25_The_Awakening.cfg:656
 msgid ""
 "The witch most likely accidentally drank a poison she was preparing for "
 "someone else."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:650
+#: A_New_Order/scenarios/25_The_Awakening.cfg:657
 msgid ""
 "No, my lord. I think I know what's happening with your step-mother, but if "
 "she does not want to tell you, neither will I. But be prepared... she may "
@@ -15686,120 +15669,120 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:651
+#: A_New_Order/scenarios/25_The_Awakening.cfg:658
 msgid ""
 "Underling, be silent. You know nothing. You all know nothing. I will fight."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:703
+#: A_New_Order/scenarios/25_The_Awakening.cfg:710
 msgid "No! I haven't avenged my family!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:711
+#: A_New_Order/scenarios/25_The_Awakening.cfg:718
 msgid ""
 "Stop! Don't kill me! I will give you a lot of gold if you will spare me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:712
+#: A_New_Order/scenarios/25_The_Awakening.cfg:719
 msgid "Were you at Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:713
+#: A_New_Order/scenarios/25_The_Awakening.cfg:720
 msgid "NO! That was Bor Cryne! Don't kill me!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:714
+#: A_New_Order/scenarios/25_The_Awakening.cfg:721
 msgid "I am an empty shell."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:720
+#: A_New_Order/scenarios/25_The_Awakening.cfg:727
 msgid ""
 "Before you will pass, I want to ask you one very simple question. Were you "
 "with the Akladian army which burned Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:721
+#: A_New_Order/scenarios/25_The_Awakening.cfg:728
 msgid "No! No! That was Bor Cryne, I swear! I wasn't there!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:724
-#: A_New_Order/scenarios/25_The_Awakening.cfg:753
+#: A_New_Order/scenarios/25_The_Awakening.cfg:731
+#: A_New_Order/scenarios/25_The_Awakening.cfg:760
 msgid "Well.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:725
-#: A_New_Order/scenarios/25_The_Awakening.cfg:754
+#: A_New_Order/scenarios/25_The_Awakening.cfg:732
+#: A_New_Order/scenarios/25_The_Awakening.cfg:761
 msgid "Where is Bor Cryne?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:726
-#: A_New_Order/scenarios/25_The_Awakening.cfg:755
+#: A_New_Order/scenarios/25_The_Awakening.cfg:733
+#: A_New_Order/scenarios/25_The_Awakening.cfg:762
 msgid "Who gave you the location of Freetown?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:727
+#: A_New_Order/scenarios/25_The_Awakening.cfg:734
 msgid "Do you know who poisoned my mother?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:731
+#: A_New_Order/scenarios/25_The_Awakening.cfg:738
 msgid "Whenever he is, he should be here instead!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:733
-#: A_New_Order/scenarios/25_The_Awakening.cfg:761
+#: A_New_Order/scenarios/25_The_Awakening.cfg:740
+#: A_New_Order/scenarios/25_The_Awakening.cfg:768
 msgid "I don't know! I wasn't at Freetown, really!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:735
+#: A_New_Order/scenarios/25_The_Awakening.cfg:742
 msgid ""
 "I don't know! But Uri van Roe or Bor Cryne may know something about that..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:748
+#: A_New_Order/scenarios/25_The_Awakening.cfg:755
 msgid ""
 "Don't kill me, Lorin! I knew you when you were a little child, I even played "
 "games with you when you were small..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:749
+#: A_New_Order/scenarios/25_The_Awakening.cfg:756
 msgid "You should've killed me then, when you still had the chance."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:759
+#: A_New_Order/scenarios/25_The_Awakening.cfg:766
 msgid "Whenever he is, he should be here!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:775
+#: A_New_Order/scenarios/25_The_Awakening.cfg:782
 msgid ""
 "You truly are worthy to be our king! The Oracle was right! I never should "
 "have listened to Hoyre...."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:794
+#: A_New_Order/scenarios/25_The_Awakening.cfg:801
 msgid "How this could be possible?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/25_The_Awakening.cfg:803
+#: A_New_Order/scenarios/25_The_Awakening.cfg:810
 msgid "I should've stayed in hills in the north..."
 msgstr ""
 
@@ -17279,7 +17262,7 @@ msgid ""
 msgstr ""
 
 #. [objectives]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:169
+#: A_New_Order/scenarios/ano-01_06macros.cfg:172
 msgid ""
 "Any unit which reaches either signpost will be evacuated. Units not recalled "
 "will be lost. Gawen must not escape, or he would be considered an unworthy "
@@ -17288,48 +17271,48 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/ano-01_06macros.cfg:183
+#: A_New_Order/scenarios/ano-01_06macros.cfg:186
 msgid "Cowardly escape of Gawen Hagarthen"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:237
+#: A_New_Order/scenarios/ano-01_06macros.cfg:240
 msgid ""
 "I can't just run away. I don't want to. I would prefer to die here, fighting."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:258
+#: A_New_Order/scenarios/ano-01_06macros.cfg:261
 msgid "Reme, you have to take care of Lorin! She went the other way"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:261
+#: A_New_Order/scenarios/ano-01_06macros.cfg:264
 msgid "Take care, Reme Carrenemoe."
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:262
+#: A_New_Order/scenarios/ano-01_06macros.cfg:265
 msgid "Respect, my king. Follow us as soon as possible"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:263
+#: A_New_Order/scenarios/ano-01_06macros.cfg:266
 msgid "Yes... of course. I'm afraid that means.. never."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:296
+#: A_New_Order/scenarios/ano-01_06macros.cfg:299
 msgid "Mother, you have to go the other way. Reme is waiting for you there!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:299
+#: A_New_Order/scenarios/ano-01_06macros.cfg:302
 msgid "No! I won't leave you! I don't want to! Let's die together!"
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/ano-01_06macros.cfg:300
+#: A_New_Order/scenarios/ano-01_06macros.cfg:303
 msgid "Take her to safety, men!"
 msgstr ""
 
@@ -18511,26 +18494,23 @@ msgid "Akladian Chieftain"
 msgstr ""
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
-#: A_New_Order/units/akladians/Akladian_Chieftain.cfg:29
+#: A_New_Order/units/akladians/Akladian_Chieftain.cfg:30
 msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 
 #. [attack]: type=blade
-#: A_New_Order/units/akladians/Akladian_Chieftain.cfg:33
-#: A_New_Order/units/akladians/Akladian_Darknite.cfg:32
-#: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:25
-#: A_New_Order/units/akladians/Akladian_Homeguard.cfg:30
-#: A_New_Order/units/akladians/Akladian_Lady.cfg:41
-#: A_New_Order/units/akladians/Akladian_Leader.cfg:33
-#: A_New_Order/units/akladians/Akladian_Lord.cfg:34
-#: A_New_Order/units/akladians/Akladian_Princess.cfg:34
-#: A_New_Order/units/akladians/Akladian_Protector.cfg:32
-#: A_New_Order/units/akladians/Akladian_Queen.cfg:38
-#: A_New_Order/units/akladians/Akladian_Raider.cfg:30
-#: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29
-#: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:29
-#: A_New_Order/units/akladians/Hagarthen.cfg:32
-#: A_New_Order/units/akladians/Lord_Hagarthen.cfg:36
+#: A_New_Order/units/akladians/Akladian_Chieftain.cfg:34
+#: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:28
+#: A_New_Order/units/akladians/Akladian_Lady.cfg:42
+#: A_New_Order/units/akladians/Akladian_Leader.cfg:34
+#: A_New_Order/units/akladians/Akladian_Lord.cfg:35
+#: A_New_Order/units/akladians/Akladian_Princess.cfg:35
+#: A_New_Order/units/akladians/Akladian_Queen.cfg:39
+#: A_New_Order/units/akladians/Akladian_Raider.cfg:31
+#: A_New_Order/units/akladians/Akladian_Sturmknight.cfg:30
+#: A_New_Order/units/akladians/Hagarthen.cfg:33
+#: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:35
+#: A_New_Order/units/akladians/Lord_Hagarthen.cfg:37
 #: A_New_Order/units/others/Ruvio.cfg:27
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:27
 msgid "sword"
@@ -18569,6 +18549,11 @@ msgid ""
 "They know no pity and expect none."
 msgstr ""
 
+#. [attack]: type=blade
+#: A_New_Order/units/akladians/Akladian_Darknite.cfg:35
+msgid "greatsword"
+msgstr ""
+
 #. [unit_type]: id=Akladian Fastfoot, race=akladian
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:4
 msgid "Akladian Fastfoot"
@@ -18595,9 +18580,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: A_New_Order/units/akladians/Akladian_Holyman.cfg:32
-#: A_New_Order/units/akladians/Akladian_Wiseman.cfg:35
-#: A_New_Order/units/akladians/Akladian_Wonderman.cfg:33
+#: A_New_Order/units/akladians/Akladian_Holyman.cfg:33
+#: A_New_Order/units/akladians/Akladian_Wiseman.cfg:36
+#: A_New_Order/units/akladians/Akladian_Wonderman.cfg:34
 msgid "staff"
 msgstr ""
 
@@ -18613,6 +18598,12 @@ msgid ""
 "devoting whole their life to guarding the settlements of the clans."
 msgstr ""
 
+#. [attack]: type=impact
+#: A_New_Order/units/akladians/Akladian_Homeguard.cfg:31
+#: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:30
+msgid "mace"
+msgstr ""
+
 #. [unit_type]: id=Akladian Lady, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
@@ -18621,9 +18612,9 @@ msgstr ""
 #. [unit_type]: id=Akladian Lady, race=akladian
 #. [unit_type]: id=Akladian Princess, race=akladian
 #. [unit_type]: id=Akladian Queen, race=akladian
-#: A_New_Order/units/akladians/Akladian_Lady.cfg:37
+#: A_New_Order/units/akladians/Akladian_Lady.cfg:38
 #: A_New_Order/units/akladians/Akladian_Princess.cfg:30
-#: A_New_Order/units/akladians/Akladian_Queen.cfg:34
+#: A_New_Order/units/akladians/Akladian_Queen.cfg:35
 msgid ""
 "While relationship between sexes in Akladian society is far from equal "
 "treatment, all woman are expected to be able to handle weapons, and those "
@@ -18659,8 +18650,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:87
-#: A_New_Order/units/akladians/Akladian_Warrior.cfg:23
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:88
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
 #: A_New_Order/units/others/City_Militia.cfg:62
 msgid "spear"
 msgstr ""
@@ -18683,7 +18674,7 @@ msgid "Akladian Pikeneer"
 msgstr ""
 
 #. [unit_type]: id=Akladian Pikeneer, race=akladian
-#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:21
+#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:18
 msgid ""
 "Akladian Pikeneers are members of permanent personal armies of Akladian "
 "lords, being closest thing to regular army Akladians have. They receive all "
@@ -18692,12 +18683,12 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=sword
-#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:25
+#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:23
 msgid "Sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:66
+#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:64
 msgid "pike"
 msgstr ""
 
@@ -18717,6 +18708,11 @@ msgid ""
 "Veterans of many fights and surviving many defenses against invading "
 "enemies, Protectors forms caste of excellent warriors with their own codex, "
 "devoting whole their life for protecting their clans."
+msgstr ""
+
+#. [attack]: type=impact
+#: A_New_Order/units/akladians/Akladian_Protector.cfg:33
+msgid "greatmace"
 msgstr ""
 
 #. [unit_type]: id=Akladian Queen, race=akladian
@@ -18800,7 +18796,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: A_New_Order/units/akladians/Akladian_Wonderman.cfg:42
+#: A_New_Order/units/akladians/Akladian_Wonderman.cfg:43
 msgid "lightbeam"
 msgstr ""
 
@@ -18815,6 +18811,24 @@ msgid ""
 "When the youth of the Gawen Hagarthen had passed, he understood that to "
 "became respected amongst his tribe he must became skilled in sword as well "
 "as in politics."
+msgstr ""
+
+#. [unit_type]: id=Lord Bor Cryne, race=akladian
+#: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:4
+msgid "Lord Bor Cryne"
+msgstr ""
+
+#. [unit_type]: id=Lord Bor Cryne, race=akladian
+#: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:29
+msgid ""
+"After two generations have passed since the conquest of Wesnoth, it became "
+"rare for common Akladian folks to became lords, as Akladian leaders started "
+"to mimic the customs of Wesnothian, even when they claimed to despise them. "
+"Yet Bor Cryne was such a skilled warrior and leader that he was able to "
+"became a leader of his clan. He came from noble family, but his birth would "
+"enable him to become one of chieftains. He always despised the customs of "
+"Wesnothians and disliked those lords, who seem to enjoy courts more than "
+"battlefields."
 msgstr ""
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
@@ -18843,7 +18857,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: A_New_Order/units/akladians/Young_Hagarthen.cfg:32
+#: A_New_Order/units/akladians/Young_Hagarthen.cfg:33
 msgid "training sword"
 msgstr ""
 
