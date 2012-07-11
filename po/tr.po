@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-30 09:27-0400\n"
+"POT-Creation-Date: 2012-07-11 15:26-0400\n"
 "PO-Revision-Date: 2008-05-11 01:04+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -376,7 +376,7 @@ msgstr "$ano_loyal[0].name SADIK birim oldu."
 #. [then]
 #: A_New_Order/macros/ano_macros.cfg:1123
 #: A_New_Order/macros/ano_macros.cfg:1126
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:571
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:573
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:38
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:41
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:42
@@ -967,14 +967,12 @@ msgstr ""
 #: A_New_Order/scenarios/27_Orannon.cfg:31
 #: A_New_Order/scenarios/28_Lorin.cfg:91
 #: A_New_Order/scenarios/29_Epilogue.cfg:105
-#: A_New_Order/scenarios/30_Final.cfg:64 A_New_Order/scenarios/ano-07x.cfg:12
-#: A_New_Order/scenarios/ano-11x.cfg:13
+#: A_New_Order/scenarios/30_Final.cfg:64
 msgid "Gawen Hagarthen"
 msgstr "Gaven Hagarten"
 
 #. [modify_side]
 #. [side]: id=Lady Lorin, type=Akladian Lady
-#. [side]: type=Akladian Lady, id=Lady Lorin
 #. [unit]: id=Lady Lorin, type=Akladian Lady
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503
@@ -983,8 +981,6 @@ msgstr "Gaven Hagarten"
 #: A_New_Order/scenarios/06_Separation.cfg:54
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:114
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:71
-#: A_New_Order/scenarios/ano-05ax.cfg:19 A_New_Order/scenarios/ano-05bx.cfg:18
-#: A_New_Order/scenarios/ano-09x.cfg:13
 msgid "Lady Lorin"
 msgstr "Bayan Lorin"
 
@@ -3081,9 +3077,7 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=05_The_Swamp_Things
-#. [scenario]: id=ano_5b-x
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:3
-#: A_New_Order/scenarios/ano-05bx.cfg:3
 msgid "The Swamp Things"
 msgstr "Bataklık şeyleri"
 
@@ -3284,9 +3278,7 @@ msgid "You have received 150 gold pieces"
 msgstr "150 altın aldınız."
 
 #. [scenario]: id=05_Unexpected_Guests
-#. [scenario]: id=ano_5a-x
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:3
-#: A_New_Order/scenarios/ano-05ax.cfg:4
 msgid "Unexpected Guests"
 msgstr "Beklenmedik konuklar"
 
@@ -3682,9 +3674,7 @@ msgstr ""
 "biliyorsunuzdur."
 
 #. [scenario]: id=07_Ally_From_the_Past
-#. [scenario]: id=ano_7x
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:3
-#: A_New_Order/scenarios/ano-07x.cfg:3
 msgid "Ally From the Past"
 msgstr "Eski müttefik"
 
@@ -4560,9 +4550,7 @@ msgid "You receive 50 golden pieces."
 msgstr "50 altın aldınız."
 
 #. [scenario]: id=09_Hired_Swords
-#. [scenario]: id=ano_9x
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:3
-#: A_New_Order/scenarios/ano-09x.cfg:3
 msgid "Hired Swords"
 msgstr "Kiralık Kılıçlar"
 
@@ -4859,23 +4847,25 @@ msgid "Where are those supplies? Speak, or I will cut you to pieces!"
 msgstr "Nerede şu malzeme! Konuş, yoksa seni parçalayacağım."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:288
+#. spoken by Reumario, answering to Lorin
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:289
 msgid "Uh, I, I am not sure..."
 msgstr "Uh, ben, ben emin değilim..."
 
 #. [message]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:291
+#. spoken by Lorin to Reumario
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:293
 msgid "Well, what about this..."
 msgstr "Bakalım ne yapabilirim?"
 
 #. [option]: speaker=Lady Lorin
 #. spoken by Lorin to Reumario
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:295
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:297
 msgid "I would be honoured to have you in my army."
 msgstr "Sizi ordumda görmekten onur duyardım."
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:300
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:302
 msgid ""
 "After this battle you will be able to recruit Akladian Clansmen, Warriors "
 "and Wisemen again."
@@ -4884,7 +4874,7 @@ msgstr ""
 "tekrar askere alabileceksiniz."
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:311
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:313
 msgid ""
 "Uh... yes, why not? I will join you. But let me wait until after this "
 "battle; I do not want to fight members of my own clan."
@@ -4894,13 +4884,13 @@ msgstr ""
 
 #. [option]: speaker=Lady Lorin
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:316
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:318
 #, fuzzy
 msgid "I shall let you live."
 msgstr "Yaşamana izin vereceğim."
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:321
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:323
 msgid ""
 "Thank you, Lorin. Frankly, I had not expected such behavior from you. As a "
 "sign of my gratitude, I will instruct members of my clan to serve you."
@@ -4910,18 +4900,18 @@ msgstr ""
 "etmesine izin vereceğim."
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:324
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:326
 msgid "After this battle you will be able to recruit Akladian Clansmen again."
 msgstr ""
 "Bu savaştan sonra Akladyalı Kabile Üyelerini tekrar askere alabileceksiniz."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:336
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:338
 msgid "In this storeroom and..."
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:337
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:339
 msgid ""
 "Do you think I'm stupid? This would not be enough to house an army! You must "
 "have some hidden storeroom or treasury! Speak!"
@@ -4930,55 +4920,55 @@ msgstr ""
 "Konuş!"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:338
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:340
 msgid ""
 "Aargh! Yes, we have a hidden treasury in my castle, here, I will show you."
 msgstr "Aahh! Evet, hazineyi kaleme gizledim, burada, size göstereyim."
 
 #. [event]
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:339
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:437
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:611
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:341
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:439
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:613
 #, fuzzy
 msgid "You have received 100 gold pieces"
 msgstr "150 altın aldınız."
 
 #. [message]: speaker=Majid Yahyazad
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:346
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:348
 #, fuzzy
 msgid "Will you allow him to leave now?"
 msgstr "Onun şimdi serbest kalmasına izin mi vereceksiniz?"
 
 #. [option]: speaker=Majid Yahyazad
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:349
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:351
 msgid "Yes, he may live."
 msgstr "Evet, yaşayabilir."
 
 #. [option]: speaker=Majid Yahyazad
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:355
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:357
 msgid "No, he is too dangerous."
 msgstr "Hayır, o çok tehlikeli."
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:376
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:378
 msgid "What did I say about killing their leaders? Hm?"
 msgstr "Liderlerini öldürmek konusunda ben ne dedim? Ha? Ha?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:377
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:379
 msgid "But..."
 msgstr "Ama.."
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:378
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:380
 msgid ""
 "What? Are you deaf or something? I specifically instructed that you were to "
 "leave their leaders for me!"
 msgstr "Neee!? Sağır mısın nesin? Liderlerini bana bırakacaksın!"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:389
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:391
 #, fuzzy
 msgid ""
 "Before I kill you, I want you to tell me few things. First, you were talking "
@@ -4988,7 +4978,7 @@ msgstr ""
 "konuklardan bahsettiğni söyle bana!"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:390
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:392
 msgid ""
 "You're afraid, aren't you? They will came here in great numbers... a huge "
 "orcish army... better start running, witch."
@@ -4997,7 +4987,7 @@ msgstr ""
 "Koşmaya başlasan iyi olur, cadı."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:397
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:399
 msgid ""
 "Orcs? Why should I be afraid? I have fought them before. Unlike you, they "
 "are strong and worthy opponents. I look forward to meeting them in combat "
@@ -5005,7 +4995,7 @@ msgid ""
 msgstr ""
 
 #. [else]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:400
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:402
 msgid ""
 "Orcs? I've never fought orcs, though I would love to meet them. I've heard "
 "they are good soldiers, strong and fearless."
@@ -5014,40 +5004,40 @@ msgstr ""
 "onlarla tanışmak isterdim."
 
 #. [message]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:405
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:407
 #, fuzzy
 msgid "And now, tell me more..."
 msgstr "Ve şimdi, başka birşeyler daha öğrenmek istiyorum..."
 
 #. [option]: speaker=Lady Lorin
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:408
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:410
 msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
 msgstr "Değerli bir rakipsin, Oyre Mathauri. Seni nasıl onurlandırabilirim?"
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:410
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:412
 msgid "By hanging yourself from the nearest tree, witch!"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:413
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:415
 msgid "Seems you have wasted your last wish. Now die!"
 msgstr "Son isteğin seni öldürecek görünüyor. Geber!"
 
 #. [option]: speaker=Lady Lorin
 #. spoken by Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:418
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:420
 msgid "What are orcs doing here and why are you waiting for them?"
 msgstr "Orklar burada ne yapacak ve niçin bekleniyorlar?"
 
 #. [option]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:424
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:426
 msgid "Where have you hidden the gold?"
 msgstr "Altını nereye sakladınız?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:436
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:438
 msgid ""
 "Gold? What gold? I know nothing about... AAARGH! ... it's in a safe place, I "
 "will show you!"
@@ -5056,7 +5046,7 @@ msgstr ""
 "göstereceğim size!"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:442
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:444
 msgid ""
 "He isn't able to tell you anything more. I can't decide whether I should "
 "admire your ruthlessness or despise your cruelty."
@@ -5065,12 +5055,12 @@ msgstr ""
 "merhametsizliğinizden nefret mi etmeliyim karar veremiyorum."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:443
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:445
 msgid "His death was quick. You may admire my generosity."
 msgstr "Belki, cömertliğime hayran olabilirsiniz."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:452
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:454
 msgid ""
 "Orcs? Bor Cryne told us to wait for them here. We will then march with them "
 "and kill every Akladian unworthy of the name! Those who violate our customs, "
@@ -5085,7 +5075,7 @@ msgstr ""
 "fethetmemizi sağlayarak bizi ödüllendirecek."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:454
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:456
 msgid ""
 "Interesting theory. So, basically Bor Cryne wants to eliminate all of his "
 "opponents?"
@@ -5094,7 +5084,7 @@ msgstr ""
 "istiyor, diyebilir miyiz?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:460
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:462
 msgid ""
 "Hey, Reumario, what do you say to that? Akladians allying with orcs to kill "
 "other Akladians? Quite a dishonorable thing, don't you think?"
@@ -5103,39 +5093,39 @@ msgstr ""
 "için orklarla ittifak yapıyor. Bunun onursuzluk olduğunu düşünmüyor musun?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:461
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:463
 msgid "I didn't know..."
 msgstr "Bilmiyordum.."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:462
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:464
 msgid "So now you know. What do you intend to do about it?"
 msgstr "Artık biliyorsun. Ve bunun için ne yapacaksın?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:463
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:465
 msgid "I don't know."
 msgstr "Bilmiyorum."
 
 #. [message]: speaker=Lady Lorin
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:466
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:468
 #: A_New_Order/scenarios/13_Scouting.cfg:122
 msgid "What about this:"
 msgstr "Bunun hakkında:"
 
 #. [option]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:468
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:470
 msgid "I will kill you and rip off your traitorous head!"
 msgstr "Seni öldürecek ve kelleni alacağım."
 
 #. [option]: speaker=Lady Lorin
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:471
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:473
 msgid "What about joining us against those orcs?"
 msgstr "Bu orklara karşı bizimle birlik olur musun?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:483
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:485
 msgid ""
 "Will you join us to fight against the orcs? Or maybe you would prefer to "
 "ally yourself with these madmen who want to slaughter their own kin?"
@@ -5144,63 +5134,63 @@ msgstr ""
 "boğazlamak isteyen bu kötü adamlarla ittifak yapmayı mı tercih edersin?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:484
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:486
 msgid "Yes... I will join you."
 msgstr "Evet... Size katılacağım."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:486
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:488
 msgid "So, we won."
 msgstr "Bu durumda, biz kazandık."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:487
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:489
 msgid ""
 "You sound disappointed... were you relishing the thought of more action?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:488
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:490
 msgid "I'm sure there will be plenty of action when the orcs arrive."
 msgstr "Orklar gelince yeterince hareket olacak."
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:519
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:521
 msgid ""
 "What part of the phrase 'do not kill their leaders, leave them for me' was "
 "so difficult to understand?"
 msgstr "‘Liderlerini öldürme, bana bırak’ cümlesinden anlayamadığın ne?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:520
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:522
 msgid "But it was self-defense!"
 msgstr "Fakat ben kendimi savundum!"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:521
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:523
 msgid "Yeah, sure. Why do men always think I can't handle my enemies myself?"
 msgstr ""
 "Elbette... Tanrım, bu erkekler neden düşmanımla başa çıkamayacağımı "
 "düşünürler?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:525
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:527
 msgid "We have taken the castle... what a pleasant surprise! What now?"
 msgstr "Kaleyi aldık. Memnuniyet verici bir gelişme. Şimdi ne olacak?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:526
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:528
 msgid "Surprise? What do you mean by that?"
 msgstr "Bunu beklemiyor muydunuz? Ne demek istiyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:527
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:529
 msgid ""
 "I mean that I didn't think we would be able to take that castle, because..."
 msgstr "Bu kaleyi alamayabilirdik demek istiyorum, çünkü..."
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:528
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:530
 msgid ""
 "Because what? You think that just because I am a weak woman I can't take a "
 "castle?"
@@ -5209,7 +5199,7 @@ msgstr ""
 "mi düşünüyorsun?"
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:529
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:531
 msgid ""
 "No, I just.. look, the castle provides excellent tactical position against "
 "sieges... stop glaring at me. What are you going to do now?"
@@ -5218,7 +5208,7 @@ msgstr ""
 "Bırakalım bunu şimdi... Ne yapacaksın?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:536
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:538
 msgid ""
 "Well, haven't you heard? An orcish army is coming here. We have to prepare "
 "the defenses immediately. And while we do so, we can ponder the next move to "
@@ -5228,7 +5218,7 @@ msgstr ""
 "Başka ne lazım sonra düşünürüz."
 
 #. [else]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:539
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:541
 msgid ""
 "Well, I have my own castle, that's a start. Now I need more gold, so I guess "
 "we could 'ask' our neighbors for some. But we also need some time to rest "
@@ -5239,26 +5229,26 @@ msgstr ""
 "dinlenmek ve yaralarımızı iyileştirmek için zamana ihtiyacımız var."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:548
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:550
 msgid ""
 "How strange... it seems that by killing so many of them, you have gained "
 "their respect."
 msgstr "Tuhaf şey, çoğunu öldürdüğünüz halde onların güvenini kazandınız."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:549
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:551
 msgid "What's so strange about that?"
 msgstr "Bunda tuhaf olan ne?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:550
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:552
 msgid ""
 "The locals are placing respect for arms above respect of kin.  Some of them "
 "are even willing to fight for you now."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:610
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:612
 #, fuzzy
 msgid ""
 "We have searched the castle and we found a lot of supplies. I hope we will "
@@ -5266,29 +5256,29 @@ msgid ""
 msgstr "Kalenin içinde bir miktar malzeme bulduk. Umarım yararlı olur."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:639
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:641
 msgid "A woman! A woman killed me! Aaargh!"
 msgstr "Bir kadın! Kadın öldürdü beni! Aaaahh!"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:640
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:642
 msgid "What? Haven't I practiced the art of the blade as much as he has?"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:649
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:651
 msgid "I lost to a woman? Nooo..."
 msgstr "Bir kadına mı yenildim? Hayıııır..."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:658
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:660
 #, fuzzy
 msgid "You really can fight. I salute you as I die."
 msgstr ""
 "Siz gerçekten döğüşebiliyorsunuz. Ölümümden önce sizi onurlandırmak isterim."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:659
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:661
 msgid ""
 "What's wrong with these Akladians? They hate you, you start killing them, "
 "and now they like you? Are Akladians gluttons for punishment or is skill at "
@@ -5299,17 +5289,17 @@ msgstr ""
 "zevk mi alıyorsunuz?"
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:668
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:670
 msgid "What a fighter! I would willingly fight for someone like her..."
 msgstr "O bir döğüşçü! Ben böyle biri için hala döğüşemem..."
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:669
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:671
 msgid "I am no necromancer; I use only for living warriors, not the dead!"
 msgstr ""
 
 #. [then]
-#: A_New_Order/scenarios/09_Hired_Swords.cfg:670
+#: A_New_Order/scenarios/09_Hired_Swords.cfg:672
 msgid "They seem to have come to respect you now. Strange."
 msgstr "Şimdi size saygı gösteriyorlarmış gibi görünüyor. Tuhaf."
 
@@ -5889,9 +5879,7 @@ msgid "One more reference to underling... ah, what the hey..."
 msgstr "Yine mi parya... Cehennem gibi."
 
 #. [scenario]: id=11_Council_in_Freetown
-#. [scenario]: id=ano_11x
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:3
-#: A_New_Order/scenarios/ano-11x.cfg:3
 msgid "Council in Freetown"
 msgstr "Özgürkent Konseyi"
 
