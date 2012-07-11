@@ -6,15 +6,14 @@ existing sprites.
 
 PORTRAITS
 ---------
-* Bor Cryne 
-* Majid Yahyazad
 * Grekulak
 * Generic "bad" Akladian lord (could be used for Hoyre and Uri van Roe and others)
+* Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
+* Majid Yahyazad
 * Uri Van Roe
 * Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 
   also Fastfoot)
 * Generic "bad" Akladian high level unit (e.g. Darknite, Sturmknight)
-* Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
 * "Broken" Ruvio, after fall of freetown (preferrably bought from Santiago Iborra,
   if we will find the funds which seems unlikely..)
 * Generic low-level Akladian unit with swords (Raiders+Homeguard, 

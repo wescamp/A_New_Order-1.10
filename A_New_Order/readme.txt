@@ -1,5 +1,8 @@
 Known problems:
-*Sometimes after downloading the campaign, some of the images are not shown correctly. Before reporting a bug to me, try quit the wesnoth program completely and then start it again. If this won't help, contact me.
+* Sometimes after downloading the campaign, some of the images are not shown
+  correctly. Before reporting a bug to me, try quit the wesnoth program
+  completely and then start it again. If this won't help, contact me.
+  Clearing wesnoth cache also helps.
 
 What this file contains: the credits and acknowledgments; how you can thank us;
 the ideas for new campaigns. Probably the only campaign with such a huge readme
@@ -77,7 +80,7 @@ obliged to do any of this. Saying you like it is enough to make us happy :) :)
 they like my work :D A.D.D). 
 
 I won't be buying more images for sure; I have commissioned six story images and
-three portraits (two of them are in work). Sigil bought five portraits. I have
+three portraits (one of them is still in work). Sigil bought five portraits. I have
 counted how many images ANO needs to make me feel it is REALLY finished in terms
 of graphics, and then how much it would cost me, and the decision is: no way
 (it would take two my full monthly salaries).

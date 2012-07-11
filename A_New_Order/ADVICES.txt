@@ -98,14 +98,16 @@ In Siege of Haeltin I have usually four 3rd level loyal Akladian troops. Sometim
 The scenarios, which I designed to be hard:
 
 04 Battle of Barnon
-09 Hired Swords
-10 Siege of Haeltin (09 and 10 were dubbed "Lorin's wars" by one player)
-19c Oracle (but here, only first 7 turns are hard)
+09 Hired Swords (no longer hard in 1.2.7; it's walkover with proper game now,
+   will be changed in the future)
+10 Siege of Haeltin (09 and 10 were dubbed "Lorin's wars" by one player. See
+   also remark above)
+19c Oracle (but here, only first 7 turns are hard. Not rebalanced in 1.2.7)
 23 Trapped
 27 Orannon 
 
 05 ("The swamp things" and "Unexpected guests") are not designed to be hard and
    they are easily winnable with proper tactics (and enough high-level loyal
-   akladians)
+   akladians). In fact, they are boringly easy for me.
 
 A.D.D.
