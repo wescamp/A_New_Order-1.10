@@ -38,8 +38,9 @@ likely I did it :)
 
 SPRITES
 -------
-Akladians: A.D.Danilecki, except few corrected or made by Peter Geinitz aka
-Shadow aka Wayfarer (they are in wayfarer directory, e.g. Lady Lorin and Fastfoot)
+Akladians:  new version: Sleepwalker, original: A.D.Danilecki, except few
+corrected or made by Peter Geinitz aka Shadow aka Wayfarer (they are in
+wayfarer directory, e.g. Lady Lorin and Fastfoot)
 
 
 GIMP BRUSHES USED TO CREATE STORY IMAGES
