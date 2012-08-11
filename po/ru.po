@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2012-03-23 17:54+0100\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -763,8 +763,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -20876,6 +20876,11 @@ msgstr ""
 "быть довольно опасны, особенно в больших группах. Рядовые члены кланов "
 "призываются на службу только в случае необходимости защиты королевства."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "короткое копьё"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -21009,6 +21014,13 @@ msgstr ""
 "Лучших бойцов акладианские лорды отбирают для службы в регулярной армии, и "
 "те становятся профессиональными солдатами. Солдаты должны экипировать себя "
 "за свой счёт, поэтому они чаще выбирают легкие доспехи и простые пики."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "копьё"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -21420,11 +21432,6 @@ msgstr ""
 "Городская стража набирается из числа жителей веснотских городов. Их обычные "
 "задачи - следить за порядком в городе и охранять городские стены."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "копьё"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -21504,9 +21511,6 @@ msgstr ""
 "Быть одной из четырёх дочерей великого воина - непростая задача. С детства "
 "слыша истории о битвах, рыцарях и великих подвигах отца, Карен давно решила, "
 "что участь смирной домохозяйки не для неё."
-
-#~ msgid "short spear"
-#~ msgstr "короткое копьё"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "А! Он попался! Друзья, пришлите мне подкрепление!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2007-12-02 17:41+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -776,8 +776,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -21654,6 +21654,11 @@ msgstr ""
 "specialmente quando vengono utilizzati in gruppi numerosi. Vengono reclutati "
 "solo per difendere i loro regni."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "lancia corta"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -21791,6 +21796,13 @@ msgstr ""
 "prestare servizio nell'esercito regolare, e diventano soldati "
 "professionisti. Tuttavia devono provvedere da soli all'equipaggiamento, per "
 "cui prediligono portare una armatura leggera e la lancia."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "lancia"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -22216,11 +22228,6 @@ msgstr ""
 "La milizia di città è composta da abitanti delle città di Wesnoth. Il loro "
 "compito di solito è solo di pattugliare le città e sorvegliare le mura."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "lancia"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -22302,9 +22309,6 @@ msgstr ""
 "compito facile. Dopo aver ascoltato fin dall'infanzia di battaglie, di "
 "cavalieri e delle grandi imprese di suo padre, Karen presto ha deciso che "
 "essere una buona casalinga non sarebbe decisamente stato il suo destino."
-
-#~ msgid "short spear"
-#~ msgstr "lancia corta"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Ah! Sta venendo da me! Amici, mandatemi dei rinforzi!"

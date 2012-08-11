@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2012-04-21 09:53+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: french\n"
@@ -815,8 +815,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -22223,6 +22223,11 @@ msgstr ""
 "dangereux, spécialement en grands groupes. Ils ne sont recrutés que pour la "
 "défense de leur royaume."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "épieu court"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -22360,6 +22365,13 @@ msgstr ""
 "dans leur armée régulière et ils deviennent soldats professionnels. Ils "
 "doivent néanmoins s'équiper eux-même. Il en résulte qu'ils sont souvent peu "
 "cuirassés et que la lance est leur arme de choix."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "lance"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -22825,11 +22837,6 @@ msgstr ""
 "Leur rôle est habituellement de faire la police et de surveiller les "
 "remparts."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "lance"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -22921,9 +22928,6 @@ msgstr ""
 "facile. Après avoir entendu parler depuis sa naissance de batailles, de "
 "chevaliers et des exploits de son père, Karen a décidé très tôt que devenir "
 "une bonne ménagère n'était vraiment pas sa destinée."
-
-#~ msgid "short spear"
-#~ msgstr "épieu court"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Ah ! Il vient à moi ! Il est temps de faire donner mes réserves !"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2010-07-10 09:15+0200\n"
 "Last-Translator: J. Ramon Dolcet Castro <llesintoplus@hotmail.com>\n"
 "Language-Team: Catalan <wesnoth-ca@ettin.org>\n"
@@ -774,8 +774,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -21495,6 +21495,11 @@ msgstr ""
 "molt poques proteccions, poden ser molt perillosos en grans grups. Per "
 "norma, només se'ls recluta com a últim recurs de defensa."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "llança curta"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -21632,6 +21637,13 @@ msgstr ""
 "seus exèrcits regulars, i es converteixen en soldats professionals. "
 "Tanmateix, han d'equipar-se per sí mateixos, amb el resultat que la majoria "
 "s'equipa amb una llança i armadura lleugera."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "llança"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -22055,11 +22067,6 @@ msgstr ""
 "La milícia ciutadana està composta de ciutadans de les ciutats wesnothianes. "
 "La seua feina és patrullar els carrers i guardar les muralles."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "llança"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -22147,9 +22154,6 @@ msgstr ""
 "fàcil. Karen, que des de la seua més tendra infància va créixer sentint "
 "històries de batalles, cavallers i els grans fets de son pare, prompte va "
 "decidir que ser una bona mestressa de casa no era el seu destí."
-
-#~ msgid "short spear"
-#~ msgstr "llança curta"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Ah, ve per mi! Amics, envieu-me reforços!"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2010-12-06 16:37+0100\n"
 "Last-Translator: kele <kele@neszmely.eu>\n"
 "Language-Team: Hungarian Wesnoth Translation Team\n"
@@ -766,8 +766,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -21402,6 +21402,11 @@ msgstr ""
 "felett. Habár gyengén vértezettek, s egyszerű fegyvereik vannak, nagy számuk "
 "miatt veszélyesek lehetnek. Csak a királyság védelmére sorozzák be őket."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "tőrös bot"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -21538,6 +21543,13 @@ msgstr ""
 "A legjobb akladiai harcosokat uraik választották ki, hogy a reguláris "
 "seregükben szolgáljanak, s később válnak hivatásos katonákká. Maguk szerelik "
 "fel magukat, emiatt választják a könnyű vértet és a dárdát, mint fegyvert."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "dárda"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -21957,11 +21969,6 @@ msgstr ""
 "A polgárőrség a wesnothi civil lakosság tagjaiból áll. Leginkább a "
 "rendfenntartásban és a városfalak védelmében játszanak szerepet."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "dárda"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -22050,9 +22057,6 @@ msgstr ""
 "Egy nagy harcos négy lánya közül egynek lenni nehéz feladat. Gyerekkorától "
 "csatákról, lovagokról és atyja dicső tetteiről hallva Karen korán "
 "elhatározta, hogy a háziasszonyi lét nem neki való feladat."
-
-#~ msgid "short spear"
-#~ msgstr "tőrös bot"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Ah! Nekem jön! Barátaim, küldjetek egy kis erősítést!"

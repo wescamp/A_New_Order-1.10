@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -623,8 +623,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: ./A_New_Order/macros/elvish_macros.cfg:159 ./A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15 ./A_New_Order/scenarios/15a_The_Preparations.cfg:152 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:87 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:95 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:110 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:486 ./A_New_Order/scenarios/23_Trapped.cfg:17 ./A_New_Order/scenarios/25_The_Awakening.cfg:25 ./A_New_Order/scenarios/ano-20macros.cfg:305
 msgid "Well..."
 msgstr ""
@@ -14512,6 +14512,11 @@ msgstr ""
 msgid "Akladian Clansmen are core of Akladian tribes. They are raised in culture promoting violence and hearing from childhood that their destination is to rule over the world. While very lightly armoured and badly armed they still can be dangerous, especially when used in larger groups. They are recruited only for defense of their kingdoms."
 msgstr ""
 
+#. [attack]: type=pierce
+#: ./A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr ""
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -14597,6 +14602,11 @@ msgstr ""
 #. [unit_type]: id=Akladian Light Infantry, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:18
 msgid "The best of Akladian warriors are choosed by their lords to serve in their regular armies, and they became professional soldiers. They have to equip themselves, however, which results in light armour and spear being their weapon of choice."
+msgstr ""
+
+#. [attack]: type=pierce
+#: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24 ./A_New_Order/units/akladians/Akladian_Warrior.cfg:25 ./A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
 msgstr ""
 
 #. [unit_type]: id=Akladian Lord, race=akladian
@@ -14911,11 +14921,6 @@ msgstr ""
 #. [unit_type]: id=City Militia, race=human
 #: ./A_New_Order/units/others/City_Militia.cfg:28
 msgid "City militia is composed from citizens of Wesnothian towns. Their role is usually just policing the cities and guarding the walls."
-msgstr ""
-
-#. [attack]: type=pierce
-#: ./A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
 msgstr ""
 
 #. [unit_type]: id=Oracle, race=human

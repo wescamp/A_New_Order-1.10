@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2007-06-07 16:07+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -767,8 +767,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -21238,6 +21238,11 @@ msgstr ""
 "li ve velkých skupinách. Bývají většinou verbováni k obraně jejich "
 "království."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+msgid "short spear"
+msgstr "krátké kopí"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -21372,6 +21377,13 @@ msgstr ""
 "Nejlepší Akladijští válečníci jsou svými lordy vybráni do služby v "
 "pravidelné armádě, stávají se profesionálními vojáky. Musí se sami vybavit, "
 "takže lehké brnění a kopí bývá jejich nejčastější volbou."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "kopí"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -21791,11 +21803,6 @@ msgstr ""
 "Domobrana je většinou složena z obyvatel Wesnothských měst. Jejich role je "
 "většinou hlídat pořádek a strážit hradby."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "kopí"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -21874,9 +21881,6 @@ msgstr ""
 "Být jednou ze čtyř dcer slavného válečníka není žádný med. Od dětství Karen "
 "slýchala o válkách, rytířích a velkých vítězstvích svého otce, takže se "
 "velice brzy rozhodla, že jejím údělem nebude stát se domácí putičkou."
-
-#~ msgid "short spear"
-#~ msgstr "krátké kopí"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Á, už se žene na mě! Přátele, pošlete mi posily!"

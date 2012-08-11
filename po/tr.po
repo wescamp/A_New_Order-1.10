@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-09 14:54-0400\n"
+"POT-Creation-Date: 2012-08-11 21:41+0200\n"
 "PO-Revision-Date: 2008-05-11 01:04+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -766,8 +766,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -20409,6 +20409,12 @@ msgstr ""
 "özellikle büyük gruplar halinde olduklarında tehlikeli olabilirler. Sadece "
 "krallıklarının savunması için askere alınırlar."
 
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
+#, fuzzy
+msgid "short spear"
+msgstr "kısa kılıç"
+
 #. [unit_type]: id=Akladian Darknite, race=akladian
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -20542,6 +20548,13 @@ msgstr ""
 "Düzenli ordularında hizmet etmek üzere efendileri tarafından en iyi "
 "Akladyalı savaşçılardan seçilirler ve profesyonel askerler haline gelirler. "
 "Kendi kendilerini donatırlar; hafif zırh ve mızrak kendi seçimleridir."
+
+#. [attack]: type=pierce
+#: A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24
+#: A_New_Order/units/akladians/Akladian_Warrior.cfg:25
+#: A_New_Order/units/others/City_Militia.cfg:62
+msgid "spear"
+msgstr "mızrak"
 
 #. [unit_type]: id=Akladian Lord, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lord.cfg:4
@@ -20967,11 +20980,6 @@ msgstr ""
 "Kent Milisleri kentli Wesnoth vatandaşlarıdır. Onların görevi genellikle "
 "şehirlerde polislik yapmak ve duvarları korumaktır."
 
-#. [attack]: type=pierce
-#: A_New_Order/units/others/City_Militia.cfg:62
-msgid "spear"
-msgstr "mızrak"
-
 #. [unit_type]: id=Oracle, race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
@@ -21051,10 +21059,6 @@ msgstr ""
 "Büyük bir savaşçının dört kızından biri olarak görevi hiç kolay değildir. "
 "Çocukluğundan beri babasından savaşlar hikayeleri dinleyen Karen kaderine "
 "karşı çıkarak iyi bir ev kadını olmaya erken karar verdi."
-
-#, fuzzy
-#~ msgid "short spear"
-#~ msgstr "kısa kılıç"
 
 #~ msgid "Ah! He's coming for me! Time to use my reserves!"
 #~ msgstr "Ah! Benim için geliyor! Arkadaşlar beni koruyun!"
