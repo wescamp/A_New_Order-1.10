@@ -1,13 +1,14 @@
 # Guigou Guillaume <guillaume.guigou@orange.fr>, 2012.
 # Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-08-30 17:34-0400\n"
-"PO-Revision-Date: 2012-04-21 09:53+0200\n"
+"PO-Revision-Date: 2012-08-30 10:13+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
-"Language-Team: french\n"
+"Language-Team: français <wesnoth@ml.free.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,14 +150,13 @@ msgstr "Illustrations des introductions"
 
 #. [entry]
 #: A_New_Order/about.cfg:60
-#, fuzzy
 msgid "New akladian sprites"
-msgstr "Chevalier sombre akladien"
+msgstr "Nouveaux sprites d'Akladiens"
 
 #. [entry]
 #: A_New_Order/about.cfg:64
 msgid "Some old akladian sprites"
-msgstr ""
+msgstr "Quelques anciens sprites akladiens"
 
 #. [about]
 #: A_New_Order/about.cfg:68
@@ -291,9 +291,8 @@ msgstr "Et tous les autres participants des forums de Wesnoth"
 
 #. [about]
 #: A_New_Order/about.cfg:184
-#, fuzzy
 msgid "Campaign funding"
-msgstr "Maintenance de la campagne"
+msgstr "Financement de la campagne"
 
 #. [about]
 #: A_New_Order/about.cfg:194
@@ -22247,9 +22246,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #: A_New_Order/units/akladians/Akladian_Darknite.cfg:35
-#, fuzzy
 msgid "greatsword"
-msgstr "épée"
+msgstr "grande épée"
 
 #. [unit_type]: id=Akladian Fastfoot, race=akladian
 #: A_New_Order/units/akladians/Akladian_Fastfoot.cfg:4
@@ -22308,7 +22306,7 @@ msgstr ""
 #: A_New_Order/units/akladians/Akladian_Homeguard.cfg:31
 #: A_New_Order/units/akladians/Akladian_Shieldguard.cfg:30
 msgid "mace"
-msgstr ""
+msgstr "massue"
 
 #. [unit_type]: id=Akladian Lady, race=akladian
 #: A_New_Order/units/akladians/Akladian_Lady.cfg:4
@@ -22440,7 +22438,7 @@ msgstr ""
 #. [attack]: type=impact
 #: A_New_Order/units/akladians/Akladian_Protector.cfg:33
 msgid "greatmace"
-msgstr ""
+msgstr "grande massue"
 
 #. [unit_type]: id=Akladian Queen, race=akladian
 #: A_New_Order/units/akladians/Akladian_Queen.cfg:4
@@ -22562,9 +22560,8 @@ msgstr ""
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:4
-#, fuzzy
 msgid "Lord Bor Cryne"
-msgstr "Bor Cryne"
+msgstr "Seigneur Bor Cryne"
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
 #: A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:29
@@ -22573,6 +22570,9 @@ msgid ""
 "leaders- despite claiming to despise the Wesnothians - started to mimic the "
 "customs of the Wesnothian nobility. Thereafter, the clan leaders, the "
 msgstr ""
+"Deux générations après la conquête de Wesnoth, les chefs Akladiens - tout en "
+"prétendant mépriser les Wesnothiens - commencèrent à imiter les coutumes de "
+"la noblesse de Wesnoth. À la suite des chefs de clans, les "
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
 #: A_New_Order/units/akladians/Lord_Hagarthen.cfg:4
