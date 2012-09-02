@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-30 17:34-0400\n"
 "PO-Revision-Date: 2012-03-23 17:54+0100\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
