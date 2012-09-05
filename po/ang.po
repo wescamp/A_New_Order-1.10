@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-30 17:34-0400\n"
+"POT-Creation-Date: 2012-09-04 20:56-0400\n"
 "PO-Revision-Date: 2012-02-22 15:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -274,45 +274,45 @@ msgid "Campaign funding"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:194
+#: A_New_Order/about.cfg:197
 msgid "Additional information may be found within readme.txt file"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:197
+#: A_New_Order/about.cfg:200
 msgid "I can't believe you actually read this thing"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:200
+#: A_New_Order/about.cfg:203
 msgid "Darth Vader"
 msgstr ""
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:203
+#: A_New_Order/about.cfg:206
 msgid "Father or Luke Skywalker"
 msgstr ""
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:208
+#: A_New_Order/about.cfg:211
 msgid "Żwirek i Muchomorek"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:210
+#: A_New_Order/about.cfg:213
 msgid "Famous Czech gay actors"
 msgstr ""
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:215
+#: A_New_Order/about.cfg:218
 msgid "Bronisław Komorowski"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:217
+#: A_New_Order/about.cfg:220
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -678,7 +678,7 @@ msgstr ""
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:153
-msgid "Oooh no. I refuse to fight in this condition and in these clothes."
+msgid "Oooh, no. I refuse to fight in these condition, and in clad as such."
 msgstr ""
 
 #. [event]
@@ -691,8 +691,8 @@ msgstr ""
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:155
 msgid ""
-"*For the spring*. The least you can do is to give me proper shoes. You "
-"expect me to walk in this snow *barefoot*??"
+"<i>For the spring</i>. The least you can do is to give me proper shoes. You "
+"expect me to walk in this snow <i>barefoot</i>??"
 msgstr ""
 
 #. [event]
@@ -704,7 +704,7 @@ msgstr ""
 #. [event]
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:157
-msgid "I couldn't agree more. Call me when you will have new shoes."
+msgid "I couldn't agree more. Call me when you have new shoes."
 msgstr ""
 
 #. [event]
@@ -5126,8 +5126,8 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:551
 msgid ""
-"That wasn't a compliment. A 'poet' is just a fancy word for saying 'idiot'. "
-"You Khalifa fight for love? Ha! No wonder you have lost."
+"That was not a compliment. A 'poet' is just a fancy word for 'idiot'. You "
+"Khalifa fight for love? Ha! No wonder you have lost."
 msgstr ""
 
 #. [event]
@@ -18450,35 +18450,48 @@ msgstr ""
 #. [race]: id=akladian
 #: A_New_Order/units/_main.cfg:4
 msgid ""
-"Barbarian and wild, Akladians are born fighters. More resistant than normal "
-"people, agile and fast, they are all warriors and raiders. They believe in "
-"one God, and they believe this God has chosen them to be rulers of the "
-"world. They consider everyone else vastly inferior. In their myths, they "
-"were imprisoned by false angel, until the first Hagarthen incited a "
-"rebellion and led an escape through the deserts, swamps, and forests. They "
-"know no literature, no poetry, no magic. They believe only in their swords "
-"and consider all people, who use bows and other ranged weapons, simple "
-"cowards. They hate mages, they hate elves (calling them green devils). There "
-"are no old Akladian males -- all are killed during constant wars."
+" The Akladians are wild barbarians. Hailing from the harsh east, they are "
+"born fighters. Stronger, more agile and quicker than normal people, they are "
+"a civilisation based entirely on war. \n"
+"\n"
+" They worship one god, who to them is the only one; they believe he has "
+"given them the world, with which they may do whatever they want. They "
+"believe they are his chosen race — all other peoples are inferior. In their "
+"myths, they were imprisoned by a false angel until the first Hagarthen "
+"incited a rebellion and led an escape through the deserts, swamps, and "
+"forests. \n"
+"\n"
+" They believe only in the sword, for to them it is the purest weapon, the "
+"bravest to wield, and the most difficult to master — something which all "
+"Akladians must achieve at an early age. All people who use bows and other "
+"ranged weapons are regarded as cowards. They loath elves, whom they call "
+"Green Devils, and despise mages. \n"
+"\n"
+" There are few old Akladian males, since most are killed in the constant "
+"wars waged by the akladian nobles and throne, both between themselves and "
+"other states (for the Akladians are not a naturally united nation, and many "
+"owe allegiance to the nobility over the state, granting the nobility has a "
+"large amount of power). Those few old men that manage to survive are "
+"outcasts, regarded as cowards and shunned."
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:5
+#: A_New_Order/units/_main.cfg:11
 msgid "race^Akladian"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:6
+#: A_New_Order/units/_main.cfg:12
 msgid "race+female^Akladian"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:7
+#: A_New_Order/units/_main.cfg:13
 msgid "race^Akladians"
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:10
+#: A_New_Order/units/_main.cfg:16
 msgid ""
 "Reuke,Aorenor,Reme,Terao,Aoeree,Reeoe,Larao,Borien,Rouenoe,Eoleree,Leenore,"
 "Oreoke,Lauroe,Rumethe,Theorien,Rukeen,Aeorei,Raori,Neiae,Ien,Ian,Ioeneree,"
@@ -18488,7 +18501,7 @@ msgid ""
 msgstr ""
 
 #. [race]: id=akladian
-#: A_New_Order/units/_main.cfg:11
+#: A_New_Order/units/_main.cfg:17
 msgid "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena"
 msgstr ""
 
