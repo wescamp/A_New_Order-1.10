@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10 - A new order en francais.\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 20:56-0400\n"
+"POT-Creation-Date: 2012-09-23 01:37+0200\n"
 "PO-Revision-Date: 2012-08-30 10:13+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: français <wesnoth@ml.free.fr>\n"
@@ -817,8 +817,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
