@@ -9,7 +9,6 @@ PORTRAITS
 * Grekulak
 * Generic "bad" Akladian lord (could be used for Hoyre and Uri van Roe and others)
 * Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
-* Majid Yahyazad
 * Uri Van Roe
 * Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 
   also Fastfoot)
