@@ -1,13 +1,15 @@
 This is my personal list of what I'd love to have. If you 
 are artist and want to contribute, please look at this list and think whether
-you could do these portraits. They are sorted in order of importance.
-In addition, you may consider making animations for sprites, or correct
-existing sprites.
+you could do these portraits. You can also hire someone to do them, or 
+sent me 20-40 euros and I will pay my artist to do them.
+
+They are sorted in order of importance.  In addition, you may consider making
+animations for sprites, or correct existing sprites.
 
 PORTRAITS
 ---------
 * Grekulak
-* Generic "bad" Akladian lord (could be used for Hoyre and Uri van Roe and others)
+* Generic "bad" Akladian lord (could be used for Uri van Roe and others)
 * Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
 * Uri Van Roe
 * Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 

@@ -66,7 +66,7 @@ If you want to do something more, you can consider:
   for a campaign; this is to fund new portraits. In other words, this is in
   order to allow the others enjoy the campaign even more. And we may then
   decide to create a sequel :)
-  Use moneybookers. You have to register, though. The transfer with
+  Use moneybookers or paypal. You have to register, though. The transfer with
   moneybookers costs about 1 euro (0.5 fee by moneybookers, but in my country my
   bank also charges for transferring to my account in moneybookers);
   http://www.howtopayonline.org/moneybookers.html. My account is
@@ -80,10 +80,11 @@ obliged to do any of this. Saying you like it is enough to make us happy :) :)
 they like my work :D A.D.D). 
 
 I won't be buying more images for sure; I have commissioned six story images and
-three portraits (one of them is still in work). Sigil bought five portraits. I have
+four portraits (one of them is still in work). Sigil bought five portraits. I have
 counted how many images ANO needs to make me feel it is REALLY finished in terms
 of graphics, and then how much it would cost me, and the decision is: no way
-(it would take two my full monthly salaries).
+(it would take two my full monthly salaries). Current cost of ANO amounts to
+just about 330 euros (more or less, since I pay in PLN, and Sigil paid in dollars).
 
 SO YOU WANT TO CREATE A SEQUEL?
 -------------------------------
