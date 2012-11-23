@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10 - A new order en francais.\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-12 18:32-0400\n"
+"POT-Creation-Date: 2012-11-22 20:00-0500\n"
 "PO-Revision-Date: 2012-10-14 19:25+0100\n"
 "Last-Translator: Pyrophorus <l.sebilleauATfree.fr>\n"
 "Language-Team: français <wesnoth@ml.free.fr>\n"
@@ -200,196 +200,202 @@ msgstr "Traduction française :"
 
 #. [entry]
 #: A_New_Order/about.cfg:119
+#, fuzzy
+msgid "Previous version of french translation:"
+msgstr "Traduction française :"
+
+#. [entry]
+#: A_New_Order/about.cfg:122
 msgid "German translation:"
 msgstr "Traduction allemande :"
 
 #. [entry]
-#: A_New_Order/about.cfg:122
+#: A_New_Order/about.cfg:125
 msgid "Italian translation:"
 msgstr "Traduction italienne :"
 
 #. [entry]
-#: A_New_Order/about.cfg:125
+#: A_New_Order/about.cfg:128
 msgid "Polish translation:"
 msgstr "Traduction polonaise :"
 
 #. [entry]
-#: A_New_Order/about.cfg:128
+#: A_New_Order/about.cfg:131
 msgid "Russian translation:"
 msgstr "Traduction russe :"
 
 #. [entry]
-#: A_New_Order/about.cfg:131
+#: A_New_Order/about.cfg:134
 msgid "Spanish translation:"
 msgstr "Traduction espagnole :"
 
 #. [entry]
-#: A_New_Order/about.cfg:134
+#: A_New_Order/about.cfg:137
 msgid "Swedish translation:"
 msgstr "Traduction suédoise :"
 
 #. [entry]
-#: A_New_Order/about.cfg:137
+#: A_New_Order/about.cfg:140
 msgid "Turkish translation:"
 msgstr "Traduction turque :"
 
 #. [about]
-#: A_New_Order/about.cfg:141
+#: A_New_Order/about.cfg:144
 msgid "Additional thanks to"
 msgstr "Et merci aussi à"
 
 #. [entry]
-#: A_New_Order/about.cfg:144
+#: A_New_Order/about.cfg:147
 msgid "sprites for Aragwaithi and corrections of Akladian sprites"
 msgstr "sprites des Aragwaiths et corrections des sprites des Akladian"
 
 #. [entry]
-#: A_New_Order/about.cfg:148
+#: A_New_Order/about.cfg:151
 msgid "team coloring for all sprites"
 msgstr "Équipe de colorisation des sprites"
 
 #. [entry]
-#: A_New_Order/about.cfg:152
+#: A_New_Order/about.cfg:155
 msgid "bug reports, english errors corrections"
 msgstr "Rapport de bogues, correction des erreurs de traduction en anglais"
 
 #. [entry]
-#: A_New_Order/about.cfg:156
+#: A_New_Order/about.cfg:159
 msgid "bug reports, English corrections"
 msgstr "Rapport de bogues, correction de la version anglaise"
 
 #. [entry]
-#: A_New_Order/about.cfg:160
+#: A_New_Order/about.cfg:163
 msgid "Outlaw level 3 pack is maintained by them."
 msgstr "Le pack de hors-la-loi niveau 3 est maintenu par eux."
 
 #. [entry]
-#: A_New_Order/about.cfg:164
+#: A_New_Order/about.cfg:167
 msgid "for patience and explaining how wescamp works"
 msgstr ""
 "pour leur patience et pour m'avoir expliqué le fonctionnement de Wescamp"
 
 #. [entry]
-#: A_New_Order/about.cfg:168
+#: A_New_Order/about.cfg:171
 msgid "for art advises"
 msgstr "pour les conseils graphiques"
 
 #. [entry]
-#: A_New_Order/about.cfg:172
+#: A_New_Order/about.cfg:175
 msgid "for hints on wml and unit stats"
 msgstr "pour les astuces concernant le WML et les statistiques des unités"
 
 #. [entry]
-#: A_New_Order/about.cfg:176
+#: A_New_Order/about.cfg:179
 msgid "Caring for the art for 1.1.98 versions"
 msgstr "Adaptation des graphismes pour la version 1.1.98"
 
 #. [entry]
-#: A_New_Order/about.cfg:179
+#: A_New_Order/about.cfg:182
 msgid "all others from the wesnoth forums"
 msgstr "Et tous les autres participants des forums de Wesnoth"
 
 #. [about]
-#: A_New_Order/about.cfg:184
+#: A_New_Order/about.cfg:187
 msgid "Campaign funding"
 msgstr "Financement de la campagne"
 
 #. [about]
-#: A_New_Order/about.cfg:197
+#: A_New_Order/about.cfg:200
 msgid "Additional information may be found within readme.txt file"
 msgstr ""
 "Des informations complémentaires se trouvent dans le fichier readme.txt"
 
 #. [about]
-#: A_New_Order/about.cfg:200
+#: A_New_Order/about.cfg:203
 msgid "I can't believe you actually read this thing"
 msgstr "Je ne peux pas croire que vous soyez réellement en train de lire ça"
 
 #. [about]
-#: A_New_Order/about.cfg:203
+#: A_New_Order/about.cfg:206
 msgid "Darth Vader"
 msgstr "Dark Vador"
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:206
+#: A_New_Order/about.cfg:209
 msgid "Father or Luke Skywalker"
 msgstr "Père de Luke Skywalker"
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:211
+#: A_New_Order/about.cfg:214
 msgid "Żwirek i Muchomorek"
 msgstr "Żwirek i Muchomorek"
 
 #. [entry]
-#: A_New_Order/about.cfg:213
+#: A_New_Order/about.cfg:216
 msgid "Famous Czech gay actors"
 msgstr "Acteurs tchèques gays célèbres"
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:218
+#: A_New_Order/about.cfg:221
 msgid "Bronisław Komorowski"
 msgstr "Bronisław Komorowski"
 
 #. [entry]
-#: A_New_Order/about.cfg:220
+#: A_New_Order/about.cfg:223
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
 "La preuve vivante que pouvez ne pas savoir écrire et devenir quand même "
 "président"
 
-#: A_New_Order/macros/ano_macros.cfg:394
+#: A_New_Order/macros/ano_macros.cfg:410
 msgid "getunit $x1 : $y1 : $ano_tmp.id"
 msgstr "getunit $x1 : $y1 : $ano_tmp.id"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:467 A_New_Order/macros/ano_macros.cfg:584
+#: A_New_Order/macros/ano_macros.cfg:483 A_New_Order/macros/ano_macros.cfg:600
 msgid "I can't hold my sword anymore.. I can't ..."
 msgstr "Je ne peux plus tenir mon épée... Je ne peux plus..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:477
+#: A_New_Order/macros/ano_macros.cfg:493
 msgid "My ancestors, I am coming to you! I hope I have not failed you.."
 msgstr ""
 "Vénérés ancêtres, je me prépare à vous rejoindre ! J'espère ne pas vous "
 "avoir déçus..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:488
+#: A_New_Order/macros/ano_macros.cfg:504
 msgid "I'm not afraid.. I would just want to smoke a little longer.."
 msgstr "Je n'ai pas peur... J'aurais juste voulu fumer encore un peu..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:498
+#: A_New_Order/macros/ano_macros.cfg:514
 #: A_New_Order/scenarios/23_Trapped.cfg:475
 #: A_New_Order/scenarios/23_Trapped.cfg:488
 msgid "Khalifa die without fear!"
 msgstr "Le Califat meurt sans crainte !"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:511
+#: A_New_Order/macros/ano_macros.cfg:527
 msgid "No! It's impossible! I have just started!"
 msgstr "Non ! Ce n'est pas possible, je viens juste de commencer !"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:524
+#: A_New_Order/macros/ano_macros.cfg:540
 msgid "That's not fair!"
 msgstr "Ce n'est pas correct !"
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:857
+#: A_New_Order/macros/ano_macros.cfg:873
 msgid "Father! Father! I am losing my..."
 msgstr "Père ! Père ! Je perds mon..."
 
 #. [event]
-#: A_New_Order/macros/ano_macros.cfg:870
+#: A_New_Order/macros/ano_macros.cfg:886
 msgid "No! I have still so much to do!"
 msgstr "Non ! J'ai encore tant à faire !"
 
-#: A_New_Order/macros/ano_macros.cfg:960
+#: A_New_Order/macros/ano_macros.cfg:976
 msgid ""
 "This is debug message. If you see it, then it means I forgot to delete it "
 "from release scenario."
@@ -397,7 +403,7 @@ msgstr ""
 "Ceci est un message de debug. SI vous le voyez, ça veut dire que j'ai oublié "
 "de l'effacer de ce scénario."
 
-#: A_New_Order/macros/ano_macros.cfg:965
+#: A_New_Order/macros/ano_macros.cfg:981
 msgid ""
 "This is debug message.  If you see it, then it means I forgot to delete it "
 "from release scenario."
@@ -405,14 +411,14 @@ msgstr ""
 "Ceci est un message de debug. Si vous le voyez, ça veut dire que j'ai oublié "
 "de l'effacer de ce scénario."
 
-#: A_New_Order/macros/ano_macros.cfg:1122
+#: A_New_Order/macros/ano_macros.cfg:1138
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr "L'unité $ano_loyal[0].name est devenue fidèle."
 
 #. [scenario]: id=10_Siege_of_Haeltin
 #. [then]
-#: A_New_Order/macros/ano_macros.cfg:1123
-#: A_New_Order/macros/ano_macros.cfg:1126
+#: A_New_Order/macros/ano_macros.cfg:1139
+#: A_New_Order/macros/ano_macros.cfg:1142
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:573
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:38
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:41
@@ -421,12 +427,12 @@ msgid "loyal"
 msgstr "fidèle"
 
 #. [scenario]: id=10_Siege_of_Haeltin
-#: A_New_Order/macros/ano_macros.cfg:1128
+#: A_New_Order/macros/ano_macros.cfg:1144
 #: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:44
 msgid "Zero upkeep"
 msgstr "Pas d'entretien."
 
-#: A_New_Order/macros/ano_macros.cfg:1137
+#: A_New_Order/macros/ano_macros.cfg:1153
 msgid "Scenario notes:"
 msgstr "Remarque sur le scénario :"
 
@@ -1124,23 +1130,23 @@ msgstr "Milicien"
 #. [unit]: id=Assassin
 #. [unit]: id=Assassin, type=Thief, type=Rogue, type=Assassin
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:454
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:572
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:560
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:522
 msgid "Assassin"
 msgstr "Assassin"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:502
 msgid "He has regained consciousness, my lady!"
 msgstr "Dame ! Il reprend connaissance !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:515
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:503
 msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
 msgstr "Merci mon Dieu ! Gawen, comment te sens-tu ? Peux-tu parler, bouger ?"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:516
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:504
 msgid ""
 "I feel weak... sick... (pause) ... I can't remember anything... nothing. Who "
 "am I?"
@@ -1149,7 +1155,7 @@ msgstr ""
 "rien... Qui suis-je ?"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:517
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:505
 msgid ""
 "I fear the blade which wounded him was poisoned, my lady.  We must wait here "
 "and pray that our God shows him mercy. (Whispering) And then we shall bury "
@@ -1160,7 +1166,7 @@ msgstr ""
 "Ensuite, nous l'enterrerons avec tout le cérémonial."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:518
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:506
 msgid ""
 "No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
 msgstr ""
@@ -1168,12 +1174,12 @@ msgstr ""
 "et trouver un médecin, rapidement !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:519
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:507
 msgid "He will not make it."
 msgstr "Il n'y arrivera pas."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:520
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:508
 msgid ""
 "I vow to sacrifice a lamb to God if he can be cured. If not, I won't even "
 "sacrifice so much as a mouse ever again!  Do you hear me, God?  Do you?"
@@ -1183,18 +1189,18 @@ msgstr ""
 "Gawen, peux-tu te lever ?"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:521
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:509
 msgid "Gawen, get up!"
 msgstr "Gawen, debout !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:522
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:510
 msgid "Yes... But... I can't remember anything... Who am I ?! Who are you?"
 msgstr ""
 "Oui, mais... Je ne me souviens de rien... Qui suis-je ? Qui êtes-vous ?"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:523
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:511
 msgid ""
 "I am your mother, the only person whom you can trust. These are your few "
 "loyal soldiers, who remained when everyone else deserted us. You are Gawen "
@@ -1205,12 +1211,12 @@ msgstr ""
 "déserté. Tu es Gawen Hagarthen, le roi légitime de Vakladia."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:524
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:512
 msgid "My mother? You seem... a bit young."
 msgstr "Ma mère ? Vous paraissez... un peu jeune..."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:525
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:513
 msgid ""
 "I am only your step-mother, but there is no time for more talk. We have to "
 "reach the town and find a medic!"
@@ -1219,7 +1225,7 @@ msgstr ""
 "devons rejoindre une ville et trouver un médecin !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:526
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:514
 msgid ""
 "Look, Akladians! To arms! Their king is dead; it's time to kill them all and "
 "be done with our slavery!"
@@ -1228,7 +1234,7 @@ msgstr ""
 "les tuer tous et d'en finir avec notre esclavage !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:528
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:516
 msgid ""
 "My lord, if you can't remember anything, then permit me a few suggestions. "
 "While our troops are not the armoured types the Wesnothians have, they are "
@@ -1246,7 +1252,7 @@ msgstr ""
 "remplacer nos pertes."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:529
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:517
 msgid ""
 "I see two good defensive positions here. One is to the north, near the "
 "village; the second is on the hills to the east of us. Use your troops to "
@@ -1260,12 +1266,12 @@ msgstr ""
 "placer les uns contre les autres pour stopper l'ennemi."
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:522
 msgid "Gawen Hagarthen reaches the enemy keep"
 msgstr "Gawen Hagarthen atteint le château ennemi"
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:538
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:526
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:338
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:292
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:303
@@ -1290,7 +1296,7 @@ msgid "Death of Gawen Hagarthen"
 msgstr "Mort de Gawen Hagarthen"
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:542
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:530
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:342
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:296
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:234
@@ -1314,7 +1320,7 @@ msgid "Death of Lady Lorin"
 msgstr "Mort de Dame Lorin"
 
 #. [objective]: condition=lose
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:546
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:534
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:346
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:300
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:238
@@ -1324,48 +1330,48 @@ msgid "Death of Reme Carrenemoe"
 msgstr "Mort de Reme Carrenemoe"
 
 #. [objectives]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:549
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:537
 msgid "You cannot recruit new units in this scenario."
 msgstr "Vous ne pouvez pas recruter dans ce scénario."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:592
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:580
 msgid "These ashes are still warm... he has to be somewhere nearby..."
 msgstr ""
 "Les cendres sont encore chaudes... Il doit être quelque part tout près..."
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:605
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:593
 msgid "I feel so sick, like poison is burning inside me..."
 msgstr "Je me sens si mal, comme si du poison me brûlait les intérieurs..."
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:606
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:594
 msgid "Try to resist for just a bit longer, my son!"
 msgstr "Essaye de résister encore un peu, mon fils !"
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:613
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:601
 msgid "He will not make it!"
 msgstr "Il n'y arrivera pas."
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:614
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:602
 msgid "My son! Please, don't give up!"
 msgstr "Mon fils ! S'il te plaît, n'abandonne pas !"
 
 #. [unit]: id=Medic, type=Mage
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:635
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:623
 msgid "Medic"
 msgstr "Médecin"
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:641
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:629
 msgid "My lady, we have found a medic!"
 msgstr "Dame, nous avons trouvé un médecin !"
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:642
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:630
 msgid ""
 "Underling! My son is dying. If you heal him, I will spare your life. If not, "
 "I will burn you and your family alive, do you understand?"
@@ -1374,7 +1380,7 @@ msgstr ""
 "vous brûlerai tout vifs, toi et ta famille, tu comprends ?"
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:643
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:631
 msgid ""
 "Don't try to intimidate me. I am too old to be afraid of death, I have no "
 "family. I will try to heal your son because of my vows as a healer, not "
@@ -1385,38 +1391,38 @@ msgstr ""
 "c'est mon devoir de médecin et pas à cause de vos menaces, dame d'Akladia."
 
 #. [then]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:644
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:632
 msgid "Your motives are of no concern to me, just do it!"
 msgstr "Tes motivations ne m'intéressent pas, fais-le, un point c'est tout !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:671
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:659
 msgid "Truly a shame we have no time to loot it or tax the inhabitants..."
 msgstr ""
 "Quel dommage de ne pas avoir le temps de piller ou taxer tous ces gens..."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:720
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:708
 msgid "I can't see.. it's so cold..."
 msgstr "Je ne vois plus rien... Il fait si froid..."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:721
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:709
 msgid "No! Don't you DARE die on me! Not now!"
 msgstr "Non ! Tu n'auras pas le front de mourir devant moi ! Pas maintenant !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:729
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:717
 msgid "For freedom! Death to the Akladian beasts!"
 msgstr "Pour la liberté ! Mort aux brutes akladiennes !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:730
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:718
 msgid "Umm... we are good guys, right?"
 msgstr "Euh... Nous sommes des gentils, d'accord ?"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:732
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:720
 msgid ""
 "Do not forget to withdraw wounded units to villages, where they can rest and "
 "regain some of their health."
@@ -1425,22 +1431,22 @@ msgstr ""
 "pourront se reposer et recouvrer un peu de santé."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:745
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:733
 msgid "Get out of my way, filthy underling!"
 msgstr "Ote-toi de mon chemin, sale métèque !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:757
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:745
 msgid "Poor fools! They have no chance, yet still they fight."
 msgstr "Pauvres fous, ils n'ont aucune chance et continuent à se battre."
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:770
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:758
 msgid "How dare you oppose us, heathen underling!"
 msgstr "Comment oses-tu te dresser contre nous, barbare païen !"
 
 #. [event]
-#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:778
+#: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:766
 msgid "Their leader is dead, good! Now bring Gawen to their keep, men!"
 msgstr ""
 "Leur chef est mort, bien ! Maintenant, amenez Gawen à leur château, les gars."
