@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-11-22 20:00-0500\n"
+"POT-Creation-Date: 2012-12-05 12:12+0100\n"
 "PO-Revision-Date: 2005-11-30 16:50+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -715,8 +715,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #. [scenario]: id=25_The_Awakening
+#. The talk between Kyobaine as Elvish Druid and Gawen, during winter
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
@@ -18719,7 +18719,7 @@ msgid "Sword"
 msgstr "glavo"
 
 #. [attack]: type=pierce
-#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:64
+#: A_New_Order/units/akladians/Akladian_Pikeneer.cfg:73
 msgid "pike"
 msgstr "pikstango"
 
