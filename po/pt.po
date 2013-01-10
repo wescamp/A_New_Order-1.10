@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-05 12:12+0100\n"
+"POT-Creation-Date: 2013-01-10 00:38-0500\n"
 "PO-Revision-Date: 2005-10-28 17:38+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -119,7 +119,7 @@ msgid "Artwork"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:52
+#: A_New_Order/about.cfg:52 A_New_Order/about.cfg:56
 msgid "Portraits"
 msgstr ""
 
@@ -265,59 +265,64 @@ msgstr ""
 
 #. [entry]
 #: A_New_Order/about.cfg:179
+msgid "for work on Akladian unit stats"
+msgstr ""
+
+#. [entry]
+#: A_New_Order/about.cfg:183
 msgid "Caring for the art for 1.1.98 versions"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:182
+#: A_New_Order/about.cfg:186
 msgid "all others from the wesnoth forums"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:187
+#: A_New_Order/about.cfg:191
 msgid "Campaign funding"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:200
+#: A_New_Order/about.cfg:204
 msgid "Additional information may be found within readme.txt file"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:203
+#: A_New_Order/about.cfg:207
 msgid "I can't believe you actually read this thing"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:206
+#: A_New_Order/about.cfg:210
 msgid "Darth Vader"
 msgstr ""
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:209
+#: A_New_Order/about.cfg:213
 msgid "Father or Luke Skywalker"
 msgstr ""
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:214
+#: A_New_Order/about.cfg:218
 msgid "Żwirek i Muchomorek"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:216
+#: A_New_Order/about.cfg:220
 msgid "Famous Czech gay actors"
 msgstr ""
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:221
+#: A_New_Order/about.cfg:225
 msgid "Bronisław Komorowski"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:223
+#: A_New_Order/about.cfg:227
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -715,8 +720,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. [scenario]: id=25_The_Awakening
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
+#. [scenario]: id=25_The_Awakening
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152

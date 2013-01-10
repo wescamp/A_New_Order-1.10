@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10 - A new order en francais.\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-05 12:12+0100\n"
+"POT-Creation-Date: 2013-01-10 00:38-0500\n"
 "PO-Revision-Date: 2012-10-14 19:25+0100\n"
 "Last-Translator: Pyrophorus <l.sebilleauATfree.fr>\n"
 "Language-Team: français <wesnoth@ml.free.fr>\n"
@@ -139,7 +139,7 @@ msgid "Artwork"
 msgstr "Graphismes"
 
 #. [entry]
-#: A_New_Order/about.cfg:52
+#: A_New_Order/about.cfg:52 A_New_Order/about.cfg:56
 msgid "Portraits"
 msgstr "Portraits"
 
@@ -287,60 +287,66 @@ msgstr "pour les astuces concernant le WML et les statistiques des unités"
 
 #. [entry]
 #: A_New_Order/about.cfg:179
+#, fuzzy
+msgid "for work on Akladian unit stats"
+msgstr "pour les astuces concernant le WML et les statistiques des unités"
+
+#. [entry]
+#: A_New_Order/about.cfg:183
 msgid "Caring for the art for 1.1.98 versions"
 msgstr "Adaptation des graphismes pour la version 1.1.98"
 
 #. [entry]
-#: A_New_Order/about.cfg:182
+#: A_New_Order/about.cfg:186
 msgid "all others from the wesnoth forums"
 msgstr "Et tous les autres participants des forums de Wesnoth"
 
 #. [about]
-#: A_New_Order/about.cfg:187
+#: A_New_Order/about.cfg:191
 msgid "Campaign funding"
 msgstr "Financement de la campagne"
 
 #. [about]
-#: A_New_Order/about.cfg:200
+#: A_New_Order/about.cfg:204
 msgid "Additional information may be found within readme.txt file"
 msgstr ""
 "Des informations complémentaires se trouvent dans le fichier readme.txt"
 
 #. [about]
-#: A_New_Order/about.cfg:203
+#: A_New_Order/about.cfg:207
 msgid "I can't believe you actually read this thing"
 msgstr "Je ne peux pas croire que vous soyez réellement en train de lire ça"
 
 #. [about]
-#: A_New_Order/about.cfg:206
+#: A_New_Order/about.cfg:210
 msgid "Darth Vader"
 msgstr "Dark Vador"
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:209
+#: A_New_Order/about.cfg:213
 msgid "Father or Luke Skywalker"
 msgstr "Père de Luke Skywalker"
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:214
+#: A_New_Order/about.cfg:218
 msgid "Żwirek i Muchomorek"
 msgstr "Żwirek i Muchomorek"
 
 #. [entry]
-#: A_New_Order/about.cfg:216
+#: A_New_Order/about.cfg:220
 msgid "Famous Czech gay actors"
 msgstr "Acteurs tchèques gays célèbres"
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:221
+#: A_New_Order/about.cfg:225
 msgid "Bronisław Komorowski"
 msgstr "Bronisław Komorowski"
 
 #. [entry]
-#: A_New_Order/about.cfg:223
+#: A_New_Order/about.cfg:227
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -820,8 +826,8 @@ msgstr ""
 #. [event]
 #. [scenario]: id=14e_Saorduc_Swamps
 #. [scenario]: id=22_Leaving_Okladia
-#. [scenario]: id=25_The_Awakening
 #. The talk between Kyobaine as Elvish Druid and Gawen, during winter
+#. [scenario]: id=25_The_Awakening
 #: A_New_Order/macros/elvish_macros.cfg:159
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:15
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:152
