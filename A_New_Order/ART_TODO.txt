@@ -11,7 +11,6 @@ PORTRAITS
 * Grekulak
 * Generic "bad" Akladian lord (could be used for Uri van Roe and others)
 * Hagarthen kings: Luc, Buffin, Gauri (one generic king is enough)
-* Uri Van Roe
 * Generic "good" Akladian high level unit (e.g. Protector, Shieldguard, maybe 
   also Fastfoot)
 * Generic "bad" Akladian high level unit (e.g. Darknite, Sturmknight)
@@ -20,6 +19,7 @@ PORTRAITS
 * Generic low-level Akladian unit with swords (Raiders+Homeguard, 
 * Generic Akladian unit with spears (Pikeneer, Warrior, Clansman, LightInfantry)
 * Generic leading units (Chieftain+leader - this is very low priority)
+* Uri Van Roe (?)
 * Another version of Karen picture
 
 STORY IMAGES
@@ -42,6 +42,6 @@ STORY IMAGES
 * An image illustrating the siege of Weldyn (Akladians sturming walls)
 * An image illustrating how the Akladian treat the traitor, who opened the
   gates of Weldyn
-* akladians overpowering Lorin (in scenario after orannon)
+* Akladians overpowering Lorin (in scenario after orannon)
 * images for the epilogue (Ruvios burial, Lorin riding to the khalifate
   sietches with her son)

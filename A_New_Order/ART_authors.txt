@@ -27,7 +27,7 @@ Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
 WTactics. Right now I do not remember the details about the author, I will
 try to fix this successively.
 
-farmer_girl -- by Doofus
+farmer_girl, peasant3 -- by Doofus  (peasant3 is a tavernkeeper)
 
 Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
 

@@ -80,7 +80,7 @@ obliged to do any of this. Saying you like it is enough to make us happy :) :)
 they like my work :D A.D.D). 
 
 I won't be buying more images for sure; I have commissioned six story images and
-four portraits (one of them is still in work). Sigil bought five portraits. I have
+four portraits. Sigil bought five portraits. I have
 counted how many images ANO needs to make me feel it is REALLY finished in terms
 of graphics, and then how much it would cost me, and the decision is: no way
 (it would take two my full monthly salaries). Current cost of ANO amounts to
@@ -240,6 +240,9 @@ CREDITS
 --------
 Most of those are from the first version of the campaign.
 If you think I should credit someone here, post me a message.
+
+New sprites of Akladians were created by SleepWalker. New stats of Akladians
+were created by AxalaraFlame.
 
 Many of the Akladian faction sprites were corrected by Shadow/Wayfarer.
 Aragwaiths are units created and maintained by Shadow/Wayfarer.
