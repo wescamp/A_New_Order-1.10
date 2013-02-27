@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-10 00:38-0500\n"
+"POT-Creation-Date: 2013-02-26 22:33-0500\n"
 "PO-Revision-Date: 2010-07-10 09:15+0200\n"
 "Last-Translator: J. Ramon Dolcet Castro <llesintoplus@hotmail.com>\n"
 "Language-Team: Catalan <wesnoth-ca@ettin.org>\n"
@@ -295,45 +295,45 @@ msgid "Campaign funding"
 msgstr "Manteniment de la campanya"
 
 #. [about]
-#: A_New_Order/about.cfg:204
+#: A_New_Order/about.cfg:207
 msgid "Additional information may be found within readme.txt file"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:207
+#: A_New_Order/about.cfg:210
 msgid "I can't believe you actually read this thing"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:210
+#: A_New_Order/about.cfg:213
 msgid "Darth Vader"
 msgstr ""
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:213
+#: A_New_Order/about.cfg:216
 msgid "Father or Luke Skywalker"
 msgstr ""
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:218
+#: A_New_Order/about.cfg:221
 msgid "Żwirek i Muchomorek"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:220
+#: A_New_Order/about.cfg:223
 msgid "Famous Czech gay actors"
 msgstr ""
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:225
+#: A_New_Order/about.cfg:228
 msgid "Bronisław Komorowski"
 msgstr ""
 
 #. [entry]
-#: A_New_Order/about.cfg:227
+#: A_New_Order/about.cfg:230
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -975,7 +975,7 @@ msgstr ""
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:28
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:30
 #: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:72
-#: A_New_Order/scenarios/13_Scouting.cfg:276
+#: A_New_Order/scenarios/13_Scouting.cfg:281
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:48
 #: A_New_Order/scenarios/14b_Bontom.cfg:135
 #: A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30
@@ -1633,7 +1633,7 @@ msgstr ""
 #. Reme speaking
 #. Lorin speaking
 #. Reme speaking
-#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:297
+#: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:293
 msgid "You received 2 pieces of gold"
 msgstr "Reps 2 peces d'or"
 
@@ -2376,7 +2376,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:263
-#: A_New_Order/scenarios/13_Scouting.cfg:353
+#: A_New_Order/scenarios/13_Scouting.cfg:380
 #: A_New_Order/scenarios/14b_Bontom.cfg:573
 #: A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:274
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:225
@@ -3765,10 +3765,10 @@ msgstr ""
 #. [unit]: id=Ruvio, type=Ruvio
 #. [unit_type]: id=Ruvio, race=human
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:80
-#: A_New_Order/scenarios/13_Scouting.cfg:608
-#: A_New_Order/scenarios/13_Scouting.cfg:618
-#: A_New_Order/scenarios/13_Scouting.cfg:629
-#: A_New_Order/scenarios/13_Scouting.cfg:637
+#: A_New_Order/scenarios/13_Scouting.cfg:635
+#: A_New_Order/scenarios/13_Scouting.cfg:645
+#: A_New_Order/scenarios/13_Scouting.cfg:656
+#: A_New_Order/scenarios/13_Scouting.cfg:664
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:504
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:512
 #: A_New_Order/scenarios/20_Okladia.cfg:417
@@ -3783,10 +3783,10 @@ msgstr "Ruvio"
 #. [unit]: id=Karen, type=Ruvios Daughter
 #. [unit_type]: id=Ruvios Daughter, race=human
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:92
-#: A_New_Order/scenarios/13_Scouting.cfg:609
-#: A_New_Order/scenarios/13_Scouting.cfg:619
-#: A_New_Order/scenarios/13_Scouting.cfg:630
-#: A_New_Order/scenarios/13_Scouting.cfg:638
+#: A_New_Order/scenarios/13_Scouting.cfg:636
+#: A_New_Order/scenarios/13_Scouting.cfg:646
+#: A_New_Order/scenarios/13_Scouting.cfg:657
+#: A_New_Order/scenarios/13_Scouting.cfg:665
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
 msgid "Karen"
 msgstr "Karen"
@@ -5172,7 +5172,7 @@ msgstr "No ho sé."
 #. [message]: speaker=Lady Lorin
 #. [scenario]: id=13_Scouting
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:468
-#: A_New_Order/scenarios/13_Scouting.cfg:122
+#: A_New_Order/scenarios/13_Scouting.cfg:127
 msgid "What about this:"
 msgstr "Què et pareix...?"
 
@@ -6902,7 +6902,8 @@ msgstr ""
 "provisional de Gawen."
 
 #. [part]
-#: A_New_Order/scenarios/13_Scouting.cfg:82
+#: A_New_Order/scenarios/13_Scouting.cfg:78
+#: A_New_Order/scenarios/13_Scouting.cfg:84
 msgid ""
 "Bitter and depressed, having failed to interrogate a single orc leader who "
 "knew anything of substance, Gawen and his troops headed home toward "
@@ -6915,7 +6916,7 @@ msgstr ""
 "la neu. 'Grekulak', va dir, i llavors va morir."
 
 #. [part]
-#: A_New_Order/scenarios/13_Scouting.cfg:94
+#: A_New_Order/scenarios/13_Scouting.cfg:98
 msgid ""
 "Rob Roe was not amongst Gawen's soldiers. He disappeared one night and no "
 "one, not even the outlaws in Gawen's army, knew the reasons of Roe's sudden "
@@ -6924,7 +6925,7 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:104
+#: A_New_Order/scenarios/13_Scouting.cfg:109
 msgid ""
 "I've seen a lot of orcs lately. They are going here and there, and have been "
 "surprisingly disciplined and well-behaved considering what I've heard about "
@@ -6940,13 +6941,13 @@ msgstr ""
 "al sud d'ací."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:106
-#: A_New_Order/scenarios/13_Scouting.cfg:177
+#: A_New_Order/scenarios/13_Scouting.cfg:111
+#: A_New_Order/scenarios/13_Scouting.cfg:182
 msgid "Reme? No, I have not heard about him."
 msgstr "Reme? No, no he sentit parlar d'ell."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:108
+#: A_New_Order/scenarios/13_Scouting.cfg:113
 msgid ""
 "Bontom? of course I know about it. It is a nice place a little bit west from "
 "here! My wife is from that area."
@@ -6955,37 +6956,37 @@ msgstr ""
 "d'ací. Tots són bona gent allà, la meua dona és d'allí."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:118
+#: A_New_Order/scenarios/13_Scouting.cfg:123
 msgid "No offense, but you've already asked me that question."
 msgstr "Sense ànim d'ofendre, això ja m'ho havies preguntat."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:121
+#: A_New_Order/scenarios/13_Scouting.cfg:126
 msgid "Well, and what do you propose in exchange?"
 msgstr "Bé, què ens dones a canvi? "
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:123
+#: A_New_Order/scenarios/13_Scouting.cfg:128
 msgid "If not, I will burn down this village."
 msgstr "Si no, cremaré tot el poble"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:124
+#: A_New_Order/scenarios/13_Scouting.cfg:129
 msgid "I will pay you in gold."
 msgstr "Et pagarè amb or"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:125
+#: A_New_Order/scenarios/13_Scouting.cfg:130
 msgid "A chance to fight against orcs and Akladians."
 msgstr "Una oportunitat per lluitar contra els orcs i els akladians"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:128
+#: A_New_Order/scenarios/13_Scouting.cfg:133
 msgid "No offense, but I value my life more than gold"
 msgstr "Sense ànim d'ofendre, m'estime més la meua vida que l'or"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:130
+#: A_New_Order/scenarios/13_Scouting.cfg:135
 msgid ""
 "That supposed to convince me?!? Go away, little butcher. I will talk to you "
 "no more!"
@@ -6994,13 +6995,13 @@ msgstr ""
 "tornar a parlar amb tu mai més."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:133
+#: A_New_Order/scenarios/13_Scouting.cfg:138
 msgid "And this is good reason, because..?"
 msgstr "I això és bo per... ?"
 
 #. [event]
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:134
+#: A_New_Order/scenarios/13_Scouting.cfg:139
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:192
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:334
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:439
@@ -7009,27 +7010,27 @@ msgid "Because..."
 msgstr "Perquè..."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:135
+#: A_New_Order/scenarios/13_Scouting.cfg:140
 msgid "You may have some fun!"
 msgstr "Podràs divertir-te!"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:136
+#: A_New_Order/scenarios/13_Scouting.cfg:141
 msgid "You will earn some gold in process!"
 msgstr "Guanyaràs una miqueta d'or!"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:137
+#: A_New_Order/scenarios/13_Scouting.cfg:142
 msgid "People unwilling to fight for freedom aren't worthy of it. Are you?"
 msgstr "La gent que no lluita per la llibertat no val res. Eres tu d'eixos?"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:138
+#: A_New_Order/scenarios/13_Scouting.cfg:143
 msgid "What, are you a coward? Afraid of a few orcs?"
 msgstr "Què, eres un covard? Tens temor d'uns pocs orcs?"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:142
+#: A_New_Order/scenarios/13_Scouting.cfg:147
 msgid ""
 "Well... yes, why not? One of our boys can really handle a bow. You might "
 "have some use for him."
@@ -7038,17 +7039,17 @@ msgstr ""
 "útil."
 
 #. [unit]: type=Bowman, id=Ringo
-#: A_New_Order/scenarios/13_Scouting.cfg:146
+#: A_New_Order/scenarios/13_Scouting.cfg:151
 msgid "Ringo"
 msgstr "Ringo"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:156
+#: A_New_Order/scenarios/13_Scouting.cfg:161
 msgid "Ha, ha, and I thought you were serious."
 msgstr "Ha, ha, i jo que pensava que parlaves de veritat."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:170
+#: A_New_Order/scenarios/13_Scouting.cfg:175
 msgid ""
 "Orcs? They were here, but they left in hurry. They were pillaging villages "
 "to the east of us. They were headed for a place called Haeltin, and I've "
@@ -7059,7 +7060,7 @@ msgstr ""
 "anomenat Haeltin, i he sentit dir que van ser derrotats per alguna dona."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:172
+#: A_New_Order/scenarios/13_Scouting.cfg:177
 msgid ""
 "Some woman? SOME WOMAN? That freckled kid might be SOME woman when she grows "
 "up, but not me. I am a Lady, LADY Lorin!"
@@ -7068,7 +7069,7 @@ msgstr ""
 "a crèixer, però jo no. Jo sóc una senyora, NA Lorin."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:174
+#: A_New_Order/scenarios/13_Scouting.cfg:179
 msgid ""
 "Ah, that must be that 'She-wolf of Haeltin' you mentioned, Ruvio. Will have "
 "to meet her."
@@ -7077,7 +7078,7 @@ msgstr ""
 "conèixer-la."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:179
+#: A_New_Order/scenarios/13_Scouting.cfg:184
 msgid ""
 "Bontom? It is somewhere to south-west. In one of the villages south of here "
 "people might know more about its exact location."
@@ -7086,7 +7087,7 @@ msgstr ""
 "gent deuria saber més d'això."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:181
+#: A_New_Order/scenarios/13_Scouting.cfg:186
 msgid ""
 "If I were younger, then I might have said yes, why not, but I am really too "
 "old for adventure seeking now."
@@ -7095,7 +7096,7 @@ msgstr ""
 "anar-me'n d'aventures."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:192
+#: A_New_Order/scenarios/13_Scouting.cfg:197
 msgid ""
 "Orcs? Da orcs were in plains pillagin' and burnin'. They are big and bad and "
 "you should avoid them, boy."
@@ -7104,17 +7105,17 @@ msgstr ""
 "grans, 'malos' i els deuries 'd'evitar', xic."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:194
+#: A_New_Order/scenarios/13_Scouting.cfg:199
 msgid "Reme? What is Reme? Some kind of food?"
 msgstr "Reme? Què és Reme? Un menjar?"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:195
+#: A_New_Order/scenarios/13_Scouting.cfg:200
 msgid "No, no, it's one of the Akladian lords, who..."
 msgstr "No, no, és un dels senyors akladians que..."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:196
+#: A_New_Order/scenarios/13_Scouting.cfg:201
 msgid ""
 "Oh, Akladian lords, yeah, I've heard about them. They are big and bad and "
 "you should avoid them, boy."
@@ -7123,7 +7124,7 @@ msgstr ""
 "'d'evitar'."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:198
+#: A_New_Order/scenarios/13_Scouting.cfg:203
 msgid ""
 "A place called Bontom? Yeah, I've heard about that. It's somewhere in the "
 "south, maybe people living in villages more to south would know more about "
@@ -7134,7 +7135,7 @@ msgstr ""
 "cosa més."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:201
+#: A_New_Order/scenarios/13_Scouting.cfg:206
 msgid ""
 "I'm too old ta be leavin' my village, and the one boy who wanted to search "
 "for adventures already joined you."
@@ -7143,7 +7144,7 @@ msgstr ""
 "d'aventures ja s'ha unit a tu."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:203
+#: A_New_Order/scenarios/13_Scouting.cfg:208
 msgid ""
 "I'm too old ta be leavin my village, but there is one boy who could fight "
 "for you, why not."
@@ -7152,7 +7153,7 @@ msgstr ""
 "lluitaria per tu, per què no?"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:205
+#: A_New_Order/scenarios/13_Scouting.cfg:210
 msgid ""
 "One of local peasants joins your army. It's an untrained but LOYAL and "
 "STRONG unit."
@@ -7161,12 +7162,12 @@ msgstr ""
 "FORT."
 
 #. [unit]: type=Peasant, id=John the Baldhead
-#: A_New_Order/scenarios/13_Scouting.cfg:212
+#: A_New_Order/scenarios/13_Scouting.cfg:217
 msgid "John the Baldhead"
 msgstr "Joan el calb"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:233
+#: A_New_Order/scenarios/13_Scouting.cfg:238
 msgid ""
 "Now that we know where your friend Reme is, we can go to that Bontom place "
 "the peasants told us about."
@@ -7175,7 +7176,7 @@ msgstr ""
 "del que ens han parlat els camperols."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:235
+#: A_New_Order/scenarios/13_Scouting.cfg:240
 msgid ""
 "I guess we could ask peasants whether they know something about this Bontom "
 "place, where your friend Reme is being kept."
@@ -7183,8 +7184,11 @@ msgstr ""
 "Supose que podríem preguntar-los als camperols si coneixen cap cosa d'eixe "
 "Bontom on és el teu amic."
 
+#. [event]
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:242
+#: A_New_Order/scenarios/13_Scouting.cfg:247
+#: A_New_Order/scenarios/13_Scouting.cfg:358
+#: A_New_Order/scenarios/13_Scouting.cfg:362
 msgid ""
 "We already know what we were sent to find out. We should return to Freetown "
 "now."
@@ -7192,12 +7196,12 @@ msgstr ""
 "Ja sabem el que vam vindre a buscar. Deuríem tornar a Ciutat Lliure ara."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:246
+#: A_New_Order/scenarios/13_Scouting.cfg:251
 msgid "We've already searched for answers in the city of Barnon."
 msgstr "Ja vam buscar respostes a la ciutat de Barnon"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:248
+#: A_New_Order/scenarios/13_Scouting.cfg:253
 msgid ""
 "My lord, from here we may explore a few possibilities. To the south, there "
 "is city of Barnon. It would definitely be very dangerous to go there, but..."
@@ -7206,12 +7210,12 @@ msgstr ""
 "està la ciutat de Barnon. És ben segur que seria perillós anar-hi, però..."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:249
+#: A_New_Order/scenarios/13_Scouting.cfg:254
 msgid "...but we could probably find something about orcs there, right?"
 msgstr "...és molt fàcil que trobarem alguna cosa sobre els orcs, veritat?"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:252
+#: A_New_Order/scenarios/13_Scouting.cfg:257
 msgid ""
 "We already went west to Haeltin. That was where your step-mother was, "
 "remember? That she was the 'She-wolf' really surprised me."
@@ -7220,7 +7224,7 @@ msgstr ""
 "madrastra, coneguda com la Lloba de Haeltin, va sorprendre'm de veritat."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:254
+#: A_New_Order/scenarios/13_Scouting.cfg:259
 msgid ""
 "We've heard that some woman, known by the nickname 'The She-wolf of "
 "Haeltin', was besieged by the orcs and she was able to repel them. Haeltin "
@@ -7232,12 +7236,12 @@ msgstr ""
 "preguntes."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:258
+#: A_New_Order/scenarios/13_Scouting.cfg:263
 msgid "We could also to for the swamps."
 msgstr "També podríem anar a les marjals."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:259
+#: A_New_Order/scenarios/13_Scouting.cfg:264
 msgid ""
 "We could, but saurians live in the swamps of Saorduc, and they rarely go "
 "outside of their mud. I doubt they would know anything useful. There are "
@@ -7250,7 +7254,7 @@ msgstr ""
 "alguna cosa, tal volta puguen dir alguna cosa interesant."
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:264
+#: A_New_Order/scenarios/13_Scouting.cfg:269
 msgid ""
 "Frankly, I have no idea what to do now. We have already searched all of the "
 "obvious locations."
@@ -7258,38 +7262,38 @@ msgstr "Sincerament, no sé què fer ara. Ja hem estat a tots els llocs obvis."
 
 #. [scenario]: id=13_Scouting
 #. [scenario]: id=18_Start_of_the_Quest
-#: A_New_Order/scenarios/13_Scouting.cfg:290
+#: A_New_Order/scenarios/13_Scouting.cfg:295
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:65
 msgid "Raedwood Forest"
 msgstr "Bosc de Raedwood"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:291
+#: A_New_Order/scenarios/13_Scouting.cfg:296
 msgid "To Freetown"
 msgstr "Cap a Ciutat Lliure"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:292
+#: A_New_Order/scenarios/13_Scouting.cfg:297
 msgid "To Haeltin"
 msgstr "Cap a Haeltin"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:293
+#: A_New_Order/scenarios/13_Scouting.cfg:298
 msgid "To Saorduc swamps"
 msgstr "Cap a les marjals de Saorduc"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:294
+#: A_New_Order/scenarios/13_Scouting.cfg:299
 msgid "To Barnon"
 msgstr "Cap a Barnon"
 
 #. [scenario]: id=13_Scouting
-#: A_New_Order/scenarios/13_Scouting.cfg:295
+#: A_New_Order/scenarios/13_Scouting.cfg:300
 msgid "Hyeton"
 msgstr "Hyeton"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:352
+#: A_New_Order/scenarios/13_Scouting.cfg:379
 msgid ""
 "It is extremely important to everyone to remember not to refer to Gawen by "
 "his real name. Always call him Gaumhaldric."
@@ -7298,7 +7302,7 @@ msgstr ""
 "Gawen pel seu nom real. Dieu-li Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:354
+#: A_New_Order/scenarios/13_Scouting.cfg:381
 msgid ""
 "First of all, because our people at Freetown aren't ready to have an "
 "Akladian leader. Second, because Bor Cryne would send his entire army to "
@@ -7309,7 +7313,7 @@ msgstr ""
 "per perseguir-nos."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:355
+#: A_New_Order/scenarios/13_Scouting.cfg:382
 msgid ""
 "Gaumhaldric... so, is this why my son is not shaving? He wants to hide his "
 "real identity under a beard?"
@@ -7318,7 +7322,7 @@ msgstr ""
 "la seua vertadera identitat baix la barba?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:356
+#: A_New_Order/scenarios/13_Scouting.cfg:383
 msgid ""
 "No, no, no. He HAS to have a beard. All of our great Wesnothian kings had "
 "beards!"
@@ -7327,7 +7331,7 @@ msgstr ""
 "barbes."
 
 #. [objectives]
-#: A_New_Order/scenarios/13_Scouting.cfg:367
+#: A_New_Order/scenarios/13_Scouting.cfg:394
 msgid ""
 "This is a large-scale map, where you may choose a way to go. Move Gawen to "
 "any of the signpost or any other location to trigger moving to the next "
@@ -7339,7 +7343,7 @@ msgstr ""
 "tenda."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:398
+#: A_New_Order/scenarios/13_Scouting.cfg:425
 msgid ""
 "My lord, we cannot go back to Freetown. We have nothing to report, and we "
 "have not found anything about the orcs."
@@ -7348,7 +7352,7 @@ msgstr ""
 "trobat cap cosa relativa als orcs."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:401
+#: A_New_Order/scenarios/13_Scouting.cfg:428
 msgid ""
 "My lord, I do not think we should go back to Freetown already. We haven't "
 "met with the She-wolf of Haeltin west of here. She may have some great "
@@ -7359,23 +7363,23 @@ msgstr ""
 "cosa, ja que ja ha lluitat contra els orcs."
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:415
+#: A_New_Order/scenarios/13_Scouting.cfg:442
 msgid "We were in Haeltin already. Where would you like to go now?"
 msgstr "Ja vam estar en Haeltin. On anem ara?"
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:419
+#: A_New_Order/scenarios/13_Scouting.cfg:446
 msgid "Are you sure you want to go there?"
 msgstr "Estàs segur que vols anar ací?"
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:420
-#: A_New_Order/scenarios/13_Scouting.cfg:444
-#: A_New_Order/scenarios/13_Scouting.cfg:480
-#: A_New_Order/scenarios/13_Scouting.cfg:769
-#: A_New_Order/scenarios/13_Scouting.cfg:800
-#: A_New_Order/scenarios/13_Scouting.cfg:829
+#: A_New_Order/scenarios/13_Scouting.cfg:447
+#: A_New_Order/scenarios/13_Scouting.cfg:471
+#: A_New_Order/scenarios/13_Scouting.cfg:507
+#: A_New_Order/scenarios/13_Scouting.cfg:796
+#: A_New_Order/scenarios/13_Scouting.cfg:827
+#: A_New_Order/scenarios/13_Scouting.cfg:856
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:401
 #: A_New_Order/scenarios/14b_Bontom.cfg:396
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:167
@@ -7404,12 +7408,12 @@ msgstr "Sí, sense cap mena de dubte."
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:421
-#: A_New_Order/scenarios/13_Scouting.cfg:445
-#: A_New_Order/scenarios/13_Scouting.cfg:481
-#: A_New_Order/scenarios/13_Scouting.cfg:770
-#: A_New_Order/scenarios/13_Scouting.cfg:801
-#: A_New_Order/scenarios/13_Scouting.cfg:830
+#: A_New_Order/scenarios/13_Scouting.cfg:448
+#: A_New_Order/scenarios/13_Scouting.cfg:472
+#: A_New_Order/scenarios/13_Scouting.cfg:508
+#: A_New_Order/scenarios/13_Scouting.cfg:797
+#: A_New_Order/scenarios/13_Scouting.cfg:828
+#: A_New_Order/scenarios/13_Scouting.cfg:857
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:402
 #: A_New_Order/scenarios/14b_Bontom.cfg:397
 #: A_New_Order/scenarios/14d_Avenging_Ruen.cfg:168
@@ -7435,17 +7439,17 @@ msgid "Well, maybe not."
 msgstr "Tal volta no..."
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:425
+#: A_New_Order/scenarios/13_Scouting.cfg:452
 msgid "As you wish, my lord."
 msgstr "Com desitges, senyor."
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:439
+#: A_New_Order/scenarios/13_Scouting.cfg:466
 msgid "We already were in Saorduc. Where to now?"
 msgstr "Ja vam estar en Saorduc. On anem ara?"
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:443
+#: A_New_Order/scenarios/13_Scouting.cfg:470
 msgid ""
 "Are you sure you want to go there? I've told you that I doubt Saurians know "
 "anything useful."
@@ -7454,8 +7458,8 @@ msgstr ""
 "res útil."
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:448
-#: A_New_Order/scenarios/13_Scouting.cfg:450
+#: A_New_Order/scenarios/13_Scouting.cfg:475
+#: A_New_Order/scenarios/13_Scouting.cfg:477
 msgid ""
 "So, on to Saorduc! Hopefully it is a wise decision and lizard men know "
 "something about orcs."
@@ -7464,22 +7468,22 @@ msgstr ""
 "alguna cosa dels orcs!"
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:454
+#: A_New_Order/scenarios/13_Scouting.cfg:481
 msgid "Lizards? We already fought with them. I hate lizards."
 msgstr "Sauris? Ja vam lluitar contra ells. Els odie!"
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:459
+#: A_New_Order/scenarios/13_Scouting.cfg:486
 msgid "That was wise decision, my lord."
 msgstr "Eixa ha sigut una sàvia decisió, senyor."
 
 #. [then]
-#: A_New_Order/scenarios/13_Scouting.cfg:475
+#: A_New_Order/scenarios/13_Scouting.cfg:502
 msgid "We already scouted near Barnon. Where should we go now?"
 msgstr "Ja vam explorar les rodalies de Barnon. On anem ara?"
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:479
+#: A_New_Order/scenarios/13_Scouting.cfg:506
 msgid ""
 "Are you sure you want to go there? A lot of enemy soldiers could be near "
 "Barnon."
@@ -7488,7 +7492,7 @@ msgstr ""
 "prop de Barnon."
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:483
+#: A_New_Order/scenarios/13_Scouting.cfg:510
 msgid ""
 "This could be dangerous... but also extremely valuable. We can definitely "
 "find out something about orcs there."
@@ -7497,34 +7501,34 @@ msgstr ""
 "alguna cosa sobre els orcs allí."
 
 #. [else]
-#: A_New_Order/scenarios/13_Scouting.cfg:486
+#: A_New_Order/scenarios/13_Scouting.cfg:513
 msgid "Yes, on other hand, maybe we should search elsewhere."
 msgstr "Sí, però també podríem buscar en altra banda."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:496
+#: A_New_Order/scenarios/13_Scouting.cfg:523
 msgid "Who is comin' here? What d'ya wanna from us?"
 msgstr "Qui va? Què voleu de 'natros' ?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:497
-#: A_New_Order/scenarios/13_Scouting.cfg:536
+#: A_New_Order/scenarios/13_Scouting.cfg:524
+#: A_New_Order/scenarios/13_Scouting.cfg:563
 msgid "Don't be afraid, I want ask you few question and then I will go."
 msgstr "No ens tingueu por, només vull fer unes poques preguntes i me n'aniré."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:498
+#: A_New_Order/scenarios/13_Scouting.cfg:525
 #, fuzzy
 msgid "So go on an' ask us"
 msgstr "'Pues' fica't a fer-les."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:503
-#: A_New_Order/scenarios/13_Scouting.cfg:516
-#: A_New_Order/scenarios/13_Scouting.cfg:541
-#: A_New_Order/scenarios/13_Scouting.cfg:554
-#: A_New_Order/scenarios/13_Scouting.cfg:574
-#: A_New_Order/scenarios/13_Scouting.cfg:587
+#: A_New_Order/scenarios/13_Scouting.cfg:530
+#: A_New_Order/scenarios/13_Scouting.cfg:543
+#: A_New_Order/scenarios/13_Scouting.cfg:568
+#: A_New_Order/scenarios/13_Scouting.cfg:581
+#: A_New_Order/scenarios/13_Scouting.cfg:601
+#: A_New_Order/scenarios/13_Scouting.cfg:614
 #: A_New_Order/scenarios/14b_Bontom.cfg:476
 #: A_New_Order/scenarios/14b_Bontom.cfg:484
 #: A_New_Order/scenarios/14b_Bontom.cfg:523
@@ -7540,82 +7544,82 @@ msgid "Please, tell me..."
 msgstr "Per favor, podries dir-me si..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:504
-#: A_New_Order/scenarios/13_Scouting.cfg:542
-#: A_New_Order/scenarios/13_Scouting.cfg:575
+#: A_New_Order/scenarios/13_Scouting.cfg:531
+#: A_New_Order/scenarios/13_Scouting.cfg:569
+#: A_New_Order/scenarios/13_Scouting.cfg:602
 msgid "Do you know where the place called Bontom is?"
 msgstr "Has sentit parlar d'on és Bontom?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:505
-#: A_New_Order/scenarios/13_Scouting.cfg:517
-#: A_New_Order/scenarios/13_Scouting.cfg:543
-#: A_New_Order/scenarios/13_Scouting.cfg:555
-#: A_New_Order/scenarios/13_Scouting.cfg:576
-#: A_New_Order/scenarios/13_Scouting.cfg:588
+#: A_New_Order/scenarios/13_Scouting.cfg:532
+#: A_New_Order/scenarios/13_Scouting.cfg:544
+#: A_New_Order/scenarios/13_Scouting.cfg:570
+#: A_New_Order/scenarios/13_Scouting.cfg:582
+#: A_New_Order/scenarios/13_Scouting.cfg:603
+#: A_New_Order/scenarios/13_Scouting.cfg:615
 msgid "Do you know anything about Reme Carrenemoe?"
 msgstr "Saps alguna cosa de Reme Carrenemoe?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:506
-#: A_New_Order/scenarios/13_Scouting.cfg:518
-#: A_New_Order/scenarios/13_Scouting.cfg:544
-#: A_New_Order/scenarios/13_Scouting.cfg:556
-#: A_New_Order/scenarios/13_Scouting.cfg:577
-#: A_New_Order/scenarios/13_Scouting.cfg:589
+#: A_New_Order/scenarios/13_Scouting.cfg:533
+#: A_New_Order/scenarios/13_Scouting.cfg:545
+#: A_New_Order/scenarios/13_Scouting.cfg:571
+#: A_New_Order/scenarios/13_Scouting.cfg:583
+#: A_New_Order/scenarios/13_Scouting.cfg:604
+#: A_New_Order/scenarios/13_Scouting.cfg:616
 msgid "Have you heard anything about orcs?"
 msgstr "Has sentit dir alguna cosa sobre els orcs?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:507
-#: A_New_Order/scenarios/13_Scouting.cfg:519
-#: A_New_Order/scenarios/13_Scouting.cfg:545
-#: A_New_Order/scenarios/13_Scouting.cfg:557
-#: A_New_Order/scenarios/13_Scouting.cfg:578
-#: A_New_Order/scenarios/13_Scouting.cfg:590
+#: A_New_Order/scenarios/13_Scouting.cfg:534
+#: A_New_Order/scenarios/13_Scouting.cfg:546
+#: A_New_Order/scenarios/13_Scouting.cfg:572
+#: A_New_Order/scenarios/13_Scouting.cfg:584
+#: A_New_Order/scenarios/13_Scouting.cfg:605
+#: A_New_Order/scenarios/13_Scouting.cfg:617
 msgid "Would you want to fight for me?"
 msgstr "Voldries lluitar per mi?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:508
-#: A_New_Order/scenarios/13_Scouting.cfg:520
-#: A_New_Order/scenarios/13_Scouting.cfg:546
-#: A_New_Order/scenarios/13_Scouting.cfg:558
-#: A_New_Order/scenarios/13_Scouting.cfg:579
-#: A_New_Order/scenarios/13_Scouting.cfg:591
+#: A_New_Order/scenarios/13_Scouting.cfg:535
+#: A_New_Order/scenarios/13_Scouting.cfg:547
+#: A_New_Order/scenarios/13_Scouting.cfg:573
+#: A_New_Order/scenarios/13_Scouting.cfg:585
+#: A_New_Order/scenarios/13_Scouting.cfg:606
+#: A_New_Order/scenarios/13_Scouting.cfg:618
 msgid "Go and work, good man."
 msgstr "Gràcies, bon home."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:531
+#: A_New_Order/scenarios/13_Scouting.cfg:558
 msgid "Ah, welcome, we've heard about your victories, Gaumhaldric."
 msgstr "Ah, benvingut, hem sentit parlar de les teues victòries, Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:533
+#: A_New_Order/scenarios/13_Scouting.cfg:560
 msgid "I still can't get used to them calling him Gaumhaldric."
 msgstr "Encara no puc acostumar-me a que el diguen Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:534
+#: A_New_Order/scenarios/13_Scouting.cfg:561
 msgid "Cute name, isn't it?"
 msgstr "És un nom bonic, no et pareix?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:537
+#: A_New_Order/scenarios/13_Scouting.cfg:564
 msgid "Anything for you, young knight."
 msgstr "El que vulgues, jove cavaller."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:570
+#: A_New_Order/scenarios/13_Scouting.cfg:597
 msgid "Free men from Raedwood forest! You are always welcome here."
 msgstr "Homes lliures dels boscos de Raedwood! Sempre sereu benvinguts ací!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:607
-#: A_New_Order/scenarios/13_Scouting.cfg:617
-#: A_New_Order/scenarios/13_Scouting.cfg:628
-#: A_New_Order/scenarios/13_Scouting.cfg:636
+#: A_New_Order/scenarios/13_Scouting.cfg:634
+#: A_New_Order/scenarios/13_Scouting.cfg:644
+#: A_New_Order/scenarios/13_Scouting.cfg:655
+#: A_New_Order/scenarios/13_Scouting.cfg:663
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:503
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:511
 #: A_New_Order/scenarios/20_Okladia.cfg:416
@@ -7626,8 +7630,8 @@ msgid "I would love to talk to..."
 msgstr "Voldria parlar amb..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:610
-#: A_New_Order/scenarios/13_Scouting.cfg:631
+#: A_New_Order/scenarios/13_Scouting.cfg:637
+#: A_New_Order/scenarios/13_Scouting.cfg:658
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:505
 #: A_New_Order/scenarios/20_Okladia.cfg:418
 #: A_New_Order/scenarios/20_Okladia.cfg:427
@@ -7636,8 +7640,8 @@ msgstr "Reme"
 
 #. [event]
 #. [scenario]: id=28_Lorin
-#: A_New_Order/scenarios/13_Scouting.cfg:611
-#: A_New_Order/scenarios/13_Scouting.cfg:620
+#: A_New_Order/scenarios/13_Scouting.cfg:638
+#: A_New_Order/scenarios/13_Scouting.cfg:647
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:506
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:513
 #: A_New_Order/scenarios/20_Okladia.cfg:419
@@ -7649,16 +7653,16 @@ msgid "Lorin"
 msgstr "Lorin"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:612
-#: A_New_Order/scenarios/13_Scouting.cfg:621
+#: A_New_Order/scenarios/13_Scouting.cfg:639
+#: A_New_Order/scenarios/13_Scouting.cfg:648
 msgid "Yahyazad"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:613
-#: A_New_Order/scenarios/13_Scouting.cfg:622
-#: A_New_Order/scenarios/13_Scouting.cfg:632
-#: A_New_Order/scenarios/13_Scouting.cfg:639
+#: A_New_Order/scenarios/13_Scouting.cfg:640
+#: A_New_Order/scenarios/13_Scouting.cfg:649
+#: A_New_Order/scenarios/13_Scouting.cfg:659
+#: A_New_Order/scenarios/13_Scouting.cfg:666
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:507
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:514
 #: A_New_Order/scenarios/20_Okladia.cfg:421
@@ -7669,61 +7673,61 @@ msgid "I changed my mind"
 msgstr "He canviat d'opinió."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:647
+#: A_New_Order/scenarios/13_Scouting.cfg:674
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:520
 #: A_New_Order/scenarios/20_Okladia.cfg:453
 msgid "Ruvio, please tell me.."
 msgstr "Ruvio, per favor, podries dir-me..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:648
+#: A_New_Order/scenarios/13_Scouting.cfg:675
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr "On pot ser Reme Carrenemoe?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:649
+#: A_New_Order/scenarios/13_Scouting.cfg:676
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:522
 msgid "Advise me what could we do now."
 msgstr "Cap consell sobre el que hem de fer ara."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:650
+#: A_New_Order/scenarios/13_Scouting.cfg:677
 msgid "Tell me about my mother."
 msgstr "Coses sobre ma mare."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:655
+#: A_New_Order/scenarios/13_Scouting.cfg:682
 msgid "You are joking, right? He is in our camp!"
 msgstr "Estàs prenent-me el pel, veritat? Està ací al nostre camp."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:657
+#: A_New_Order/scenarios/13_Scouting.cfg:684
 #, fuzzy
 msgid "Probably still in that Bontom place the peasants told us about."
 msgstr "Segurament en aquell Bontom que ens van dir el camperols. "
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:659
+#: A_New_Order/scenarios/13_Scouting.cfg:686
 msgid "In some place called Bontom. We could ask peasants about it."
 msgstr "En un lloc anomenat Bontom. Podríem preguntar als camperols."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:661
+#: A_New_Order/scenarios/13_Scouting.cfg:688
 msgid "I have no idea where your friend may be."
 msgstr "No tinc ni idea d'on pot estar el teu amic."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:668
+#: A_New_Order/scenarios/13_Scouting.cfg:695
 msgid "About your mother? What do you want to know about her?"
 msgstr "De ta mare? Què vols saber d'ella?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:669
+#: A_New_Order/scenarios/13_Scouting.cfg:696
 msgid "Everything."
 msgstr "Tot."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:670
+#: A_New_Order/scenarios/13_Scouting.cfg:697
 msgid ""
 "Well, she was from a royal house. The Akladian king gave her a simple "
 "choice: marry him or he would unleash his anger on her family. So, she "
@@ -7736,7 +7740,7 @@ msgstr ""
 "algunes cançons, li donava notícies de sa casa..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:671
+#: A_New_Order/scenarios/13_Scouting.cfg:698
 msgid ""
 "I think eventually she even warmed to your father, the king. When she gave "
 "birth to you, she gave everything she had for you. But behind her back "
@@ -7751,17 +7755,17 @@ msgstr ""
 "costat i li vaig prometre que cuidaria de tu."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:672
+#: A_New_Order/scenarios/13_Scouting.cfg:699
 msgid "Who poisoned her?"
 msgstr "Qui la va enverinar?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:673
+#: A_New_Order/scenarios/13_Scouting.cfg:700
 msgid "I don't know. No one knows."
 msgstr "No ho sé. Ningú ho sap."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:675
+#: A_New_Order/scenarios/13_Scouting.cfg:702
 msgid ""
 "Rob Roe mentioned Lorin clan once bought some special poison from Outlaws... "
 msgstr ""
@@ -7769,17 +7773,17 @@ msgstr ""
 "verí especial dels proscrits."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:676
+#: A_New_Order/scenarios/13_Scouting.cfg:703
 msgid "And you think that..."
 msgstr "I tu creus, doncs, que..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:677
+#: A_New_Order/scenarios/13_Scouting.cfg:704
 msgid "Why shouldn't I think that?"
 msgstr "Per què ho hauria de pensar?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:678
+#: A_New_Order/scenarios/13_Scouting.cfg:705
 msgid ""
 "You are right, Gawen. Akladians have a long history of poisoning each other. "
 "You might say it's their national sport. But still... yes, it had escaped my "
@@ -7790,39 +7794,39 @@ msgstr ""
 "així... sí, no havia caigut."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:683
+#: A_New_Order/scenarios/13_Scouting.cfg:710
 msgid "Hey Karen, what's up?"
 msgstr "Ei, Karen, com va?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:684
+#: A_New_Order/scenarios/13_Scouting.cfg:711
 msgid "I just made up a new song about you, want to hear it?"
 msgstr "He composat una nova cançó sobre tu, vols sentir-la?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:685
+#: A_New_Order/scenarios/13_Scouting.cfg:712
 msgid "You are a gifted girl... fighting, singing, what else can you do?"
 msgstr "Eres una xica beneïda... lluites, cantes, què més saps fer?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:686
+#: A_New_Order/scenarios/13_Scouting.cfg:713
 msgid ""
 "I can also dance. Gawen. When we return to Freetown I could dance for you... "
 msgstr ""
 "També sé ballar. Gawen, quan tornem a Ciutat Lliure podria ballar per tu."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:687
+#: A_New_Order/scenarios/13_Scouting.cfg:714
 msgid "I'm sure I would enjoy watching you dance."
 msgstr "Estic segur que m'agradarà veure't ballar"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:688
+#: A_New_Order/scenarios/13_Scouting.cfg:715
 msgid "Oh, I bet you would!"
 msgstr "Segur que sí!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:690
+#: A_New_Order/scenarios/13_Scouting.cfg:717
 msgid ""
 "Thank you, Gawen, once again. You have saved my life. I will never forget "
 "it, and I will never be able to repay my debt. Earlier my life belonged to "
@@ -7834,17 +7838,17 @@ msgstr ""
 "decisió."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:692
+#: A_New_Order/scenarios/13_Scouting.cfg:719
 msgid "Gaumhaldric, an interesting mother you have. Can I ask you a question?"
 msgstr "Ei, Gaumhaldric, tens una bona peça de mare. Puc fer-te una pregunta?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:693
+#: A_New_Order/scenarios/13_Scouting.cfg:720
 msgid "Sure, go ahead."
 msgstr "Clar que sí."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:694
+#: A_New_Order/scenarios/13_Scouting.cfg:721
 msgid ""
 "Is she spoken for? I mean, is there someone she loves? I have often noticed "
 "her gazing up at the sky, far, far away, as if she were thinking about "
@@ -7854,13 +7858,13 @@ msgstr ""
 "cel, lluny, ben lluny, com si estiguera pensant en algú... o alguna cosa."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:695
+#: A_New_Order/scenarios/13_Scouting.cfg:722
 msgid ""
 "I think she must be remembering my father. She has no one else I know about."
 msgstr "Crec que recorda mon pare. No té cap altre, pel que jo sé."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:696
+#: A_New_Order/scenarios/13_Scouting.cfg:723
 msgid ""
 "That is fortunate for me. She seems to have locked her heart up in an "
 "unbreakable fortress... but I think I can find a way into her heart. With "
@@ -7868,7 +7872,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:697
+#: A_New_Order/scenarios/13_Scouting.cfg:724
 msgid ""
 "Majid Yahyazad, Lorin is my step-mother, but she has never really shown any "
 "tenderness, even to me. I have always known her to be a harsh and "
@@ -7876,7 +7880,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:698
+#: A_New_Order/scenarios/13_Scouting.cfg:725
 msgid ""
 "I'm afraid pursuing her will come with a heavy price. I think she thinks "
 "love is a weakness... she seems more interested in war and finding new ways "
@@ -7884,7 +7888,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:699
+#: A_New_Order/scenarios/13_Scouting.cfg:726
 msgid ""
 "Ah, Gaumhaldric, perhaps you are right, but if it will be as a war to unlock "
 "her heart, I am prepared to wage it. I am well-acquainted with the ways of "
@@ -7892,60 +7896,60 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:700
+#: A_New_Order/scenarios/13_Scouting.cfg:727
 msgid ""
 "Besides, in the end, the war for the affection of a worthy woman is the only "
 "war where the price to win is a privilege, not a burden, to pay."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:701
+#: A_New_Order/scenarios/13_Scouting.cfg:728
 msgid "You find my step-mother... a worthy challenge, then? "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:702
+#: A_New_Order/scenarios/13_Scouting.cfg:729
 msgid "I do... and shall gladly pay the price to try to win her heart. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:703
+#: A_New_Order/scenarios/13_Scouting.cfg:730
 msgid ""
 "You have my blessing, noble Majid, for what it's worth. Sometimes the "
 "ruthlessness of the 'She-Wolf of Haeltin' still scares even me. "
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:708
+#: A_New_Order/scenarios/13_Scouting.cfg:735
 msgid "Mother, may I have a word with you?"
 msgstr "Mare, puc parlar una miqueta amb tu?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:709
+#: A_New_Order/scenarios/13_Scouting.cfg:736
 msgid "Your clan once bought poison from outlaws. Why?"
 msgstr "El teu clan va comprar un verí als proscrits. Per què?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:710
-#: A_New_Order/scenarios/13_Scouting.cfg:718
+#: A_New_Order/scenarios/13_Scouting.cfg:737
+#: A_New_Order/scenarios/13_Scouting.cfg:745
 msgid "What do you think about Yahyazad?"
 msgstr "Què penses de Iahiazad?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:711
-#: A_New_Order/scenarios/13_Scouting.cfg:719
+#: A_New_Order/scenarios/13_Scouting.cfg:738
+#: A_New_Order/scenarios/13_Scouting.cfg:746
 msgid "What do you know about orcs?"
 msgstr "Què penses dels orcs?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:712
-#: A_New_Order/scenarios/13_Scouting.cfg:720
+#: A_New_Order/scenarios/13_Scouting.cfg:739
+#: A_New_Order/scenarios/13_Scouting.cfg:747
 msgid "How did my real mother die?"
 msgstr "Cóm va morir ma mare autèntica?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:713
-#: A_New_Order/scenarios/13_Scouting.cfg:721
+#: A_New_Order/scenarios/13_Scouting.cfg:740
+#: A_New_Order/scenarios/13_Scouting.cfg:748
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:558
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:565
 #: A_New_Order/scenarios/20_Okladia.cfg:493
@@ -7954,7 +7958,7 @@ msgid "Never mind"
 msgstr "Dona igual"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:717
+#: A_New_Order/scenarios/13_Scouting.cfg:744
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:554
 #: A_New_Order/scenarios/18_Start_of_the_Quest.cfg:562
 #: A_New_Order/scenarios/20_Okladia.cfg:490
@@ -7962,17 +7966,17 @@ msgid "Mother, can I have a word with you?"
 msgstr "Mare, puc parlar una miqueta amb tu?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:726
+#: A_New_Order/scenarios/13_Scouting.cfg:753
 msgid "Why do you ask?"
 msgstr "Per què m'ho preguntes?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:727
+#: A_New_Order/scenarios/13_Scouting.cfg:754
 msgid "Well, he seems to be interested in you."
 msgstr "Bé, ell pareix estar interessat en tu."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:728
+#: A_New_Order/scenarios/13_Scouting.cfg:755
 msgid ""
 "Yes, I noticed that. I think one would have to be blind NOT to notice that. "
 "But I am not interested in him."
@@ -7981,17 +7985,17 @@ msgstr ""
 "interessada per ell."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:729
+#: A_New_Order/scenarios/13_Scouting.cfg:756
 msgid "Why not? He seems to be a good man."
 msgstr "Per? Pareix un bon home."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:730
+#: A_New_Order/scenarios/13_Scouting.cfg:757
 msgid "He is an underling."
 msgstr "És un carrall."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:731
+#: A_New_Order/scenarios/13_Scouting.cfg:758
 msgid ""
 "Underling? Mother, why do you still use such words? I am 'underling' too, "
 "after all."
@@ -8000,7 +8004,7 @@ msgstr ""
 "i a la fi."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:732
+#: A_New_Order/scenarios/13_Scouting.cfg:759
 msgid ""
 "No! I could never call you that. You are not... I mean... I... oh, you are "
 "too young to understand!"
@@ -8009,7 +8013,7 @@ msgstr ""
 "jove per entendre-ho."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:733
+#: A_New_Order/scenarios/13_Scouting.cfg:760
 msgid ""
 "Besides, you have lost your memory, so you probably do not remember what our "
 "customs are regarding widows that betray their dead husbands. I will explain "
@@ -8020,7 +8024,7 @@ msgstr ""
 "morts. Ja t'ho explicaré més tard."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:735
+#: A_New_Order/scenarios/13_Scouting.cfg:762
 msgid ""
 "Orcs? They are good fighters. Strong, disciplined, I wish I had such "
 "soldiers."
@@ -8029,7 +8033,7 @@ msgstr ""
 "meues ordres."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:736
+#: A_New_Order/scenarios/13_Scouting.cfg:763
 msgid ""
 "Mother, orcs just burn, pillage, and murder! They hate us, and yet you seem "
 "to respect them?!?"
@@ -8038,7 +8042,7 @@ msgstr ""
 "així els respectes?!?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:737
+#: A_New_Order/scenarios/13_Scouting.cfg:764
 msgid ""
 "Well, we are burning, pillaging, murdering and hate our enemies too. What's "
 "the difference?"
@@ -8046,17 +8050,17 @@ msgstr ""
 "Bé, nosaltres també saquegem, matem, cremem i odiem els nostres enemics. I?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:739
+#: A_New_Order/scenarios/13_Scouting.cfg:766
 msgid "Poison? What poison? My clan has never bought any poison!"
 msgstr "Verí? Quin verí? El meu clan no mai va comprar cap verí."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:740
+#: A_New_Order/scenarios/13_Scouting.cfg:767
 msgid "Rob Roe told me about it."
 msgstr "Rob Roe m'ho va contar..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:741
+#: A_New_Order/scenarios/13_Scouting.cfg:768
 msgid ""
 "Can you repeat that name? Rob - Roe. Rob Roe... No, I can't say I remember "
 "that name. I don't know anything about my clan buying a poison. But then, I "
@@ -8067,12 +8071,12 @@ msgstr ""
 "dona i el senyor del nostre clan no m'ho contava tot, ni de bon tros."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:744
+#: A_New_Order/scenarios/13_Scouting.cfg:771
 msgid "Your mother? Your.. why you are asking ME about your mother?"
 msgstr "Ta mare? Ta... per què m'estàs preguntant a MI sobre ta mare?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:745
+#: A_New_Order/scenarios/13_Scouting.cfg:772
 msgid ""
 "I can't remember anything about her. I would love to hear something about "
 "her. Did you know her?"
@@ -8081,7 +8085,7 @@ msgstr ""
 "La vas conèixer?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:746
+#: A_New_Order/scenarios/13_Scouting.cfg:773
 msgid ""
 "No! I did not know her! I... I'm sorry Gawen, but I don't know how your "
 "mother died or who poisoned her."
@@ -8090,17 +8094,17 @@ msgstr ""
 "morir ta mare ni qui la va enverinar."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:747
+#: A_New_Order/scenarios/13_Scouting.cfg:774
 msgid "I wasn't asking you about that."
 msgstr "No t'estava preguntant d'això..."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:763
+#: A_New_Order/scenarios/13_Scouting.cfg:790
 msgid "There are no more orcs near this ruins of the village."
 msgstr "No hi ha més orcs prop de les ruïnes del poblet."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:766
+#: A_New_Order/scenarios/13_Scouting.cfg:793
 msgid ""
 "My lord! This time for sure you will chase off that orcish band, kill all "
 "the orcs, and free my people!"
@@ -8109,37 +8113,37 @@ msgstr ""
 "mataràs tots i alliberaràs la meua gent!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:768
+#: A_New_Order/scenarios/13_Scouting.cfg:795
 msgid "So, should we take on the orcs?"
 msgstr "Doncs, deuríem anar a per els orcs?"
 
 #. [unit]: type=Peasant, id=Matthews Eagle Eye
-#: A_New_Order/scenarios/13_Scouting.cfg:779
+#: A_New_Order/scenarios/13_Scouting.cfg:806
 msgid "Matthews Eagle Eye"
 msgstr "Mateu Ulls de Falcó"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:787
+#: A_New_Order/scenarios/13_Scouting.cfg:814
 msgid "Someone is hiding here!"
 msgstr "Algú s'està amagant ací dins!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:789
+#: A_New_Order/scenarios/13_Scouting.cfg:816
 msgid "Ah! Humans! And Akladians with them?! Still, what good fortune!"
 msgstr "Oh! Humans! I akladians amb ells?! Tant se val, una alegria!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:791
+#: A_New_Order/scenarios/13_Scouting.cfg:818
 msgid "Ah! Humans! And not Akladians! What good fortune!"
 msgstr "Oh! Humans! I sense cap akladià! Quina alegria!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:793
+#: A_New_Order/scenarios/13_Scouting.cfg:820
 msgid "Who are you, and what are you doing here?"
 msgstr "Qui eres, i què hi fas ací?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:794
+#: A_New_Order/scenarios/13_Scouting.cfg:821
 msgid ""
 "The orcs burned down my village, Ruen, and they left not long ago. They took "
 "many prisoners. I was hiding here, waiting for a miracle. And now the "
@@ -8150,7 +8154,7 @@ msgstr ""
 "el miracle s'ha fet realitat!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:795
+#: A_New_Order/scenarios/13_Scouting.cfg:822
 msgid ""
 "Oh my. It's so funny I think I'm gonna die laughing. Gaumhaldric the Miracle-"
 "maker, how about the sound of that?"
@@ -8159,12 +8163,12 @@ msgstr ""
 "cóm et sona?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:796
+#: A_New_Order/scenarios/13_Scouting.cfg:823
 msgid "Miracle? What do you mean?"
 msgstr "Un miracle? Què vols dir?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:797
+#: A_New_Order/scenarios/13_Scouting.cfg:824
 msgid ""
 "You of course will chase that orcish band, kill all the orcs and free my "
 "people!"
@@ -8173,39 +8177,39 @@ msgstr ""
 "meua gent!"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:799
+#: A_New_Order/scenarios/13_Scouting.cfg:826
 msgid "Hm, my lord, do you think we should fullfill this peasant's request?"
 msgstr "Hum, senyor, creus que deuríem complir amb el desig d'aquest camperol?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:806
+#: A_New_Order/scenarios/13_Scouting.cfg:833
 msgid "Well, I hope it's wise decision."
 msgstr "Bé, espere que siga una sàvia decisió."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:807
+#: A_New_Order/scenarios/13_Scouting.cfg:834
 msgid ""
 "Of course it is. We are searching for orcs, and those are orcs, isn't it?"
 msgstr "Clar que ho és. Estem buscant orcs, i éstos són orcs, no?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:810
-#: A_New_Order/scenarios/13_Scouting.cfg:836
+#: A_New_Order/scenarios/13_Scouting.cfg:837
+#: A_New_Order/scenarios/13_Scouting.cfg:863
 msgid "Yes, on other hand maybe we should search elsewhere."
 msgstr "Sí, però també podríem buscar en altra banda."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:821
+#: A_New_Order/scenarios/13_Scouting.cfg:848
 msgid "We already fought with outlaws from Bontom, my lord."
 msgstr "Ja em lluitat amb proscrits de Bontom, senyor."
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:828
+#: A_New_Order/scenarios/13_Scouting.cfg:855
 msgid "So, should we go into Bontom?"
 msgstr "Doncs, anem cap a Bontom?"
 
 #. [event]
-#: A_New_Order/scenarios/13_Scouting.cfg:833
+#: A_New_Order/scenarios/13_Scouting.cfg:860
 msgid "Yes, we should save Reme now."
 msgstr "Sí, salvem ara a Reme!"
 
