@@ -35,7 +35,8 @@ If you enjoyed this campaign, say so. I love comments. Sigil probably loves
 comments. Previous maintainers (Tapik, Typhoon, viorc) also love comments.
 Register at the forum and say you liked it. Discuss your impressions. This
 is our reward for our work. Even if you didn't like it, post your
-opinion too.
+opinion too. Remember, I and others actually *paid* our own money so you could
+enjoy this campaign for free.
 
 If you want to do something more, you can consider:
 * donate the WTactics, we took some GPL images from there.
@@ -62,15 +63,16 @@ If you want to do something more, you can consider:
   If so, then instead donate this money (3-4 euro or 4-5 USD) either to us, or to
   Wesnoth, or to WTactics, or.. whatever. If you donate, we will use this
   money to buy new graphics, not for ourselves. As I have already written,
-  we need about 20-40 USD per portrait or story image. This is not a payment
-  for a campaign; this is to fund new portraits. In other words, this is in
-  order to allow the others enjoy the campaign even more. And we may then
-  decide to create a sequel :)
+  we need about 20-40 USD per portrait or story image (depending on how
+  complicated an image is). This is not a payment for a campaign; this is to
+  fund new portraits. In other words, this is in order to allow the others enjoy
+  the campaign even more. And we may then decide to create a sequel :)
   Use moneybookers or paypal. You have to register, though. The transfer with
   moneybookers costs about 1 euro (0.5 fee by moneybookers, but in my country my
-  bank also charges for transferring to my account in moneybookers);
-  http://www.howtopayonline.org/moneybookers.html. My account is
-  "szopen@europe.com" -- if you made a transfer, you may also consider to
+  bank also charges for transferring to my account in moneybookers); 
+  http://www.howtopayonline.org/moneybookers.html. Paypal charges percentage of
+  the amount, I *think* it is about 5%. My account is "szopen@europe.com" -- if
+  you made a transfer, you may also consider to
   sent a suggestion which portrait should be done next. TODO: Sigil's credit
   card or account here as alternative payment form for a donation?
 
@@ -84,7 +86,8 @@ four portraits. Sigil bought five portraits. I have
 counted how many images ANO needs to make me feel it is REALLY finished in terms
 of graphics, and then how much it would cost me, and the decision is: no way
 (it would take two my full monthly salaries). Current cost of ANO amounts to
-just about 330 euros (more or less, since I pay in PLN, and Sigil paid in dollars).
+just about 330 euros (more or less, since I pay in PLN, and Sigil paid in
+dollars, assuming he paid a bit more for the portraits than I).
 
 SO YOU WANT TO CREATE A SEQUEL?
 -------------------------------
@@ -122,7 +125,7 @@ There is Timeline.txt in scenarios directory. Also, Akladians originally had ric
 back story; however, I lost all my notes on the topic. The initial idea
 was to introduce barbarians into the civilised Wesnoth world. I mean
 barbarians like Huns -- wild, cruel, barbarians despising civilised people. 
-In addition, I hated the ideas, which were in 2005 common, that Wesnoth has no
+In addition, I hated the idea, which was in 2005 a gospel, that Wesnoth has no
 religion.  This was almost mandatory then. I thought it is absurd that there
 would be no culture with religion in Wesnoth world. I am atheist, mind you
 (Turin said that _exactly_ because I am atheist I cannot imagine a world
@@ -181,7 +184,7 @@ find them useful when creating a sequel or whatever.
   influenced by other ideas of honour. But they are emphatically _not_ nice people.
   You wouldn't want them as your neigbours. 
 * They live in clans. Each clan has a lord. Clans are connected by the blood,
-  at least in theory they descend all from one man. Leaders are not choosen,
+  at least in theory they descend all from the one man. Leaders are not choosen,
   they choose themselves (usually by killing those, who refuse to recognise them).
   You cannot be born a leader. Or, to rephrase: only people born to be leaders
   may be leaders, but the only way to prove you were born to be a leader is to
@@ -201,12 +204,12 @@ find them useful when creating a sequel or whatever.
 * Akladians initially had nomadic way of life. They had no settlements lasting 
   more than one season. While at time of ANO they have their villages and castles,
   this is a result of conquest and they fashionably shun the Wesnothian customs,
-  even when they mimick them. When Lorin in first scenario decides to get help
+  even when they mimic them. When Lorin in first scenario decides to get help
   of Wesnothian medic, this is not a casual decision. I'd put there a statement:
   "Medic? But only underlings live there!" to make it clear, but it would make
   scenario too long.
 * While Akladians have elder woman, they have no elder man. Simply, all males
-  fight until they die during fight. At some point they are called to fight
+  fight until they die during a fight. At some point they are called to a fight
   by some younger clansman, who can gather experience that way. If a younger
   Akladian kills an elder during this fight, this does not require a revenge;
   The elder is honoured and mourned (also by the one who killed him). Anyway,

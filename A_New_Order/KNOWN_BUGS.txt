@@ -1,3 +1,9 @@
+in scenario 4 Battle_of_Barnon,
+- a message appears in the log
+Quote:
+error display: could not open image 'terrain/desert_crater.png'
+
+
 6. you can send Lorin and Reme west, and all the rest to the east, but still they are happily reunited in the next scenario.
 
 
