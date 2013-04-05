@@ -31,6 +31,8 @@ Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
 WTactics. Right now I do not remember the details about the author, I will
 try to fix this successively.
 
+Majid, Bor Cryne, akladian_lord, akladian_lord2, hoyre - Łukasz Zaręba
+
 Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
 
 other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
@@ -72,6 +74,8 @@ STORY IMAGES
   portraits from Wesnoth distribution: Elf Landar, Mage, and Footpad (yeah,
   only those three -- the guys in background are just repeated mage pictures).
   Composed by me (A.D.Danilecki)
+* Elven Trackers -- by Santiago Iborra with added public domain photo titled 
+  snow-covered-hillside-with-small-evergreens.jpg
 * Into okladia: the background is a public domain art by Thomas Cole from 1836
   (The oxbow: the connecticut river near northampton). Gawen by Santiago
   Iborra. Akladians by A.D.Danilecki. Put together by A.D.D.
@@ -93,7 +97,7 @@ STORY IMAGES
 * story_barnon: from A to Z by A.D.Danilecki. Created using my own photos,
   which I then rendered with my tablet and modified.
 * ruins of weldyn, ruvio at freetown, story ruvio, story_leftme, story_cametome,
-  fall of freetown: Łukasz Zaręba.
+  fall of freetown, haeltin_defense: Łukasz Zaręba.
   Made especially for ANO :) Story_leftme was slightly retouched (changing colour
   of hair and some little touches to Lorin's face) by me, but those changes are
   almost invisible.

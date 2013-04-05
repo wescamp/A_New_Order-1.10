@@ -98,7 +98,7 @@ In Siege of Haeltin I have usually four 3rd level loyal Akladian troops. Sometim
 The scenarios, which I designed to be hard:
 
 04 Battle of Barnon
-09 Hired Swords (no longer hard in 1.2.7; it's walkover with proper game now,
+09 Hired Swords (no longer hard in 1.2.7; it's a walkover with proper tactics now,
    will be changed in the future)
 10 Siege of Haeltin (09 and 10 were dubbed "Lorin's wars" by one player. See
    also remark above)

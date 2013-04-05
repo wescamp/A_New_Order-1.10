@@ -82,12 +82,14 @@ obliged to do any of this. Saying you like it is enough to make us happy :) :)
 they like my work :D A.D.D). 
 
 I won't be buying more images for sure; I have commissioned six story images and
-four portraits. Sigil bought five portraits. I have
-counted how many images ANO needs to make me feel it is REALLY finished in terms
-of graphics, and then how much it would cost me, and the decision is: no way
-(it would take two my full monthly salaries). Current cost of ANO amounts to
-just about 330 euros (more or less, since I pay in PLN, and Sigil paid in
-dollars, assuming he paid a bit more for the portraits than I).
+five portraits. Sigil bought five portraits. One story images and two portraits
+were commissioned by three other players (tr0ll, wussel, alhaz ).
+I have counted how many images ANO needs to make me feel it is REALLY finished
+in terms of graphics, and then how much it would cost me, and the decision is:
+no way (it would take my full two month salaries). Current cost of ANO
+amounts to just about 350 euros (more or less, since I pay in PLN, and Sigil
+paid in dollars but he never told me how much he spent, so I assume here that
+he paid just a little bit more for the portraits than I).
 
 SO YOU WANT TO CREATE A SEQUEL?
 -------------------------------
@@ -133,8 +135,8 @@ without a religion :-) ).
 
 Initially one player said the story is similar to the Dune; I've read the Dune,
 but if I was influenced, it was subconscious. Later I have introduced
-three references to Dune within the campaign. You should have no troubles to
-find them :) ... but actually only two are left now, once Sigil removed
+three references to Dune within the campaign. You should have no trouble with
+finding them :) ... but actually only two are left now, once Sigil removed
 Aragwaithi. The "sietches" (settlements of Aragwaithi) name was taken from
 Dune.
 
@@ -168,7 +170,7 @@ find them useful when creating a sequel or whatever.
   sophisticated enough to think about God as about something else than being
   similar to their own lords (only somewhat more powerful).
 * Akladians believe in afterlife (In the beginning in 2005, I think no faction 
-  had any beliefs or religions, so it was quite unusual then, except UtBS).
+  had any beliefs or religions, so it was quite unusual then, except maybe UtBS).
   They believe afterlife is the same as on the earth: they will fight there,
   drink, plunder etc.  They can also die in afterlife, but they will be reborn
   the next day. People who lose their hands, eyes, or anything, will lose
@@ -277,7 +279,9 @@ Westlund, Aleksi, Hiro Hito, Tyler Johnson. See ART_authors.txt for the details.
 
 Kudos to testers: Turuk, t3st3r, and others.
 
-Beginning with Wesnoth 1.9 (ANO v. 1.2.x), ANO is maintained by Spencer Cooley 'TheSigil'
+Currently, ANO is maintained by the original author, that is me: A.D. "szopen"
+Danilecki
+Beginning with Wesnoth 1.9 (ANO v. 1.2.x), ANO was maintained by Spencer Cooley 'TheSigil'
 Before, ANO was maintained by Oto 'tapik' Buchta
 From 1.4 to the ?? (v 0.9.9 to current), ANO was maintained by Typhoon
 Rhishisikk (Micheal P. Kochis)
