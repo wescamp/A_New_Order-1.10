@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-26 22:33-0500\n"
+"POT-Creation-Date: 2013-04-05 15:07-0400\n"
 "PO-Revision-Date: 2012-03-29 17:45+0200\n"
 "Last-Translator: Arkadiusz D. Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -156,193 +156,193 @@ msgid "Some old akladian sprites"
 msgstr ""
 
 #. [about]
-#: A_New_Order/about.cfg:68
+#: A_New_Order/about.cfg:69
 msgid "Music"
 msgstr "Muzyka"
 
 #. [about]
-#: A_New_Order/about.cfg:101
+#: A_New_Order/about.cfg:102
 msgid "Translations"
 msgstr "Tłumaczenia"
 
 #. [about]
-#: A_New_Order/about.cfg:102
+#: A_New_Order/about.cfg:103
 msgid "(from WesCamp-i18n)"
 msgstr "(z WesCamp-i18n)"
 
 #. [entry]
-#: A_New_Order/about.cfg:104
+#: A_New_Order/about.cfg:105
 msgid " British (en_gb) translation:"
 msgstr "Tłumaczenie angielskie (brytyjskie):"
 
 #. [entry]
-#: A_New_Order/about.cfg:107
+#: A_New_Order/about.cfg:108
 msgid "Catalonian translation:"
 msgstr "Tłumaczenie katalońskie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:110
+#: A_New_Order/about.cfg:111
 msgid "Czech translation:"
 msgstr "Tłumaczenie czeskie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:113
+#: A_New_Order/about.cfg:114
 msgid "Danish translation:"
 msgstr "Duńskie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:116
+#: A_New_Order/about.cfg:117
 msgid "French translation:"
 msgstr "Francuskie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:119
+#: A_New_Order/about.cfg:120
 #, fuzzy
 msgid "Previous version of french translation:"
 msgstr "Francuskie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:122
+#: A_New_Order/about.cfg:123
 msgid "German translation:"
 msgstr "Niemieckie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:125
+#: A_New_Order/about.cfg:126
 msgid "Italian translation:"
 msgstr "Włoskie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:128
+#: A_New_Order/about.cfg:129
 msgid "Polish translation:"
 msgstr "Polskie tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:131
+#: A_New_Order/about.cfg:132
 msgid "Russian translation:"
 msgstr "Rosyjskie Tłumaczenie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:134
+#: A_New_Order/about.cfg:135
 msgid "Spanish translation:"
 msgstr "Tłumaczenie hiszpańskie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:137
+#: A_New_Order/about.cfg:138
 msgid "Swedish translation:"
 msgstr "Tłumaczenie szwedzkie:"
 
 #. [entry]
-#: A_New_Order/about.cfg:140
+#: A_New_Order/about.cfg:141
 msgid "Turkish translation:"
 msgstr "Tłumaczenie tureckie:"
 
 #. [about]
-#: A_New_Order/about.cfg:144
+#: A_New_Order/about.cfg:145
 msgid "Additional thanks to"
 msgstr "Dodatkowe podziękowania dla"
 
 #. [entry]
-#: A_New_Order/about.cfg:147
+#: A_New_Order/about.cfg:148
 msgid "sprites for Aragwaithi and corrections of Akladian sprites"
 msgstr "spite'y dla Aragwaithi i poprawki sprite'ow Akladyjczyków"
 
 #. [entry]
-#: A_New_Order/about.cfg:151
+#: A_New_Order/about.cfg:152
 msgid "team coloring for all sprites"
 msgstr "kolorowanie zespołów dla sprite'ów"
 
 #. [entry]
-#: A_New_Order/about.cfg:155
+#: A_New_Order/about.cfg:156
 msgid "bug reports, english errors corrections"
 msgstr "raporty o błędach, poprawki angielskiego"
 
 #. [entry]
-#: A_New_Order/about.cfg:159
+#: A_New_Order/about.cfg:160
 msgid "bug reports, English corrections"
 msgstr "raporty o błędach, poprawki angielskiego"
 
 #. [entry]
-#: A_New_Order/about.cfg:163
+#: A_New_Order/about.cfg:164
 msgid "Outlaw level 3 pack is maintained by them."
 msgstr "Zarządzają pakietem Outlaws"
 
 #. [entry]
-#: A_New_Order/about.cfg:167
+#: A_New_Order/about.cfg:168
 msgid "for patience and explaining how wescamp works"
 msgstr "za cierpliwość i wyjaśnianie, jak działa WesCamp"
 
 #. [entry]
-#: A_New_Order/about.cfg:171
+#: A_New_Order/about.cfg:172
 msgid "for art advises"
 msgstr "za porady w ilustracjach"
 
 #. [entry]
-#: A_New_Order/about.cfg:175
+#: A_New_Order/about.cfg:176
 msgid "for hints on wml and unit stats"
 msgstr "za porady w WML i statystykach jednostek"
 
 #. [entry]
-#: A_New_Order/about.cfg:179
+#: A_New_Order/about.cfg:180
 #, fuzzy
 msgid "for work on Akladian unit stats"
 msgstr "za porady w WML i statystykach jednostek"
 
 #. [entry]
-#: A_New_Order/about.cfg:183
+#: A_New_Order/about.cfg:184
 msgid "Caring for the art for 1.1.98 versions"
 msgstr "Zadbał o ilustracje i portrety dla wersji 1.1.98"
 
 #. [entry]
-#: A_New_Order/about.cfg:186
+#: A_New_Order/about.cfg:187
 msgid "all others from the wesnoth forums"
 msgstr "wszyscy z forum Wesnoth"
 
 #. [about]
-#: A_New_Order/about.cfg:191
+#: A_New_Order/about.cfg:192
 #, fuzzy
 msgid "Campaign funding"
 msgstr "Utrzymywanie kampanii"
 
 #. [about]
-#: A_New_Order/about.cfg:207
+#: A_New_Order/about.cfg:211
 msgid "Additional information may be found within readme.txt file"
 msgstr "Dodatkowe informacje można znaleźć w pliku readme.txt"
 
 #. [about]
-#: A_New_Order/about.cfg:210
+#: A_New_Order/about.cfg:214
 msgid "I can't believe you actually read this thing"
 msgstr "Nie chce mi się wierzyć, że naprawdę jeszcze to czytasz"
 
 #. [about]
-#: A_New_Order/about.cfg:213
+#: A_New_Order/about.cfg:217
 msgid "Darth Vader"
 msgstr "Darth Vader"
 
 #. [entry]
 #. please translate Skywalker literally (as "sky-walker")
-#: A_New_Order/about.cfg:216
+#: A_New_Order/about.cfg:220
 msgid "Father or Luke Skywalker"
 msgstr "Ojciec Łukasza Gwiazdołaza"
 
 #. [about]
 #. Żwirek i Muchomorek are from Czech movie for children. You are free to replace them with characters from favourite foreign movie for children in your country
-#: A_New_Order/about.cfg:221
+#: A_New_Order/about.cfg:225
 msgid "Żwirek i Muchomorek"
 msgstr "Żwirek i Muchomorek"
 
 #. [entry]
-#: A_New_Order/about.cfg:223
+#: A_New_Order/about.cfg:227
 msgid "Famous Czech gay actors"
 msgstr "Sławni czescy aktorzy porno"
 
 #. [about]
 #. Polish president, he can't spell. Famous for dozens of idiotic sentences and sayings. you are free to replace him with some politician from your country
-#: A_New_Order/about.cfg:228
+#: A_New_Order/about.cfg:232
 msgid "Bronisław Komorowski"
 msgstr "Bronisław hrabia Komorowski"
 
 #. [entry]
-#: A_New_Order/about.cfg:230
+#: A_New_Order/about.cfg:234
 msgid ""
 "The living proof that you may not know how to spell and still be president"
 msgstr ""
@@ -1007,7 +1007,7 @@ msgstr ""
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:72
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:28
 #: A_New_Order/scenarios/11_Council_in_Freetown.cfg:30
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:72
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:73
 #: A_New_Order/scenarios/13_Scouting.cfg:281
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:48
 #: A_New_Order/scenarios/14b_Bontom.cfg:135
@@ -1050,7 +1050,7 @@ msgstr "Gawen Hagarthen"
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:167
 #: A_New_Order/scenarios/06_Separation.cfg:54
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:114
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:71
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:72
 msgid "Lady Lorin"
 msgstr "Pani Lorin"
 
@@ -1270,7 +1270,7 @@ msgstr "Osiągnij nieprzyjacielską fortecę Gawenem"
 #: A_New_Order/scenarios/04_Battle_of_Barnon.cfg:292
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:303
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:166
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:195
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:196
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:90
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:336
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:151
@@ -1296,7 +1296,7 @@ msgstr "Śmierć Gawena Hagarthena"
 #: A_New_Order/scenarios/05_The_Swamp_Things.cfg:234
 #: A_New_Order/scenarios/05_Unexpected_Guests.cfg:239
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:215
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:228
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:229
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:344
 #: A_New_Order/scenarios/19c_The_Oracle.cfg:1354
 #: A_New_Order/scenarios/21a_Abducted_Bride.cfg:276
@@ -4009,7 +4009,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:307
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:170
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:203
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:204
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:86
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:340
 #: A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:155
@@ -4029,7 +4029,7 @@ msgstr "Śmierć Ruvia"
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/07_Ally_From_the_Past.cfg:311
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:174
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:199
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:200
 #: A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:94
 #: A_New_Order/scenarios/ano-14macros.cfg:12
 msgid "Death of Karen"
@@ -4880,14 +4880,14 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:207
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:191
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:192
 #: A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:332
 msgid "Kill all enemy leaders."
 msgstr "Zabij wszystkich wrogich przywódców."
 
 #. [objective]: condition=lose
 #: A_New_Order/scenarios/09_Hired_Swords.cfg:211
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:224
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:225
 msgid "Death of Majid Yahyazad"
 msgstr "Śmierć Majida Yahyazada"
 
@@ -5481,22 +5481,22 @@ msgstr ""
 "Albo, jakby chciała być zbyć zmęczona, by mieć czas na wspomnienia."
 
 #. [side]: type=Akladian Chieftain, id=Raole Mathauri
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:87
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:88
 msgid "Raole Mathauri"
 msgstr "Raole Mathauri"
 
 #. [side]: id=Erart, type=Troll Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:98
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:99
 msgid "Erart"
 msgstr "Erart"
 
 #. [side]: id=Yarl Urluf, type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:113
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:114
 msgid "Yarl Urluf"
 msgstr "Yarl Urluf"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:147
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:148
 msgid ""
 "My Lady, the defenses are ready. I ordered a moat dug out in the north, we "
 "also put some new fortifications in place, but they are not finished."
@@ -5506,7 +5506,7 @@ msgstr ""
 "ukończone."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:148
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:149
 msgid ""
 "We have no time to finish it. Their armies are already upon us. Faster, move "
 "the supplies to the hideout in mountains, so even if they reach the keep "
@@ -5516,49 +5516,49 @@ msgstr ""
 "by nie znaleźli nic, nawet jeżeli zdobędą twierdzę."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:149
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:150
 msgid ""
 "Where is the promised food? Where are the rooms to rest? Answer me, human!"
 msgstr ""
 "Gdzie obiecane jadło? Gdzie miejsca na spoczynek? Odpowiedz, człowieczku!"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:150
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:151
 msgid "Brother! Where are you? Why do you keep gates of Haeltin closed?"
 msgstr "Bracie! Gdzieżeś jest? Czemuż zawarte są wrota Haeltin?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:151
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:152
 msgid "Your brother is dead, and soon you will be too!."
 msgstr "Brat wasz martwym jest, jak i wy wkrótce będziecie."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:152
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:153
 msgid "Dead? How is that possible? Who killed him?"
 msgstr "Martwy? Jak to możliwe? Kto go zabił?"
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:159
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:160
 msgid "He was slain by my hand."
 msgstr "Z mojej ręki padł."
 
 #. [else]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:162
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:163
 msgid "Does it matter? He is dead now."
 msgstr "Jakie ma to znaczenie? Jest martwy."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:165
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:166
 msgid "My brother! No! Witch, you will answer for that! I will burn you alive!"
 msgstr "Mój brat?! Nie! Odpowiesz za to, ty wiedźmo! Spalę cię żywcem!"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:166
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:167
 msgid "Come and try it."
 msgstr "Przyjdź i spróbuj."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:167
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:168
 msgid ""
 "Enough of this chit-chat! We are out of supplies and we are hungry. "
 "Soldiers! Your food is inside that castle. Get them!"
@@ -5567,7 +5567,7 @@ msgstr ""
 "Żołnierze! Wasze jedzenie czeka w tym zamku! Brać ich!"
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:173
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:174
 msgid ""
 "We really should sacrifice an ox to God. There are so many of them; without "
 "God's help we won't be able to defeat them."
@@ -5576,7 +5576,7 @@ msgstr ""
 "nie damy rady ich pokonać."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:176
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:177
 msgid ""
 "We do not need to rout them. They are not prepared for a long siege, so all "
 "we need to do is simply survive the initial onslaught. If we can do that, "
@@ -5587,7 +5587,7 @@ msgstr ""
 "musieli się wycofać, ze względu na brak prowiantu."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:177
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:178
 msgid ""
 "Lady Lorin, I am aware of your habit of interrogating enemy leaders. Please, "
 "take my advice... if you feel you must interrogate the leaders, ignore the "
@@ -5599,7 +5599,7 @@ msgstr ""
 "odpowiedzi."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:178
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:179
 msgid ""
 "Looks like the last of the supplies have been moved to the mountains. Now "
 "even if they break into the castle, they still will have no food."
@@ -5608,7 +5608,7 @@ msgstr ""
 "zdobędą żywności."
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:189
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:190
 msgid ""
 "We have less than 300 golden pieces. Are you sure we will be able to survive "
 "the enemy onslaught with so little?"
@@ -5617,7 +5617,7 @@ msgstr ""
 "radę przetrzymać napór wroga?"
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:216
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:217
 #: A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:6
 #: A_New_Order/scenarios/14b_Bontom.cfg:353
 #: A_New_Order/scenarios/14b_Bontom.cfg:368
@@ -5625,27 +5625,27 @@ msgid "HEROIC: Kill all enemy leaders OR"
 msgstr "Bohatersko: Zabij wszystkich wrogich przywódców ALBO"
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:220
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:221
 msgid "NORMAL: Survive to the end of turn limit."
 msgstr "ZWYKLE: Przetrwaj do końca limitu tur."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:246
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:247
 msgid "A woman... a woman has killed me... what a disgrace.."
 msgstr "Kobieta.. Kobieta mnie zabiła... Co za hańba..."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:256
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:257
 msgid "Gaaarrr.. Aaargh..."
 msgstr "Gaaarrr.. Aaargh..."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:261
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:262
 msgid "What did he say?"
 msgstr "Co on tam powiedział?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:262
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:263
 msgid ""
 "I'm sure it was Orcish for 'a human woman has killed me, what a dishonor' or "
 "something like that."
@@ -5654,12 +5654,12 @@ msgstr ""
 "albo coś w tym rodzaju."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:272
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:273
 msgid "What are you waiting for? Come on, finish me, witch."
 msgstr "No, na co czekasz? Dalej, wykończ mnie, wiedźmo."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:273
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:274
 msgid ""
 "Ah, my kind of man. Strong and fearless even in the face of death. Do you "
 "see this knife? I call it Truth-Sayer. I use it to find out just how "
@@ -5670,18 +5670,18 @@ msgstr ""
 "sprawdzania, jak bardzo nieustraszony może być mężczyzna w moich rękach."
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:280
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:281
 msgid "We will see how fearless you will be when the rest of our army arrives."
 msgstr ""
 "Zobaczymy jaka ty będziesz nieustraszona gdy nadejdzie reszta naszej armii."
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:281
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:282
 msgid "The 'rest of' your army? Interesting."
 msgstr "Reszta waszej armii? Interesujące."
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:282
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:283
 msgid ""
 "They were two days' march behind us. They will appear from the north and "
 "smash what is left of your so-called castle."
@@ -5690,12 +5690,12 @@ msgstr ""
 "tego czasu pozostanie z tego twojego zameczku."
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:291
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:292
 msgid "What Orcs are doing here anyway, and why are they allied with you?"
 msgstr "Ale co właściwie robią tu orki, na dodatek w przymierzu z tobą?"
 
 #. [then]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:292
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:293
 msgid ""
 "They will help us purify our race. We will go and kill every one who is "
 "unworthy of being Akladian. Those who violated our customs, who are friends "
@@ -5710,98 +5710,98 @@ msgstr ""
 "Wesnoth i całego świata."
 
 #. [unit]: id=Ouruk, type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:326
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:327
 msgid "Ouruk"
 msgstr "Ouruk"
 
 #. [unit]: id=Raurlak, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:335
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:336
 msgid "Raurlak"
 msgstr "Raurlak"
 
 #. [unit]: id=Burlak, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:343
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:344
 msgid "Burlak"
 msgstr "Burlak"
 
 #. [unit]: id=Hrar, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:351
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:352
 msgid "Hrar"
 msgstr "Hrar"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:358
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:359
 msgid "Finally, food, wine and some rest! Hey, what's happening here?"
 msgstr ""
 "Wreszcie, jedzenie, wino i odpoczynek! Zaraz, co tu się u diabła dzieje?!"
 
 #. [unit]: id=Buriag, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:372
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:373
 msgid "Buriag"
 msgstr "Buriag"
 
 #. [unit]: id=Uriag, type=Orcish Warrior
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:380
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:381
 msgid "Uriag"
 msgstr "Uriag"
 
 #. [unit]: id=Gor, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:388
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:389
 msgid "Gor"
 msgstr "Gor"
 
 #. [unit]: id=Kaur'ue, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:396
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:397
 msgid "Kaur'ue"
 msgstr "Kaur'ue"
 
 #. [unit]: id=Burik, type=Orcish Archer
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:415
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:416
 msgid "Burik"
 msgstr "Burik"
 
 #. [unit]: id=Uruke, type=Orcish Crossbowman
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:423
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:424
 msgid "Uruke"
 msgstr "Uruke"
 
 #. [unit]: id=Gur, type=Orcish Shaman
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:431
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:432
 msgid "Gur"
 msgstr "Gur"
 
 #. [unit]: id=Kapi'ue, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:439
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:440
 msgid "Kapi'ue"
 msgstr "Kapi'ue"
 
 #. [unit]: id=Baral, type=Orcish Grunt
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:458
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:459
 msgid "Baral"
 msgstr "Baral"
 
 #. [unit]: id=Iruki, type=Orcish Grunt
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:466
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:467
 msgid "Iruki"
 msgstr "Iruki"
 
 #. [unit]: id=Gari, type=Orcish Assassin
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:474
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:475
 msgid "Gari"
 msgstr "Gari"
 
 #. [unit]: id=Rarg, type=Wolf Rider
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:482
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:483
 msgid "Rarg"
 msgstr "Rarg"
 
 #. [message]: type=Akladian Clansman,Akladian Wiseman,Akladian Holyman,Akladian Warrior,Akladian Raider,Akladian Homeguard,Akladian Light Infantry,Akladian Fastfoot,Akladian Pikeneer,Akladian Shieldguard,Akladian Protector,Akladian Sturmknight,Akladian Darknite
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:501
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:502
 msgid "Run for your life! They are too many of them!!"
 msgstr "Ratuj się kto może! Jest ich zbyt wielu!"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:503
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:504
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
 "will surely have to withdraw soon!"
@@ -5810,19 +5810,19 @@ msgstr ""
 "Już niedługo będą musieli się wycofać!"
 
 #. [message]: type=Orcish Warlord
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:509
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:510
 msgid ""
 "We have no more supplies... we have to withdraw! We will return, she-wolf!"
 msgstr ""
 "Nie mamy już zapasów. Musimy się wycofać! Jeszcze tu wrócimy, wilczyco."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:523
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:524
 msgid "Well fought, men! The enemy is withdrawing! They have no more supplies!"
 msgstr "Dobra robota, chłopaki! Wycofują się! Nie mają więcej zapasów."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:538
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:539
 msgid ""
 "This was an incredibly difficult ordeal. I felt sure this would be my final "
 "battle."
@@ -5831,7 +5831,7 @@ msgstr ""
 "mojego życia."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:539
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:540
 msgid ""
 "Lorin, have you heard what our people are calling you? A she-wolf. The She-"
 "Wolf of Haeltin."
@@ -5839,7 +5839,7 @@ msgstr ""
 "Lorin, słyszałaś jak nasi ludzie cię nazywają? Wilczyca. Wilczyca z Haeltin."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:540
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:541
 msgid ""
 "LADY Lorin. Why would I want to be called a She-Wolf? Do they expect me to "
 "howl or something?"
@@ -5848,7 +5848,7 @@ msgstr ""
 "księżyca albo coś w tym rodzaju?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:541
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:542
 msgid ""
 "Lorin, you are an able commander, a strong warrior, and have a lovely... "
 "tactical mind. If you are a wolf, it would be quite the feat for a man to "
@@ -5859,7 +5859,7 @@ msgstr ""
 "mężczyzny by było ciebie okiełznać.. mam zamiar spróbować."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:542
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:543
 msgid ""
 "Listen underling, I am not an animal to be tamed or a prize to be won. The "
 "only thing which stays my hand from snuffing out your life after hearing "
@@ -5873,7 +5873,7 @@ msgstr ""
 "cierpliwości, więc.."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:543
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:544
 msgid ""
 "I am no fool, Lorin. I understand that you suffer my presence now only of "
 "necessity. But perhaps there will come a time when you no longer suffer my "
@@ -5884,7 +5884,7 @@ msgstr ""
 "będziesz nie z konieczności, ale z własnej woli?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:544
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:545
 msgid ""
 "You may not see it, but you are a fool. An honorable fool, but a fool "
 "nonetheless."
@@ -5893,12 +5893,12 @@ msgstr ""
 "honoru, ale jednak głupcem."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:545
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:546
 msgid "What do you mean?"
 msgstr "Co masz na myśli?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:546
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:547
 msgid ""
 "First of all, you forgot to say 'one more reference to underling and I'm "
 "leaving'. Look, Yahyazad, I am many things, but I am not blind. I've noticed "
@@ -5914,7 +5914,7 @@ msgstr ""
 "pogardę. Ale to..."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:547
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:548
 msgid ""
 "...all of the worst emotions of a true warrior, and yet none of the worthy "
 "ones... the true warrior fights not for fear or for hate, but for love."
@@ -5924,7 +5924,7 @@ msgstr ""
 "ze strachu, nie dla nienawiści, lecz dla miłości."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:549
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:550
 #, fuzzy
 msgid ""
 "For love?! You really believe that?! You can't be serious. You speak like... "
@@ -5934,7 +5934,7 @@ msgstr ""
 "specjalne słowo na takich ludzi jak ty... zaraz.. Pojeta?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:550
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:551
 msgid ""
 "I am serious. And I think you meant to say 'poet'. So you think I speak like "
 "a poet? Thank you."
@@ -5943,7 +5943,7 @@ msgstr ""
 "mnie za poetę? Dziękuję."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:551
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:552
 #, fuzzy
 msgid ""
 "That was not a compliment. A 'poet' is just a fancy word for 'idiot'. You "
@@ -5955,7 +5955,7 @@ msgstr ""
 "wam nie było brak."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:552
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:553
 msgid ""
 "Listen to me carefully. I know now what you are thinking. Do not have any "
 "hope. Do not try ANYTHING. First, I am an Akladian and you are not. Second, "
@@ -5970,7 +5970,7 @@ msgstr ""
 "znasz. "
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:553
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:554
 msgid ""
 "Let us suppose, for a moment, I submit to your wishes and cast these "
 "thoughts from my mind. What do we do going forward? Armies are still out "
@@ -5981,7 +5981,7 @@ msgstr ""
 "losy, jak na razie, są dalej związane na dobre i złe."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:554
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:555
 msgid ""
 "Let's make a deal: I will not call you 'underling,' and you may call me "
 "'Lady Lorin.' Agreed?"
@@ -5990,7 +5990,7 @@ msgstr ""
 "zwracał się per 'pani Lorin'. Zgoda?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:555
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:556
 msgid ""
 "'Lady Lorin' it is then. But if you will not call me 'underling' you must "
 "call me something. If you like, you may simply call me 'Majid.' "
@@ -6000,7 +6000,7 @@ msgstr ""
 "do mnie.. Majid?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:556
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:557
 msgid ""
 "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
@@ -6008,17 +6008,17 @@ msgstr ""
 "sprawdzę naszych rannych."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:639
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:640
 msgid "My soldiers! That bastard is killing my soldiers!"
 msgstr "Moi żołnierze! Ten łajdak zabija moich żołnierzy!"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:640
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:641
 msgid "I never knew you cared so much for your warriors."
 msgstr "Nigdy nie widziałem u ciebie takiej troski o swoich wojowników."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:641
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:642
 msgid ""
 "I always care for my people... besides, you have no idea how difficult it "
 "was to train them."
@@ -6027,22 +6027,22 @@ msgstr ""
 "wytrenować."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:645
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:646
 msgid "Lorin, what are you doing?"
 msgstr "Lorin, co ty wyprawiasz?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:646
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:647
 msgid "Maybe we could try to withdraw to the mountains?"
 msgstr "Może moglibyśmy się wycofać w góry?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:647
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:648
 msgid "Wait a moment. Are you running away?"
 msgstr "Czekaj, zaraz. Czy ty.. uciekasz?"
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:648
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:649
 msgid ""
 "The correct term is strategical relocation of the forces, impertinent "
 "underling."
@@ -6050,7 +6050,7 @@ msgstr ""
 "Bardziej prawidłowy termin to strategiczna relokacja sił, bezczelny pariasie."
 
 #. [event]
-#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:649
+#: A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:650
 msgid "One more reference to underling... ah, what the hey..."
 msgstr "Jeszcze raz mnie nazwiesz pariasem... A do diabła z tym."
 
@@ -6596,7 +6596,7 @@ msgstr ""
 "zaprezentować swoje umiejętności wyszukiwały najlepsze ścieżki w lesie."
 
 #. [part]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:54
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:55
 msgid ""
 "Akladians hated woods, passionately, Gawen was told. Yet they had "
 "established an outpost at the edge of Raedwood to protect their settlements "
@@ -6609,17 +6609,17 @@ msgstr ""
 "przemknęła by się między nimi bez problemu, ale armia Gawena nie była mała."
 
 #. [side]: id=Quivre O Raedbor, type=Akladian Lord
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:83
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:84
 msgid "Quivre O Raedbor"
 msgstr "Quivre O Raedbor"
 
 #. [side]: id=Hoyre Ramenari, type=Akladian Lord
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:106
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:107
 msgid "Hoyre Ramenari"
 msgstr "Hojre Ramenari"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:144
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:145
 msgid ""
 "So, what now? I appreciate that you are calling me your commander, but the "
 "truth is that I have no idea what to do next."
@@ -6628,7 +6628,7 @@ msgstr ""
 "nie mam pojęcia co dalej."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:145
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:146
 msgid ""
 "That's what advisors are for. Right now, we have to leave the forests. Then "
 "we need to find the orcs, catch their leaders and that's it."
@@ -6637,7 +6637,7 @@ msgstr ""
 "orki i schwytać przywódców. Wszystko."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:157
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:158
 msgid ""
 "I didn't feel we had enough gold to accomplish the task ahead of us. So, I "
 "asked the others from the council of Freetown for help and they agreed. We "
@@ -6648,17 +6648,17 @@ msgstr ""
 "teraz 200 sztuk złota."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:165
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:166
 msgid "Karen! What are you doing here!?"
 msgstr "Karen! Co ty tu robisz!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:166
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:167
 msgid "I apologise, my lord. I was not able to stop her."
 msgstr "Wybaczcie mi, panie. Nie byłem w stanie jej powstrzymać."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:167
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:168
 msgid ""
 "I'm sorry father. I just couldn't miss the opportunity to see our great "
 "future king do great heroic things... the kind of things great future kings "
@@ -6670,22 +6670,22 @@ msgstr ""
 "nic przeciwko temu Gaumhaldric, prawda?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:168
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:169
 msgid "Karen, I ... "
 msgstr "Karen, ja... "
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:169
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:170
 msgid "I know. I heard you in the council. You hate me."
 msgstr "Wiem. Słyszałam podczas narady. Nienawidzisz mnie."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:170
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:171
 msgid "Future king? What is she talking about?"
 msgstr "Przyszły król? O czym ona mówi?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:171
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:172
 msgid ""
 "You didn't know? Your true mother was from a long line of kings. The last of "
 "her branch. You are the true heir to the throne of Wesnoth."
@@ -6694,7 +6694,7 @@ msgstr ""
 "Ostatnią z tej gałęzi rodu. Jesteś prawdziwym następcą tronu Wesnoth."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:172
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:173
 msgid ""
 "Along with your cousins from other branches, of course. They are all true "
 "heirs to the throne of Wesnoth"
@@ -6703,18 +6703,18 @@ msgstr ""
 "też są prawdziwymi następcami tronu Wesnoth."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:173
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:174
 msgid "What? Ruvio, I don't want to be king."
 msgstr "Co? Ruvio, ja nie chcę być królem."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:174
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:175
 msgid "You really don't have a choice. This is your birthright, your destiny."
 msgstr ""
 "Nie masz wyboru. To twoje prawo od samego urodzenia, to twoje przeznaczenie."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:175
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:176
 msgid ""
 "No, really, I don't want to! Besides, if there are other heirs, why me? What "
 "would I have to do to those other cousins, if they didn't recognise me as "
@@ -6724,7 +6724,7 @@ msgstr ""
 "miałbym zrobić z tymi wszystkimi kuzynami, gdyby nie uznali we mnie króla?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:176
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:177
 msgid ""
 "Why, you would have to fight with and kill them. That's kind a family "
 "tradition. Didn't your mother teach you anything?"
@@ -6733,7 +6733,7 @@ msgstr ""
 "tradycja. Twoja matka ci o tym nie mówiła?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:177
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:178
 msgid ""
 "No! I don't want to do that! I only want peace. I don't want to start civil "
 "wars, or fight for any throne. No! Let's not talk about it again."
@@ -6742,7 +6742,7 @@ msgstr ""
 "żadne trony. Nie, i więcej o tym już nie mówmy."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:178
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:179
 msgid ""
 "There will come time when we'll have to talk about it again. But we can "
 "leave it for now. Right now, we should focus on how we will get through the "
@@ -6752,7 +6752,7 @@ msgstr ""
 "przedostać się przez linie Akladian."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:179
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:180
 msgid ""
 "If I may make a suggestion, my lord... we are here to gather news, but I "
 "don't think interrogating the eastern enemy leader would help us much. He "
@@ -6763,7 +6763,7 @@ msgstr ""
 "Nie wygląda na dość ważnego. Ten drugi natomiast..."
 
 #. [objectives]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:183
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:184
 msgid ""
 "In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
 "it will make no difference.\n"
@@ -6776,12 +6776,12 @@ msgstr ""
 "Przesuń Ruvia do drogowskazu, by poprosić go o radę."
 
 #. [objective]: condition=win
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:187
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:188
 msgid "Move Gawen to southern edge of the map OR"
 msgstr "Przesuń Gawena do południowej części mapy ALBO"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:232
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:233
 msgid ""
 "Uhmmm.. I should interrogate him, right? So... uh... what did you eat for "
 "breakfast?"
@@ -6790,47 +6790,47 @@ msgstr ""
 "jadłeś dziś na śniadanie?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:233
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:234
 msgid "What ?!?"
 msgstr "Że co ?!?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:234
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:235
 msgid "Oh, never mind."
 msgstr "Eee.. nieważne."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:235
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:236
 msgid "Wait, don't kill him!"
 msgstr "Czekaj, nie zabijaj go!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:236
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:237
 msgid "He's already dying. I don't think he can be of any more help to us."
 msgstr "On już kona. Nie sądzę, by nas słyszał."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:270
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:271
 msgid "Just as I've told you, I rarely miss!"
 msgstr "Tak jak wam mówiłam, rzadko kiedy chybiam!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:278
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:279
 msgid "What the... elves!"
 msgstr "Co u.. Elfy!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:286
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:287
 msgid "Eeek! Elves! The green devils are here!"
 msgstr "Ajaj! Elfy! Zielone diabły są tutaj!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:291
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:292
 msgid "We fought our way out of forest. What now?"
 msgstr "Wywalczyliśmy sobie drogę poza te lasy. Co teraz?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:292
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:293
 msgid ""
 "Now Gaumhaldric the Great will accomplish all those amazing deeds that will "
 "cause bards to sing about him in the future!"
@@ -6839,18 +6839,18 @@ msgstr ""
 "zwyciężającego wrogów w epickiej walce, opiewanej po wsze czasy przez bardów!"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:293
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:294
 msgid "Ruvio, would you please send her back home?"
 msgstr "Ruvio, czy mógłbyś odesłać ją do domu?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:294
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:295
 msgid ""
 "Stop it, kids. We've got to keep moving. We have a mission to accomplish."
 msgstr "Przestańcie, dzieciaki. Musimy iść. Mamy misję do wypełnienia."
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:295
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:296
 msgid ""
 "A GREAT mission. Hey, Gaumhaldric, I think I just came up with a song about "
 "this. Do you want to hear it?"
@@ -6859,7 +6859,7 @@ msgstr ""
 "na ten temat. Chciałbyś jej posłuchać?"
 
 #. [event]
-#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:300
+#: A_New_Order/scenarios/12_Leaving_Raedwood.cfg:301
 msgid ""
 "If you want my advice, I think you may want to use our elves. Six elves "
 "should be able to hold off the eastern leader on their own, especially using "
