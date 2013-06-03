@@ -31,9 +31,9 @@ Regven, Kyobaine, peasant1, -- they were taken either from Wesnoth, or
 WTactics. Right now I do not remember the details about the author, I will
 try to fix this successively.
 
-Majid, Bor Cryne, akladian_lord, akladian_lord2, hoyre - Łukasz Zaręba
+Majid, Bor Cryne, akladian_lord, akladian_lord2, hoyre, Grekulak - Łukasz Zaręba
 
-Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
+The previous version of Grekulak: "Fluffy!!!" <crowbar.assassin@gmail.com>
 
 other were made by me (A.D.Danilecki). In general, if a portrait is ugly, most
 likely I did it :)
