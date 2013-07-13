@@ -29,7 +29,7 @@ images).
 
 ADDITIONAL IMPORTANT REMARK 
 --------------------------- 
-GPL is a license which was destined to the code, and not to the art. It is not
+GPL is a license which was created for the code, and not for the art. It is not
 clear what is a "source" for an image, or for the music. GPL contains the following
 remark:
 
