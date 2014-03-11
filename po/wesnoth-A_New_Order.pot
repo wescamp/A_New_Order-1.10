@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_New_Order-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-01 00:29+0200\n"
+"POT-Creation-Date: 2014-03-10 15:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -718,14 +718,14 @@ msgstr ""
 #. [side]: id=Gawen Hagarthen, type=Akladian Lady
 #. [side]: id=Gawen Hagarthen, type=Hagarthen
 #. [side]: id=Gawen Hagarthen, type=Young Hagarthen
-#: ./A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139 ./A_New_Order/scenarios/02_Fighting_for_Passage.cfg:64 ./A_New_Order/scenarios/03_Coronation.cfg:96 ./A_New_Order/scenarios/04_Battle_of_Barnon.cfg:33 ./A_New_Order/scenarios/07_Ally_From_the_Past.cfg:72 ./A_New_Order/scenarios/08_Outlaw_Base.cfg:28 ./A_New_Order/scenarios/11_Council_in_Freetown.cfg:30 ./A_New_Order/scenarios/12_Leaving_Raedwood.cfg:73 ./A_New_Order/scenarios/13_Scouting.cfg:281 ./A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:48 ./A_New_Order/scenarios/14b_Bontom.cfg:135 ./A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30 ./A_New_Order/scenarios/14d_Avenging_Ruen.cfg:37 ./A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:71 ./A_New_Order/scenarios/15_Back_in_Freetown.cfg:44 ./A_New_Order/scenarios/15a_The_Preparations.cfg:30 ./A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:29 ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:50 ./A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:139 ./A_New_Order/scenarios/18_Start_of_the_Quest.cfg:44 ./A_New_Order/scenarios/18_Start_of_the_Quest.cfg:254 ./A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:34 ./A_New_Order/scenarios/19b_Entering_Okladia.cfg:34 ./A_New_Order/scenarios/19c_The_Oracle.cfg:56 ./A_New_Order/scenarios/20_Okladia.cfg:69 ./A_New_Order/scenarios/21a_Abducted_Bride.cfg:107 ./A_New_Order/scenarios/21b_Haunted_Place.cfg:30 ./A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:91 ./A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:56 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:129 ./A_New_Order/scenarios/23_Trapped.cfg:80 ./A_New_Order/scenarios/24_Fall_of_Freetown.cfg:63 ./A_New_Order/scenarios/25_The_Awakening.cfg:228 ./A_New_Order/scenarios/26_Return_of_the_King.cfg:45 ./A_New_Order/scenarios/27_Orannon.cfg:33 ./A_New_Order/scenarios/28_Lorin.cfg:91 ./A_New_Order/scenarios/29_Epilogue.cfg:105 ./A_New_Order/scenarios/30_Final.cfg:64
+#: ./A_New_Order/scenarios/01_Breaking_the_Circle.cfg:139 ./A_New_Order/scenarios/02_Fighting_for_Passage.cfg:64 ./A_New_Order/scenarios/03_Coronation.cfg:96 ./A_New_Order/scenarios/04_Battle_of_Barnon.cfg:33 ./A_New_Order/scenarios/07_Ally_From_the_Past.cfg:72 ./A_New_Order/scenarios/08_Outlaw_Base.cfg:28 ./A_New_Order/scenarios/11_Council_in_Freetown.cfg:30 ./A_New_Order/scenarios/12_Leaving_Raedwood.cfg:73 ./A_New_Order/scenarios/13_Scouting.cfg:281 ./A_New_Order/scenarios/14a_Scouting_Near_Barnon.cfg:48 ./A_New_Order/scenarios/14b_Bontom.cfg:135 ./A_New_Order/scenarios/14c_She_Wolf_of_Haeltin.cfg:30 ./A_New_Order/scenarios/14d_Avenging_Ruen.cfg:37 ./A_New_Order/scenarios/14e_Saorduc_Swamps.cfg:71 ./A_New_Order/scenarios/15_Back_in_Freetown.cfg:44 ./A_New_Order/scenarios/15a_The_Preparations.cfg:30 ./A_New_Order/scenarios/15b_Repelling_the_Orcs.cfg:29 ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:95 ./A_New_Order/scenarios/17_Sneaking_out_of_Raedwood.cfg:139 ./A_New_Order/scenarios/18_Start_of_the_Quest.cfg:44 ./A_New_Order/scenarios/18_Start_of_the_Quest.cfg:254 ./A_New_Order/scenarios/19a_The_Woods_of_Okladia.cfg:34 ./A_New_Order/scenarios/19b_Entering_Okladia.cfg:34 ./A_New_Order/scenarios/19c_The_Oracle.cfg:56 ./A_New_Order/scenarios/20_Okladia.cfg:69 ./A_New_Order/scenarios/21a_Abducted_Bride.cfg:107 ./A_New_Order/scenarios/21b_Haunted_Place.cfg:30 ./A_New_Order/scenarios/21c_Ruins_of_the_Past.cfg:91 ./A_New_Order/scenarios/21d_Ruins_of_Weldyn.cfg:56 ./A_New_Order/scenarios/22_Leaving_Okladia.cfg:129 ./A_New_Order/scenarios/23_Trapped.cfg:80 ./A_New_Order/scenarios/24_Fall_of_Freetown.cfg:63 ./A_New_Order/scenarios/25_The_Awakening.cfg:228 ./A_New_Order/scenarios/26_Return_of_the_King.cfg:45 ./A_New_Order/scenarios/27_Orannon.cfg:33 ./A_New_Order/scenarios/28_Lorin.cfg:91 ./A_New_Order/scenarios/29_Epilogue.cfg:105 ./A_New_Order/scenarios/30_Final.cfg:64
 msgid "Gawen Hagarthen"
 msgstr ""
 
 #. [modify_side]
 #. [side]: id=Lady Lorin, type=Akladian Lady
 #. [unit]: id=Lady Lorin, type=Akladian Lady
-#: ./A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149 ./A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503 ./A_New_Order/scenarios/05_The_Swamp_Things.cfg:33 ./A_New_Order/scenarios/05_Unexpected_Guests.cfg:167 ./A_New_Order/scenarios/06_Separation.cfg:54 ./A_New_Order/scenarios/09_Hired_Swords.cfg:114 ./A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:72
+#: ./A_New_Order/scenarios/01_Breaking_the_Circle.cfg:149 ./A_New_Order/scenarios/04_Battle_of_Barnon.cfg:503 ./A_New_Order/scenarios/05_The_Swamp_Things.cfg:33 ./A_New_Order/scenarios/05_Unexpected_Guests.cfg:167 ./A_New_Order/scenarios/06_Separation.cfg:55 ./A_New_Order/scenarios/09_Hired_Swords.cfg:114 ./A_New_Order/scenarios/10_Siege_of_Haeltin.cfg:72
 msgid "Lady Lorin"
 msgstr ""
 
@@ -2655,57 +2655,57 @@ msgid "Separation"
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/06_Separation.cfg:41
+#: ./A_New_Order/scenarios/06_Separation.cfg:42
 msgid "Finally, the party reached the crossroads. The northern path led to Vattin, the southern path to Reme's clan settlements. It was here that Reme Carrenemoe decided to leave Lorin to her fate. "
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/06_Separation.cfg:110
+#: ./A_New_Order/scenarios/06_Separation.cfg:111
 msgid "Now you should be safe, Lady Lorin. I have escorted you to this place. You may choose five of the best troops from our band now. I shall also leave you all the gold, which is $gold|. And then, we part ways."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/06_Separation.cfg:111
+#: ./A_New_Order/scenarios/06_Separation.cfg:112
 msgid "Reme.. You've always been a loyal servant of the Hagarthens.."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/06_Separation.cfg:112
+#: ./A_New_Order/scenarios/06_Separation.cfg:113
 msgid "I was and am. But you are no Hagarthen, my lady. I have no obligations to you. No Hagarthens remain in Vakladia any more."
 msgstr ""
 
 #. [then]
-#: ./A_New_Order/scenarios/06_Separation.cfg:116
+#: ./A_New_Order/scenarios/06_Separation.cfg:117
 msgid "And what about that Orcish army we found out about? We should stick together!"
 msgstr ""
 
 #. [then]
-#: ./A_New_Order/scenarios/06_Separation.cfg:117
+#: ./A_New_Order/scenarios/06_Separation.cfg:118
 msgid "I have already told you. There is no WE. Neither of us can do anything about those Orcs."
 msgstr ""
 
 #. [objectives]
-#: ./A_New_Order/scenarios/06_Separation.cfg:124
+#: ./A_New_Order/scenarios/06_Separation.cfg:125
 msgid "If you don't recall veteran units, the next scenario with Lorin will be extremely difficult to win."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/06_Separation.cfg:126
+#: ./A_New_Order/scenarios/06_Separation.cfg:127
 msgid "Recall or recruit five troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/06_Separation.cfg:130
+#: ./A_New_Order/scenarios/06_Separation.cfg:131
 msgid "End turn if you do not want or can't recall or recruit troops."
 msgstr ""
 
 #. [then]
-#: ./A_New_Order/scenarios/06_Separation.cfg:137
+#: ./A_New_Order/scenarios/06_Separation.cfg:138
 msgid "You have less than 200 gold pieces. I am not sure if this will be enough for your future endeavours."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/06_Separation.cfg:152
+#: ./A_New_Order/scenarios/06_Separation.cfg:153
 msgid "You have neither choosen nor recruited five soldiers. I hope you know what you are doing, since in the future it may be hard to find battle-hardened units. Or, for that matter, Akladians."
 msgstr ""
 
@@ -7802,168 +7802,168 @@ msgid "There are no hidden elements in this scenario. The Orcish leader can't be
 msgstr ""
 
 #. [scenario]: id=16_Choosing_the_Best
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:3
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:47
 msgid "Choosing the Best"
 msgstr ""
 
 #. [part]
 #. spoken by Gawen
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:14
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:59
 msgid "Finally, I was confident that my troops were ready for the task which awaited us. When I told Gwidle, he insisted upon a farewell feast. There was wine, food, and music. The finest dancers from among Freetown's girls and women, doing traditional folk-dances in special costumes with masks and shawls, danced for us."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:18
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:63
 msgid "Soon, we were all a little bit drunk. On my right, Karen kept commenting on the dancers' faults and bragged about how she was much better, and how even her dancer's costume was better. On my left I heard Majid Yahyazad trying to seduce my step-mother, even harder as he became more drunk. Lorin ignored him, babbling about something the Oracle had told her in her youth."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:22
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:67
 msgid "Karen was the first to leave the chamber, and Lorin followed almost immediately after her. Of course, Yahyazad jauntily followed her. I continued to drink with Ruvio, without much conversation, and when I decided I had enough I went to my bedroom."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:25
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:70
 msgid "I'm not quite sure when she came to me, utterly devoid of shame... and clothes. She entered my chamber so quietly that I initially mistook it for a dream. I was too drunk to ask any questions, nor did I oppose her when she slipped into my bed."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:29
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:74
 msgid "Who was she? She wore a dancer's mask, but somehow I knew she wasn't one of dancers from a few hours earlier. There was something familiar in the way she moved, breathed and gasped. Maybe if I had been sober, I would have recognised her even with the mask. But I wasn't, and I didn't care."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:33
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:78
 msgid "She left as quietly as she came, as if she were just a dream. But I still could smell her in the air, and my hands still remembered her as well. Whoever she was, I was certain I would recognise her, if I could only touch her again."
 msgstr ""
 
 #. [part]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:36
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:81
 msgid "But I had no such chance. The next day, Gwidle woke me before dawn and I came to my soldiers, to call the twelve best. Most of them were in better shape than I, at least having had some sleep that night."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:95
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:140
 msgid "Wonderful day... Perfect for starting a quest. You slept well?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:96
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:141
 msgid "Well... Not really. Hm.. Where is Karen?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:97
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:142
 msgid "She is still asleep. Yesterday was too much for my poor daughter."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:98
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:143
 msgid "I looked into her room. Her dancer's outfit was in a pile on the floor, and she was sound asleep in her bed. Maybe she tried... you know... to show you how good a dancer she is, but I couldn't wake her."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:99
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:144
 msgid "Uhm... how old is your daughter anyway?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:100
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:145
 msgid "Poor child. When I saw her staggering to her room last night, she barely could walk."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:101
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:146
 msgid "Mother! What have you done with your hair?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:102
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:147
 msgid "Hair? My hair? I decided that it would be a hindrance in battle, so I cut it."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:103
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:148
 msgid "Hrm... you could have asked someone else to do it for you. Hm... and where is Yahyazad?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:104
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:149
 msgid "He left Freetown."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:105
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:150
 msgid "Huh? Why?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:106
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:151
 msgid "You know, I was starting to take a fancy to him. But after last night, he finally... no, don't ask me. I won't answer."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:107
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:152
 msgid "I thought he, I mean he and you..."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:108
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:153
 msgid "My son, because you lost your memory, you probably forgot about some of our customs. In our tradition, a widow cannot ever have another man again, under penalty of very severe punishment."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:109
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:154
 msgid "Wait a minute. Your father, Gawen, married Lorin after death of your mother, didn't he?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:110
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:155
 msgid "Who allowed you to listen, underling? This discussion is between two worthy people. Go and bother someone else."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:111
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:156
 msgid "Your step-mother is really starting to get on my nerves."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:112
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:157
 msgid "I said, a widow cannot have another man, whether it be another husband or in any other way. A man can. There was a time when men could even have a few wives at once. There are women who defy that old custom; some go unpunished. But I am wife to a king, and am held to a higher standard. What can perhaps be forgiven a normal woman cannot be tolerated of a king's wife."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:113
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:158
 msgid "My, what a wonderful culture you have. But we can speak on this later. Now, Gawen, choose the twelve best troops."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:114
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:159
 msgid "I want to join you in your quest."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:115
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:160
 msgid "I will join you in your quest."
 msgstr ""
 
 #. [objectives]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:118
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:163
 msgid " Important Note: do not UNDO the recall, units recalled are always counted even if you undone the recall. "
 msgstr ""
 
 #. [objectives]
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:118
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:163
 msgid "There is too little space to recall all 12 units at once. Move the units out of the castle to make room for others. The units will be able to move (in this scenario only!!) immediately after recalling, so do not push end turn button."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:120
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:165
 msgid "Recall twelve troops. OR"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:124
+#: ./A_New_Order/scenarios/16_Choosing_the_Best.cfg:169
 msgid "End turn if you do not want or can't recall more troops."
 msgstr ""
 
@@ -14516,7 +14516,7 @@ msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:34 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:28 ./A_New_Order/units/akladians/Akladian_Lady.cfg:42 ./A_New_Order/units/akladians/Akladian_Leader.cfg:34 ./A_New_Order/units/akladians/Akladian_Lord.cfg:35 ./A_New_Order/units/akladians/Akladian_Princess.cfg:35 ./A_New_Order/units/akladians/Akladian_Queen.cfg:39 ./A_New_Order/units/akladians/Akladian_Raider.cfg:31 ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:30 ./A_New_Order/units/akladians/Hagarthen.cfg:33 ./A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:35 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:37 ./A_New_Order/units/others/Ruvio.cfg:27 ./A_New_Order/units/others/Ruvios_Daughter.cfg:27
+#: ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:34 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:28 ./A_New_Order/units/akladians/Akladian_Lady.cfg:35 ./A_New_Order/units/akladians/Akladian_Leader.cfg:34 ./A_New_Order/units/akladians/Akladian_Lord.cfg:35 ./A_New_Order/units/akladians/Akladian_Princess.cfg:28 ./A_New_Order/units/akladians/Akladian_Queen.cfg:32 ./A_New_Order/units/akladians/Akladian_Raider.cfg:31 ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:30 ./A_New_Order/units/akladians/Hagarthen.cfg:33 ./A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:35 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:37 ./A_New_Order/units/others/Ruvio.cfg:27 ./A_New_Order/units/others/Ruvios_Daughter.cfg:27
 msgid "sword"
 msgstr ""
 
@@ -14598,7 +14598,7 @@ msgstr ""
 #. [unit_type]: id=Akladian Lady, race=akladian
 #. [unit_type]: id=Akladian Princess, race=akladian
 #. [unit_type]: id=Akladian Queen, race=akladian
-#: ./A_New_Order/units/akladians/Akladian_Lady.cfg:38 ./A_New_Order/units/akladians/Akladian_Princess.cfg:30 ./A_New_Order/units/akladians/Akladian_Queen.cfg:35
+#: ./A_New_Order/units/akladians/Akladian_Lady.cfg:31 ./A_New_Order/units/akladians/Akladian_Princess.cfg:23 ./A_New_Order/units/akladians/Akladian_Queen.cfg:28
 msgid "While relationship between sexes in Akladian society is far from equal treatment, all woman are expected to be able to handle weapons, and those who are wifes or children of great warriors are commonly thought to master use of the sword as well as their husbands or fathers."
 msgstr ""
 
@@ -14623,7 +14623,7 @@ msgid "The best of Akladian warriors are choosed by their lords to serve in thei
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24 ./A_New_Order/units/akladians/Akladian_Warrior.cfg:25 ./A_New_Order/units/others/City_Militia.cfg:62
+#: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:24 ./A_New_Order/units/akladians/Akladian_Warrior.cfg:25 ./A_New_Order/units/others/City_Militia.cfg:38
 msgid "spear"
 msgstr ""
 
@@ -14764,7 +14764,7 @@ msgstr ""
 
 #. [unit_type]: id=Lord Bor Cryne, race=akladian
 #: ./A_New_Order/units/akladians/Lord_Bor_Cryne.cfg:29
-msgid "After two generations had passed since the conquest of Wesnoth, Akladian leaders- despite claiming to despise the Wesnothians - started to mimic the customs of the Wesnothian nobility. Thereafter, the clan leaders, the "
+msgid "After two generations had passed since the conquest of Wesnoth, Akladian leaders- despite claiming to despise the Wesnothians - started to mimic the customs of the Wesnothian nobility. Thereafter, the clan leaders, the \"
 msgstr ""
 
 #. [unit_type]: id=Lord Hagarthen, race=akladian
@@ -14937,7 +14937,7 @@ msgid "City Militia"
 msgstr ""
 
 #. [unit_type]: id=City Militia, race=human
-#: ./A_New_Order/units/others/City_Militia.cfg:28
+#: ./A_New_Order/units/others/City_Militia.cfg:21
 msgid "City militia is composed from citizens of Wesnothian towns. Their role is usually just policing the cities and guarding the walls."
 msgstr ""
 
